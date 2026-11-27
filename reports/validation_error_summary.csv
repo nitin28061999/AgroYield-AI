@@ -1,0 +1,8 @@
+,value
+records,37034.0
+MAE,23.504304692285167
+RMSE,360.53409255191053
+mean_actual_yield,81.97572746665226
+mean_predicted_yield,81.93432789484713
+prediction_bias,-0.04139957180514407
+median_absolute_error,1.048150373538749

@@ -1,0 +1,14 @@
+crop_name,crop_code,state_name,affected_districts,district_participations,distinct_years
+Castor Seed,1002.0,Maharashtra,19,52,8
+Linseed,1005.0,Uttar Pradesh,19,23,4
+Niger Seed,1010.0,Maharashtra,15,22,4
+Niger Seed,1010.0,Madhya Pradesh,15,17,3
+Castor Seed,1002.0,Madhya Pradesh,12,17,3
+Castor Seed,1002.0,Tamil Nadu,8,11,2
+Castor Seed,1002.0,Odisha,6,6,1
+Mesta,1103.0,Madhya Pradesh,6,6,1
+Mesta,1103.0,Nagaland,6,6,1
+Castor Seed,1002.0,Assam,5,5,1
+Niger Seed,1010.0,Karnataka,5,5,1
+Tobacco,1302.0,Assam,5,5,1
+Tobacco,1302.0,Uttar Pradesh,5,5,1

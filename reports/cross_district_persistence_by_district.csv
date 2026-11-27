@@ -1,0 +1,127 @@
+crop_name,crop_code,state_name,district,repeated_group_count,distinct_years,first_year,last_year
+Castor Seed,1002.0,Maharashtra,Pune,7,7,1999-2000,2014-2015
+Castor Seed,1002.0,Maharashtra,Ahilyanagar,4,4,2002-2003,2014-2015
+Castor Seed,1002.0,Maharashtra,Buldhana,4,4,2005-2006,2009-2010
+Castor Seed,1002.0,Maharashtra,Chandrapur,4,4,2002-2003,2008-2009
+Castor Seed,1002.0,Maharashtra,Washim,4,4,2002-2003,2014-2015
+Castor Seed,1002.0,Madhya Pradesh,Mandsaur,3,3,2003-2004,2018-2019
+Castor Seed,1002.0,Maharashtra,Jalna,3,3,1999-2000,2014-2015
+Castor Seed,1002.0,Maharashtra,Kolhapur,3,3,1999-2000,2007-2008
+Castor Seed,1002.0,Maharashtra,Nagpur,3,3,1999-2000,2014-2015
+Castor Seed,1002.0,Maharashtra,Wardha,3,3,2002-2003,2009-2010
+Castor Seed,1002.0,Maharashtra,Yavatmal,3,3,1999-2000,2008-2009
+Linseed,1005.0,Uttar Pradesh,Mau,3,3,2000-2001,2020-2021
+Niger Seed,1010.0,Maharashtra,Chhatrapati Sambhajinagar,3,3,2008-2009,2014-2015
+Niger Seed,1010.0,Maharashtra,Sangli,3,3,2008-2009,2014-2015
+Niger Seed,1010.0,Maharashtra,Solapur,3,3,2008-2009,2014-2015
+Castor Seed,1002.0,Madhya Pradesh,Harda,2,2,2005-2006,2018-2019
+Castor Seed,1002.0,Madhya Pradesh,Narmadapuram,2,2,2003-2004,2005-2006
+Castor Seed,1002.0,Madhya Pradesh,Sagar,2,2,2005-2006,2018-2019
+Castor Seed,1002.0,Maharashtra,Gondia,2,2,2005-2006,2007-2008
+Castor Seed,1002.0,Maharashtra,Hingoli,2,2,2007-2008,2008-2009
+Castor Seed,1002.0,Maharashtra,Latur,2,2,1999-2000,2004-2005
+Castor Seed,1002.0,Maharashtra,Sangli,2,2,2004-2005,2005-2006
+Castor Seed,1002.0,Maharashtra,Satara,2,2,1999-2000,2014-2015
+Castor Seed,1002.0,Tamil Nadu,Kanniyakumari,2,2,2019-2020,2020-2021
+Castor Seed,1002.0,Tamil Nadu,Thanjavur,2,2,2019-2020,2020-2021
+Castor Seed,1002.0,Tamil Nadu,Thoothukkudi,2,2,2019-2020,2020-2021
+Linseed,1005.0,Uttar Pradesh,Deoria,2,2,2000-2001,2020-2021
+Linseed,1005.0,Uttar Pradesh,Muzaffarnagar,2,2,2000-2001,2002-2003
+Niger Seed,1010.0,Madhya Pradesh,Gwalior,2,2,2018-2019,2019-2020
+Niger Seed,1010.0,Madhya Pradesh,Khargone (West Nimar),2,2,2014-2015,2018-2019
+Niger Seed,1010.0,Maharashtra,Sindhudurg,2,2,2013-2014,2014-2015
+Castor Seed,1002.0,Assam,Cachar,1,1,2017-2018,2017-2018
+Castor Seed,1002.0,Assam,Darrang,1,1,2017-2018,2017-2018
+Castor Seed,1002.0,Assam,Nalbari,1,1,2017-2018,2017-2018
+Castor Seed,1002.0,Assam,Sivasagar,1,1,2017-2018,2017-2018
+Castor Seed,1002.0,Assam,Sribhumi,1,1,2017-2018,2017-2018
+Castor Seed,1002.0,Madhya Pradesh,Agar-Malwa,1,1,2018-2019,2018-2019
+Castor Seed,1002.0,Madhya Pradesh,Betul,1,1,2018-2019,2018-2019
+Castor Seed,1002.0,Madhya Pradesh,Burhanpur,1,1,2003-2004,2003-2004
+Castor Seed,1002.0,Madhya Pradesh,Datia,1,1,2003-2004,2003-2004
+Castor Seed,1002.0,Madhya Pradesh,Indore,1,1,2003-2004,2003-2004
+Castor Seed,1002.0,Madhya Pradesh,Katni,1,1,2018-2019,2018-2019
+Castor Seed,1002.0,Madhya Pradesh,Neemuch,1,1,2018-2019,2018-2019
+Castor Seed,1002.0,Madhya Pradesh,Ujjain,1,1,2005-2006,2005-2006
+Castor Seed,1002.0,Maharashtra,Chhatrapati Sambhajinagar,1,1,2007-2008,2007-2008
+Castor Seed,1002.0,Maharashtra,Dharashiv,1,1,2007-2008,2007-2008
+Castor Seed,1002.0,Maharashtra,Jalgaon,1,1,1999-2000,1999-2000
+Castor Seed,1002.0,Maharashtra,Solapur,1,1,2007-2008,2007-2008
+Castor Seed,1002.0,Odisha,Cuttack,1,1,2000-2001,2000-2001
+Castor Seed,1002.0,Odisha,Jagatsinghapur,1,1,2000-2001,2000-2001
+Castor Seed,1002.0,Odisha,Jharsuguda,1,1,2000-2001,2000-2001
+Castor Seed,1002.0,Odisha,Mayurbhanj,1,1,2000-2001,2000-2001
+Castor Seed,1002.0,Odisha,Sambalpur,1,1,2000-2001,2000-2001
+Castor Seed,1002.0,Odisha,Sonepur,1,1,2000-2001,2000-2001
+Castor Seed,1002.0,Tamil Nadu,Chengalpattu,1,1,2020-2021,2020-2021
+Castor Seed,1002.0,Tamil Nadu,Pudukkottai,1,1,2019-2020,2019-2020
+Castor Seed,1002.0,Tamil Nadu,Ranipet,1,1,2020-2021,2020-2021
+Castor Seed,1002.0,Tamil Nadu,Sivaganga,1,1,2019-2020,2019-2020
+Castor Seed,1002.0,Tamil Nadu,Viluppuram,1,1,2020-2021,2020-2021
+Linseed,1005.0,Uttar Pradesh,Aligarh,1,1,2019-2020,2019-2020
+Linseed,1005.0,Uttar Pradesh,Ambedkar Nagar,1,1,2000-2001,2000-2001
+Linseed,1005.0,Uttar Pradesh,Bhadohi,1,1,2002-2003,2002-2003
+Linseed,1005.0,Uttar Pradesh,Budaun,1,1,2002-2003,2002-2003
+Linseed,1005.0,Uttar Pradesh,Bulandshahr,1,1,2020-2021,2020-2021
+Linseed,1005.0,Uttar Pradesh,Etawah,1,1,2002-2003,2002-2003
+Linseed,1005.0,Uttar Pradesh,Jaunpur,1,1,2020-2021,2020-2021
+Linseed,1005.0,Uttar Pradesh,Kaushambi,1,1,2002-2003,2002-2003
+Linseed,1005.0,Uttar Pradesh,Lucknow,1,1,2019-2020,2019-2020
+Linseed,1005.0,Uttar Pradesh,Mathura,1,1,2000-2001,2000-2001
+Linseed,1005.0,Uttar Pradesh,Moradabad,1,1,2000-2001,2000-2001
+Linseed,1005.0,Uttar Pradesh,Pilibhit,1,1,2020-2021,2020-2021
+Linseed,1005.0,Uttar Pradesh,Pratapgarh,1,1,2019-2020,2019-2020
+Linseed,1005.0,Uttar Pradesh,Sambhal,1,1,2019-2020,2019-2020
+Linseed,1005.0,Uttar Pradesh,Sitapur,1,1,2019-2020,2019-2020
+Linseed,1005.0,Uttar Pradesh,Varanasi,1,1,2020-2021,2020-2021
+Mesta,1103.0,Madhya Pradesh,Chhatarpur,1,1,2019-2020,2019-2020
+Mesta,1103.0,Madhya Pradesh,Datia,1,1,2019-2020,2019-2020
+Mesta,1103.0,Madhya Pradesh,Indore,1,1,2019-2020,2019-2020
+Mesta,1103.0,Madhya Pradesh,Jhabua,1,1,2019-2020,2019-2020
+Mesta,1103.0,Madhya Pradesh,Neemuch,1,1,2019-2020,2019-2020
+Mesta,1103.0,Madhya Pradesh,Vidisha,1,1,2019-2020,2019-2020
+Mesta,1103.0,Nagaland,Kohima,1,1,2021-2022,2021-2022
+Mesta,1103.0,Nagaland,Mokokchung,1,1,2021-2022,2021-2022
+Mesta,1103.0,Nagaland,Noklak,1,1,2021-2022,2021-2022
+Mesta,1103.0,Nagaland,Tuensang,1,1,2021-2022,2021-2022
+Mesta,1103.0,Nagaland,Wokha,1,1,2021-2022,2021-2022
+Mesta,1103.0,Nagaland,Zunheboto,1,1,2021-2022,2021-2022
+Niger Seed,1010.0,Karnataka,Davanagere,1,1,2018-2019,2018-2019
+Niger Seed,1010.0,Karnataka,Dharwad,1,1,2018-2019,2018-2019
+Niger Seed,1010.0,Karnataka,Kodagu,1,1,2018-2019,2018-2019
+Niger Seed,1010.0,Karnataka,Shivamogga,1,1,2018-2019,2018-2019
+Niger Seed,1010.0,Karnataka,Yadgir,1,1,2018-2019,2018-2019
+Niger Seed,1010.0,Madhya Pradesh,Ashoknagar,1,1,2019-2020,2019-2020
+Niger Seed,1010.0,Madhya Pradesh,Balaghat,1,1,2018-2019,2018-2019
+Niger Seed,1010.0,Madhya Pradesh,Barwani,1,1,2014-2015,2014-2015
+Niger Seed,1010.0,Madhya Pradesh,Bhind,1,1,2019-2020,2019-2020
+Niger Seed,1010.0,Madhya Pradesh,Khandwa (East Nimar),1,1,2018-2019,2018-2019
+Niger Seed,1010.0,Madhya Pradesh,Neemuch,1,1,2018-2019,2018-2019
+Niger Seed,1010.0,Madhya Pradesh,Panna,1,1,2018-2019,2018-2019
+Niger Seed,1010.0,Madhya Pradesh,Ratlam,1,1,2018-2019,2018-2019
+Niger Seed,1010.0,Madhya Pradesh,Shahdol,1,1,2014-2015,2014-2015
+Niger Seed,1010.0,Madhya Pradesh,Sheopur,1,1,2019-2020,2019-2020
+Niger Seed,1010.0,Madhya Pradesh,Shivpuri,1,1,2019-2020,2019-2020
+Niger Seed,1010.0,Madhya Pradesh,Singrauli,1,1,2014-2015,2014-2015
+Niger Seed,1010.0,Madhya Pradesh,Umaria,1,1,2014-2015,2014-2015
+Niger Seed,1010.0,Maharashtra,Chandrapur,1,1,1999-2000,1999-2000
+Niger Seed,1010.0,Maharashtra,Dhule,1,1,2008-2009,2008-2009
+Niger Seed,1010.0,Maharashtra,Hingoli,1,1,1999-2000,1999-2000
+Niger Seed,1010.0,Maharashtra,Jalna,1,1,2013-2014,2013-2014
+Niger Seed,1010.0,Maharashtra,Nagpur,1,1,1999-2000,1999-2000
+Niger Seed,1010.0,Maharashtra,Nandurbar,1,1,2008-2009,2008-2009
+Niger Seed,1010.0,Maharashtra,Raigad,1,1,2014-2015,2014-2015
+Niger Seed,1010.0,Maharashtra,Ratnagiri,1,1,2014-2015,2014-2015
+Niger Seed,1010.0,Maharashtra,Thane,1,1,2014-2015,2014-2015
+Niger Seed,1010.0,Maharashtra,Washim,1,1,1999-2000,1999-2000
+Niger Seed,1010.0,Maharashtra,Yavatmal,1,1,1999-2000,1999-2000
+Tobacco,1302.0,Assam,Hailakandi,1,1,2011-2012,2011-2012
+Tobacco,1302.0,Assam,Kamrup Metro,1,1,2011-2012,2011-2012
+Tobacco,1302.0,Assam,Nalbari,1,1,2011-2012,2011-2012
+Tobacco,1302.0,Assam,Tinsukia,1,1,2011-2012,2011-2012
+Tobacco,1302.0,Assam,Udalguri,1,1,2011-2012,2011-2012
+Tobacco,1302.0,Uttar Pradesh,Banda,1,1,2001-2002,2001-2002
+Tobacco,1302.0,Uttar Pradesh,Fatehpur,1,1,2001-2002,2001-2002
+Tobacco,1302.0,Uttar Pradesh,Moradabad,1,1,2001-2002,2001-2002
+Tobacco,1302.0,Uttar Pradesh,Rampur,1,1,2001-2002,2001-2002
+Tobacco,1302.0,Uttar Pradesh,Siddharthnagar,1,1,2001-2002,2001-2002

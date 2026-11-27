@@ -1,0 +1,374 @@
+state_name,district_name,crop_name,crop_code,season,area,production,occurrences,unique_years,years,max_rows_in_one_year,max_consecutive_year_run,production_missing,same_year_extra_records
+Assam,Hailakandi,Tobacco,1302.0,Whole Year,1.0,1.0,14,14,1999-2000 | 2000-2001 | 2001-2002 | 2002-2003 | 2003-2004 | 2004-2005 | 2006-2007 | 2008-2009 | 2009-2010 | 2010-2011 | 2011-2012 | 2012-2013 | 2013-2014 | 2014-2015,1,7,False,0
+Bihar,Bhagalpur,Castor Seed,1002.0,Kharif,7.0,7.0,14,14,2003-2004 | 2004-2005 | 2007-2008 | 2008-2009 | 2010-2011 | 2012-2013 | 2014-2015 | 2016-2017 | 2017-2018 | 2018-2019 | 2019-2020 | 2020-2021 | 2021-2022 | 2022-2023,1,7,False,0
+Kerala,Kannur,Cardamom,506.0,Whole Year,128.0,,14,14,1998-1999 | 1999-2000 | 2000-2001 | 2001-2002 | 2002-2003 | 2003-2004 | 2004-2005 | 2005-2006 | 2006-2007 | 2007-2008 | 2008-2009 | 2009-2010 | 2011-2012 | 2012-2013,1,12,True,0
+Assam,Dima Hasao,Mesta,1103.0,Kharif,2.0,9.0,13,13,1999-2000 | 2000-2001 | 2001-2002 | 2002-2003 | 2003-2004 | 2004-2005 | 2005-2006 | 2006-2007 | 2007-2008 | 2008-2009 | 2009-2010 | 2010-2011 | 2012-2013,1,12,False,0
+Assam,Dima Hasao,Linseed,1005.0,Rabi,4.0,2.0,12,12,2000-2001 | 2001-2002 | 2002-2003 | 2003-2004 | 2004-2005 | 2005-2006 | 2006-2007 | 2007-2008 | 2009-2010 | 2010-2011 | 2011-2012 | 2012-2013,1,8,False,0
+Assam,Tinsukia,Mesta,1103.0,Kharif,1.0,5.0,12,12,1999-2000 | 2000-2001 | 2001-2002 | 2005-2006 | 2006-2007 | 2011-2012 | 2013-2014 | 2014-2015 | 2015-2016 | 2016-2017 | 2017-2018 | 2018-2019,1,6,False,0
+Nagaland,Kohima,Castor Seed,1002.0,Kharif,20.0,10.0,11,11,2010-2011 | 2011-2012 | 2012-2013 | 2013-2014 | 2014-2015 | 2015-2016 | 2016-2017 | 2017-2018 | 2018-2019 | 2019-2020 | 2020-2021,1,11,False,0
+Nagaland,Mon,Castor Seed,1002.0,Kharif,20.0,10.0,11,11,2010-2011 | 2011-2012 | 2012-2013 | 2013-2014 | 2014-2015 | 2015-2016 | 2016-2017 | 2017-2018 | 2018-2019 | 2019-2020 | 2020-2021,1,11,False,0
+Nagaland,Peren,Castor Seed,1002.0,Kharif,40.0,30.0,11,11,2010-2011 | 2011-2012 | 2012-2013 | 2013-2014 | 2014-2015 | 2015-2016 | 2016-2017 | 2017-2018 | 2018-2019 | 2019-2020 | 2020-2021,1,11,False,0
+Nagaland,Phek,Castor Seed,1002.0,Kharif,20.0,10.0,11,11,2010-2011 | 2011-2012 | 2012-2013 | 2013-2014 | 2014-2015 | 2015-2016 | 2016-2017 | 2017-2018 | 2018-2019 | 2019-2020 | 2020-2021,1,11,False,0
+Nagaland,Tuensang,Castor Seed,1002.0,Kharif,20.0,10.0,11,11,2010-2011 | 2011-2012 | 2012-2013 | 2013-2014 | 2014-2015 | 2015-2016 | 2016-2017 | 2017-2018 | 2018-2019 | 2019-2020 | 2020-2021,1,11,False,0
+Nagaland,Zunheboto,Castor Seed,1002.0,Kharif,30.0,20.0,11,11,2010-2011 | 2011-2012 | 2012-2013 | 2013-2014 | 2014-2015 | 2015-2016 | 2016-2017 | 2017-2018 | 2018-2019 | 2019-2020 | 2020-2021,1,11,False,0
+Assam,Hailakandi,Castor Seed,1002.0,Kharif,5.0,2.0,10,10,1999-2000 | 2000-2001 | 2001-2002 | 2002-2003 | 2004-2005 | 2005-2006 | 2006-2007 | 2007-2008 | 2008-2009 | 2009-2010,1,6,False,0
+Maharashtra,Raigad,Niger Seed,1010.0,Kharif,300.0,100.0,10,10,2000-2001 | 2001-2002 | 2002-2003 | 2003-2004 | 2004-2005 | 2005-2006 | 2006-2007 | 2007-2008 | 2008-2009 | 2009-2010,1,10,False,0
+Nagaland,Tuensang,Linseed,1005.0,Rabi,360.0,290.0,10,10,2010-2011 | 2011-2012 | 2012-2013 | 2014-2015 | 2015-2016 | 2016-2017 | 2017-2018 | 2018-2019 | 2019-2020 | 2020-2021,1,7,False,0
+Tamil Nadu,Coimbatore,Cardamom,506.0,Whole Year,808.0,63.0,10,10,2007-2008 | 2008-2009 | 2009-2010 | 2011-2012 | 2013-2014 | 2014-2015 | 2016-2017 | 2017-2018 | 2018-2019 | 2019-2020,1,4,False,0
+Assam,Darrang,Castor Seed,1002.0,Kharif,1.0,1.0,9,9,2014-2015 | 2015-2016 | 2016-2017 | 2017-2018 | 2018-2019 | 2019-2020 | 2020-2021 | 2021-2022 | 2022-2023,1,9,False,0
+Assam,Nalbari,Castor Seed,1002.0,Kharif,1.0,1.0,9,9,2013-2014 | 2014-2015 | 2015-2016 | 2016-2017 | 2017-2018 | 2018-2019 | 2019-2020 | 2020-2021 | 2021-2022,1,9,False,0
+Assam,Nalbari,Tobacco,1302.0,Whole Year,1.0,1.0,9,9,2007-2008 | 2008-2009 | 2009-2010 | 2010-2011 | 2011-2012 | 2013-2014 | 2014-2015 | 2015-2016 | 2017-2018,1,5,False,0
+Assam,Cachar,Castor Seed,1002.0,Kharif,1.0,1.0,8,8,2015-2016 | 2016-2017 | 2017-2018 | 2018-2019 | 2019-2020 | 2020-2021 | 2021-2022 | 2022-2023,1,8,False,0
+Assam,Dima Hasao,Niger Seed,1010.0,Kharif,1.0,1.0,8,8,1999-2000 | 2001-2002 | 2002-2003 | 2003-2004 | 2004-2005 | 2005-2006 | 2006-2007 | 2007-2008,1,7,False,0
+Assam,Dima Hasao,Tobacco,1302.0,Whole Year,29.0,23.0,8,8,1998-1999 | 2001-2002 | 2002-2003 | 2003-2004 | 2004-2005 | 2005-2006 | 2006-2007 | 2007-2008,1,7,False,0
+Assam,Marigaon,Castor Seed,1002.0,Kharif,20.0,4.0,8,8,1997-1998 | 1998-1999 | 1999-2000 | 2000-2001 | 2001-2002 | 2002-2003 | 2004-2005 | 2005-2006,1,6,False,0
+Assam,Sribhumi,Castor Seed,1002.0,Kharif,1.0,1.0,8,8,2012-2013 | 2013-2014 | 2014-2015 | 2015-2016 | 2016-2017 | 2017-2018 | 2018-2019 | 2019-2020,1,8,False,0
+Assam,Tinsukia,Tobacco,1302.0,Whole Year,2.0,1.0,8,8,1999-2000 | 2002-2003 | 2003-2004 | 2004-2005 | 2006-2007 | 2007-2008 | 2009-2010 | 2010-2011,1,3,False,0
+Nagaland,Wokha,Castor Seed,1002.0,Kharif,30.0,20.0,8,8,2010-2011 | 2011-2012 | 2012-2013 | 2013-2014 | 2014-2015 | 2015-2016 | 2016-2017 | 2017-2018,1,8,False,0
+Assam,Dhemaji,Niger Seed,1010.0,Kharif,2.0,1.0,7,7,1999-2000 | 2013-2014 | 2014-2015 | 2015-2016 | 2016-2017 | 2017-2018 | 2021-2022,1,5,False,0
+Assam,Dibrugarh,Castor Seed,1002.0,Kharif,3.0,1.0,7,7,2006-2007 | 2007-2008 | 2009-2010 | 2012-2013 | 2014-2015 | 2015-2016 | 2017-2018,1,2,False,0
+Assam,Kamrup Metro,Castor Seed,1002.0,Kharif,3.0,1.0,7,7,2009-2010 | 2010-2011 | 2011-2012 | 2012-2013 | 2013-2014 | 2014-2015 | 2015-2016,1,7,False,0
+Maharashtra,Chhatrapati Sambhajinagar,Niger Seed,1010.0,Kharif,400.0,100.0,7,7,1998-1999 | 2001-2002 | 2002-2003 | 2003-2004 | 2004-2005 | 2005-2006 | 2006-2007,1,6,False,0
+Maharashtra,Sindhudurg,Niger Seed,1010.0,Kharif,200.0,100.0,7,7,1999-2000 | 2003-2004 | 2004-2005 | 2005-2006 | 2006-2007 | 2007-2008 | 2008-2009,1,6,False,0
+Meghalaya,East Garo Hills,Castor Seed,1002.0,Kharif,8.0,4.0,7,7,1999-2000 | 2000-2001 | 2003-2004 | 2004-2005 | 2005-2006 | 2007-2008 | 2008-2009,1,3,False,0
+Meghalaya,North Garo Hills,Castor Seed,1002.0,Rabi,12.0,10.0,7,7,2015-2016 | 2016-2017 | 2017-2018 | 2018-2019 | 2019-2020 | 2020-2021 | 2022-2023,1,6,False,0
+Meghalaya,Ri Bhoi,Castor Seed,1002.0,Rabi,6.0,10.0,7,7,2015-2016 | 2016-2017 | 2017-2018 | 2018-2019 | 2019-2020 | 2020-2021 | 2022-2023,1,6,False,0
+Meghalaya,South West Garo Hills,Castor Seed,1002.0,Rabi,21.0,17.0,7,7,2015-2016 | 2016-2017 | 2017-2018 | 2018-2019 | 2019-2020 | 2020-2021 | 2022-2023,1,6,False,0
+Meghalaya,South West Garo Hills,Linseed,1005.0,Rabi,13.0,8.0,7,7,2015-2016 | 2016-2017 | 2017-2018 | 2018-2019 | 2019-2020 | 2020-2021 | 2022-2023,1,6,False,0
+Meghalaya,West Garo Hills,Castor Seed,1002.0,Rabi,17.0,12.0,7,7,2015-2016 | 2016-2017 | 2017-2018 | 2018-2019 | 2019-2020 | 2020-2021 | 2022-2023,1,6,False,0
+Nagaland,Kohima,Linseed,1005.0,Rabi,470.0,380.0,7,7,2014-2015 | 2015-2016 | 2016-2017 | 2017-2018 | 2018-2019 | 2019-2020 | 2020-2021,1,7,False,0
+Nagaland,Longleng,Mesta,1103.0,Kharif,80.0,80.0,7,7,2012-2013 | 2013-2014 | 2014-2015 | 2015-2016 | 2016-2017 | 2017-2018 | 2018-2019,1,7,False,0
+Nagaland,Phek,Linseed,1005.0,Rabi,660.0,530.0,7,7,2014-2015 | 2015-2016 | 2016-2017 | 2017-2018 | 2018-2019 | 2019-2020 | 2020-2021,1,7,False,0
+Nagaland,Tuensang,Mesta,1103.0,Kharif,160.0,180.0,7,7,2012-2013 | 2013-2014 | 2014-2015 | 2015-2016 | 2016-2017 | 2017-2018 | 2018-2019,1,7,False,0
+Tamil Nadu,Virudhunagar,Cardamom,506.0,Whole Year,279.0,24.0,7,7,2003-2004 | 2004-2005 | 2005-2006 | 2006-2007 | 2007-2008 | 2008-2009 | 2009-2010,1,7,False,0
+Assam,Cachar,Tobacco,1302.0,Whole Year,9.0,6.0,6,6,1998-1999 | 1999-2000 | 2000-2001 | 2002-2003 | 2003-2004 | 2015-2016,1,3,False,0
+Assam,Dhemaji,Tobacco,1302.0,Whole Year,7.0,4.0,6,6,2003-2004 | 2004-2005 | 2007-2008 | 2009-2010 | 2010-2011 | 2011-2012,1,3,False,0
+Assam,Dibrugarh,Linseed,1005.0,Rabi,2.0,1.0,6,6,2000-2001 | 2001-2002 | 2002-2003 | 2003-2004 | 2021-2022 | 2022-2023,1,4,False,0
+Assam,Hailakandi,Linseed,1005.0,Rabi,5.0,3.0,6,6,2012-2013 | 2013-2014 | 2014-2015 | 2016-2017 | 2018-2019 | 2019-2020,1,3,False,0
+Assam,Jorhat,Tobacco,1302.0,Whole Year,1.0,1.0,6,6,2015-2016 | 2016-2017 | 2017-2018 | 2019-2020 | 2020-2021 | 2022-2023,1,3,False,0
+Assam,Lakhimpur,Niger Seed,1010.0,Kharif,7.0,4.0,6,6,2004-2005 | 2005-2006 | 2006-2007 | 2007-2008 | 2019-2020 | 2020-2021,1,4,False,0
+Assam,Sivasagar,Linseed,1005.0,Rabi,1.0,1.0,6,6,2005-2006 | 2007-2008 | 2012-2013 | 2013-2014 | 2014-2015 | 2015-2016,1,4,False,0
+Assam,Sonitpur,Castor Seed,1002.0,Kharif,2.0,1.0,6,6,2008-2009 | 2009-2010 | 2010-2011 | 2011-2012 | 2021-2022 | 2022-2023,1,4,False,0
+Bihar,Madhubani,Castor Seed,1002.0,Kharif,1.0,1.0,6,6,2016-2017 | 2018-2019 | 2019-2020 | 2020-2021 | 2021-2022 | 2022-2023,1,5,False,0
+Bihar,Siwan,Linseed,1005.0,Rabi,29.0,25.0,6,6,2012-2013 | 2013-2014 | 2017-2018 | 2018-2019 | 2020-2021 | 2022-2023,1,2,False,0
+Kerala,Kozhikode,Cardamom,506.0,Whole Year,220.0,1.0,6,6,2005-2006 | 2006-2007 | 2007-2008 | 2008-2009 | 2011-2012 | 2018-2019,1,4,False,0
+Kerala,Malappuram,Cardamom,506.0,Whole Year,70.0,1.0,6,6,2001-2002 | 2008-2009 | 2011-2012 | 2016-2017 | 2017-2018 | 2018-2019,1,3,False,0
+Maharashtra,Dhule,Niger Seed,1010.0,Kharif,100.0,100.0,6,6,2000-2001 | 2002-2003 | 2005-2006 | 2006-2007 | 2007-2008 | 2008-2009,1,4,False,0
+Maharashtra,Kolhapur,Castor Seed,1002.0,Kharif,300.0,100.0,6,6,1999-2000 | 2006-2007 | 2007-2008 | 2008-2009 | 2013-2014 | 2014-2015,1,3,False,0
+Maharashtra,Pune,Castor Seed,1002.0,Kharif,100.0,,6,6,2004-2005 | 2005-2006 | 2007-2008 | 2008-2009 | 2009-2010 | 2014-2015,1,3,True,0
+Maharashtra,Pune,Linseed,1005.0,Rabi,200.0,100.0,6,6,1998-1999 | 1999-2000 | 2000-2001 | 2001-2002 | 2004-2005 | 2006-2007,1,4,False,0
+Meghalaya,East Garo Hills,Castor Seed,1002.0,Rabi,16.0,16.0,6,6,2015-2016 | 2016-2017 | 2017-2018 | 2018-2019 | 2019-2020 | 2020-2021,1,6,False,0
+Nagaland,Kiphire,Linseed,1005.0,Rabi,200.0,160.0,6,6,2010-2011 | 2011-2012 | 2012-2013 | 2014-2015 | 2015-2016 | 2016-2017,1,3,False,0
+Nagaland,Kohima,Mesta,1103.0,Kharif,110.0,120.0,6,6,2012-2013 | 2013-2014 | 2014-2015 | 2015-2016 | 2016-2017 | 2017-2018,1,6,False,0
+Nagaland,Longleng,Linseed,1005.0,Rabi,230.0,190.0,6,6,2010-2011 | 2011-2012 | 2012-2013 | 2014-2015 | 2015-2016 | 2016-2017,1,3,False,0
+Nagaland,Mon,Linseed,1005.0,Rabi,550.0,450.0,6,6,2010-2011 | 2011-2012 | 2012-2013 | 2014-2015 | 2015-2016 | 2016-2017,1,3,False,0
+Nagaland,Peren,Mesta,1103.0,Kharif,220.0,250.0,6,6,2013-2014 | 2014-2015 | 2015-2016 | 2016-2017 | 2017-2018 | 2018-2019,1,6,False,0
+Rajasthan,Jalore,Linseed,1005.0,Rabi,1.0,1.0,6,6,1999-2000 | 2002-2003 | 2008-2009 | 2009-2010 | 2014-2015 | 2017-2018,1,2,False,0
+Tamil Nadu,Erode,Cardamom,506.0,Whole Year,1.0,,6,6,2004-2005 | 2007-2008 | 2011-2012 | 2013-2014 | 2014-2015 | 2016-2017,1,2,True,0
+Uttar Pradesh,Pilibhit,Linseed,1005.0,Rabi,2.0,1.0,6,6,2004-2005 | 2016-2017 | 2017-2018 | 2019-2020 | 2020-2021 | 2021-2022,1,3,False,0
+Andhra Pradesh,Visakhapatnam,Castor Seed,1002.0,Kharif,2.0,1.0,5,5,2005-2006 | 2006-2007 | 2008-2009 | 2011-2012 | 2016-2017,1,2,False,0
+Andhra Pradesh,Vizianagaram,Castor Seed,1002.0,Kharif,1.0,1.0,5,5,2009-2010 | 2013-2014 | 2014-2015 | 2017-2018 | 2019-2020,1,2,False,0
+Assam,Cachar,Linseed,1005.0,Rabi,38.0,16.0,5,5,1997-1998 | 1998-1999 | 1999-2000 | 2000-2001 | 2001-2002,1,5,False,0
+Assam,Cachar,Mesta,1103.0,Kharif,3.0,14.0,5,5,1997-1998 | 2013-2014 | 2015-2016 | 2016-2017 | 2017-2018,1,3,False,0
+Assam,Cachar,Tobacco,1302.0,Whole Year,7.0,5.0,5,5,2008-2009 | 2009-2010 | 2017-2018 | 2018-2019 | 2021-2022,1,2,False,0
+Assam,Dhemaji,Niger Seed,1010.0,Kharif,50.0,26.0,5,5,2001-2002 | 2002-2003 | 2003-2004 | 2006-2007 | 2007-2008,1,3,False,0
+Assam,Dibrugarh,Tobacco,1302.0,Whole Year,4.0,2.0,5,5,2000-2001 | 2001-2002 | 2002-2003 | 2003-2004 | 2004-2005,1,5,False,0
+Assam,Hailakandi,Linseed,1005.0,Rabi,10.0,5.0,5,5,2000-2001 | 2001-2002 | 2002-2003 | 2006-2007 | 2007-2008,1,3,False,0
+Assam,Hailakandi,Niger Seed,1010.0,Kharif,1.0,1.0,5,5,2018-2019 | 2019-2020 | 2020-2021 | 2021-2022 | 2022-2023,1,5,False,0
+Assam,Kamrup,Tobacco,1302.0,Whole Year,1.0,1.0,5,5,2008-2009 | 2009-2010 | 2010-2011 | 2014-2015 | 2015-2016,1,3,False,0
+Assam,Lakhimpur,Tobacco,1302.0,Whole Year,5.0,3.0,5,5,2012-2013 | 2013-2014 | 2015-2016 | 2016-2017 | 2018-2019,1,2,False,0
+Assam,Sivasagar,Castor Seed,1002.0,Kharif,5.0,3.0,5,5,2006-2007 | 2009-2010 | 2010-2011 | 2011-2012 | 2015-2016,1,3,False,0
+Assam,Sivasagar,Linseed,1005.0,Rabi,2.0,2.0,5,5,1999-2000 | 2000-2001 | 2001-2002 | 2002-2003 | 2003-2004,1,5,False,0
+Assam,Sribhumi,Tobacco,1302.0,Whole Year,4.0,2.0,5,5,2000-2001 | 2002-2003 | 2003-2004 | 2005-2006 | 2006-2007,1,2,False,0
+Assam,Sribhumi,Tobacco,1302.0,Whole Year,7.0,4.0,5,5,2007-2008 | 2008-2009 | 2012-2013 | 2013-2014 | 2016-2017,1,2,False,0
+Assam,Tinsukia,Castor Seed,1002.0,Kharif,5.0,2.0,5,5,2000-2001 | 2002-2003 | 2003-2004 | 2004-2005 | 2005-2006,1,4,False,0
+Assam,Tinsukia,Niger Seed,1010.0,Kharif,3.0,1.0,5,5,2002-2003 | 2003-2004 | 2004-2005 | 2005-2006 | 2021-2022,1,4,False,0
+Assam,Tinsukia,Tobacco,1302.0,Whole Year,1.0,1.0,5,5,2000-2001 | 2001-2002 | 2008-2009 | 2011-2012 | 2014-2015,1,2,False,0
+Bihar,Khagaria,Tobacco,1302.0,Whole Year,1.0,2.0,5,5,2011-2012 | 2012-2013 | 2013-2014 | 2014-2015 | 2020-2021,1,4,False,0
+Bihar,Siwan,Tobacco,1302.0,Whole Year,92.0,162.0,5,5,2017-2018 | 2018-2019 | 2020-2021 | 2021-2022 | 2022-2023,1,3,False,0
+Chhattisgarh,Bastar,Castor Seed,1002.0,Kharif,3.0,1.0,5,5,2006-2007 | 2008-2009 | 2011-2012 | 2012-2013 | 2016-2017,1,2,False,0
+Chhattisgarh,Mahasamund,Niger Seed,1010.0,Kharif,1.0,,5,5,2003-2004 | 2005-2006 | 2006-2007 | 2008-2009 | 2009-2010,1,2,True,0
+Kerala,Kasaragod,Cardamom,506.0,Whole Year,368.0,,5,5,2007-2008 | 2008-2009 | 2009-2010 | 2011-2012 | 2012-2013,1,3,True,0
+Kerala,Kozhikode,Cardamom,506.0,Whole Year,220.0,,5,5,1999-2000 | 2001-2002 | 2002-2003 | 2003-2004 | 2004-2005,1,4,True,0
+Kerala,Malappuram,Cardamom,506.0,Whole Year,70.0,2.0,5,5,2007-2008 | 2012-2013 | 2013-2014 | 2014-2015 | 2015-2016,1,4,False,0
+Kerala,Malappuram,Cardamom,506.0,Whole Year,70.0,3.0,5,5,2002-2003 | 2003-2004 | 2004-2005 | 2005-2006 | 2006-2007,1,5,False,0
+Maharashtra,Hingoli,Niger Seed,1010.0,Kharif,300.0,100.0,5,5,2005-2006 | 2009-2010 | 2010-2011 | 2012-2013 | 2013-2014,1,2,False,0
+Maharashtra,Nagpur,Castor Seed,1002.0,Kharif,200.0,100.0,5,5,1998-1999 | 2002-2003 | 2006-2007 | 2009-2010 | 2011-2012,1,1,False,0
+Maharashtra,Nanded,Linseed,1005.0,Rabi,400.0,100.0,5,5,2000-2001 | 2002-2003 | 2003-2004 | 2005-2006 | 2006-2007,1,2,False,0
+Maharashtra,Sangli,Niger Seed,1010.0,Kharif,200.0,100.0,5,5,2002-2003 | 2003-2004 | 2010-2011 | 2011-2012 | 2015-2016,1,2,False,0
+Maharashtra,Solapur,Niger Seed,1010.0,Kharif,100.0,100.0,5,5,2001-2002 | 2003-2004 | 2005-2006 | 2007-2008 | 2008-2009,1,2,False,0
+Meghalaya,East Garo Hills,Tobacco,1302.0,Rabi,100.0,97.0,5,5,2016-2017 | 2017-2018 | 2018-2019 | 2019-2020 | 2020-2021,1,5,False,0
+Meghalaya,West Khasi Hills,Tobacco,1302.0,Rabi,43.0,65.0,5,5,2016-2017 | 2017-2018 | 2018-2019 | 2019-2020 | 2020-2021,1,5,False,0
+Nagaland,Dimapur,Linseed,1005.0,Rabi,1130.0,930.0,5,5,2016-2017 | 2017-2018 | 2018-2019 | 2019-2020 | 2020-2021,1,5,False,0
+Nagaland,Wokha,Linseed,1005.0,Rabi,590.0,480.0,5,5,2016-2017 | 2017-2018 | 2018-2019 | 2019-2020 | 2020-2021,1,5,False,0
+Nagaland,Zunheboto,Mesta,1103.0,Kharif,210.0,220.0,5,5,2012-2013 | 2013-2014 | 2014-2015 | 2015-2016 | 2016-2017,1,5,False,0
+Punjab,Jalandhar,Linseed,1005.0,Rabi,100.0,100.0,5,5,1998-1999 | 1999-2000 | 2001-2002 | 2006-2007 | 2008-2009,1,2,False,0
+Rajasthan,Bhilwara,Tobacco,1302.0,Whole Year,1.0,,5,5,2009-2010 | 2014-2015 | 2015-2016 | 2016-2017 | 2017-2018,1,4,True,0
+Rajasthan,Dausa,Linseed,1005.0,Rabi,1.0,1.0,5,5,1998-1999 | 2000-2001 | 2001-2002 | 2006-2007 | 2007-2008,1,2,False,0
+Uttar Pradesh,Rae Bareli,Tobacco,1302.0,Rabi,1.0,5.0,5,5,2010-2011 | 2013-2014 | 2015-2016 | 2017-2018 | 2021-2022,1,1,False,0
+Assam,Barpeta,Castor Seed,1002.0,Kharif,10.0,6.0,4,4,1998-1999 | 1999-2000 | 2001-2002 | 2002-2003,1,2,False,0
+Assam,Bongaigaon,Castor Seed,1002.0,Kharif,7.0,4.0,4,4,2011-2012 | 2014-2015 | 2016-2017 | 2017-2018,1,2,False,0
+Assam,Cachar,Mesta,1103.0,Kharif,6.0,27.0,4,4,2001-2002 | 2002-2003 | 2003-2004 | 2005-2006,1,3,False,0
+Assam,Dhemaji,Linseed,1005.0,Rabi,20.0,10.0,4,4,2002-2003 | 2004-2005 | 2006-2007 | 2007-2008,1,2,False,0
+Assam,Dhemaji,Mesta,1103.0,Kharif,7.0,22.0,4,4,2007-2008 | 2008-2009 | 2009-2010 | 2010-2011,1,4,False,0
+Assam,Dhubri,Castor Seed,1002.0,Kharif,3.0,3.0,4,4,2012-2013 | 2013-2014 | 2014-2015 | 2022-2023,1,3,False,0
+Assam,Dhubri,Tobacco,1302.0,Whole Year,6.0,5.0,4,4,2001-2002 | 2002-2003 | 2006-2007 | 2007-2008,1,2,False,0
+Assam,Dibrugarh,Linseed,1005.0,Rabi,8.0,3.0,4,4,2005-2006 | 2010-2011 | 2011-2012 | 2012-2013,1,3,False,0
+Assam,Dima Hasao,Tobacco,1302.0,Whole Year,12.0,5.0,4,4,2019-2020 | 2020-2021 | 2021-2022 | 2022-2023,1,4,False,0
+Assam,Goalpara,Castor Seed,1002.0,Kharif,21.0,10.0,4,4,2011-2012 | 2017-2018 | 2019-2020 | 2020-2021,1,2,False,0
+Assam,Goalpara,Niger Seed,1010.0,Kharif,950.0,475.0,4,4,1999-2000 | 2004-2005 | 2005-2006 | 2006-2007,1,3,False,0
+Assam,Golaghat,Mesta,1103.0,Kharif,2.0,10.0,4,4,2015-2016 | 2018-2019 | 2020-2021 | 2021-2022,1,2,False,0
+Assam,Golaghat,Niger Seed,1010.0,Kharif,11.0,5.0,4,4,2000-2001 | 2001-2002 | 2002-2003 | 2005-2006,1,3,False,0
+Assam,Hailakandi,Linseed,1005.0,Rabi,4.0,2.0,4,4,2015-2016 | 2017-2018 | 2020-2021 | 2021-2022,1,2,False,0
+Assam,Jorhat,Linseed,1005.0,Rabi,1.0,1.0,4,4,2010-2011 | 2020-2021 | 2021-2022 | 2022-2023,1,3,False,0
+Assam,Kamrup Metro,Tobacco,1302.0,Whole Year,1.0,1.0,4,4,2006-2007 | 2011-2012 | 2012-2013 | 2013-2014,1,3,False,0
+Assam,Lakhimpur,Castor Seed,1002.0,Kharif,219.0,99.0,4,4,2002-2003 | 2003-2004 | 2004-2005 | 2005-2006,1,4,False,0
+Assam,Marigaon,Castor Seed,1002.0,Kharif,5.0,2.0,4,4,2017-2018 | 2018-2019 | 2019-2020 | 2020-2021,1,4,False,0
+Assam,Nalbari,Castor Seed,1002.0,Kharif,50.0,25.0,4,4,1998-1999 | 1999-2000 | 2000-2001 | 2001-2002,1,4,False,0
+Assam,Sonitpur,Castor Seed,1002.0,Kharif,47.0,20.0,4,4,1999-2000 | 2000-2001 | 2001-2002 | 2002-2003,1,4,False,0
+Assam,Sribhumi,Mesta,1103.0,Kharif,1.0,5.0,4,4,2012-2013 | 2015-2016 | 2016-2017 | 2019-2020,1,2,False,0
+Assam,Sribhumi,Tobacco,1302.0,Whole Year,5.0,3.0,4,4,2001-2002 | 2004-2005 | 2018-2019 | 2019-2020,1,2,False,0
+Assam,Tinsukia,Castor Seed,1002.0,Kharif,7.0,3.0,4,4,2006-2007 | 2007-2008 | 2008-2009 | 2010-2011,1,3,False,0
+Assam,Tinsukia,Linseed,1005.0,Rabi,2.0,1.0,4,4,2002-2003 | 2005-2006 | 2017-2018 | 2018-2019,1,2,False,0
+Assam,Tinsukia,Mesta,1103.0,Kharif,2.0,10.0,4,4,2003-2004 | 2004-2005 | 2007-2008 | 2010-2011,1,2,False,0
+Assam,Tinsukia,Niger Seed,1010.0,Kharif,19.0,10.0,4,4,2011-2012 | 2012-2013 | 2013-2014 | 2019-2020,1,3,False,0
+Bihar,Begusarai,Linseed,1005.0,Rabi,2.0,2.0,4,4,2013-2014 | 2014-2015 | 2015-2016 | 2016-2017,1,4,False,0
+Bihar,Begusarai,Tobacco,1302.0,Whole Year,6.0,11.0,4,4,2010-2011 | 2011-2012 | 2013-2014 | 2014-2015,1,2,False,0
+Bihar,Madhepura,Castor Seed,1002.0,Kharif,4.0,4.0,4,4,2013-2014 | 2014-2015 | 2015-2016 | 2016-2017,1,4,False,0
+Bihar,Purbi Champaran,Castor Seed,1002.0,Kharif,7.0,7.0,4,4,2004-2005 | 2005-2006 | 2007-2008 | 2008-2009,1,2,False,0
+Chhattisgarh,Bastar,Tobacco,1302.0,Whole Year,3.0,2.0,4,4,2009-2010 | 2010-2011 | 2011-2012 | 2017-2018,1,3,False,0
+Chhattisgarh,Dakshin Bastar Dantewada,Linseed,1005.0,Rabi,1.0,,4,4,2015-2016 | 2017-2018 | 2018-2019 | 2019-2020,1,3,True,0
+Chhattisgarh,Rajnandgaon,Castor Seed,1002.0,Kharif,1.0,,4,4,2001-2002 | 2008-2009 | 2009-2010 | 2010-2011,1,3,True,0
+Chhattisgarh,Rajnandgaon,Niger Seed,1010.0,Kharif,1.0,,4,4,2000-2001 | 2010-2011 | 2011-2012 | 2012-2013,1,3,True,0
+Gujarat,Bharuch,Tobacco,1302.0,Whole Year,100.0,100.0,4,4,1997-1998 | 1998-1999 | 2000-2001 | 2002-2003,1,2,False,0
+Gujarat,Dahod,Castor Seed,1002.0,Kharif,100.0,200.0,4,4,2003-2004 | 2004-2005 | 2005-2006 | 2009-2010,1,3,False,0
+Karnataka,Chamarajanagar,Cardamom,506.0,Whole Year,1.0,,4,4,2007-2008 | 2008-2009 | 2010-2011 | 2019-2020,1,2,True,0
+Karnataka,Shivamogga,Tobacco,1302.0,Whole Year,1.0,1.0,4,4,2016-2017 | 2019-2020 | 2020-2021 | 2021-2022,1,3,False,0
+Kerala,Kasaragod,Cardamom,506.0,Whole Year,515.0,,4,4,1998-1999 | 2000-2001 | 2001-2002 | 2002-2003,1,3,True,0
+Kerala,Kottayam,Cardamom,506.0,Whole Year,85.0,5.0,4,4,2013-2014 | 2014-2015 | 2015-2016 | 2016-2017,1,4,False,0
+Kerala,Malappuram,Cardamom,506.0,Whole Year,65.0,1.0,4,4,2019-2020 | 2020-2021 | 2021-2022 | 2022-2023,1,4,False,0
+Kerala,Malappuram,Cardamom,506.0,Whole Year,70.0,,4,4,1998-1999 | 1999-2000 | 2000-2001 | 2009-2010,1,3,True,0
+Kerala,Pathanamthitta,Cardamom,506.0,Whole Year,665.0,8.0,4,4,2013-2014 | 2014-2015 | 2015-2016 | 2016-2017,1,4,False,0
+Madhya Pradesh,Harda,Niger Seed,1010.0,Kharif,2.0,1.0,4,4,2001-2002 | 2002-2003 | 2003-2004 | 2004-2005,1,4,False,0
+Madhya Pradesh,Ratlam,Castor Seed,1002.0,Kharif,1.0,,4,4,2004-2005 | 2010-2011 | 2011-2012 | 2012-2013,1,3,True,0
+Maharashtra,Ahilyanagar,Castor Seed,1002.0,Kharif,400.0,100.0,4,4,1998-1999 | 2005-2006 | 2007-2008 | 2013-2014,1,1,False,0
+Maharashtra,Buldhana,Castor Seed,1002.0,Kharif,100.0,,4,4,2006-2007 | 2007-2008 | 2008-2009 | 2009-2010,1,4,True,0
+Maharashtra,Chhatrapati Sambhajinagar,Niger Seed,1010.0,Kharif,100.0,,4,4,2009-2010 | 2010-2011 | 2013-2014 | 2014-2015,1,2,True,0
+Maharashtra,Hingoli,Niger Seed,1010.0,Kharif,500.0,100.0,4,4,2006-2007 | 2007-2008 | 2008-2009 | 2014-2015,1,3,False,0
+Maharashtra,Nanded,Castor Seed,1002.0,Kharif,1000.0,200.0,4,4,2004-2005 | 2005-2006 | 2008-2009 | 2013-2014,1,2,False,0
+Maharashtra,Nandurbar,Niger Seed,1010.0,Kharif,100.0,100.0,4,4,2003-2004 | 2004-2005 | 2005-2006 | 2008-2009,1,3,False,0
+Maharashtra,Parbhani,Castor Seed,1002.0,Kharif,600.0,100.0,4,4,2001-2002 | 2008-2009 | 2013-2014 | 2014-2015,1,2,False,0
+Maharashtra,Parbhani,Linseed,1005.0,Rabi,1400.0,300.0,4,4,2002-2003 | 2003-2004 | 2009-2010 | 2010-2011,1,2,False,0
+Maharashtra,Pune,Castor Seed,1002.0,Kharif,100.0,10.0,4,4,2000-2001 | 2001-2002 | 2002-2003 | 2017-2018,1,3,False,0
+Maharashtra,Raigad,Niger Seed,1010.0,Kharif,400.0,100.0,4,4,1998-1999 | 1999-2000 | 2010-2011 | 2011-2012,1,2,False,0
+Maharashtra,Sindhudurg,Niger Seed,1010.0,Kharif,100.0,,4,4,2009-2010 | 2012-2013 | 2013-2014 | 2014-2015,1,3,True,0
+Maharashtra,Solapur,Castor Seed,1002.0,Kharif,300.0,100.0,4,4,2000-2001 | 2004-2005 | 2006-2007 | 2007-2008,1,2,False,0
+Maharashtra,Solapur,Linseed,1005.0,Rabi,400.0,100.0,4,4,2004-2005 | 2005-2006 | 2007-2008 | 2009-2010,1,2,False,0
+Maharashtra,Solapur,Niger Seed,1010.0,Kharif,100.0,,4,4,2010-2011 | 2011-2012 | 2013-2014 | 2014-2015,1,2,True,0
+Maharashtra,Wardha,Castor Seed,1002.0,Kharif,100.0,,4,4,1998-1999 | 2004-2005 | 2006-2007 | 2009-2010,1,1,True,0
+Maharashtra,Wardha,Linseed,1005.0,Rabi,100.0,100.0,4,4,2004-2005 | 2005-2006 | 2006-2007 | 2007-2008,1,4,False,0
+Maharashtra,Washim,Castor Seed,1002.0,Kharif,100.0,,4,4,2004-2005 | 2006-2007 | 2008-2009 | 2014-2015,1,1,True,0
+Meghalaya,East Jaintia Hills,Tobacco,1302.0,Whole Year,8.0,2.0,4,4,2001-2002 | 2003-2004 | 2004-2005 | 2005-2006,1,3,False,0
+Meghalaya,South Garo Hills,Tobacco,1302.0,Rabi,128.0,120.0,4,4,2016-2017 | 2017-2018 | 2018-2019 | 2019-2020,1,4,False,0
+Meghalaya,South West Garo Hills,Mesta,1103.0,Kharif,1307.0,7911.0,4,4,2019-2020 | 2020-2021 | 2021-2022 | 2022-2023,1,4,False,0
+Meghalaya,West Garo Hills,Mesta,1103.0,Kharif,2219.0,12755.0,4,4,2019-2020 | 2020-2021 | 2021-2022 | 2022-2023,1,4,False,0
+Nagaland,Dimapur,Castor Seed,1002.0,Kharif,90.0,70.0,4,4,2017-2018 | 2018-2019 | 2019-2020 | 2020-2021,1,4,False,0
+Nagaland,Dimapur,Mesta,1103.0,Kharif,270.0,300.0,4,4,2012-2013 | 2016-2017 | 2017-2018 | 2018-2019,1,3,False,0
+Nagaland,Kiphire,Mesta,1103.0,Kharif,60.0,70.0,4,4,2012-2013 | 2013-2014 | 2014-2015 | 2015-2016,1,4,False,0
+Nagaland,Mokokchung,Castor Seed,1002.0,Kharif,80.0,60.0,4,4,2017-2018 | 2018-2019 | 2019-2020 | 2020-2021,1,4,False,0
+Nagaland,Mokokchung,Linseed,1005.0,Rabi,760.0,610.0,4,4,2011-2012 | 2012-2013 | 2014-2015 | 2015-2016,1,2,False,0
+Nagaland,Mon,Linseed,1005.0,Rabi,560.0,450.0,4,4,2017-2018 | 2018-2019 | 2019-2020 | 2020-2021,1,4,False,0
+Nagaland,Mon,Mesta,1103.0,Kharif,190.0,210.0,4,4,2012-2013 | 2013-2014 | 2014-2015 | 2015-2016,1,4,False,0
+Nagaland,Peren,Linseed,1005.0,Rabi,560.0,460.0,4,4,2011-2012 | 2012-2013 | 2014-2015 | 2015-2016,1,2,False,0
+Nagaland,Peren,Linseed,1005.0,Rabi,570.0,470.0,4,4,2016-2017 | 2017-2018 | 2018-2019 | 2019-2020,1,4,False,0
+Nagaland,Phek,Mesta,1103.0,Kharif,220.0,250.0,4,4,2012-2013 | 2013-2014 | 2014-2015 | 2015-2016,1,4,False,0
+Nagaland,Zunheboto,Linseed,1005.0,Rabi,280.0,230.0,4,4,2017-2018 | 2018-2019 | 2019-2020 | 2020-2021,1,4,False,0
+Punjab,Gurdaspur,Linseed,1005.0,Rabi,100.0,100.0,4,4,1998-1999 | 1999-2000 | 2000-2001 | 2001-2002,1,4,False,0
+Punjab,Shahid Bhagat Singh Nagar,Linseed,1005.0,Rabi,100.0,100.0,4,4,1998-1999 | 1999-2000 | 2000-2001 | 2001-2002,1,4,False,0
+Rajasthan,Jaipur,Linseed,1005.0,Rabi,1.0,1.0,4,4,2001-2002 | 2008-2009 | 2016-2017 | 2018-2019,1,1,False,0
+Rajasthan,Rajsamand,Castor Seed,1002.0,Kharif,1.0,,4,4,1999-2000 | 2000-2001 | 2006-2007 | 2007-2008,1,2,True,0
+Rajasthan,Sikar,Tobacco,1302.0,Whole Year,1.0,4.0,4,4,2012-2013 | 2014-2015 | 2015-2016 | 2018-2019,1,2,False,0
+Tamil Nadu,Ramanathapuram,Castor Seed,1002.0,Kharif,1.0,,4,4,2014-2015 | 2015-2016 | 2016-2017 | 2018-2019,1,3,True,0
+Tamil Nadu,Salem,Cardamom,506.0,Whole Year,40.0,3.0,4,4,2016-2017 | 2017-2018 | 2018-2019 | 2019-2020,1,4,False,0
+Tamil Nadu,Salem,Cardamom,506.0,Whole Year,42.0,3.0,4,4,2003-2004 | 2004-2005 | 2005-2006 | 2007-2008,1,3,False,0
+Tamil Nadu,Sivaganga,Castor Seed,1002.0,Kharif,1.0,,4,4,2005-2006 | 2015-2016 | 2017-2018 | 2019-2020,1,1,True,0
+Uttar Pradesh,Ambedkar Nagar,Linseed,1005.0,Rabi,2.0,1.0,4,4,1998-1999 | 2002-2003 | 2013-2014 | 2019-2020,1,1,False,0
+Uttar Pradesh,Mahoba,Tobacco,1302.0,Rabi,3.0,13.0,4,4,2015-2016 | 2016-2017 | 2020-2021 | 2021-2022,1,2,False,0
+Uttar Pradesh,Sambhal,Linseed,1005.0,Rabi,1.0,1.0,4,4,2017-2018 | 2019-2020 | 2020-2021 | 2021-2022,1,3,False,0
+Uttar Pradesh,Varanasi,Linseed,1005.0,Rabi,2.0,1.0,4,4,2012-2013 | 2016-2017 | 2020-2021 | 2021-2022,1,2,False,0
+West Bengal,Darjeeling,Cardamom,506.0,Whole Year,2874.0,704.0,4,4,2002-2003 | 2003-2004 | 2005-2006 | 2006-2007,1,2,False,0
+Andhra Pradesh,Chittoor,Mesta,1103.0,Kharif,2.0,18.0,3,3,2005-2006 | 2006-2007 | 2010-2011,1,2,False,0
+Andhra Pradesh,Kurnool,Linseed,1005.0,Rabi,6.0,1.0,3,3,1999-2000 | 2000-2001 | 2004-2005,1,2,False,0
+Andhra Pradesh,Vizianagaram,Castor Seed,1002.0,Kharif,2.0,1.0,3,3,2000-2001 | 2006-2007 | 2008-2009,1,1,False,0
+Assam,Baksa,Tobacco,1302.0,Whole Year,5.0,2.0,3,3,2011-2012 | 2015-2016 | 2021-2022,1,1,False,0
+Assam,Baksa,Tobacco,1302.0,Whole Year,7.0,3.0,3,3,2012-2013 | 2013-2014 | 2016-2017,1,2,False,0
+Assam,Barpeta,Castor Seed,1002.0,Kharif,11.0,6.0,3,3,2000-2001 | 2003-2004 | 2004-2005,1,2,False,0
+Assam,Barpeta,Tobacco,1302.0,Whole Year,2.0,2.0,3,3,2016-2017 | 2017-2018 | 2018-2019,1,3,False,0
+Assam,Cachar,Mesta,1103.0,Kharif,5.0,23.0,3,3,1999-2000 | 2000-2001 | 2008-2009,1,2,False,0
+Assam,Cachar,Tobacco,1302.0,Whole Year,6.0,4.0,3,3,2010-2011 | 2019-2020 | 2020-2021,1,2,False,0
+Assam,Cachar,Tobacco,1302.0,Whole Year,10.0,7.0,3,3,2004-2005 | 2006-2007 | 2007-2008,1,2,False,0
+Assam,Darrang,Castor Seed,1002.0,Kharif,4.0,2.0,3,3,2005-2006 | 2006-2007 | 2007-2008,1,3,False,0
+Assam,Dhemaji,Linseed,1005.0,Rabi,9.0,7.0,3,3,2014-2015 | 2015-2016 | 2016-2017,1,3,False,0
+Assam,Dhemaji,Mesta,1103.0,Kharif,2.0,12.0,3,3,2019-2020 | 2020-2021 | 2021-2022,1,3,False,0
+Assam,Dhemaji,Tobacco,1302.0,Whole Year,1.0,1.0,3,3,2016-2017 | 2019-2020 | 2020-2021,1,2,False,0
+Assam,Dhemaji,Tobacco,1302.0,Whole Year,13.0,8.0,3,3,2001-2002 | 2005-2006 | 2006-2007,1,2,False,0
+Assam,Dhubri,Castor Seed,1002.0,Kharif,15.0,9.0,3,3,1999-2000 | 2001-2002 | 2002-2003,1,2,False,0
+Assam,Dibrugarh,Mesta,1103.0,Kharif,2.0,10.0,3,3,2003-2004 | 2004-2005 | 2006-2007,1,2,False,0
+Assam,Dibrugarh,Mesta,1103.0,Kharif,3.0,15.0,3,3,1998-1999 | 2001-2002 | 2002-2003,1,2,False,0
+Assam,Dibrugarh,Mesta,1103.0,Kharif,4.0,20.0,3,3,1999-2000 | 2000-2001 | 2012-2013,1,2,False,0
+Assam,Dibrugarh,Mesta,1103.0,Kharif,8.0,42.0,3,3,2016-2017 | 2017-2018 | 2018-2019,1,3,False,0
+Assam,Dibrugarh,Niger Seed,1010.0,Kharif,2.0,1.0,3,3,2019-2020 | 2020-2021 | 2022-2023,1,2,False,0
+Assam,Dima Hasao,Castor Seed,1002.0,Kharif,86.0,39.0,3,3,1998-1999 | 2005-2006 | 2006-2007,1,2,False,0
+Assam,Dima Hasao,Niger Seed,1010.0,Kharif,2.0,1.0,3,3,2009-2010 | 2010-2011 | 2011-2012,1,3,False,0
+Assam,Dima Hasao,Tobacco,1302.0,Whole Year,27.0,21.0,3,3,1999-2000 | 2000-2001 | 2008-2009,1,2,False,0
+Assam,Goalpara,Castor Seed,1002.0,Kharif,25.0,9.0,3,3,2005-2006 | 2006-2007 | 2008-2009,1,2,False,0
+Assam,Goalpara,Tobacco,1302.0,Whole Year,5.0,2.0,3,3,2011-2012 | 2014-2015 | 2015-2016,1,2,False,0
+Assam,Goalpara,Tobacco,1302.0,Whole Year,60.0,28.0,3,3,1999-2000 | 2000-2001 | 2001-2002,1,3,False,0
+Assam,Golaghat,Mesta,1103.0,Kharif,5.0,18.0,3,3,2006-2007 | 2007-2008 | 2008-2009,1,3,False,0
+Assam,Golaghat,Tobacco,1302.0,Whole Year,16.0,11.0,3,3,2005-2006 | 2007-2008 | 2009-2010,1,1,False,0
+Assam,Hailakandi,Linseed,1005.0,Rabi,5.0,2.0,3,3,2003-2004 | 2004-2005 | 2005-2006,1,3,False,0
+Assam,Hojai,Linseed,1005.0,Rabi,35.0,18.0,3,3,2020-2021 | 2021-2022 | 2022-2023,1,3,False,0
+Assam,Jorhat,Castor Seed,1002.0,Kharif,15.0,6.0,3,3,2001-2002 | 2003-2004 | 2009-2010,1,1,False,0
+Assam,Jorhat,Linseed,1005.0,Rabi,3.0,2.0,3,3,2009-2010 | 2011-2012 | 2017-2018,1,1,False,0
+Assam,Jorhat,Mesta,1103.0,Kharif,6.0,33.0,3,3,2014-2015 | 2020-2021 | 2021-2022,1,2,False,0
+Assam,Jorhat,Niger Seed,1010.0,Kharif,2.0,1.0,3,3,2020-2021 | 2021-2022 | 2022-2023,1,3,False,0
+Assam,Jorhat,Tobacco,1302.0,Whole Year,8.0,5.0,3,3,2006-2007 | 2008-2009 | 2009-2010,1,2,False,0
+Assam,Kamrup,Castor Seed,1002.0,Kharif,7.0,3.0,3,3,2014-2015 | 2015-2016 | 2016-2017,1,3,False,0
+Assam,Kamrup Metro,Castor Seed,1002.0,Kharif,2.0,1.0,3,3,2006-2007 | 2007-2008 | 2008-2009,1,3,False,0
+Assam,Kamrup Metro,Mesta,1103.0,Kharif,10.0,53.0,3,3,2018-2019 | 2019-2020 | 2020-2021,1,3,False,0
+Assam,Kamrup Metro,Tobacco,1302.0,Whole Year,2.0,1.0,3,3,2007-2008 | 2008-2009 | 2009-2010,1,3,False,0
+Assam,Kokrajhar,Tobacco,1302.0,Whole Year,15.0,7.0,3,3,2015-2016 | 2017-2018 | 2018-2019,1,2,False,0
+Assam,Lakhimpur,Tobacco,1302.0,Whole Year,3.0,2.0,3,3,2019-2020 | 2020-2021 | 2021-2022,1,3,False,0
+Assam,Majuli,Niger Seed,1010.0,Kharif,5.0,3.0,3,3,2020-2021 | 2021-2022 | 2022-2023,1,3,False,0
+Assam,Majuli,Tobacco,1302.0,Whole Year,2.0,1.0,3,3,2020-2021 | 2021-2022 | 2022-2023,1,3,False,0
+Assam,Marigaon,Linseed,1005.0,Rabi,200.0,94.0,3,3,2001-2002 | 2002-2003 | 2004-2005,1,2,False,0
+Assam,Marigaon,Niger Seed,1010.0,Kharif,120.0,60.0,3,3,2001-2002 | 2002-2003 | 2004-2005,1,2,False,0
+Assam,Marigaon,Tobacco,1302.0,Whole Year,2.0,1.0,3,3,2013-2014 | 2014-2015 | 2018-2019,1,2,False,0
+Assam,Nalbari,Mesta,1103.0,Kharif,145.0,564.0,3,3,2001-2002 | 2002-2003 | 2003-2004,1,3,False,0
+Assam,Sivasagar,Tobacco,1302.0,Whole Year,12.0,6.0,3,3,2000-2001 | 2001-2002 | 2002-2003,1,3,False,0
+Assam,Sonitpur,Tobacco,1302.0,Whole Year,6.0,4.0,3,3,2009-2010 | 2016-2017 | 2017-2018,1,2,False,0
+Assam,Sribhumi,Linseed,1005.0,Rabi,27.0,15.0,3,3,2013-2014 | 2015-2016 | 2016-2017,1,2,False,0
+Assam,Sribhumi,Linseed,1005.0,Rabi,30.0,12.0,3,3,2003-2004 | 2004-2005 | 2006-2007,1,2,False,0
+Assam,Sribhumi,Mesta,1103.0,Kharif,1.0,4.0,3,3,2017-2018 | 2018-2019 | 2020-2021,1,2,False,0
+Assam,Sribhumi,Niger Seed,1010.0,Kharif,1.0,1.0,3,3,1998-1999 | 1999-2000 | 2000-2001,1,3,False,0
+Assam,Tinsukia,Castor Seed,1002.0,Kharif,6.0,3.0,3,3,1998-1999 | 1999-2000 | 2013-2014,1,2,False,0
+Assam,Tinsukia,Niger Seed,1010.0,Kharif,20.0,10.0,3,3,2016-2017 | 2017-2018 | 2018-2019,1,3,False,0
+Assam,Udalguri,Tobacco,1302.0,Whole Year,2.0,1.0,3,3,2005-2006 | 2007-2008 | 2010-2011,1,1,False,0
+Bihar,Bhagalpur,Tobacco,1302.0,Whole Year,8.0,14.0,3,3,2020-2021 | 2021-2022 | 2022-2023,1,3,False,0
+Bihar,Khagaria,Linseed,1005.0,Rabi,29.0,25.0,3,3,2009-2010 | 2013-2014 | 2014-2015,1,2,False,0
+Bihar,Nalanda,Castor Seed,1002.0,Kharif,1.0,1.0,3,3,2014-2015 | 2018-2019 | 2019-2020,1,2,False,0
+Chhattisgarh,Balrampur-Ramanujganj,Tobacco,1302.0,Whole Year,1.0,1.0,3,3,2014-2015 | 2019-2020 | 2022-2023,1,1,False,0
+Chhattisgarh,Bastar,Tobacco,1302.0,Whole Year,7.0,4.0,3,3,2004-2005 | 2013-2014 | 2014-2015,1,2,False,0
+Chhattisgarh,Jashpur,Tobacco,1302.0,Whole Year,1.0,1.0,3,3,2002-2003 | 2004-2005 | 2006-2007,1,1,False,0
+Chhattisgarh,Kondagaon,Mesta,1103.0,Kharif,2.0,5.0,3,3,2019-2020 | 2021-2022 | 2022-2023,1,2,False,0
+Chhattisgarh,Rajnandgaon,Niger Seed,1010.0,Kharif,4.0,1.0,3,3,2002-2003 | 2003-2004 | 2005-2006,1,2,False,0
+Chhattisgarh,Sukma,Niger Seed,1010.0,Kharif,1.0,0.0,3,3,2020-2021 | 2021-2022 | 2022-2023,1,3,False,0
+Gujarat,Ahmedabad,Tobacco,1302.0,Whole Year,1000.0,1800.0,3,3,2001-2002 | 2002-2003 | 2003-2004,1,3,False,0
+Gujarat,Sabar Kantha,Tobacco,1302.0,Whole Year,100.0,100.0,3,3,1999-2000 | 2000-2001 | 2001-2002,1,3,False,0
+Gujarat,Surat,Castor Seed,1002.0,Kharif,400.0,700.0,3,3,2001-2002 | 2003-2004 | 2006-2007,1,1,False,0
+Haryana,Hisar,Castor Seed,1002.0,Kharif,100.0,100.0,3,3,2013-2014 | 2014-2015 | 2015-2016,1,3,False,0
+Jammu And Kashmir,Udhampur,Tobacco,1302.0,Whole Year,4.0,1.0,3,3,2001-2002 | 2002-2003 | 2003-2004,1,3,False,0
+Karnataka,Bengaluru Rural,Cardamom,506.0,Whole Year,1.0,,3,3,2005-2006 | 2008-2009 | 2010-2011,1,1,True,0
+Karnataka,Bengaluru South,Tobacco,1302.0,Whole Year,1.0,1.0,3,3,2018-2019 | 2020-2021 | 2022-2023,1,1,False,0
+Karnataka,Chamarajanagar,Cardamom,506.0,Whole Year,15.0,1.0,3,3,2013-2014 | 2014-2015 | 2015-2016,1,3,False,0
+Karnataka,Dakshina Kannada,Tobacco,1302.0,Whole Year,1.0,1.0,3,3,2018-2019 | 2019-2020 | 2021-2022,1,2,False,0
+Karnataka,Davanagere,Cardamom,506.0,Whole Year,1.0,,3,3,2006-2007 | 2007-2008 | 2008-2009,1,3,True,0
+Karnataka,Dharwad,Castor Seed,1002.0,Kharif,1.0,1.0,3,3,2013-2014 | 2021-2022 | 2022-2023,1,2,False,0
+Karnataka,Gadag,Tobacco,1302.0,Whole Year,5.0,4.0,3,3,2013-2014 | 2014-2015 | 2018-2019,1,2,False,0
+Karnataka,Shivamogga,Linseed,1005.0,Rabi,5.0,2.0,3,3,2001-2002 | 2002-2003 | 2006-2007,1,2,False,0
+Karnataka,Uttara Kannada,Linseed,1005.0,Rabi,2.0,1.0,3,3,2006-2007 | 2007-2008 | 2020-2021,1,2,False,0
+Karnataka,Uttara Kannada,Mesta,1103.0,Kharif,1.0,2.0,3,3,2002-2003 | 2003-2004 | 2004-2005,1,3,False,0
+Kerala,Kasaragod,Tobacco,1302.0,Whole Year,43.0,69.0,3,3,2005-2006 | 2007-2008 | 2011-2012,1,1,False,0
+Kerala,Kollam,Cardamom,506.0,Whole Year,7.0,,3,3,2001-2002 | 2004-2005 | 2007-2008,1,1,True,0
+Kerala,Kozhikode,Cardamom,506.0,Whole Year,220.0,5.0,3,3,2013-2014 | 2014-2015 | 2015-2016,1,3,False,0
+Kerala,Palakkad,Cardamom,506.0,Whole Year,2755.0,290.0,3,3,2013-2014 | 2014-2015 | 2016-2017,1,2,False,0
+Madhya Pradesh,Barwani,Linseed,1005.0,Rabi,1.0,,3,3,2004-2005 | 2006-2007 | 2010-2011,1,1,True,0
+Madhya Pradesh,Dhar,Tobacco,1302.0,Whole Year,1.0,,3,3,2009-2010 | 2011-2012 | 2012-2013,1,2,True,0
+Madhya Pradesh,Dhar,Tobacco,1302.0,Whole Year,2.0,1.0,3,3,2002-2003 | 2006-2007 | 2010-2011,1,1,False,0
+Madhya Pradesh,Harda,Castor Seed,1002.0,Kharif,1.0,,3,3,2004-2005 | 2005-2006 | 2018-2019,1,2,True,0
+Madhya Pradesh,Mandsaur,Castor Seed,1002.0,Kharif,1.0,,3,3,2005-2006 | 2010-2011 | 2018-2019,1,1,True,0
+Madhya Pradesh,Ratlam,Niger Seed,1010.0,Kharif,1.0,,3,3,2004-2005 | 2018-2019 | 2019-2020,1,2,True,0
+Madhya Pradesh,Sagar,Castor Seed,1002.0,Kharif,1.0,,3,3,2005-2006 | 2006-2007 | 2018-2019,1,2,True,0
+Madhya Pradesh,Seoni,Castor Seed,1002.0,Kharif,5.0,2.0,3,3,2000-2001 | 2001-2002 | 2005-2006,1,2,False,0
+Madhya Pradesh,Shajapur,Tobacco,1302.0,Whole Year,1.0,,3,3,2006-2007 | 2007-2008 | 2010-2011,1,2,True,0
+Madhya Pradesh,Sidhi,Tobacco,1302.0,Whole Year,1.0,1.0,3,3,2009-2010 | 2010-2011 | 2012-2013,1,2,False,0
+Maharashtra,Ahilyanagar,Castor Seed,1002.0,Kharif,100.0,,3,3,2008-2009 | 2009-2010 | 2014-2015,1,2,True,0
+Maharashtra,Beed,Niger Seed,1010.0,Kharif,800.0,100.0,3,3,2008-2009 | 2009-2010 | 2014-2015,1,2,False,0
+Maharashtra,Beed,Niger Seed,1010.0,Kharif,2000.0,400.0,3,3,2004-2005 | 2005-2006 | 2006-2007,1,3,False,0
+Maharashtra,Dharashiv,Castor Seed,1002.0,Kharif,700.0,100.0,3,3,2008-2009 | 2015-2016 | 2017-2018,1,1,False,0
+Maharashtra,Gondia,Castor Seed,1002.0,Kharif,200.0,100.0,3,3,2000-2001 | 2005-2006 | 2008-2009,1,1,False,0
+Maharashtra,Jalgaon,Castor Seed,1002.0,Kharif,300.0,100.0,3,3,1999-2000 | 2000-2001 | 2004-2005,1,2,False,0
+Maharashtra,Jalna,Castor Seed,1002.0,Kharif,300.0,100.0,3,3,1999-2000 | 2002-2003 | 2013-2014,1,1,False,0
+Maharashtra,Jalna,Niger Seed,1010.0,Kharif,1100.0,200.0,3,3,2004-2005 | 2006-2007 | 2007-2008,1,2,False,0
+Maharashtra,Latur,Linseed,1005.0,Rabi,400.0,100.0,3,3,2005-2006 | 2006-2007 | 2009-2010,1,2,False,0
+Maharashtra,Nagpur,Castor Seed,1002.0,Kharif,300.0,100.0,3,3,1999-2000 | 2007-2008 | 2008-2009,1,2,False,0
+Maharashtra,Nandurbar,Castor Seed,1002.0,Kharif,200.0,100.0,3,3,2011-2012 | 2012-2013 | 2017-2018,1,2,False,0
+Maharashtra,Pune,Linseed,1005.0,Rabi,100.0,100.0,3,3,2002-2003 | 2005-2006 | 2007-2008,1,1,False,0
+Maharashtra,Sangli,Castor Seed,1002.0,Kharif,200.0,100.0,3,3,2005-2006 | 2006-2007 | 2014-2015,1,2,False,0
+Maharashtra,Sangli,Niger Seed,1010.0,Kharif,100.0,,3,3,2009-2010 | 2013-2014 | 2014-2015,1,2,True,0
+Maharashtra,Satara,Castor Seed,1002.0,Kharif,300.0,100.0,3,3,1999-2000 | 2013-2014 | 2015-2016,1,1,False,0
+Maharashtra,Solapur,Castor Seed,1002.0,Kharif,200.0,,3,3,2008-2009 | 2013-2014 | 2014-2015,1,2,True,0
+Maharashtra,Thane,Niger Seed,1010.0,Kharif,2000.0,700.0,3,3,2001-2002 | 2012-2013 | 2013-2014,1,2,False,0
+Maharashtra,Wardha,Castor Seed,1002.0,Kharif,200.0,100.0,3,3,1999-2000 | 2000-2001 | 2008-2009,1,2,False,0
+Maharashtra,Washim,Castor Seed,1002.0,Kharif,100.0,10.0,3,3,2000-2001 | 2001-2002 | 2002-2003,1,3,False,0
+Meghalaya,East Jaintia Hills,Tobacco,1302.0,Whole Year,9.0,3.0,3,3,1998-1999 | 1999-2000 | 2000-2001,1,3,False,0
+Meghalaya,South Garo Hills,Mesta,1103.0,Kharif,887.0,5326.0,3,3,2019-2020 | 2020-2021 | 2021-2022,1,3,False,0
+Meghalaya,South West Garo Hills,Tobacco,1302.0,Rabi,157.0,158.0,3,3,2017-2018 | 2018-2019 | 2019-2020,1,3,False,0
+Meghalaya,West Garo Hills,Linseed,1005.0,Rabi,82.0,39.0,3,3,2006-2007 | 2007-2008 | 2010-2011,1,2,False,0
+Meghalaya,West Garo Hills,Linseed,1005.0,Rabi,82.0,49.0,3,3,2019-2020 | 2020-2021 | 2022-2023,1,2,False,0
+Nagaland,Dimapur,Castor Seed,1002.0,Kharif,60.0,40.0,3,3,2012-2013 | 2013-2014 | 2014-2015,1,3,False,0
+Nagaland,Dimapur,Mesta,1103.0,Kharif,270.0,310.0,3,3,2013-2014 | 2014-2015 | 2015-2016,1,3,False,0
+Nagaland,Kohima,Linseed,1005.0,Rabi,470.0,370.0,3,3,2010-2011 | 2011-2012 | 2012-2013,1,3,False,0
+Nagaland,Longleng,Linseed,1005.0,Rabi,250.0,200.0,3,3,2018-2019 | 2019-2020 | 2020-2021,1,3,False,0
+Nagaland,Mokokchung,Castor Seed,1002.0,Kharif,70.0,60.0,3,3,2014-2015 | 2015-2016 | 2016-2017,1,3,False,0
+Nagaland,Mokokchung,Linseed,1005.0,Rabi,770.0,630.0,3,3,2018-2019 | 2019-2020 | 2020-2021,1,3,False,0
+Nagaland,Mon,Mesta,1103.0,Kharif,200.0,220.0,3,3,2016-2017 | 2017-2018 | 2018-2019,1,3,False,0
+Nagaland,Phek,Linseed,1005.0,Rabi,660.0,520.0,3,3,2010-2011 | 2011-2012 | 2012-2013,1,3,False,0
+Nagaland,Wokha,Castor Seed,1002.0,Kharif,40.0,20.0,3,3,2018-2019 | 2019-2020 | 2020-2021,1,3,False,0
+Nagaland,Wokha,Linseed,1005.0,Rabi,590.0,470.0,3,3,2010-2011 | 2011-2012 | 2012-2013,1,3,False,0
+Nagaland,Wokha,Mesta,1103.0,Kharif,200.0,220.0,3,3,2012-2013 | 2013-2014 | 2014-2015,1,3,False,0
+Nagaland,Zunheboto,Linseed,1005.0,Rabi,260.0,210.0,3,3,2010-2011 | 2011-2012 | 2012-2013,1,3,False,0
+Nagaland,Zunheboto,Linseed,1005.0,Rabi,280.0,210.0,3,3,2014-2015 | 2015-2016 | 2016-2017,1,3,False,0
+Odisha,Boudh,Castor Seed,1002.0,Rabi,40.0,30.0,3,3,2000-2001 | 2001-2002 | 2002-2003,1,3,False,0
+Odisha,Gajapati,Castor Seed,1002.0,Rabi,30.0,20.0,3,3,1999-2000 | 2000-2001 | 2002-2003,1,2,False,0
+Odisha,Khordha,Castor Seed,1002.0,Kharif,20.0,10.0,3,3,2001-2002 | 2002-2003 | 2003-2004,1,3,False,0
+Odisha,Khordha,Linseed,1005.0,Rabi,40.0,10.0,3,3,2000-2001 | 2002-2003 | 2003-2004,1,2,False,0
+Odisha,Sonepur,Castor Seed,1002.0,Kharif,30.0,10.0,3,3,2000-2001 | 2002-2003 | 2003-2004,1,2,False,0
+Rajasthan,Banswara,Castor Seed,1002.0,Kharif,7.0,3.0,3,3,2012-2013 | 2017-2018 | 2019-2020,1,1,False,0
+Rajasthan,Bharatpur,Tobacco,1302.0,Whole Year,1.0,1.0,3,3,2004-2005 | 2005-2006 | 2017-2018,1,2,False,0
+Rajasthan,Bharatpur,Tobacco,1302.0,Whole Year,1.0,,3,3,2002-2003 | 2003-2004 | 2008-2009,1,2,True,0
+Rajasthan,Bikaner,Linseed,1005.0,Rabi,1.0,1.0,3,3,2011-2012 | 2017-2018 | 2018-2019,1,2,False,0
+Rajasthan,Jhunjhunu,Tobacco,1302.0,Whole Year,24.0,120.0,3,3,2012-2013 | 2014-2015 | 2015-2016,1,2,False,0
+Rajasthan,Karauli,Castor Seed,1002.0,Kharif,1.0,1.0,3,3,2006-2007 | 2011-2012 | 2012-2013,1,2,False,0
+Rajasthan,Pratapgarh,Castor Seed,1002.0,Kharif,1.0,1.0,3,3,2012-2013 | 2014-2015 | 2022-2023,1,1,False,0
+Rajasthan,Rajsamand,Linseed,1005.0,Rabi,1.0,3.0,3,3,2015-2016 | 2017-2018 | 2018-2019,1,2,False,0
+Rajasthan,Sikar,Castor Seed,1002.0,Kharif,2.0,1.0,3,3,1999-2000 | 2007-2008 | 2010-2011,1,1,False,0
+Tamil Nadu,Kanniyakumari,Cardamom,506.0,Whole Year,16.0,1.0,3,3,2016-2017 | 2017-2018 | 2018-2019,1,3,False,0
+Tamil Nadu,Kanniyakumari,Cardamom,506.0,Whole Year,60.0,6.0,3,3,2005-2006 | 2006-2007 | 2007-2008,1,3,False,0
+Tamil Nadu,Namakkal,Cardamom,506.0,Whole Year,15.0,1.0,3,3,2005-2006 | 2009-2010 | 2013-2014,1,1,False,0
+Tamil Nadu,Thanjavur,Castor Seed,1002.0,Whole Year,3.0,1.0,3,3,2007-2008 | 2008-2009 | 2011-2012,1,2,False,0
+Tamil Nadu,Theni,Tobacco,1302.0,Whole Year,21.0,46.0,3,3,1998-1999 | 2006-2007 | 2007-2008,1,2,False,0
+Tamil Nadu,Thiruvallur,Castor Seed,1002.0,Kharif,2.0,1.0,3,3,2003-2004 | 2014-2015 | 2015-2016,1,2,False,0
+Tamil Nadu,Tiruvannamalai,Castor Seed,1002.0,Kharif,2.0,1.0,3,3,2000-2001 | 2002-2003 | 2020-2021,1,1,False,0
+Tamil Nadu,Viluppuram,Tobacco,1302.0,Whole Year,1.0,1.0,3,3,2008-2009 | 2013-2014 | 2018-2019,1,1,False,0
+Tamil Nadu,Virudhunagar,Cardamom,506.0,Whole Year,325.0,28.0,3,3,2013-2014 | 2014-2015 | 2016-2017,1,2,False,0
+Telangana,Bhadradri Kothagudem,Tobacco,1302.0,Kharif,1.0,3.0,3,3,2016-2017 | 2017-2018 | 2021-2022,1,2,False,0
+The Dadra And Nagar Haveli And Daman And Diu,Dadra And Nagar Haveli,Niger Seed,1010.0,Kharif,10.0,3.0,3,3,2016-2017 | 2018-2019 | 2019-2020,1,2,False,0
+The Dadra And Nagar Haveli And Daman And Diu,Dadra And Nagar Haveli,Niger Seed,1010.0,Rabi,20.0,8.0,3,3,2016-2017 | 2018-2019 | 2019-2020,1,2,False,0
+The Dadra And Nagar Haveli And Daman And Diu,Dadra And Nagar Haveli,Niger Seed,1010.0,Winter,30.0,30.0,3,3,2000-2001 | 2003-2004 | 2004-2005,1,2,False,0
+Uttar Pradesh,Azamgarh,Linseed,1005.0,Rabi,1.0,1.0,3,3,2004-2005 | 2008-2009 | 2011-2012,1,1,False,0
+Uttar Pradesh,Azamgarh,Linseed,1005.0,Rabi,3.0,1.0,3,3,1999-2000 | 2005-2006 | 2013-2014,1,1,False,0
+Uttar Pradesh,Baghpat,Tobacco,1302.0,Rabi,2.0,9.0,3,3,2016-2017 | 2020-2021 | 2021-2022,1,2,False,0
+Uttar Pradesh,Bhadohi,Linseed,1005.0,Rabi,2.0,1.0,3,3,2008-2009 | 2010-2011 | 2013-2014,1,1,False,0
+Uttar Pradesh,Jaunpur,Tobacco,1302.0,Rabi,9.0,40.0,3,3,2016-2017 | 2020-2021 | 2021-2022,1,2,False,0
+Uttar Pradesh,Kaushambi,Tobacco,1302.0,Rabi,18.0,80.0,3,3,2016-2017 | 2020-2021 | 2021-2022,1,2,False,0
+Uttar Pradesh,Kushinagar,Linseed,1005.0,Rabi,3.0,1.0,3,3,2005-2006 | 2011-2012 | 2012-2013,1,2,False,0
+Uttar Pradesh,Kushinagar,Linseed,1005.0,Rabi,3.0,2.0,3,3,2019-2020 | 2020-2021 | 2021-2022,1,3,False,0
+Uttar Pradesh,Lucknow,Linseed,1005.0,Rabi,1.0,1.0,3,3,2018-2019 | 2019-2020 | 2021-2022,1,2,False,0
+Uttar Pradesh,Mau,Linseed,1005.0,Rabi,3.0,1.0,3,3,1997-1998 | 1999-2000 | 2002-2003,1,1,False,0
+Uttar Pradesh,Sant Kabir Nagar,Linseed,1005.0,Rabi,7.0,4.0,3,3,2017-2018 | 2020-2021 | 2021-2022,1,2,False,0
+Uttar Pradesh,Sitapur,Linseed,1005.0,Rabi,1.0,1.0,3,3,2013-2014 | 2019-2020 | 2021-2022,1,1,False,0
+Uttar Pradesh,Unnao,Tobacco,1302.0,Rabi,1.0,4.0,3,3,2016-2017 | 2020-2021 | 2021-2022,1,2,False,0
+Uttar Pradesh,Unnao,Tobacco,1302.0,Summer,1.0,3.0,3,3,2012-2013 | 2013-2014 | 2020-2021,1,2,False,0
+Uttar Pradesh,Varanasi,Linseed,1005.0,Rabi,1.0,1.0,3,3,2008-2009 | 2010-2011 | 2014-2015,1,1,False,0
+West Bengal,Cooch Behar,Niger Seed,1010.0,Kharif,110.0,65.0,3,3,2020-2021 | 2021-2022 | 2022-2023,1,3,False,0

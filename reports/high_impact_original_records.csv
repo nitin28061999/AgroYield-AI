@@ -1,0 +1,181 @@
+audit_group_id,id,year,state_name,state_code,district_name,district_code,crop_name,crop_code,season,area,area_unit,production,production_unit,yield,yield_unit,district_count
+HDG_001,328424,2017-2018,Assam,18,Cachar,282,Castor Seed,1002.0,Kharif,1.0,Hectare,1.0,Tonnes,1.0,Tonnes/Hectare,5
+HDG_001,328494,2017-2018,Assam,18,Darrang,283,Castor Seed,1002.0,Kharif,1.0,Hectare,1.0,Tonnes,1.0,Tonnes/Hectare,5
+HDG_001,329024,2017-2018,Assam,18,Nalbari,298,Castor Seed,1002.0,Kharif,1.0,Hectare,1.0,Tonnes,1.0,Tonnes/Hectare,5
+HDG_001,329059,2017-2018,Assam,18,Sivasagar,300,Castor Seed,1002.0,Kharif,1.0,Hectare,1.0,Tonnes,1.0,Tonnes/Hectare,5
+HDG_001,329125,2017-2018,Assam,18,Sribhumi,293,Castor Seed,1002.0,Kharif,1.0,Hectare,1.0,Tonnes,1.0,Tonnes/Hectare,5
+HDG_002,356373,2018-2019,Madhya Pradesh,23,Agar-Malwa,667,Castor Seed,1002.0,Kharif,1.0,Hectare,,Tonnes,0.0,Tonnes/Hectare,7
+HDG_002,356566,2018-2019,Madhya Pradesh,23,Betul,394,Castor Seed,1002.0,Kharif,1.0,Hectare,,Tonnes,0.0,Tonnes/Hectare,7
+HDG_002,356975,2018-2019,Madhya Pradesh,23,Harda,408,Castor Seed,1002.0,Kharif,1.0,Hectare,,Tonnes,0.0,Tonnes/Hectare,7
+HDG_002,357089,2018-2019,Madhya Pradesh,23,Katni,413,Castor Seed,1002.0,Kharif,1.0,Hectare,,Tonnes,0.0,Tonnes/Hectare,7
+HDG_002,357225,2018-2019,Madhya Pradesh,23,Mandsaur,416,Castor Seed,1002.0,Kharif,1.0,Hectare,,Tonnes,0.0,Tonnes/Hectare,7
+HDG_002,357355,2018-2019,Madhya Pradesh,23,Neemuch,419,Castor Seed,1002.0,Kharif,1.0,Hectare,,Tonnes,0.0,Tonnes/Hectare,7
+HDG_002,357548,2018-2019,Madhya Pradesh,23,Sagar,425,Castor Seed,1002.0,Kharif,1.0,Hectare,,Tonnes,0.0,Tonnes/Hectare,7
+HDG_003,92870,2003-2004,Madhya Pradesh,23,Burhanpur,397,Castor Seed,1002.0,Kharif,1.0,Hectare,0.0,Tonnes,0.0,Tonnes/Hectare,5
+HDG_003,93053,2003-2004,Madhya Pradesh,23,Datia,401,Castor Seed,1002.0,Kharif,1.0,Hectare,0.0,Tonnes,0.0,Tonnes/Hectare,5
+HDG_003,93345,2003-2004,Madhya Pradesh,23,Indore,410,Castor Seed,1002.0,Kharif,1.0,Hectare,0.0,Tonnes,0.0,Tonnes/Hectare,5
+HDG_003,93657,2003-2004,Madhya Pradesh,23,Mandsaur,416,Castor Seed,1002.0,Kharif,1.0,Hectare,0.0,Tonnes,0.0,Tonnes/Hectare,5
+HDG_003,93735,2003-2004,Madhya Pradesh,23,Narmadapuram,409,Castor Seed,1002.0,Kharif,1.0,Hectare,0.0,Tonnes,0.0,Tonnes/Hectare,5
+HDG_004,126620,2005-2006,Madhya Pradesh,23,Harda,408,Castor Seed,1002.0,Kharif,1.0,Hectare,,Tonnes,0.0,Tonnes/Hectare,5
+HDG_004,126829,2005-2006,Madhya Pradesh,23,Mandsaur,416,Castor Seed,1002.0,Kharif,1.0,Hectare,,Tonnes,0.0,Tonnes/Hectare,5
+HDG_004,126875,2005-2006,Madhya Pradesh,23,Narmadapuram,409,Castor Seed,1002.0,Kharif,1.0,Hectare,,Tonnes,0.0,Tonnes/Hectare,5
+HDG_004,127075,2005-2006,Madhya Pradesh,23,Sagar,425,Castor Seed,1002.0,Kharif,1.0,Hectare,,Tonnes,0.0,Tonnes/Hectare,5
+HDG_004,127322,2005-2006,Madhya Pradesh,23,Ujjain,435,Castor Seed,1002.0,Kharif,1.0,Hectare,,Tonnes,0.0,Tonnes/Hectare,5
+HDG_005,31128,1999-2000,Maharashtra,27,Jalgaon,478,Castor Seed,1002.0,Kharif,300.0,Hectare,100.0,Tonnes,0.333,Tonnes/Hectare,8
+HDG_005,31156,1999-2000,Maharashtra,27,Jalna,479,Castor Seed,1002.0,Kharif,300.0,Hectare,100.0,Tonnes,0.333,Tonnes/Hectare,8
+HDG_005,31188,1999-2000,Maharashtra,27,Kolhapur,480,Castor Seed,1002.0,Kharif,300.0,Hectare,100.0,Tonnes,0.333,Tonnes/Hectare,8
+HDG_005,31221,1999-2000,Maharashtra,27,Latur,481,Castor Seed,1002.0,Kharif,300.0,Hectare,100.0,Tonnes,0.333,Tonnes/Hectare,8
+HDG_005,31255,1999-2000,Maharashtra,27,Nagpur,484,Castor Seed,1002.0,Kharif,300.0,Hectare,100.0,Tonnes,0.333,Tonnes/Hectare,8
+HDG_005,31417,1999-2000,Maharashtra,27,Pune,490,Castor Seed,1002.0,Kharif,300.0,Hectare,100.0,Tonnes,0.333,Tonnes/Hectare,8
+HDG_005,31520,1999-2000,Maharashtra,27,Satara,494,Castor Seed,1002.0,Kharif,300.0,Hectare,100.0,Tonnes,0.333,Tonnes/Hectare,8
+HDG_005,31679,1999-2000,Maharashtra,27,Yavatmal,500,Castor Seed,1002.0,Kharif,300.0,Hectare,100.0,Tonnes,0.333,Tonnes/Hectare,8
+HDG_006,175165,2008-2009,Maharashtra,27,Ahilyanagar,466,Castor Seed,1002.0,Kharif,100.0,Hectare,,Tonnes,0.0,Tonnes/Hectare,7
+HDG_006,175304,2008-2009,Maharashtra,27,Buldhana,472,Castor Seed,1002.0,Kharif,100.0,Hectare,,Tonnes,0.0,Tonnes/Hectare,7
+HDG_006,175331,2008-2009,Maharashtra,27,Chandrapur,473,Castor Seed,1002.0,Kharif,100.0,Hectare,,Tonnes,0.0,Tonnes/Hectare,7
+HDG_006,175488,2008-2009,Maharashtra,27,Hingoli,477,Castor Seed,1002.0,Kharif,100.0,Hectare,,Tonnes,0.0,Tonnes/Hectare,7
+HDG_006,175803,2008-2009,Maharashtra,27,Pune,490,Castor Seed,1002.0,Kharif,100.0,Hectare,,Tonnes,0.0,Tonnes/Hectare,7
+HDG_006,176043,2008-2009,Maharashtra,27,Washim,499,Castor Seed,1002.0,Kharif,100.0,Hectare,,Tonnes,0.0,Tonnes/Hectare,7
+HDG_006,176064,2008-2009,Maharashtra,27,Yavatmal,500,Castor Seed,1002.0,Kharif,100.0,Hectare,,Tonnes,0.0,Tonnes/Hectare,7
+HDG_007,76602,2002-2003,Maharashtra,27,Ahilyanagar,466,Castor Seed,1002.0,Kharif,100.0,Hectare,10.0,Tonnes,0.1,Tonnes/Hectare,6
+HDG_007,76775,2002-2003,Maharashtra,27,Chandrapur,473,Castor Seed,1002.0,Kharif,100.0,Hectare,10.0,Tonnes,0.1,Tonnes/Hectare,6
+HDG_007,77261,2002-2003,Maharashtra,27,Pune,490,Castor Seed,1002.0,Kharif,100.0,Hectare,10.0,Tonnes,0.1,Tonnes/Hectare,6
+HDG_007,77478,2002-2003,Maharashtra,27,Wardha,498,Castor Seed,1002.0,Kharif,100.0,Hectare,10.0,Tonnes,0.1,Tonnes/Hectare,6
+HDG_007,77502,2002-2003,Maharashtra,27,Washim,499,Castor Seed,1002.0,Kharif,100.0,Hectare,10.0,Tonnes,0.1,Tonnes/Hectare,6
+HDG_007,77526,2002-2003,Maharashtra,27,Yavatmal,500,Castor Seed,1002.0,Kharif,100.0,Hectare,10.0,Tonnes,0.1,Tonnes/Hectare,6
+HDG_008,279622,2014-2015,Maharashtra,27,Ahilyanagar,466,Castor Seed,1002.0,Kharif,100.0,Hectare,,Tonnes,0.0,Tonnes/Hectare,6
+HDG_008,279956,2014-2015,Maharashtra,27,Jalna,479,Castor Seed,1002.0,Kharif,100.0,Hectare,,Tonnes,0.0,Tonnes/Hectare,6
+HDG_008,280040,2014-2015,Maharashtra,27,Nagpur,484,Castor Seed,1002.0,Kharif,100.0,Hectare,,Tonnes,0.0,Tonnes/Hectare,6
+HDG_008,280189,2014-2015,Maharashtra,27,Pune,490,Castor Seed,1002.0,Kharif,100.0,Hectare,,Tonnes,0.0,Tonnes/Hectare,6
+HDG_008,280277,2014-2015,Maharashtra,27,Satara,494,Castor Seed,1002.0,Kharif,100.0,Hectare,,Tonnes,0.0,Tonnes/Hectare,6
+HDG_008,280390,2014-2015,Maharashtra,27,Washim,499,Castor Seed,1002.0,Kharif,100.0,Hectare,,Tonnes,0.0,Tonnes/Hectare,6
+HDG_009,111947,2004-2005,Maharashtra,27,Latur,481,Castor Seed,1002.0,Kharif,100.0,Hectare,,Tonnes,0.0,Tonnes/Hectare,5
+HDG_009,112161,2004-2005,Maharashtra,27,Pune,490,Castor Seed,1002.0,Kharif,100.0,Hectare,,Tonnes,0.0,Tonnes/Hectare,5
+HDG_009,112248,2004-2005,Maharashtra,27,Sangli,493,Castor Seed,1002.0,Kharif,100.0,Hectare,,Tonnes,0.0,Tonnes/Hectare,5
+HDG_009,112405,2004-2005,Maharashtra,27,Wardha,498,Castor Seed,1002.0,Kharif,100.0,Hectare,,Tonnes,0.0,Tonnes/Hectare,5
+HDG_009,112428,2004-2005,Maharashtra,27,Washim,499,Castor Seed,1002.0,Kharif,100.0,Hectare,,Tonnes,0.0,Tonnes/Hectare,5
+HDG_010,127539,2005-2006,Maharashtra,27,Buldhana,472,Castor Seed,1002.0,Kharif,200.0,Hectare,100.0,Tonnes,0.5,Tonnes/Hectare,5
+HDG_010,127567,2005-2006,Maharashtra,27,Chandrapur,473,Castor Seed,1002.0,Kharif,200.0,Hectare,100.0,Tonnes,0.5,Tonnes/Hectare,5
+HDG_010,127710,2005-2006,Maharashtra,27,Gondia,476,Castor Seed,1002.0,Kharif,200.0,Hectare,100.0,Tonnes,0.5,Tonnes/Hectare,5
+HDG_010,127820,2005-2006,Maharashtra,27,Kolhapur,480,Castor Seed,1002.0,Kharif,200.0,Hectare,100.0,Tonnes,0.5,Tonnes/Hectare,5
+HDG_010,128127,2005-2006,Maharashtra,27,Sangli,493,Castor Seed,1002.0,Kharif,200.0,Hectare,100.0,Tonnes,0.5,Tonnes/Hectare,5
+HDG_011,159035,2007-2008,Maharashtra,27,Buldhana,472,Castor Seed,1002.0,Kharif,100.0,Hectare,,Tonnes,0.0,Tonnes/Hectare,5
+HDG_011,159121,2007-2008,Maharashtra,27,Dharashiv,488,Castor Seed,1002.0,Kharif,100.0,Hectare,,Tonnes,0.0,Tonnes/Hectare,5
+HDG_011,159207,2007-2008,Maharashtra,27,Gondia,476,Castor Seed,1002.0,Kharif,100.0,Hectare,,Tonnes,0.0,Tonnes/Hectare,5
+HDG_011,159225,2007-2008,Maharashtra,27,Hingoli,477,Castor Seed,1002.0,Kharif,100.0,Hectare,,Tonnes,0.0,Tonnes/Hectare,5
+HDG_011,159552,2007-2008,Maharashtra,27,Pune,490,Castor Seed,1002.0,Kharif,100.0,Hectare,,Tonnes,0.0,Tonnes/Hectare,5
+HDG_012,159063,2007-2008,Maharashtra,27,Chandrapur,473,Castor Seed,1002.0,Kharif,300.0,Hectare,100.0,Tonnes,0.333,Tonnes/Hectare,5
+HDG_012,159090,2007-2008,Maharashtra,27,Chhatrapati Sambhajinagar,469,Castor Seed,1002.0,Kharif,300.0,Hectare,100.0,Tonnes,0.333,Tonnes/Hectare,5
+HDG_012,159319,2007-2008,Maharashtra,27,Kolhapur,480,Castor Seed,1002.0,Kharif,300.0,Hectare,100.0,Tonnes,0.333,Tonnes/Hectare,5
+HDG_012,159388,2007-2008,Maharashtra,27,Nagpur,484,Castor Seed,1002.0,Kharif,300.0,Hectare,100.0,Tonnes,0.333,Tonnes/Hectare,5
+HDG_012,159718,2007-2008,Maharashtra,27,Solapur,496,Castor Seed,1002.0,Kharif,300.0,Hectare,100.0,Tonnes,0.333,Tonnes/Hectare,5
+HDG_013,191995,2009-2010,Maharashtra,27,Ahilyanagar,466,Castor Seed,1002.0,Kharif,100.0,Hectare,,Tonnes,0.0,Tonnes/Hectare,5
+HDG_013,192130,2009-2010,Maharashtra,27,Buldhana,472,Castor Seed,1002.0,Kharif,100.0,Hectare,,Tonnes,0.0,Tonnes/Hectare,5
+HDG_013,192363,2009-2010,Maharashtra,27,Jalna,479,Castor Seed,1002.0,Kharif,100.0,Hectare,,Tonnes,0.0,Tonnes/Hectare,5
+HDG_013,192609,2009-2010,Maharashtra,27,Pune,490,Castor Seed,1002.0,Kharif,100.0,Hectare,,Tonnes,0.0,Tonnes/Hectare,5
+HDG_013,192820,2009-2010,Maharashtra,27,Wardha,498,Castor Seed,1002.0,Kharif,100.0,Hectare,,Tonnes,0.0,Tonnes/Hectare,5
+HDG_014,47334,2000-2001,Odisha,21,Cuttack,350,Castor Seed,1002.0,Rabi,20.0,Hectare,10.0,Tonnes,0.5,Tonnes/Hectare,6
+HDG_014,47515,2000-2001,Odisha,21,Jagatsinghapur,355,Castor Seed,1002.0,Rabi,20.0,Hectare,10.0,Tonnes,0.5,Tonnes/Hectare,6
+HDG_014,47576,2000-2001,Odisha,21,Jharsuguda,357,Castor Seed,1002.0,Rabi,20.0,Hectare,10.0,Tonnes,0.5,Tonnes/Hectare,6
+HDG_014,47847,2000-2001,Odisha,21,Mayurbhanj,365,Castor Seed,1002.0,Rabi,20.0,Hectare,10.0,Tonnes,0.5,Tonnes/Hectare,6
+HDG_014,48068,2000-2001,Odisha,21,Sambalpur,371,Castor Seed,1002.0,Rabi,20.0,Hectare,10.0,Tonnes,0.5,Tonnes/Hectare,6
+HDG_014,48103,2000-2001,Odisha,21,Sonepur,372,Castor Seed,1002.0,Rabi,20.0,Hectare,10.0,Tonnes,0.5,Tonnes/Hectare,6
+HDG_015,404987,2020-2021,Tamil Nadu,33,Chengalpattu,730,Castor Seed,1002.0,Kharif,1.0,Hectare,0.0,Tonnes,0.0,Tonnes/Hectare,6
+HDG_015,405439,2020-2021,Tamil Nadu,33,Kanniyakumari,575,Castor Seed,1002.0,Kharif,1.0,Hectare,0.0,Tonnes,0.0,Tonnes/Hectare,6
+HDG_015,405906,2020-2021,Tamil Nadu,33,Ranipet,731,Castor Seed,1002.0,Kharif,1.0,Hectare,0.0,Tonnes,0.0,Tonnes/Hectare,6
+HDG_015,406139,2020-2021,Tamil Nadu,33,Thanjavur,586,Castor Seed,1002.0,Kharif,1.0,Hectare,0.0,Tonnes,0.0,Tonnes/Hectare,6
+HDG_015,406357,2020-2021,Tamil Nadu,33,Thoothukkudi,594,Castor Seed,1002.0,Kharif,1.0,Hectare,0.0,Tonnes,0.0,Tonnes/Hectare,6
+HDG_015,406752,2020-2021,Tamil Nadu,33,Viluppuram,596,Castor Seed,1002.0,Kharif,1.0,Hectare,0.0,Tonnes,0.0,Tonnes/Hectare,6
+HDG_016,384154,2019-2020,Tamil Nadu,33,Kanniyakumari,575,Castor Seed,1002.0,Kharif,1.0,Hectare,,Tonnes,0.0,Tonnes/Hectare,5
+HDG_016,384501,2019-2020,Tamil Nadu,33,Pudukkottai,582,Castor Seed,1002.0,Kharif,1.0,Hectare,,Tonnes,0.0,Tonnes/Hectare,5
+HDG_016,384662,2019-2020,Tamil Nadu,33,Sivaganga,585,Castor Seed,1002.0,Kharif,1.0,Hectare,,Tonnes,0.0,Tonnes/Hectare,5
+HDG_016,384727,2019-2020,Tamil Nadu,33,Thanjavur,586,Castor Seed,1002.0,Kharif,1.0,Hectare,,Tonnes,0.0,Tonnes/Hectare,5
+HDG_016,384936,2019-2020,Tamil Nadu,33,Thoothukkudi,594,Castor Seed,1002.0,Kharif,1.0,Hectare,,Tonnes,0.0,Tonnes/Hectare,5
+HDG_017,50616,2000-2001,Uttar Pradesh,9,Ambedkar Nagar,121,Linseed,1005.0,Rabi,1.0,Hectare,0.1,Tonnes,0.1,Tonnes/Hectare,6
+HDG_017,51095,2000-2001,Uttar Pradesh,9,Deoria,137,Linseed,1005.0,Rabi,1.0,Hectare,0.1,Tonnes,0.1,Tonnes/Hectare,6
+HDG_017,51791,2000-2001,Uttar Pradesh,9,Mathura,167,Linseed,1005.0,Rabi,1.0,Hectare,0.1,Tonnes,0.1,Tonnes/Hectare,6
+HDG_017,51814,2000-2001,Uttar Pradesh,9,Mau,168,Linseed,1005.0,Rabi,1.0,Hectare,0.1,Tonnes,0.1,Tonnes/Hectare,6
+HDG_017,51890,2000-2001,Uttar Pradesh,9,Moradabad,171,Linseed,1005.0,Rabi,1.0,Hectare,0.1,Tonnes,0.1,Tonnes/Hectare,6
+HDG_017,51918,2000-2001,Uttar Pradesh,9,Muzaffarnagar,172,Linseed,1005.0,Rabi,1.0,Hectare,0.1,Tonnes,0.1,Tonnes/Hectare,6
+HDG_018,82860,2002-2003,Uttar Pradesh,9,Bhadohi,179,Linseed,1005.0,Rabi,3.0,Hectare,1.0,Tonnes,0.333,Tonnes/Hectare,6
+HDG_018,82916,2002-2003,Uttar Pradesh,9,Budaun,133,Linseed,1005.0,Rabi,3.0,Hectare,1.0,Tonnes,0.333,Tonnes/Hectare,6
+HDG_018,83087,2002-2003,Uttar Pradesh,9,Etawah,139,Linseed,1005.0,Rabi,3.0,Hectare,1.0,Tonnes,0.333,Tonnes/Hectare,6
+HDG_018,83588,2002-2003,Uttar Pradesh,9,Kaushambi,158,Linseed,1005.0,Rabi,3.0,Hectare,1.0,Tonnes,0.333,Tonnes/Hectare,6
+HDG_018,83854,2002-2003,Uttar Pradesh,9,Mau,168,Linseed,1005.0,Rabi,3.0,Hectare,1.0,Tonnes,0.333,Tonnes/Hectare,6
+HDG_018,83976,2002-2003,Uttar Pradesh,9,Muzaffarnagar,172,Linseed,1005.0,Rabi,3.0,Hectare,1.0,Tonnes,0.333,Tonnes/Hectare,6
+HDG_019,409353,2020-2021,Uttar Pradesh,9,Bulandshahr,134,Linseed,1005.0,Rabi,2.0,Hectare,1.0,Tonnes,0.5,Tonnes/Hectare,6
+HDG_019,409450,2020-2021,Uttar Pradesh,9,Deoria,137,Linseed,1005.0,Rabi,2.0,Hectare,1.0,Tonnes,0.5,Tonnes/Hectare,6
+HDG_019,409965,2020-2021,Uttar Pradesh,9,Jaunpur,152,Linseed,1005.0,Rabi,2.0,Hectare,1.0,Tonnes,0.5,Tonnes/Hectare,6
+HDG_019,410479,2020-2021,Uttar Pradesh,9,Mau,168,Linseed,1005.0,Rabi,2.0,Hectare,1.0,Tonnes,0.5,Tonnes/Hectare,6
+HDG_019,410633,2020-2021,Uttar Pradesh,9,Pilibhit,173,Linseed,1005.0,Rabi,2.0,Hectare,1.0,Tonnes,0.5,Tonnes/Hectare,6
+HDG_019,411156,2020-2021,Uttar Pradesh,9,Varanasi,187,Linseed,1005.0,Rabi,2.0,Hectare,1.0,Tonnes,0.5,Tonnes/Hectare,6
+HDG_020,387131,2019-2020,Uttar Pradesh,9,Aligarh,119,Linseed,1005.0,Rabi,1.0,Hectare,1.0,Tonnes,1.0,Tonnes/Hectare,5
+HDG_020,388703,2019-2020,Uttar Pradesh,9,Lucknow,162,Linseed,1005.0,Rabi,1.0,Hectare,1.0,Tonnes,1.0,Tonnes/Hectare,5
+HDG_020,389032,2019-2020,Uttar Pradesh,9,Pratapgarh,174,Linseed,1005.0,Rabi,1.0,Hectare,1.0,Tonnes,1.0,Tonnes/Hectare,5
+HDG_020,389198,2019-2020,Uttar Pradesh,9,Sambhal,659,Linseed,1005.0,Rabi,1.0,Hectare,1.0,Tonnes,1.0,Tonnes/Hectare,5
+HDG_020,389380,2019-2020,Uttar Pradesh,9,Sitapur,183,Linseed,1005.0,Rabi,1.0,Hectare,1.0,Tonnes,1.0,Tonnes/Hectare,5
+HDG_021,377884,2019-2020,Madhya Pradesh,23,Chhatarpur,398,Mesta,1103.0,Kharif,2.0,Hectare,1.0,Tonnes,0.5,Tonnes/Hectare,6
+HDG_021,377986,2019-2020,Madhya Pradesh,23,Datia,401,Mesta,1103.0,Kharif,2.0,Hectare,1.0,Tonnes,0.5,Tonnes/Hectare,6
+HDG_021,378218,2019-2020,Madhya Pradesh,23,Indore,410,Mesta,1103.0,Kharif,2.0,Hectare,1.0,Tonnes,0.5,Tonnes/Hectare,6
+HDG_021,378282,2019-2020,Madhya Pradesh,23,Jhabua,412,Mesta,1103.0,Kharif,2.0,Hectare,1.0,Tonnes,0.5,Tonnes/Hectare,6
+HDG_021,378586,2019-2020,Madhya Pradesh,23,Neemuch,419,Mesta,1103.0,Kharif,2.0,Hectare,1.0,Tonnes,0.5,Tonnes/Hectare,6
+HDG_021,379220,2019-2020,Madhya Pradesh,23,Vidisha,437,Mesta,1103.0,Kharif,2.0,Hectare,1.0,Tonnes,0.5,Tonnes/Hectare,6
+HDG_022,424052,2021-2022,Nagaland,13,Kohima,245,Mesta,1103.0,Kharif,1.0,Hectare,1.0,Tonnes,1.0,Tonnes/Hectare,6
+HDG_022,424096,2021-2022,Nagaland,13,Mokokchung,246,Mesta,1103.0,Kharif,1.0,Hectare,1.0,Tonnes,1.0,Tonnes/Hectare,6
+HDG_022,424143,2021-2022,Nagaland,13,Noklak,736,Mesta,1103.0,Kharif,1.0,Hectare,1.0,Tonnes,1.0,Tonnes/Hectare,6
+HDG_022,424217,2021-2022,Nagaland,13,Tuensang,249,Mesta,1103.0,Kharif,1.0,Hectare,1.0,Tonnes,1.0,Tonnes/Hectare,6
+HDG_022,424242,2021-2022,Nagaland,13,Wokha,250,Mesta,1103.0,Kharif,1.0,Hectare,1.0,Tonnes,1.0,Tonnes/Hectare,6
+HDG_022,424265,2021-2022,Nagaland,13,Zunheboto,251,Mesta,1103.0,Kharif,1.0,Hectare,1.0,Tonnes,1.0,Tonnes/Hectare,6
+HDG_023,355121,2018-2019,Karnataka,29,Davanagere,535,Niger Seed,1010.0,Kharif,1.0,Hectare,,Tonnes,0.0,Tonnes/Hectare,5
+HDG_023,355189,2018-2019,Karnataka,29,Dharwad,536,Niger Seed,1010.0,Kharif,1.0,Hectare,,Tonnes,0.0,Tonnes/Hectare,5
+HDG_023,355483,2018-2019,Karnataka,29,Kodagu,541,Niger Seed,1010.0,Kharif,1.0,Hectare,,Tonnes,0.0,Tonnes/Hectare,5
+HDG_023,355816,2018-2019,Karnataka,29,Shivamogga,547,Niger Seed,1010.0,Kharif,1.0,Hectare,,Tonnes,0.0,Tonnes/Hectare,5
+HDG_023,356070,2018-2019,Karnataka,29,Yadgir,635,Niger Seed,1010.0,Kharif,1.0,Hectare,,Tonnes,0.0,Tonnes/Hectare,5
+HDG_024,356513,2018-2019,Madhya Pradesh,23,Balaghat,392,Niger Seed,1010.0,Kharif,1.0,Hectare,,Tonnes,0.0,Tonnes/Hectare,7
+HDG_024,356955,2018-2019,Madhya Pradesh,23,Gwalior,407,Niger Seed,1010.0,Kharif,1.0,Hectare,,Tonnes,0.0,Tonnes/Hectare,7
+HDG_024,357138,2018-2019,Madhya Pradesh,23,Khandwa (East Nimar),405,Niger Seed,1010.0,Kharif,1.0,Hectare,,Tonnes,0.0,Tonnes/Hectare,7
+HDG_024,357174,2018-2019,Madhya Pradesh,23,Khargone (West Nimar),414,Niger Seed,1010.0,Kharif,1.0,Hectare,,Tonnes,0.0,Tonnes/Hectare,7
+HDG_024,357368,2018-2019,Madhya Pradesh,23,Neemuch,419,Niger Seed,1010.0,Kharif,1.0,Hectare,,Tonnes,0.0,Tonnes/Hectare,7
+HDG_024,357397,2018-2019,Madhya Pradesh,23,Panna,420,Niger Seed,1010.0,Kharif,1.0,Hectare,,Tonnes,0.0,Tonnes/Hectare,7
+HDG_024,357495,2018-2019,Madhya Pradesh,23,Ratlam,423,Niger Seed,1010.0,Kharif,1.0,Hectare,,Tonnes,0.0,Tonnes/Hectare,7
+HDG_025,278932,2014-2015,Madhya Pradesh,23,Barwani,393,Niger Seed,1010.0,Kharif,2000.0,Hectare,1000.0,Tonnes,0.5,Tonnes/Hectare,5
+HDG_025,279233,2014-2015,Madhya Pradesh,23,Khargone (West Nimar),414,Niger Seed,1010.0,Kharif,2000.0,Hectare,1000.0,Tonnes,0.5,Tonnes/Hectare,5
+HDG_025,279479,2014-2015,Madhya Pradesh,23,Shahdol,429,Niger Seed,1010.0,Kharif,2000.0,Hectare,1000.0,Tonnes,0.5,Tonnes/Hectare,5
+HDG_025,279557,2014-2015,Madhya Pradesh,23,Singrauli,638,Niger Seed,1010.0,Kharif,2000.0,Hectare,1000.0,Tonnes,0.5,Tonnes/Hectare,5
+HDG_025,279597,2014-2015,Madhya Pradesh,23,Umaria,436,Niger Seed,1010.0,Kharif,2000.0,Hectare,1000.0,Tonnes,0.5,Tonnes/Hectare,5
+HDG_026,377653,2019-2020,Madhya Pradesh,23,Ashoknagar,391,Niger Seed,1010.0,Kharif,4.0,Hectare,1.0,Tonnes,0.25,Tonnes/Hectare,5
+HDG_026,377797,2019-2020,Madhya Pradesh,23,Bhind,395,Niger Seed,1010.0,Kharif,4.0,Hectare,1.0,Tonnes,0.25,Tonnes/Hectare,5
+HDG_026,378152,2019-2020,Madhya Pradesh,23,Gwalior,407,Niger Seed,1010.0,Kharif,4.0,Hectare,1.0,Tonnes,0.25,Tonnes/Hectare,5
+HDG_026,378995,2019-2020,Madhya Pradesh,23,Sheopur,431,Niger Seed,1010.0,Kharif,4.0,Hectare,1.0,Tonnes,0.25,Tonnes/Hectare,5
+HDG_026,379026,2019-2020,Madhya Pradesh,23,Shivpuri,432,Niger Seed,1010.0,Kharif,4.0,Hectare,1.0,Tonnes,0.25,Tonnes/Hectare,5
+HDG_027,279798,2014-2015,Maharashtra,27,Chhatrapati Sambhajinagar,469,Niger Seed,1010.0,Kharif,100.0,Hectare,,Tonnes,0.0,Tonnes/Hectare,7
+HDG_027,280222,2014-2015,Maharashtra,27,Raigad,491,Niger Seed,1010.0,Kharif,100.0,Hectare,,Tonnes,0.0,Tonnes/Hectare,7
+HDG_027,280235,2014-2015,Maharashtra,27,Ratnagiri,492,Niger Seed,1010.0,Kharif,100.0,Hectare,,Tonnes,0.0,Tonnes/Hectare,7
+HDG_027,280260,2014-2015,Maharashtra,27,Sangli,493,Niger Seed,1010.0,Kharif,100.0,Hectare,,Tonnes,0.0,Tonnes/Hectare,7
+HDG_027,280313,2014-2015,Maharashtra,27,Sindhudurg,495,Niger Seed,1010.0,Kharif,100.0,Hectare,,Tonnes,0.0,Tonnes/Hectare,7
+HDG_027,280341,2014-2015,Maharashtra,27,Solapur,496,Niger Seed,1010.0,Kharif,100.0,Hectare,,Tonnes,0.0,Tonnes/Hectare,7
+HDG_027,280360,2014-2015,Maharashtra,27,Thane,497,Niger Seed,1010.0,Kharif,100.0,Hectare,,Tonnes,0.0,Tonnes/Hectare,7
+HDG_028,30959,1999-2000,Maharashtra,27,Chandrapur,473,Niger Seed,1010.0,Kharif,100.0,Hectare,0.0,Tonnes,0.0,Tonnes/Hectare,5
+HDG_028,31116,1999-2000,Maharashtra,27,Hingoli,477,Niger Seed,1010.0,Kharif,100.0,Hectare,0.0,Tonnes,0.0,Tonnes/Hectare,5
+HDG_028,31267,1999-2000,Maharashtra,27,Nagpur,484,Niger Seed,1010.0,Kharif,100.0,Hectare,0.0,Tonnes,0.0,Tonnes/Hectare,5
+HDG_028,31662,1999-2000,Maharashtra,27,Washim,499,Niger Seed,1010.0,Kharif,100.0,Hectare,0.0,Tonnes,0.0,Tonnes/Hectare,5
+HDG_028,31689,1999-2000,Maharashtra,27,Yavatmal,500,Niger Seed,1010.0,Kharif,100.0,Hectare,0.0,Tonnes,0.0,Tonnes/Hectare,5
+HDG_029,175369,2008-2009,Maharashtra,27,Chhatrapati Sambhajinagar,469,Niger Seed,1010.0,Kharif,100.0,Hectare,100.0,Tonnes,1.0,Tonnes/Hectare,5
+HDG_029,175433,2008-2009,Maharashtra,27,Dhule,474,Niger Seed,1010.0,Kharif,100.0,Hectare,100.0,Tonnes,1.0,Tonnes/Hectare,5
+HDG_029,175718,2008-2009,Maharashtra,27,Nandurbar,486,Niger Seed,1010.0,Kharif,100.0,Hectare,100.0,Tonnes,1.0,Tonnes/Hectare,5
+HDG_029,175892,2008-2009,Maharashtra,27,Sangli,493,Niger Seed,1010.0,Kharif,100.0,Hectare,100.0,Tonnes,1.0,Tonnes/Hectare,5
+HDG_029,175982,2008-2009,Maharashtra,27,Solapur,496,Niger Seed,1010.0,Kharif,100.0,Hectare,100.0,Tonnes,1.0,Tonnes/Hectare,5
+HDG_030,261878,2013-2014,Maharashtra,27,Chhatrapati Sambhajinagar,469,Niger Seed,1010.0,Kharif,100.0,Hectare,,Tonnes,0.0,Tonnes/Hectare,5
+HDG_030,262052,2013-2014,Maharashtra,27,Jalna,479,Niger Seed,1010.0,Kharif,100.0,Hectare,,Tonnes,0.0,Tonnes/Hectare,5
+HDG_030,262349,2013-2014,Maharashtra,27,Sangli,493,Niger Seed,1010.0,Kharif,100.0,Hectare,,Tonnes,0.0,Tonnes/Hectare,5
+HDG_030,262401,2013-2014,Maharashtra,27,Sindhudurg,495,Niger Seed,1010.0,Kharif,100.0,Hectare,,Tonnes,0.0,Tonnes/Hectare,5
+HDG_030,262429,2013-2014,Maharashtra,27,Solapur,496,Niger Seed,1010.0,Kharif,100.0,Hectare,,Tonnes,0.0,Tonnes/Hectare,5
+HDG_031,218135,2011-2012,Assam,18,Hailakandi,289,Tobacco,1302.0,Whole Year,1.0,Hectare,1.0,Tonnes,1.0,Tonnes/Hectare,5
+HDG_031,218242,2011-2012,Assam,18,Kamrup Metro,618,Tobacco,1302.0,Whole Year,1.0,Hectare,1.0,Tonnes,1.0,Tonnes/Hectare,5
+HDG_031,218463,2011-2012,Assam,18,Nalbari,298,Tobacco,1302.0,Whole Year,1.0,Hectare,1.0,Tonnes,1.0,Tonnes/Hectare,5
+HDG_031,218604,2011-2012,Assam,18,Tinsukia,302,Tobacco,1302.0,Whole Year,1.0,Hectare,1.0,Tonnes,1.0,Tonnes/Hectare,5
+HDG_031,218641,2011-2012,Assam,18,Udalguri,617,Tobacco,1302.0,Whole Year,1.0,Hectare,1.0,Tonnes,1.0,Tonnes/Hectare,5
+HDG_032,65187,2001-2002,Uttar Pradesh,9,Banda,128,Tobacco,1302.0,Whole Year,1.0,Hectare,6.0,Tonnes,6.0,Tonnes/Hectare,5
+HDG_032,65554,2001-2002,Uttar Pradesh,9,Fatehpur,142,Tobacco,1302.0,Whole Year,1.0,Hectare,6.0,Tonnes,6.0,Tonnes/Hectare,5
+HDG_032,66261,2001-2002,Uttar Pradesh,9,Moradabad,171,Tobacco,1302.0,Whole Year,1.0,Hectare,6.0,Tonnes,6.0,Tonnes/Hectare,5
+HDG_032,66432,2001-2002,Uttar Pradesh,9,Rampur,176,Tobacco,1302.0,Whole Year,1.0,Hectare,6.0,Tonnes,6.0,Tonnes/Hectare,5
+HDG_032,66567,2001-2002,Uttar Pradesh,9,Siddharthnagar,182,Tobacco,1302.0,Whole Year,1.0,Hectare,6.0,Tonnes,6.0,Tonnes/Hectare,5

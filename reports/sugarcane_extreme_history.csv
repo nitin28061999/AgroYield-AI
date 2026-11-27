@@ -1,0 +1,52 @@
+id,year,state_name,district_name,season,area,production,yield,calculated_yield,area_unit,production_unit,yield_unit
+416319,2021-2022,Chhattisgarh,Narayanpur,Whole Year,1.0,420.0,420.0,420.0,Hectare,Tonnes,Tonnes/Hectare
+420273,2021-2022,Karnataka,Kodagu,Whole Year,1.0,107.0,107.0,107.0,Hectare,Tonnes,Tonnes/Hectare
+74460,2002-2003,Kerala,Ernakulam,Whole Year,8.0,1010.0,126.25,126.25,Hectare,Tonnes,Tonnes/Hectare
+92204,2003-2004,Kerala,Ernakulam,Whole Year,1.0,130.0,130.0,130.0,Hectare,Tonnes,Tonnes/Hectare
+109981,2004-2005,Kerala,Ernakulam,Whole Year,1.0,130.0,130.0,130.0,Hectare,Tonnes,Tonnes/Hectare
+29284,1999-2000,Kerala,Kannur,Whole Year,4.0,650.0,162.5,162.5,Hectare,Tonnes,Tonnes/Hectare
+44356,2000-2001,Kerala,Kannur,Whole Year,5.0,810.0,162.0,162.0,Hectare,Tonnes,Tonnes/Hectare
+74526,2002-2003,Kerala,Kannur,Whole Year,5.0,810.0,162.0,162.0,Hectare,Tonnes,Tonnes/Hectare
+92261,2003-2004,Kerala,Kannur,Whole Year,3.0,490.0,163.333,163.33333333333334,Hectare,Tonnes,Tonnes/Hectare
+110017,2004-2005,Kerala,Kannur,Whole Year,4.0,650.0,162.5,162.5,Hectare,Tonnes,Tonnes/Hectare
+190137,2009-2010,Kerala,Kannur,Whole Year,1.0,150.0,150.0,150.0,Hectare,Tonnes,Tonnes/Hectare
+207376,2010-2011,Kerala,Kannur,Whole Year,1.24,175.19,141.282,141.28225806451613,Hectare,Tonnes,Tonnes/Hectare
+224490,2011-2012,Kerala,Kannur,Whole Year,2.58,296.7,115.0,114.99999999999999,Hectare,Tonnes,Tonnes/Hectare
+242497,2012-2013,Kerala,Kannur,Whole Year,4.0,450.0,112.5,112.5,Hectare,Tonnes,Tonnes/Hectare
+278665,2014-2015,Kerala,Kannur,Whole Year,3.43,460.0,134.111,134.11078717201167,Hectare,Tonnes,Tonnes/Hectare
+296550,2015-2016,Kerala,Kannur,Whole Year,2.788,374.34,134.268,134.26829268292684,Hectare,Tonnes,Tonnes/Hectare
+315419,2016-2017,Kerala,Kannur,Whole Year,3.64,410.0,112.637,112.63736263736263,Hectare,Tonnes,Tonnes/Hectare
+335418,2017-2018,Kerala,Kannur,Whole Year,2.63,360.0,136.882,136.88212927756655,Hectare,Tonnes,Tonnes/Hectare
+356166,2018-2019,Kerala,Kannur,Whole Year,2.52,262.6,104.206,104.20634920634922,Hectare,Tonnes,Tonnes/Hectare
+44389,2000-2001,Kerala,Kollam,Whole Year,3.0,310.0,103.333,103.33333333333333,Hectare,Tonnes,Tonnes/Hectare
+59169,2001-2002,Kerala,Kollam,Whole Year,6.0,620.0,103.333,103.33333333333333,Hectare,Tonnes,Tonnes/Hectare
+44436,2000-2001,Kerala,Malappuram,Whole Year,5.0,510.0,102.0,102.0,Hectare,Tonnes,Tonnes/Hectare
+59224,2001-2002,Kerala,Malappuram,Whole Year,7.0,710.0,101.429,101.42857142857143,Hectare,Tonnes,Tonnes/Hectare
+92400,2003-2004,Kerala,Malappuram,Whole Year,4.0,410.0,102.5,102.5,Hectare,Tonnes,Tonnes/Hectare
+110097,2004-2005,Kerala,Malappuram,Whole Year,3.0,310.0,103.333,103.33333333333333,Hectare,Tonnes,Tonnes/Hectare
+335540,2017-2018,Kerala,Pathanamthitta,Whole Year,8.14,840.0,103.194,103.19410319410319,Hectare,Tonnes,Tonnes/Hectare
+383566,2019-2020,Rajasthan,Sawai Madhopur,Whole Year,4.0,414.0,103.5,103.5,Hectare,Tonnes,Tonnes/Hectare
+195835,2009-2010,Tamil Nadu,Kanniyakumari,Whole Year,6.0,609.0,101.5,101.5,Hectare,Tonnes,Tonnes/Hectare
+212978,2010-2011,Tamil Nadu,Kanniyakumari,Whole Year,6.0,650.0,108.333,108.33333333333333,Hectare,Tonnes,Tonnes/Hectare
+230245,2011-2012,Tamil Nadu,Kanniyakumari,Whole Year,7.0,788.0,112.571,112.57142857142857,Hectare,Tonnes,Tonnes/Hectare
+265741,2013-2014,Tamil Nadu,Kanniyakumari,Whole Year,2.0,207.0,103.5,103.5,Hectare,Tonnes,Tonnes/Hectare
+179337,2008-2009,Tamil Nadu,The Nilgiris,Whole Year,5.0,531.0,106.2,106.2,Hectare,Tonnes,Tonnes/Hectare
+266252,2013-2014,Tamil Nadu,The Nilgiris,Whole Year,3.0,311.0,103.667,103.66666666666667,Hectare,Tonnes,Tonnes/Hectare
+284161,2014-2015,Tamil Nadu,The Nilgiris,Whole Year,4.0,427.0,106.75,106.75,Hectare,Tonnes,Tonnes/Hectare
+302645,2015-2016,Tamil Nadu,The Nilgiris,Whole Year,4.0,404.0,101.0,101.0,Hectare,Tonnes,Tonnes/Hectare
+406393,2020-2021,Tamil Nadu,Thoothukkudi,Whole Year,7.0,712.0,101.714,101.71428571428571,Hectare,Tonnes,Tonnes/Hectare
+427652,2021-2022,Tamil Nadu,Thoothukkudi,Whole Year,1.0,143.0,143.0,143.0,Hectare,Tonnes,Tonnes/Hectare
+449679,2022-2023,Tamil Nadu,Thoothukkudi,Whole Year,4.0,434.0,108.5,108.5,Hectare,Tonnes,Tonnes/Hectare
+428730,2021-2022,Telangana,Kumuram Bheem Asifabad,Kharif,2.0,208.0,104.0,104.0,Hectare,Tonnes,Tonnes/Hectare
+428890,2021-2022,Telangana,Mancherial,Kharif,2.0,208.0,104.0,104.0,Hectare,Tonnes,Tonnes/Hectare
+251597,2012-2013,West Bengal,Bankura,Whole Year,1.0,141.0,141.0,141.0,Hectare,Tonnes,Tonnes/Hectare
+270224,2013-2014,West Bengal,Bankura,Whole Year,1.0,125.0,125.0,125.0,Hectare,Tonnes,Tonnes/Hectare
+150075,2006-2007,West Bengal,Cooch Behar,Whole Year,8.0,820.0,102.5,102.5,Hectare,Tonnes,Tonnes/Hectare
+234461,2011-2012,West Bengal,Dakshin Dinajpur,Whole Year,5.0,582.0,116.4,116.4,Hectare,Tonnes,Tonnes/Hectare
+182798,2008-2009,West Bengal,Darjeeling,Whole Year,8.0,849.0,106.125,106.125,Hectare,Tonnes,Tonnes/Hectare
+234499,2011-2012,West Bengal,Darjeeling,Whole Year,8.0,931.0,116.375,116.375,Hectare,Tonnes,Tonnes/Hectare
+251724,2012-2013,West Bengal,Darjeeling,Whole Year,8.0,837.0,104.625,104.625,Hectare,Tonnes,Tonnes/Hectare
+270344,2013-2014,West Bengal,Darjeeling,Whole Year,2.0,205.0,102.5,102.5,Hectare,Tonnes,Tonnes/Hectare
+288351,2014-2015,West Bengal,Darjeeling,Whole Year,2.0,214.0,107.0,107.0,Hectare,Tonnes,Tonnes/Hectare
+251750,2012-2013,West Bengal,Hooghly,Whole Year,1.0,141.0,141.0,141.0,Hectare,Tonnes,Tonnes/Hectare
+134476,2005-2006,West Bengal,Uttar Dinajpur,Whole Year,6.0,678.0,113.0,113.0,Hectare,Tonnes,Tonnes/Hectare

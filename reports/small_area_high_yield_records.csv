@@ -1,0 +1,31 @@
+year,state_name,district_name,crop_name,season,area,production,yield
+2014-2015,Telangana,Ranga Reddy,Coconut,Whole Year,2.0,42210.0,21105.0
+2019-2020,Andhra Pradesh,Kurnool,Coconut,Whole Year,5.0,92000.0,18400.0
+2022-2023,Andhra Pradesh,Nandyal,Coconut,Whole Year,8.0,147000.0,18375.0
+2013-2014,Telangana,Ranga Reddy,Coconut,Whole Year,2.0,32508.0,16254.0
+2011-2012,Telangana,Mahabubnagar,Coconut,Whole Year,4.0,58424.0,14606.0
+2011-2012,Telangana,Nalgonda,Coconut,Whole Year,3.0,43818.0,14606.0
+2011-2012,Telangana,Nizamabad,Coconut,Whole Year,2.0,29212.0,14606.0
+2011-2012,Telangana,Ranga Reddy,Coconut,Whole Year,1.0,14606.0,14606.0
+2006-2007,Telangana,Mahabubnagar,Coconut,Whole Year,9.0,117153.0,13017.0
+2006-2007,Telangana,Medak,Coconut,Whole Year,1.0,13017.0,13017.0
+2010-2011,Telangana,Nalgonda,Coconut,Whole Year,3.0,37000.0,12333.333
+2010-2011,Telangana,Mahabubnagar,Coconut,Whole Year,4.0,49000.0,12250.0
+2010-2011,Telangana,Nizamabad,Coconut,Whole Year,4.0,49000.0,12250.0
+2010-2011,Telangana,Ranga Reddy,Coconut,Whole Year,5.0,61000.0,12200.0
+2004-2005,Telangana,Medak,Coconut,Whole Year,1.0,11789.0,11789.0
+2002-2003,Telangana,Medak,Coconut,Whole Year,1.0,11428.0,11428.0
+2000-2001,Telangana,Nizamabad,Coconut,Whole Year,5.0,56210.0,11242.0
+2009-2010,Telangana,Mahabubnagar,Coconut,Whole Year,2.0,22344.0,11172.0
+2009-2010,Telangana,Nizamabad,Coconut,Whole Year,4.0,44688.0,11172.0
+2009-2010,Telangana,Ranga Reddy,Coconut,Whole Year,2.0,22344.0,11172.0
+2001-2002,Telangana,Mahabubnagar,Coconut,Whole Year,10.0,110200.0,11020.0
+2001-2002,Telangana,Medak,Coconut,Whole Year,2.0,22040.0,11020.0
+2022-2023,Karnataka,Bidar,Coconut,Whole Year,6.0,65813.0,10968.833
+2008-2009,Tamil Nadu,Perambalur,Cashewnut,Whole Year,1.0,9801.0,9801.0
+2008-2009,Telangana,Mahabubnagar,Coconut,Whole Year,8.0,74568.0,9321.0
+2008-2009,Telangana,Ranga Reddy,Coconut,Whole Year,1.0,9321.0,9321.0
+2005-2006,Telangana,Medak,Coconut,Whole Year,1.0,8702.0,8702.0
+2021-2022,Karnataka,Bidar,Coconut,Whole Year,10.0,85000.0,8500.0
+2015-2016,Karnataka,Bidar,Coconut,Whole Year,8.0,67000.0,8375.0
+2017-2018,Karnataka,Bidar,Coconut,Whole Year,8.0,63000.0,7875.0

@@ -1,0 +1,7 @@
+crop_name,crop_code,repeated_groups,total_records_in_groups,max_districts,groups_with_2_districts,groups_with_3_to_4_districts,groups_with_5plus_districts,missing_production_groups,zero_production_groups
+Castor Seed,1002.0,314,798,8,218,80,16,32,5
+Linseed,1005.0,258,607,6,194,60,4,17,7
+Tobacco,1302.0,189,438,5,145,42,2,11,2
+Niger Seed,1010.0,113,279,7,83,22,8,14,6
+Mesta,1103.0,66,154,6,53,11,2,5,3
+Cardamom,506.0,21,52,4,14,7,0,9,0

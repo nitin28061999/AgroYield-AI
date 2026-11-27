@@ -1,0 +1,33 @@
+year,state_name,crop_name,crop_code,season,area,production,district_count,districts,record_count
+2017-2018,Assam,Castor Seed,1002.0,Kharif,1.0,1.0,5,Cachar | Darrang | Nalbari | Sivasagar | Sribhumi,5
+2018-2019,Madhya Pradesh,Castor Seed,1002.0,Kharif,1.0,,7,Agar-Malwa | Betul | Harda | Katni | Mandsaur | Neemuch | Sagar,7
+2003-2004,Madhya Pradesh,Castor Seed,1002.0,Kharif,1.0,0.0,5,Burhanpur | Datia | Indore | Mandsaur | Narmadapuram,5
+2005-2006,Madhya Pradesh,Castor Seed,1002.0,Kharif,1.0,,5,Harda | Mandsaur | Narmadapuram | Sagar | Ujjain,5
+1999-2000,Maharashtra,Castor Seed,1002.0,Kharif,300.0,100.0,8,Jalgaon | Jalna | Kolhapur | Latur | Nagpur | Pune | Satara | Yavatmal,8
+2008-2009,Maharashtra,Castor Seed,1002.0,Kharif,100.0,,7,Ahilyanagar | Buldhana | Chandrapur | Hingoli | Pune | Washim | Yavatmal,7
+2002-2003,Maharashtra,Castor Seed,1002.0,Kharif,100.0,10.0,6,Ahilyanagar | Chandrapur | Pune | Wardha | Washim | Yavatmal,6
+2014-2015,Maharashtra,Castor Seed,1002.0,Kharif,100.0,,6,Ahilyanagar | Jalna | Nagpur | Pune | Satara | Washim,6
+2004-2005,Maharashtra,Castor Seed,1002.0,Kharif,100.0,,5,Latur | Pune | Sangli | Wardha | Washim,5
+2005-2006,Maharashtra,Castor Seed,1002.0,Kharif,200.0,100.0,5,Buldhana | Chandrapur | Gondia | Kolhapur | Sangli,5
+2007-2008,Maharashtra,Castor Seed,1002.0,Kharif,100.0,,5,Buldhana | Dharashiv | Gondia | Hingoli | Pune,5
+2007-2008,Maharashtra,Castor Seed,1002.0,Kharif,300.0,100.0,5,Chandrapur | Chhatrapati Sambhajinagar | Kolhapur | Nagpur | Solapur,5
+2009-2010,Maharashtra,Castor Seed,1002.0,Kharif,100.0,,5,Ahilyanagar | Buldhana | Jalna | Pune | Wardha,5
+2000-2001,Odisha,Castor Seed,1002.0,Rabi,20.0,10.0,6,Cuttack | Jagatsinghapur | Jharsuguda | Mayurbhanj | Sambalpur | Sonepur,6
+2020-2021,Tamil Nadu,Castor Seed,1002.0,Kharif,1.0,0.0,6,Chengalpattu | Kanniyakumari | Ranipet | Thanjavur | Thoothukkudi | Viluppuram,6
+2019-2020,Tamil Nadu,Castor Seed,1002.0,Kharif,1.0,,5,Kanniyakumari | Pudukkottai | Sivaganga | Thanjavur | Thoothukkudi,5
+2000-2001,Uttar Pradesh,Linseed,1005.0,Rabi,1.0,0.1,6,Ambedkar Nagar | Deoria | Mathura | Mau | Moradabad | Muzaffarnagar,6
+2002-2003,Uttar Pradesh,Linseed,1005.0,Rabi,3.0,1.0,6,Bhadohi | Budaun | Etawah | Kaushambi | Mau | Muzaffarnagar,6
+2020-2021,Uttar Pradesh,Linseed,1005.0,Rabi,2.0,1.0,6,Bulandshahr | Deoria | Jaunpur | Mau | Pilibhit | Varanasi,6
+2019-2020,Uttar Pradesh,Linseed,1005.0,Rabi,1.0,1.0,5,Aligarh | Lucknow | Pratapgarh | Sambhal | Sitapur,5
+2019-2020,Madhya Pradesh,Mesta,1103.0,Kharif,2.0,1.0,6,Chhatarpur | Datia | Indore | Jhabua | Neemuch | Vidisha,6
+2021-2022,Nagaland,Mesta,1103.0,Kharif,1.0,1.0,6,Kohima | Mokokchung | Noklak | Tuensang | Wokha | Zunheboto,6
+2018-2019,Karnataka,Niger Seed,1010.0,Kharif,1.0,,5,Davanagere | Dharwad | Kodagu | Shivamogga | Yadgir,5
+2018-2019,Madhya Pradesh,Niger Seed,1010.0,Kharif,1.0,,7,Balaghat | Gwalior | Khandwa (East Nimar) | Khargone (West Nimar) | Neemuch | Panna | Ratlam,7
+2014-2015,Madhya Pradesh,Niger Seed,1010.0,Kharif,2000.0,1000.0,5,Barwani | Khargone (West Nimar) | Shahdol | Singrauli | Umaria,5
+2019-2020,Madhya Pradesh,Niger Seed,1010.0,Kharif,4.0,1.0,5,Ashoknagar | Bhind | Gwalior | Sheopur | Shivpuri,5
+2014-2015,Maharashtra,Niger Seed,1010.0,Kharif,100.0,,7,Chhatrapati Sambhajinagar | Raigad | Ratnagiri | Sangli | Sindhudurg | Solapur | Thane,7
+1999-2000,Maharashtra,Niger Seed,1010.0,Kharif,100.0,0.0,5,Chandrapur | Hingoli | Nagpur | Washim | Yavatmal,5
+2008-2009,Maharashtra,Niger Seed,1010.0,Kharif,100.0,100.0,5,Chhatrapati Sambhajinagar | Dhule | Nandurbar | Sangli | Solapur,5
+2013-2014,Maharashtra,Niger Seed,1010.0,Kharif,100.0,,5,Chhatrapati Sambhajinagar | Jalna | Sangli | Sindhudurg | Solapur,5
+2011-2012,Assam,Tobacco,1302.0,Whole Year,1.0,1.0,5,Hailakandi | Kamrup Metro | Nalbari | Tinsukia | Udalguri,5
+2001-2002,Uttar Pradesh,Tobacco,1302.0,Whole Year,1.0,6.0,5,Banda | Fatehpur | Moradabad | Rampur | Siddharthnagar,5

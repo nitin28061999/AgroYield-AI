@@ -1,0 +1,99 @@
+crop_identity,crop_name,crop_code,records,area_units,production_units,yield_units,area_unit_values,production_unit_values,yield_unit_values,median_yield,p95_yield,p99_yield,maximum_yield,median_production,unit_label_inconsistency
+1006.0 | Coconut,Coconut,1006.0,3261,1,1,1,Hectare,Tonnes,Tonnes/Hectare,8177.67,17519.018,22619.92800000003,43958.333,17513000.0,False
+619.0 | Cashewnut,Cashewnut,619.0,1797,1,1,1,Hectare,Tonnes,Tonnes/Hectare,0.411,1.4201999999999997,6.0,9801.0,193.0,False
+708.0 | Onion,Onion,708.0,12305,1,1,1,Hectare,Tonnes,Tonnes/Hectare,11.311,28.2,34.254960000000004,4070.0,1627.0,False
+401.0 | Sugarcane,Sugarcane,401.0,12321,1,1,1,Hectare,Tonnes,Tonnes/Hectare,56.4,106.125,132.82659999999973,2247.533,30436.0,False
+104.0 | Maize,Maize,104.0,24055,1,1,1,Hectare,Tonnes,Tonnes/Hectare,2.0,6.061299999999999,8.624139999999992,1494.0,2520.0,False
+1104.0 | Sannhamp,Sannhamp,1104.0,2977,1,1,1,Hectare,Tonnes,Tonnes/Hectare,0.5,4.5,6.5,1022.0,20.0,False
+504.0 | Turmeric,Turmeric,504.0,6676,1,1,1,Hectare,Tonnes,Tonnes/Hectare,2.286,11.98725,23.0,964.8,156.0,False
+1001.0 | Groundnut,Groundnut,1001.0,14631,1,1,1,Hectare,Tonnes,Tonnes/Hectare,1.189,2.7705,3.9037000000000006,599.0,956.0,False
+1101.0 | Cotton(Lint),Cotton(Lint),1101.0,7431,1,1,1,Hectare,Tonnes,Tonnes/Hectare,1.724,4.0995,5.88,300.0,4000.0,False
+1003.0 | Sesamum,Sesamum,1003.0,14857,1,1,1,Hectare,Tonnes,Tonnes/Hectare,0.376,0.9251999999999989,1.213760000000002,275.0,138.0,False
+202.0 | Arhar/Tur,Arhar/Tur,202.0,12512,1,1,1,Hectare,Tonnes,Tonnes/Hectare,0.802,1.667,2.3948899999999993,270.0,736.0,False
+703.0 | Sweet Potato,Sweet Potato,703.0,6469,1,1,1,Hectare,Tonnes,Tonnes/Hectare,9.298,19.60339999999998,27.753839999999897,262.0,432.0,False
+606.0 | Banana,Banana,606.0,5003,1,1,1,Hectare,Tonnes,Tonnes/Hectare,26.64,68.8062,85.6,258.069,11720.0,False
+288.0 | Other Rabi Pulses,Other Rabi Pulses,288.0,5516,1,1,1,Hectare,Tonnes,Tonnes/Hectare,0.636,1.3752499999999999,3.0,251.0,159.0,False
+101.0 | Rice,Rice,101.0,25024,1,1,1,Hectare,Tonnes,Tonnes/Hectare,2.128,3.946,4.713770000000001,223.727,30430.5,False
+701.0 | Potato,Potato,701.0,12418,1,1,1,Hectare,Tonnes,Tonnes/Hectare,10.841999999999999,28.695749999999997,34.56798,213.846,5774.0,False
+1102.0 | Jute,Jute,1102.0,2091,1,1,1,Hectare,Tonnes,Tonnes/Hectare,9.833,18.545499999999997,22.010699999999996,180.292,4749.0,False
+615.0 | Papaya,Papaya,615.0,412,1,1,1,Hectare,Tonnes,Tonnes/Hectare,17.8715,115.69024999999984,130.49637,134.143,2825.5,False
+213.0 | Peas & Beans (Pulses),Peas & Beans (Pulses),213.0,8393,1,1,1,Hectare,Tonnes,Tonnes/Hectare,1.0,5.0,9.88304,103.571,368.0,False
+702.0 | Tapioca,Tapioca,702.0,2709,1,1,1,Hectare,Tonnes,Tonnes/Hectare,13.0,42.675599999999996,52.820000000000014,73.388,1963.0,False
+1010.0 | Niger Seed,Niger Seed,1010.0,3183,1,1,1,Hectare,Tonnes,Tonnes/Hectare,0.3,1.0,3.678039999999938,71.0,131.0,False
+1007.0 | Sunflower,Sunflower,1007.0,8159,1,1,1,Hectare,Tonnes,Tonnes/Hectare,0.917,2.0,2.6652600000000004,70.0,114.0,False
+1103.0 | Mesta,Mesta,1103.0,2667,1,1,1,Hectare,Tonnes,Tonnes/Hectare,5.0,13.079399999999998,17.050560000000004,68.0,304.0,False
+716.0 | Cabbage,Cabbage,716.0,97,1,1,1,Hectare,Tonnes,Tonnes/Hectare,18.772,63.6134,66.20688,67.212,1043.0,False
+688.0 | Pome Fruit,Pome Fruit,688.0,169,1,1,1,Hectare,Tonnes,Tonnes/Hectare,5.564,19.01419999999996,57.00864,57.14,730.0,False
+713.0 | Tomato,Tomato,713.0,275,1,1,1,Hectare,Tonnes,Tonnes/Hectare,9.642,23.127299999999998,30.19215999999998,50.205,5013.0,False
+503.0 | Ginger,Ginger,503.0,5335,1,1,1,Hectare,Tonnes,Tonnes/Hectare,5.0,20.522299999999998,31.86,48.0,408.0,False
+607.0 | Grapes,Grapes,607.0,110,1,1,1,Hectare,Tonnes,Tonnes/Hectare,23.9485,31.359899999999996,41.263709999999975,42.928,1016.5,False
+727.0 | Guar Seed,Guar Seed,727.0,2437,1,1,1,Hectare,Tonnes,Tonnes/Hectare,0.75,1.142,8.70464,40.0,100.0,False
+502.0 | Dry Chillies,Dry Chillies,502.0,9959,1,1,1,Hectare,Tonnes,Tonnes/Hectare,0.952,5.170400000000002,8.3512,40.0,245.0,False
+508.0 | Garlic,Garlic,508.0,5580,1,1,1,Hectare,Tonnes,Tonnes/Hectare,3.2845,10.207150000000007,15.171110000000002,35.0,196.5,False
+1088.0 | Other Oilseeds,Other Oilseeds,1088.0,1645,1,1,1,Hectare,Tonnes,Tonnes/Hectare,0.55,15.310799999999935,23.897,32.575,108.0,False
+623.0 | Pineapple,Pineapple,623.0,257,1,1,1,Hectare,Tonnes,Tonnes/Hectare,14.786,21.594799999999896,31.36,32.099,4206.0,False
+718.0 | Brinjal,Brinjal,718.0,269,1,1,1,Hectare,Tonnes,Tonnes/Hectare,9.265,23.464,24.74164,29.983,3086.0,False
+688.0 | Other Fresh Fruits,Other Fresh Fruits,688.0,163,1,1,1,Hectare,Tonnes,Tonnes/Hectare,3.137,10.656699999999999,13.492499999999996,25.258,1273.0,False
+601.0 | Mango,Mango,601.0,337,1,1,1,Hectare,Tonnes,Tonnes/Hectare,4.566,12.578399999999998,20.014239999999997,23.125,9816.0,False
+102.0 | Jowar,Jowar,102.0,11201,1,1,1,Hectare,Tonnes,Tonnes/Hectare,1.0,2.218,3.5,22.0,1570.0,False
+108.0 | Small Millets,Small Millets,108.0,7834,1,1,1,Hectare,Tonnes,Tonnes/Hectare,0.6575,1.489,2.0,21.667,200.0,False
+105.0 | Ragi,Ragi,105.0,6721,1,1,1,Hectare,Tonnes,Tonnes/Hectare,1.123,3.111,4.2,21.3,245.0,False
+1302.0 | Tobacco,Tobacco,1302.0,4145,1,1,1,Hectare,Tonnes,Tonnes/Hectare,1.467,5.722399999999998,7.333,20.995,80.0,False
+605.0 | Citrus Fruit,Citrus Fruit,605.0,180,1,1,1,Hectare,Tonnes,Tonnes/Hectare,4.747,17.352050000000002,17.902150000000017,20.892,521.5,False
+602.0 | Orange,Orange,602.0,237,1,1,1,Hectare,Tonnes,Tonnes/Hectare,9.97,17.788,18.321919999999995,20.109,993.0,False
+614.0 | Sapota,Sapota,614.0,39,1,1,1,Hectare,Tonnes,Tonnes/Hectare,9.407,13.2048,17.348639999999982,19.884,4083.0,False
+720.0 | Bhindi,Bhindi,720.0,117,1,1,1,Hectare,Tonnes,Tonnes/Hectare,7.0,8.682799999999999,12.484080000000008,19.452,1182.0,False
+507.0 | Arecanut,Arecanut,507.0,2488,1,1,1,Hectare,Tonnes,Tonnes/Hectare,1.231,10.809,12.673300000000001,19.3,1448.0,False
+788.0 | Other Vegetables,Other Vegetables,788.0,105,1,1,1,Hectare,Tonnes,Tonnes/Hectare,5.35,12.0826,18.916839999999986,19.003,3978.0,False
+604.0 | Lemon,Lemon,604.0,39,1,1,1,Hectare,Tonnes,Tonnes/Hectare,7.357,17.560800000000004,18.49392,18.576,3824.0,False
+205.0 | Masoor,Masoor,205.0,7290,1,1,1,Hectare,Tonnes,Tonnes/Hectare,0.753,1.3370999999999986,1.927,16.88,504.0,False
+631.0 | Pome Granet,Pome Granet,631.0,21,1,1,1,Hectare,Tonnes,Tonnes/Hectare,13.4,14.5,15.988000000000001,16.36,523.0,False
+509.0 | Coriander,Coriander,509.0,5638,1,1,1,Hectare,Tonnes,Tonnes/Hectare,0.533,1.5298999999999978,3.581,16.0,33.0,False
+103.0 | Bajra,Bajra,103.0,9080,1,1,1,Hectare,Tonnes,Tonnes/Hectare,1.143,2.794,3.345839999999997,15.73,1243.0,False
+201.0 | Gram,Gram,201.0,11831,1,1,1,Hectare,Tonnes,Tonnes/Hectare,0.889,1.6665,2.0664000000000016,13.083,1300.0,False
+288.0 | Other Kharif Pulses,Other Kharif Pulses,288.0,6397,1,1,1,Hectare,Tonnes,Tonnes/Hectare,0.522,1.2131999999999998,1.9582399999999998,12.667,187.8,False
+621.0 | Jack Fruit,Jack Fruit,621.0,97,1,1,1,Hectare,Tonnes,Tonnes/Hectare,9.649,11.333,11.5,11.5,158.0,False
+1009.0 | Soyabean,Soyabean,1009.0,5970,1,1,1,Hectare,Tonnes,Tonnes/Hectare,1.002,1.8825500000000002,2.6114100000000047,11.444,790.5,False
+721.0 | Cauliflower,Cauliflower,721.0,18,1,1,1,Hectare,Tonnes,Tonnes/Hectare,8.6,10.255899999999999,10.45038,10.499,219.5,False
+188.0 | Other Cereals,Other Cereals,188.0,1821,1,1,1,Hectare,Tonnes,Tonnes/Hectare,0.733,1.5,2.5,10.386,126.0,False
+710.0 | Redish,Redish,710.0,19,1,1,1,Hectare,Tonnes,Tonnes/Hectare,8.92,10.2583,10.318060000000001,10.333,196.0,False
+203.0 | Urad,Urad,203.0,17016,1,1,1,Hectare,Tonnes,Tonnes/Hectare,0.526,1.04,1.5,10.0,351.0,False
+723.0 | Bottle Gourd,Bottle Gourd,723.0,11,1,1,1,Hectare,Tonnes,Tonnes/Hectare,7.2,10.0,10.0,10.0,58.0,False
+107.0 | Barley,Barley,107.0,6493,1,1,1,Hectare,Tonnes,Tonnes/Hectare,1.866,3.667,4.28416,10.0,1331.0,False
+709.0 | Carrot,Carrot,709.0,19,1,1,1,Hectare,Tonnes,Tonnes/Hectare,7.5,9.366399999999999,9.84448,9.964,185.0,False
+706.0 | Colocosia,Colocosia,706.0,11,1,1,1,Hectare,Tonnes,Tonnes/Hectare,9.509,9.523,9.523,9.523,4190.0,False
+288.0 | Cowpea(Lobia),Cowpea(Lobia),288.0,2460,1,1,1,Hectare,Tonnes,Tonnes/Hectare,0.667,1.4961999999999989,3.088969999999983,9.245,65.0,False
+MISSING | Jute & Mesta,Jute & Mesta,MISSING,20,1,1,1,Hectare,Tonnes,Tonnes/Hectare,8.0195,8.789800000000001,9.014759999999999,9.071,6045.0,False
+1501.0 | Tea,Tea,1501.0,61,1,1,1,Hectare,Tonnes,Tonnes/Hectare,2.286,6.154,8.369,8.765,200.0,False
+1004.0 | Rapeseed &Mustard,Rapeseed &Mustard,1004.0,12490,1,1,1,Hectare,Tonnes,Tonnes/Hectare,0.809,1.788,2.163990000000005,8.469,1392.5,False
+1002.0 | Castor Seed,Castor Seed,1002.0,5110,1,1,1,Hectare,Tonnes,Tonnes/Hectare,0.538,2.1357500000000007,3.0,8.4,55.0,False
+507.0 | Atcanut (Raw),Atcanut (Raw),507.0,20,1,1,1,Hectare,Tonnes,Tonnes/Hectare,6.7,8.37,8.37,8.37,10896.5,False
+1005.0 | Linseed,Linseed,1005.0,6590,1,1,1,Hectare,Tonnes,Tonnes/Hectare,0.5,1.0,1.6453099999999932,8.0,113.0,False
+204.0 | Moong(Green Gram),Moong(Green Gram),204.0,17550,1,1,1,Hectare,Tonnes,Tonnes/Hectare,0.496,1.0345499999999992,1.366549999999992,8.0,151.95,False
+725.0 | Bitter Gourd,Bitter Gourd,725.0,10,1,1,1,Hectare,Tonnes,Tonnes/Hectare,5.374499999999999,8.0,8.0,8.0,40.0,False
+501.0 | Black Pepper,Black Pepper,501.0,1668,1,1,1,Hectare,Tonnes,Tonnes/Hectare,0.5874999999999999,2.841,4.23633,7.84,148.0,False
+106.0 | Wheat,Wheat,106.0,12842,1,1,1,Hectare,Tonnes,Tonnes/Hectare,2.072,4.465899999999998,5.0635900000000005,7.462,59330.0,False
+588.0 | Dry Ginger,Dry Ginger,588.0,93,1,1,1,Hectare,Tonnes,Tonnes/Hectare,2.515,3.5735999999999963,6.880159999999999,7.135,230.2,False
+506.0 | Cardamom,Cardamom,506.0,595,1,1,1,Hectare,Tonnes,Tonnes/Hectare,0.091,0.333,1.574239999999997,5.5,25.0,False
+588.0 | Cond-Spcs Other,Cond-Spcs Other,588.0,24,1,1,1,Hectare,Tonnes,Tonnes/Hectare,0.7695000000000001,1.9071499999999983,4.563459999999998,5.322,101.3,False
+206.0 | Horse-Gram,Horse-Gram,206.0,6243,1,1,1,Hectare,Tonnes,Tonnes/Hectare,0.46,1.0,1.3894999999999982,5.255,220.0,False
+1008.0 | Safflower,Safflower,1008.0,2012,1,1,1,Hectare,Tonnes,Tonnes/Hectare,0.545,1.0,1.4449199999999964,4.167,72.5,False
+507.0 | Arcanut (Processed),Arcanut (Processed),507.0,99,1,1,1,Hectare,Tonnes,Tonnes/Hectare,2.0,2.600999999999999,2.904419999999999,3.121,6669.0,False
+521.0 | Khesari,Khesari,521.0,2004,1,1,1,Hectare,Tonnes,Tonnes/Hectare,0.7965,1.368,1.7207000000000003,3.0,706.0,False
+288.0 | Other Summer Pulses,Other Summer Pulses,288.0,125,1,1,1,Hectare,Tonnes,Tonnes/Hectare,0.4,1.0,1.2105200000000014,2.8,20.0,False
+729.0 | Drum Stick,Drum Stick,729.0,58,1,1,1,Hectare,Tonnes,Tonnes/Hectare,0.9635,1.82915,2.052,2.052,932.5,False
+209.0 | Moth,Moth,209.0,1454,1,1,1,Hectare,Tonnes,Tonnes/Hectare,0.4,1.0,1.3579800000000009,1.971,100.0,False
+188.0 | Varagu,Varagu,188.0,58,1,1,1,Hectare,Tonnes,Tonnes/Hectare,1.0,1.42115,1.6361399999999997,1.92,157.5,False
+1503.0 | Rubber,Rubber,1503.0,29,1,1,1,Hectare,Tonnes,Tonnes/Hectare,1.187,1.4189999999999998,1.48436,1.488,33883.0,False
+288.0 | Rajmash Kholar,Rajmash Kholar,288.0,18,1,1,1,Hectare,Tonnes,Tonnes/Hectare,1.2515,1.2806499999999998,1.28813,1.29,535.0,False
+1101.0 | Kapas,Kapas,1101.0,12,1,1,1,Hectare,Tonnes,Tonnes/Hectare,0.912,1.1714499999999999,1.2598900000000002,1.282,87.0,False
+188.0 | Korra,Korra,188.0,126,1,1,1,Hectare,Tonnes,Tonnes/Hectare,0.708,1.06525,1.20425,1.267,100.0,False
+288.0 | Ricebean (Nagadal),Ricebean (Nagadal),288.0,10,1,1,1,Hectare,Tonnes,Tonnes/Hectare,1.1099999999999999,1.13165,1.13273,1.133,465.0,False
+109.0 | Jobster,Jobster,109.0,9,1,1,1,Hectare,Tonnes,Tonnes/Hectare,1.0,1.0618,1.0691599999999999,1.071,120.0,False
+288.0 | Other Misc. Pulses,Other Misc. Pulses,288.0,53,1,1,1,Hectare,Tonnes,Tonnes/Hectare,0.263,0.6625999999999999,1.01344,1.028,64.0,False
+619.0 | Cashewnut Raw,Cashewnut Raw,619.0,35,1,1,1,Hectare,Tonnes,Tonnes/Hectare,0.467,0.9572999999999998,1.0171599999999998,1.026,270.0,False
+188.0 | Samai,Samai,188.0,87,1,1,1,Hectare,Tonnes,Tonnes/Hectare,0.529,0.945,1.0,1.0,126.0,False
+1502.0 | Coffee,Coffee,1502.0,6,1,1,1,Hectare,Tonnes,Tonnes/Hectare,0.74,0.79825,0.80125,0.802,8802.5,False
+712.0 | Turnip,Turnip,712.0,6,1,1,1,Hectare,Tonnes,Tonnes/Hectare,0.619,0.79725,0.79945,0.8,64.5,False
+1088.0 | Perilla,Perilla,1088.0,9,1,1,1,Hectare,Tonnes,Tonnes/Hectare,0.6,0.6226,0.62452,0.625,150.0,False
+619.0 | Cashewnut Processed,Cashewnut Processed,619.0,19,1,1,1,Hectare,Tonnes,Tonnes/Hectare,0.114,0.15679999999999988,0.19136000000000003,0.2,15.0,False

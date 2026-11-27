@@ -1,0 +1,93 @@
+id,year,state_name,state_code,district_name,district_code,crop_name,crop_code,crop_type,season,area,area_unit,production,production_unit,yield,yield_unit,calculated_yield,target_quality,historical_zero_production_anomaly,eligible_for_primary_training,statistical_outlier_flag,review_status,start_year
+288886,2015-2016,Andhra Pradesh,28,Ananthapuramu,502,Onion,708,Vegetable,Kharif,2286.0,Hectare,48603.0,Tonnes,21.261,Tonnes/Hectare,21.261154855643046,valid_positive_yield,False,True,False,not_flagged,2015
+288887,2015-2016,Andhra Pradesh,28,Ananthapuramu,502,Onion,708,Vegetable,Rabi,836.0,Hectare,14144.0,Tonnes,16.919,Tonnes/Hectare,16.91866028708134,valid_positive_yield,False,True,False,not_flagged,2015
+307359,2016-2017,Andhra Pradesh,28,Ananthapuramu,502,Onion,708,Vegetable,Kharif,2545.0,Hectare,58637.0,Tonnes,23.04,Tonnes/Hectare,23.04007858546169,valid_positive_yield,False,True,False,not_flagged,2016
+307360,2016-2017,Andhra Pradesh,28,Ananthapuramu,502,Onion,708,Vegetable,Rabi,254.0,Hectare,6853.0,Tonnes,26.98,Tonnes/Hectare,26.980314960629922,valid_positive_yield,False,True,False,not_flagged,2016
+327150,2017-2018,Andhra Pradesh,28,Ananthapuramu,502,Onion,708,Vegetable,Kharif,1207.0,Hectare,48708.0,Tonnes,40.355,Tonnes/Hectare,40.35459817729909,valid_positive_yield,False,True,True,statistical_outlier_review,2017
+327151,2017-2018,Andhra Pradesh,28,Ananthapuramu,502,Onion,708,Vegetable,Rabi,545.0,Hectare,64992.0,Tonnes,119.251,Tonnes/Hectare,119.25137614678899,valid_positive_yield,False,True,True,statistical_outlier_review,2017
+347708,2018-2019,Andhra Pradesh,28,Ananthapuramu,502,Onion,708,Vegetable,Kharif,1407.0,Hectare,50908.0,Tonnes,36.182,Tonnes/Hectare,36.181947405828005,valid_positive_yield,False,True,False,not_flagged,2018
+347709,2018-2019,Andhra Pradesh,28,Ananthapuramu,502,Onion,708,Vegetable,Rabi,410.0,Hectare,53064.0,Tonnes,129.424,Tonnes/Hectare,129.42439024390245,valid_positive_yield,False,True,True,statistical_outlier_review,2018
+368453,2019-2020,Andhra Pradesh,28,Ananthapuramu,502,Onion,708,Vegetable,Kharif,2168.0,Hectare,47696.0,Tonnes,22.0,Tonnes/Hectare,22.0,valid_positive_yield,False,True,False,not_flagged,2019
+368454,2019-2020,Andhra Pradesh,28,Ananthapuramu,502,Onion,708,Vegetable,Rabi,1684.0,Hectare,35287.0,Tonnes,20.954,Tonnes/Hectare,20.954275534441805,valid_positive_yield,False,True,False,not_flagged,2019
+288949,2015-2016,Andhra Pradesh,28,Chittoor,503,Onion,708,Vegetable,Kharif,194.0,Hectare,3285.0,Tonnes,16.933,Tonnes/Hectare,16.932989690721648,valid_positive_yield,False,True,False,not_flagged,2015
+288950,2015-2016,Andhra Pradesh,28,Chittoor,503,Onion,708,Vegetable,Rabi,249.0,Hectare,4213.0,Tonnes,16.92,Tonnes/Hectare,16.919678714859437,valid_positive_yield,False,True,False,not_flagged,2015
+307419,2016-2017,Andhra Pradesh,28,Chittoor,503,Onion,708,Vegetable,Kharif,217.0,Hectare,3724.0,Tonnes,17.161,Tonnes/Hectare,17.161290322580644,valid_positive_yield,False,True,False,not_flagged,2016
+307420,2016-2017,Andhra Pradesh,28,Chittoor,503,Onion,708,Vegetable,Rabi,213.0,Hectare,4671.0,Tonnes,21.93,Tonnes/Hectare,21.929577464788732,valid_positive_yield,False,True,False,not_flagged,2016
+327216,2017-2018,Andhra Pradesh,28,Chittoor,503,Onion,708,Vegetable,Kharif,253.0,Hectare,7678.0,Tonnes,30.348,Tonnes/Hectare,30.347826086956523,valid_positive_yield,False,True,False,not_flagged,2017
+327217,2017-2018,Andhra Pradesh,28,Chittoor,503,Onion,708,Vegetable,Rabi,304.0,Hectare,4922.0,Tonnes,16.191,Tonnes/Hectare,16.19078947368421,valid_positive_yield,False,True,False,not_flagged,2017
+347779,2018-2019,Andhra Pradesh,28,Chittoor,503,Onion,708,Vegetable,Kharif,203.0,Hectare,7678.0,Tonnes,37.823,Tonnes/Hectare,37.82266009852217,valid_positive_yield,False,True,True,statistical_outlier_review,2018
+347780,2018-2019,Andhra Pradesh,28,Chittoor,503,Onion,708,Vegetable,Rabi,268.0,Hectare,3740.0,Tonnes,13.955,Tonnes/Hectare,13.955223880597014,valid_positive_yield,False,True,False,not_flagged,2018
+368520,2019-2020,Andhra Pradesh,28,Chittoor,503,Onion,708,Vegetable,Kharif,285.0,Hectare,6102.0,Tonnes,21.411,Tonnes/Hectare,21.410526315789475,valid_positive_yield,False,True,False,not_flagged,2019
+368521,2019-2020,Andhra Pradesh,28,Chittoor,503,Onion,708,Vegetable,Rabi,187.0,Hectare,4282.0,Tonnes,22.898,Tonnes/Hectare,22.898395721925134,valid_positive_yield,False,True,False,not_flagged,2019
+289013,2015-2016,Andhra Pradesh,28,East Godavari,505,Onion,708,Vegetable,Kharif,549.0,Hectare,9174.0,Tonnes,16.71,Tonnes/Hectare,16.7103825136612,valid_positive_yield,False,True,False,not_flagged,2015
+289014,2015-2016,Andhra Pradesh,28,East Godavari,505,Onion,708,Vegetable,Rabi,10.0,Hectare,142.0,Tonnes,14.2,Tonnes/Hectare,14.2,valid_positive_yield,False,True,False,not_flagged,2015
+307488,2016-2017,Andhra Pradesh,28,East Godavari,505,Onion,708,Vegetable,Kharif,40.0,Hectare,641.0,Tonnes,16.025,Tonnes/Hectare,16.025,valid_positive_yield,False,True,False,not_flagged,2016
+307489,2016-2017,Andhra Pradesh,28,East Godavari,505,Onion,708,Vegetable,Rabi,3.0,Hectare,67.0,Tonnes,22.333,Tonnes/Hectare,22.333333333333332,valid_positive_yield,False,True,False,not_flagged,2016
+327282,2017-2018,Andhra Pradesh,28,East Godavari,505,Onion,708,Vegetable,Rabi,2.0,Hectare,200.0,Tonnes,100.0,Tonnes/Hectare,100.0,valid_positive_yield,False,True,True,statistical_outlier_review,2017
+347845,2018-2019,Andhra Pradesh,28,East Godavari,505,Onion,708,Vegetable,Rabi,11.0,Hectare,2156.0,Tonnes,196.0,Tonnes/Hectare,196.0,valid_positive_yield,False,True,True,statistical_outlier_review,2018
+368588,2019-2020,Andhra Pradesh,28,East Godavari,505,Onion,708,Vegetable,Rabi,125.0,Hectare,2760.0,Tonnes,22.08,Tonnes/Hectare,22.08,valid_positive_yield,False,True,False,not_flagged,2019
+289070,2015-2016,Andhra Pradesh,28,Guntur,506,Onion,708,Vegetable,Kharif,66.0,Hectare,1110.0,Tonnes,16.818,Tonnes/Hectare,16.818181818181817,valid_positive_yield,False,True,False,not_flagged,2015
+289071,2015-2016,Andhra Pradesh,28,Guntur,506,Onion,708,Vegetable,Rabi,163.0,Hectare,2318.0,Tonnes,14.221,Tonnes/Hectare,14.220858895705522,valid_positive_yield,False,True,False,not_flagged,2015
+307548,2016-2017,Andhra Pradesh,28,Guntur,506,Onion,708,Vegetable,Kharif,56.0,Hectare,1326.0,Tonnes,23.679,Tonnes/Hectare,23.678571428571427,valid_positive_yield,False,True,False,not_flagged,2016
+307549,2016-2017,Andhra Pradesh,28,Guntur,506,Onion,708,Vegetable,Rabi,128.0,Hectare,2849.0,Tonnes,22.258,Tonnes/Hectare,22.2578125,valid_positive_yield,False,True,False,not_flagged,2016
+327341,2017-2018,Andhra Pradesh,28,Guntur,506,Onion,708,Vegetable,Rabi,102.0,Hectare,2318.0,Tonnes,22.725,Tonnes/Hectare,22.725490196078432,valid_positive_yield,False,True,False,not_flagged,2017
+347906,2018-2019,Andhra Pradesh,28,Guntur,506,Onion,708,Vegetable,Rabi,33.0,Hectare,4532.0,Tonnes,137.333,Tonnes/Hectare,137.33333333333334,valid_positive_yield,False,True,True,statistical_outlier_review,2018
+368646,2019-2020,Andhra Pradesh,28,Guntur,506,Onion,708,Vegetable,Kharif,405.0,Hectare,8910.0,Tonnes,22.0,Tonnes/Hectare,22.0,valid_positive_yield,False,True,False,not_flagged,2019
+307595,2016-2017,Andhra Pradesh,28,Krishna,510,Onion,708,Vegetable,Kharif,1.0,Hectare,24.0,Tonnes,24.0,Tonnes/Hectare,24.0,valid_positive_yield,False,True,False,not_flagged,2016
+289169,2015-2016,Andhra Pradesh,28,Kurnool,511,Onion,708,Vegetable,Kharif,26624.0,Hectare,463923.0,Tonnes,17.425,Tonnes/Hectare,17.42499248798077,valid_positive_yield,False,True,False,not_flagged,2015
+289170,2015-2016,Andhra Pradesh,28,Kurnool,511,Onion,708,Vegetable,Rabi,3237.0,Hectare,63711.0,Tonnes,19.682,Tonnes/Hectare,19.682113067655237,valid_positive_yield,False,True,False,not_flagged,2015
+307647,2016-2017,Andhra Pradesh,28,Kurnool,511,Onion,708,Vegetable,Kharif,24502.0,Hectare,422341.0,Tonnes,17.237,Tonnes/Hectare,17.237001061137867,valid_positive_yield,False,True,False,not_flagged,2016
+307648,2016-2017,Andhra Pradesh,28,Kurnool,511,Onion,708,Vegetable,Rabi,1636.0,Hectare,41072.0,Tonnes,25.105,Tonnes/Hectare,25.105134474327627,valid_positive_yield,False,True,False,not_flagged,2016
+327445,2017-2018,Andhra Pradesh,28,Kurnool,511,Onion,708,Vegetable,Kharif,12945.0,Hectare,570526.0,Tonnes,44.073,Tonnes/Hectare,44.07307840865199,valid_positive_yield,False,True,True,statistical_outlier_review,2017
+327446,2017-2018,Andhra Pradesh,28,Kurnool,511,Onion,708,Vegetable,Rabi,4076.0,Hectare,101306.0,Tonnes,24.854,Tonnes/Hectare,24.854268891069676,valid_positive_yield,False,True,False,not_flagged,2017
+348006,2018-2019,Andhra Pradesh,28,Kurnool,511,Onion,708,Vegetable,Kharif,18900.0,Hectare,582186.0,Tonnes,30.803,Tonnes/Hectare,30.803492063492065,valid_positive_yield,False,True,False,not_flagged,2018
+348007,2018-2019,Andhra Pradesh,28,Kurnool,511,Onion,708,Vegetable,Rabi,2927.0,Hectare,169290.0,Tonnes,57.837,Tonnes/Hectare,57.83737615305774,valid_positive_yield,False,True,True,statistical_outlier_review,2018
+368749,2019-2020,Andhra Pradesh,28,Kurnool,511,Onion,708,Vegetable,Kharif,19404.0,Hectare,426232.0,Tonnes,21.966,Tonnes/Hectare,21.966192537621108,valid_positive_yield,False,True,False,not_flagged,2019
+368750,2019-2020,Andhra Pradesh,28,Kurnool,511,Onion,708,Vegetable,Rabi,9062.0,Hectare,188935.0,Tonnes,20.849,Tonnes/Hectare,20.849150297947475,valid_positive_yield,False,True,False,not_flagged,2019
+289238,2015-2016,Andhra Pradesh,28,Prakasam,517,Onion,708,Vegetable,Kharif,328.0,Hectare,5485.0,Tonnes,16.723,Tonnes/Hectare,16.722560975609756,valid_positive_yield,False,True,False,not_flagged,2015
+289239,2015-2016,Andhra Pradesh,28,Prakasam,517,Onion,708,Vegetable,Rabi,37.0,Hectare,526.0,Tonnes,14.216,Tonnes/Hectare,14.216216216216216,valid_positive_yield,False,True,False,not_flagged,2015
+307720,2016-2017,Andhra Pradesh,28,Prakasam,517,Onion,708,Vegetable,Kharif,707.0,Hectare,17048.0,Tonnes,24.113,Tonnes/Hectare,24.11315417256011,valid_positive_yield,False,True,False,not_flagged,2016
+307721,2016-2017,Andhra Pradesh,28,Prakasam,517,Onion,708,Vegetable,Rabi,3.0,Hectare,67.0,Tonnes,22.333,Tonnes/Hectare,22.333333333333332,valid_positive_yield,False,True,False,not_flagged,2016
+327515,2017-2018,Andhra Pradesh,28,Prakasam,517,Onion,708,Vegetable,Rabi,46.0,Hectare,3200.0,Tonnes,69.565,Tonnes/Hectare,69.56521739130434,valid_positive_yield,False,True,True,statistical_outlier_review,2017
+348071,2018-2019,Andhra Pradesh,28,Prakasam,517,Onion,708,Vegetable,Rabi,11.0,Hectare,1540.0,Tonnes,140.0,Tonnes/Hectare,140.0,valid_positive_yield,False,True,True,statistical_outlier_review,2018
+368821,2019-2020,Andhra Pradesh,28,Prakasam,517,Onion,708,Vegetable,Kharif,200.0,Hectare,4400.0,Tonnes,22.0,Tonnes/Hectare,22.0,valid_positive_yield,False,True,False,not_flagged,2019
+289301,2015-2016,Andhra Pradesh,28,Sri Potti Sriramulu Nellore,515,Onion,708,Vegetable,Kharif,107.0,Hectare,1789.0,Tonnes,16.72,Tonnes/Hectare,16.7196261682243,valid_positive_yield,False,True,False,not_flagged,2015
+289302,2015-2016,Andhra Pradesh,28,Sri Potti Sriramulu Nellore,515,Onion,708,Vegetable,Rabi,16.0,Hectare,228.0,Tonnes,14.25,Tonnes/Hectare,14.25,valid_positive_yield,False,True,False,not_flagged,2015
+307784,2016-2017,Andhra Pradesh,28,Sri Potti Sriramulu Nellore,515,Onion,708,Vegetable,Kharif,78.0,Hectare,1847.0,Tonnes,23.679,Tonnes/Hectare,23.67948717948718,valid_positive_yield,False,True,False,not_flagged,2016
+289354,2015-2016,Andhra Pradesh,28,Srikakulam,519,Onion,708,Vegetable,Kharif,16.0,Hectare,268.0,Tonnes,16.75,Tonnes/Hectare,16.75,valid_positive_yield,False,True,False,not_flagged,2015
+289355,2015-2016,Andhra Pradesh,28,Srikakulam,519,Onion,708,Vegetable,Rabi,342.0,Hectare,4863.0,Tonnes,14.219,Tonnes/Hectare,14.219298245614034,valid_positive_yield,False,True,False,not_flagged,2015
+307836,2016-2017,Andhra Pradesh,28,Srikakulam,519,Onion,708,Vegetable,Kharif,16.0,Hectare,379.0,Tonnes,23.688,Tonnes/Hectare,23.6875,valid_positive_yield,False,True,False,not_flagged,2016
+307837,2016-2017,Andhra Pradesh,28,Srikakulam,519,Onion,708,Vegetable,Rabi,281.0,Hectare,6255.0,Tonnes,22.26,Tonnes/Hectare,22.259786476868328,valid_positive_yield,False,True,False,not_flagged,2016
+327626,2017-2018,Andhra Pradesh,28,Srikakulam,519,Onion,708,Vegetable,Kharif,2.0,Hectare,8140.0,Tonnes,4070.0,Tonnes/Hectare,4070.0,valid_positive_yield,False,True,True,statistical_outlier_review,2017
+327627,2017-2018,Andhra Pradesh,28,Srikakulam,519,Onion,708,Vegetable,Rabi,287.0,Hectare,7885.0,Tonnes,27.474,Tonnes/Hectare,27.473867595818817,valid_positive_yield,False,True,False,not_flagged,2017
+348187,2018-2019,Andhra Pradesh,28,Srikakulam,519,Onion,708,Vegetable,Kharif,3.0,Hectare,7832.0,Tonnes,2610.667,Tonnes/Hectare,2610.6666666666665,valid_positive_yield,False,True,True,statistical_outlier_review,2018
+348188,2018-2019,Andhra Pradesh,28,Srikakulam,519,Onion,708,Vegetable,Rabi,173.0,Hectare,6270.0,Tonnes,36.243,Tonnes/Hectare,36.24277456647399,valid_positive_yield,False,True,False,not_flagged,2018
+368940,2019-2020,Andhra Pradesh,28,Srikakulam,519,Onion,708,Vegetable,Kharif,4.0,Hectare,96.0,Tonnes,24.0,Tonnes/Hectare,24.0,valid_positive_yield,False,True,False,not_flagged,2019
+368941,2019-2020,Andhra Pradesh,28,Srikakulam,519,Onion,708,Vegetable,Rabi,19.0,Hectare,415.0,Tonnes,21.842,Tonnes/Hectare,21.842105263157894,valid_positive_yield,False,True,False,not_flagged,2019
+289412,2015-2016,Andhra Pradesh,28,Visakhapatnam,520,Onion,708,Vegetable,Kharif,67.0,Hectare,1120.0,Tonnes,16.716,Tonnes/Hectare,16.71641791044776,valid_positive_yield,False,True,False,not_flagged,2015
+289413,2015-2016,Andhra Pradesh,28,Visakhapatnam,520,Onion,708,Vegetable,Rabi,98.0,Hectare,1393.0,Tonnes,14.214,Tonnes/Hectare,14.214285714285714,valid_positive_yield,False,True,False,not_flagged,2015
+307891,2016-2017,Andhra Pradesh,28,Visakhapatnam,520,Onion,708,Vegetable,Kharif,49.0,Hectare,1160.0,Tonnes,23.673,Tonnes/Hectare,23.6734693877551,valid_positive_yield,False,True,False,not_flagged,2016
+307892,2016-2017,Andhra Pradesh,28,Visakhapatnam,520,Onion,708,Vegetable,Rabi,104.0,Hectare,2315.0,Tonnes,22.26,Tonnes/Hectare,22.259615384615383,valid_positive_yield,False,True,False,not_flagged,2016
+327679,2017-2018,Andhra Pradesh,28,Visakhapatnam,520,Onion,708,Vegetable,Rabi,96.0,Hectare,1500.0,Tonnes,15.625,Tonnes/Hectare,15.625,valid_positive_yield,False,True,False,not_flagged,2017
+348241,2018-2019,Andhra Pradesh,28,Visakhapatnam,520,Onion,708,Vegetable,Rabi,79.0,Hectare,1100.0,Tonnes,13.924,Tonnes/Hectare,13.924050632911392,valid_positive_yield,False,True,False,not_flagged,2018
+368999,2019-2020,Andhra Pradesh,28,Visakhapatnam,520,Onion,708,Vegetable,Kharif,10.0,Hectare,225.0,Tonnes,22.5,Tonnes/Hectare,22.5,valid_positive_yield,False,True,False,not_flagged,2019
+369000,2019-2020,Andhra Pradesh,28,Visakhapatnam,520,Onion,708,Vegetable,Rabi,50.0,Hectare,1110.0,Tonnes,22.2,Tonnes/Hectare,22.2,valid_positive_yield,False,True,False,not_flagged,2019
+289472,2015-2016,Andhra Pradesh,28,Vizianagaram,521,Onion,708,Vegetable,Kharif,68.0,Hectare,1137.0,Tonnes,16.721,Tonnes/Hectare,16.720588235294116,valid_positive_yield,False,True,False,not_flagged,2015
+289473,2015-2016,Andhra Pradesh,28,Vizianagaram,521,Onion,708,Vegetable,Rabi,168.0,Hectare,2389.0,Tonnes,14.22,Tonnes/Hectare,14.220238095238095,valid_positive_yield,False,True,False,not_flagged,2015
+307953,2016-2017,Andhra Pradesh,28,Vizianagaram,521,Onion,708,Vegetable,Kharif,70.0,Hectare,1658.0,Tonnes,23.686,Tonnes/Hectare,23.685714285714287,valid_positive_yield,False,True,False,not_flagged,2016
+307954,2016-2017,Andhra Pradesh,28,Vizianagaram,521,Onion,708,Vegetable,Rabi,131.0,Hectare,2916.0,Tonnes,22.26,Tonnes/Hectare,22.259541984732824,valid_positive_yield,False,True,False,not_flagged,2016
+327745,2017-2018,Andhra Pradesh,28,Vizianagaram,521,Onion,708,Vegetable,Rabi,119.0,Hectare,1950.0,Tonnes,16.387,Tonnes/Hectare,16.386554621848738,valid_positive_yield,False,True,False,not_flagged,2017
+348307,2018-2019,Andhra Pradesh,28,Vizianagaram,521,Onion,708,Vegetable,Rabi,75.0,Hectare,1760.0,Tonnes,23.467,Tonnes/Hectare,23.466666666666665,valid_positive_yield,False,True,False,not_flagged,2018
+369061,2019-2020,Andhra Pradesh,28,Vizianagaram,521,Onion,708,Vegetable,Kharif,7.0,Hectare,155.0,Tonnes,22.143,Tonnes/Hectare,22.142857142857142,valid_positive_yield,False,True,False,not_flagged,2019
+369062,2019-2020,Andhra Pradesh,28,Vizianagaram,521,Onion,708,Vegetable,Rabi,39.0,Hectare,853.0,Tonnes,21.872,Tonnes/Hectare,21.871794871794872,valid_positive_yield,False,True,False,not_flagged,2019
+289526,2015-2016,Andhra Pradesh,28,West Godavari,523,Onion,708,Vegetable,Rabi,1.0,Hectare,14.0,Tonnes,14.0,Tonnes/Hectare,14.0,valid_positive_yield,False,True,False,not_flagged,2015
+289584,2015-2016,Andhra Pradesh,28,Y.S.R. Kadapa,504,Onion,708,Vegetable,Kharif,3562.0,Hectare,37330.0,Tonnes,10.48,Tonnes/Hectare,10.480067377877598,valid_positive_yield,False,True,False,not_flagged,2015
+289585,2015-2016,Andhra Pradesh,28,Y.S.R. Kadapa,504,Onion,708,Vegetable,Rabi,2218.0,Hectare,28583.0,Tonnes,12.887,Tonnes/Hectare,12.886834986474302,valid_positive_yield,False,True,False,not_flagged,2015
+308076,2016-2017,Andhra Pradesh,28,Y.S.R. Kadapa,504,Onion,708,Vegetable,Kharif,3725.0,Hectare,47159.0,Tonnes,12.66,Tonnes/Hectare,12.66013422818792,valid_positive_yield,False,True,False,not_flagged,2016
+308077,2016-2017,Andhra Pradesh,28,Y.S.R. Kadapa,504,Onion,708,Vegetable,Rabi,758.0,Hectare,10144.0,Tonnes,13.383,Tonnes/Hectare,13.382585751978892,valid_positive_yield,False,True,False,not_flagged,2016
+327860,2017-2018,Andhra Pradesh,28,Y.S.R. Kadapa,504,Onion,708,Vegetable,Kharif,2551.0,Hectare,27676.0,Tonnes,10.849,Tonnes/Hectare,10.84907879263034,valid_positive_yield,False,True,False,not_flagged,2017
+327861,2017-2018,Andhra Pradesh,28,Y.S.R. Kadapa,504,Onion,708,Vegetable,Rabi,1805.0,Hectare,61593.0,Tonnes,34.124,Tonnes/Hectare,34.12354570637119,valid_positive_yield,False,True,False,not_flagged,2017
+348421,2018-2019,Andhra Pradesh,28,Y.S.R. Kadapa,504,Onion,708,Vegetable,Kharif,3631.0,Hectare,28446.0,Tonnes,7.834,Tonnes/Hectare,7.834205453043238,valid_positive_yield,False,True,False,not_flagged,2018
+348422,2018-2019,Andhra Pradesh,28,Y.S.R. Kadapa,504,Onion,708,Vegetable,Rabi,1034.0,Hectare,56353.0,Tonnes,54.5,Tonnes/Hectare,54.5,valid_positive_yield,False,True,True,statistical_outlier_review,2018
+369180,2019-2020,Andhra Pradesh,28,Y.S.R. Kadapa,504,Onion,708,Vegetable,Kharif,1381.0,Hectare,30382.0,Tonnes,22.0,Tonnes/Hectare,22.0,valid_positive_yield,False,True,False,not_flagged,2019
+369181,2019-2020,Andhra Pradesh,28,Y.S.R. Kadapa,504,Onion,708,Vegetable,Rabi,1084.0,Hectare,23248.0,Tonnes,21.446,Tonnes/Hectare,21.44649446494465,valid_positive_yield,False,True,False,not_flagged,2019

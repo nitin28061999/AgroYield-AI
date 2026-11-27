@@ -1,0 +1,101 @@
+id,year,state_name,district_name,crop_name,crop_code,season,area,production,yield
+13736,1998-1999,Haryana,Kaithal,Barley,107.0,Rabi,37.0,,0.0
+13757,1998-1999,Haryana,Karnal,Barley,107.0,Rabi,194.0,,0.0
+13837,1998-1999,Haryana,Panipat,Maize,104.0,Kharif,56.0,,0.0
+13859,1998-1999,Haryana,Rewari,Moth,209.0,Kharif,1.0,,0.0
+13900,1998-1999,Haryana,Sirsa,Moth,209.0,Kharif,22.0,,0.0
+10649,1998-1999,Andhra Pradesh,Kurnool,Other Kharif Pulses,288.0,Kharif,100.0,,0.0
+10653,1998-1999,Andhra Pradesh,Kurnool,Sesamum,1003.0,Kharif,100.0,,0.0
+10712,1998-1999,Andhra Pradesh,Sri Potti Sriramulu Nellore,Castor Seed,1002.0,Kharif,100.0,,0.0
+10762,1998-1999,Andhra Pradesh,Srikakulam,Other Kharif Pulses,288.0,Kharif,100.0,,0.0
+10867,1998-1999,Andhra Pradesh,West Godavari,Moong(Green Gram),204.0,Kharif,100.0,,0.0
+10919,1998-1999,Andhra Pradesh,Y.S.R. Kadapa,Wheat,106.0,Rabi,100.0,,0.0
+18417,1998-1999,Odisha,Jagatsinghapur,Ragi,105.0,Autumn,1.0,,0.0
+11726,1998-1999,Assam,Tinsukia,Cotton(Lint),1101.0,Kharif,1.0,,0.0
+18796,1998-1999,Odisha,Nuapada,Sesamum,1003.0,Summer,1.0,,0.0
+13010,1998-1999,Chhattisgarh,Mahasamund,Jowar,102.0,Kharif,100.0,,0.0
+13018,1998-1999,Chhattisgarh,Mahasamund,Sunflower,1007.0,Kharif,100.0,,0.0
+13176,1998-1999,Gujarat,Bharuch,Other Cereals,188.0,Kharif,100.0,,0.0
+13182,1998-1999,Gujarat,Bharuch,Small Millets,108.0,Kharif,100.0,,0.0
+13204,1998-1999,Gujarat,Bhavnagar,Other Kharif Pulses,288.0,Kharif,100.0,,0.0
+13212,1998-1999,Gujarat,Dangs,Dry Chillies,502.0,Whole Year,100.0,,0.0
+13268,1998-1999,Gujarat,Jamnagar,Other Kharif Pulses,288.0,Kharif,200.0,,0.0
+13298,1998-1999,Gujarat,Junagadh,Small Millets,108.0,Rabi,100.0,,0.0
+13405,1998-1999,Gujarat,Panch Mahals,Moth,209.0,Kharif,200.0,,0.0
+13436,1998-1999,Gujarat,Rajkot,Other Cereals,188.0,Kharif,100.0,,0.0
+13441,1998-1999,Gujarat,Rajkot,Small Millets,108.0,Kharif,100.0,,0.0
+13460,1998-1999,Gujarat,Sabar Kantha,Moth,209.0,Kharif,100.0,,0.0
+13486,1998-1999,Gujarat,Surat,Moth,209.0,Kharif,100.0,,0.0
+13513,1998-1999,Gujarat,Surendranagar,Other Kharif Pulses,288.0,Kharif,100.0,,0.0
+13577,1998-1999,Haryana,Ambala,Bajra,103.0,Kharif,370.0,,0.0
+13578,1998-1999,Haryana,Ambala,Barley,107.0,Rabi,104.0,,0.0
+13579,1998-1999,Haryana,Ambala,Cotton(Lint),1101.0,Kharif,25.0,,0.0
+13581,1998-1999,Haryana,Ambala,Gram,201.0,Rabi,108.0,,0.0
+13582,1998-1999,Haryana,Ambala,Groundnut,1001.0,Kharif,17.0,,0.0
+13583,1998-1999,Haryana,Ambala,Jowar,102.0,Kharif,1.0,,0.0
+13586,1998-1999,Haryana,Ambala,Moth,209.0,Kharif,1.0,,0.0
+13592,1998-1999,Haryana,Ambala,Sesamum,1003.0,Kharif,6.0,,0.0
+13603,1998-1999,Haryana,Bhiwani,Groundnut,1001.0,Kharif,2.0,,0.0
+13605,1998-1999,Haryana,Bhiwani,Maize,104.0,Kharif,47.0,,0.0
+13606,1998-1999,Haryana,Bhiwani,Masoor,205.0,Rabi,13.0,,0.0
+13608,1998-1999,Haryana,Bhiwani,Moth,209.0,Kharif,86.0,,0.0
+13610,1998-1999,Haryana,Bhiwani,Peas & Beans (Pulses),213.0,Rabi,8.0,,0.0
+13617,1998-1999,Haryana,Bhiwani,Urad,203.0,Kharif,12.0,,0.0
+13622,1998-1999,Haryana,Faridabad,Cotton(Lint),1101.0,Kharif,148.0,,0.0
+13623,1998-1999,Haryana,Faridabad,Dry Chillies,502.0,Whole Year,47.0,,0.0
+13624,1998-1999,Haryana,Faridabad,Gram,201.0,Rabi,108.0,,0.0
+13626,1998-1999,Haryana,Faridabad,Maize,104.0,Kharif,323.0,,0.0
+13630,1998-1999,Haryana,Faridabad,Onion,708.0,Whole Year,1.0,,0.0
+13638,1998-1999,Haryana,Faridabad,Urad,203.0,Kharif,215.0,,0.0
+13646,1998-1999,Haryana,Fatehabad,Groundnut,1001.0,Kharif,19.0,,0.0
+13647,1998-1999,Haryana,Fatehabad,Maize,104.0,Kharif,25.0,,0.0
+13650,1998-1999,Haryana,Fatehabad,Moth,209.0,Kharif,1.0,,0.0
+13656,1998-1999,Haryana,Fatehabad,Sunflower,1007.0,Rabi,11.0,,0.0
+13661,1998-1999,Haryana,Gurugram,Cotton(Lint),1101.0,Kharif,113.0,,0.0
+13664,1998-1999,Haryana,Gurugram,Groundnut,1001.0,Kharif,183.0,,0.0
+13666,1998-1999,Haryana,Gurugram,Maize,104.0,Kharif,13.0,,0.0
+13668,1998-1999,Haryana,Gurugram,Moong(Green Gram),204.0,Kharif,67.0,,0.0
+13683,1998-1999,Haryana,Hisar,Groundnut,1001.0,Kharif,29.0,,0.0
+13684,1998-1999,Haryana,Hisar,Maize,104.0,Kharif,119.0,,0.0
+13691,1998-1999,Haryana,Hisar,Sannhamp,1104.0,Whole Year,43.0,,0.0
+13701,1998-1999,Haryana,Jhajjar,Groundnut,1001.0,Kharif,18.0,,0.0
+13703,1998-1999,Haryana,Jhajjar,Maize,104.0,Kharif,19.0,,0.0
+13704,1998-1999,Haryana,Jhajjar,Moong(Green Gram),204.0,Kharif,3.0,,0.0
+13711,1998-1999,Haryana,Jhajjar,Sesamum,1003.0,Kharif,44.0,,0.0
+13713,1998-1999,Haryana,Jhajjar,Urad,203.0,Kharif,147.0,,0.0
+13719,1998-1999,Haryana,Jind,Dry Chillies,502.0,Whole Year,18.0,,0.0
+13721,1998-1999,Haryana,Jind,Jowar,102.0,Kharif,2842.0,,0.0
+13722,1998-1999,Haryana,Jind,Maize,104.0,Kharif,18.0,,0.0
+13724,1998-1999,Haryana,Jind,Moong(Green Gram),204.0,Kharif,21.0,,0.0
+13729,1998-1999,Haryana,Jind,Sannhamp,1104.0,Whole Year,25.0,,0.0
+13730,1998-1999,Haryana,Jind,Sesamum,1003.0,Kharif,161.0,,0.0
+13739,1998-1999,Haryana,Kaithal,Gram,201.0,Rabi,232.0,,0.0
+13740,1998-1999,Haryana,Kaithal,Groundnut,1001.0,Kharif,1.0,,0.0
+13741,1998-1999,Haryana,Kaithal,Jowar,102.0,Kharif,225.0,,0.0
+13742,1998-1999,Haryana,Kaithal,Maize,104.0,Kharif,277.0,,0.0
+13744,1998-1999,Haryana,Kaithal,Moong(Green Gram),204.0,Kharif,10.0,,0.0
+13750,1998-1999,Haryana,Kaithal,Sesamum,1003.0,Kharif,66.0,,0.0
+13753,1998-1999,Haryana,Kaithal,Urad,203.0,Kharif,3.0,,0.0
+13758,1998-1999,Haryana,Karnal,Cotton(Lint),1101.0,Kharif,62.0,,0.0
+13761,1998-1999,Haryana,Karnal,Groundnut,1001.0,Kharif,1.0,,0.0
+13764,1998-1999,Haryana,Karnal,Moong(Green Gram),204.0,Kharif,12.0,,0.0
+13769,1998-1999,Haryana,Karnal,Sannhamp,1104.0,Whole Year,1.0,,0.0
+13770,1998-1999,Haryana,Karnal,Sesamum,1003.0,Kharif,28.0,,0.0
+13775,1998-1999,Haryana,Kurukshetra,Arhar/Tur,202.0,Kharif,18.0,,0.0
+13776,1998-1999,Haryana,Kurukshetra,Bajra,103.0,Kharif,45.0,,0.0
+13777,1998-1999,Haryana,Kurukshetra,Barley,107.0,Rabi,77.0,,0.0
+13778,1998-1999,Haryana,Kurukshetra,Cotton(Lint),1101.0,Kharif,3.0,,0.0
+13780,1998-1999,Haryana,Kurukshetra,Gram,201.0,Rabi,140.0,,0.0
+13785,1998-1999,Haryana,Kurukshetra,Rapeseed &Mustard,1004.0,Rabi,570.0,,0.0
+13787,1998-1999,Haryana,Kurukshetra,Sesamum,1003.0,Kharif,2.0,,0.0
+13790,1998-1999,Haryana,Kurukshetra,Urad,203.0,Kharif,25.0,,0.0
+13796,1998-1999,Haryana,Mahendragarh,Dry Chillies,502.0,Whole Year,18.0,,0.0
+13799,1998-1999,Haryana,Mahendragarh,Jowar,102.0,Kharif,10.0,,0.0
+13800,1998-1999,Haryana,Mahendragarh,Maize,104.0,Kharif,4.0,,0.0
+13801,1998-1999,Haryana,Mahendragarh,Moong(Green Gram),204.0,Kharif,55.0,,0.0
+13803,1998-1999,Haryana,Mahendragarh,Peas & Beans (Pulses),213.0,Rabi,45.0,,0.0
+13806,1998-1999,Haryana,Mahendragarh,Sannhamp,1104.0,Whole Year,15.0,,0.0
+13807,1998-1999,Haryana,Mahendragarh,Sesamum,1003.0,Kharif,4.0,,0.0
+13808,1998-1999,Haryana,Mahendragarh,Sugarcane,401.0,Whole Year,7.0,,0.0
+13812,1998-1999,Haryana,Panchkula,Barley,107.0,Rabi,61.0,,0.0
+13813,1998-1999,Haryana,Panchkula,Cotton(Lint),1101.0,Kharif,56.0,,0.0

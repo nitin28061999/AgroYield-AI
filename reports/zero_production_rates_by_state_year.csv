@@ -1,0 +1,168 @@
+state_name,year,total_records,zero_records,districts,zero_rate_pct
+Haryana,2002-2003,390,132,19,33.85
+Tamil Nadu,2002-2003,1373,389,29,28.33
+Madhya Pradesh,2002-2003,1730,452,46,26.13
+Kerala,2002-2003,413,97,14,23.49
+Rajasthan,2002-2003,989,169,32,17.09
+Ladakh,2002-2003,19,2,2,10.53
+Telangana,2002-2003,473,42,9,8.88
+Andhra Pradesh,2002-2003,699,51,13,7.3
+Jammu And Kashmir,2002-2003,184,10,12,5.43
+Manipur,2002-2003,224,8,9,3.57
+Himachal Pradesh,2002-2003,252,8,12,3.17
+Punjab,2002-2003,192,3,17,1.56
+Gujarat,2002-2003,413,2,19,0.48
+Uttar Pradesh,2002-2003,1735,8,70,0.46
+Maharashtra,2002-2003,813,3,33,0.37
+Chhattisgarh,2002-2003,611,2,16,0.33
+Karnataka,2002-2003,1343,2,27,0.15
+Andaman And Nicobar Islands,2002-2003,19,0,2,0.0
+Arunachal Pradesh,2002-2003,137,0,15,0.0
+Assam,2002-2003,790,0,23,0.0
+Bihar,2002-2003,1198,0,37,0.0
+Chandigarh,2002-2003,8,0,1,0.0
+Jharkhand,2002-2003,108,0,18,0.0
+Meghalaya,2002-2003,151,0,7,0.0
+Mizoram,2002-2003,69,0,4,0.0
+Nagaland,2002-2003,195,0,8,0.0
+Odisha,2002-2003,835,0,30,0.0
+Puducherry,2002-2003,27,0,2,0.0
+Sikkim,2002-2003,52,0,4,0.0
+The Dadra And Nagar Haveli And Daman And Diu,2002-2003,17,0,1,0.0
+Tripura,2002-2003,40,0,4,0.0
+Uttarakhand,2002-2003,325,0,13,0.0
+West Bengal,2002-2003,574,0,18,0.0
+Haryana,2003-2004,408,130,19,31.86
+Tamil Nadu,2003-2004,1427,420,29,29.43
+Madhya Pradesh,2003-2004,2004,551,48,27.5
+Kerala,2003-2004,371,86,14,23.18
+Rajasthan,2003-2004,1066,177,32,16.6
+Ladakh,2003-2004,20,2,2,10.0
+Telangana,2003-2004,480,42,9,8.75
+Andhra Pradesh,2003-2004,697,46,13,6.6
+Jammu And Kashmir,2003-2004,182,10,12,5.49
+Maharashtra,2003-2004,931,29,33,3.11
+Punjab,2003-2004,196,3,17,1.53
+Karnataka,2003-2004,1249,9,27,0.72
+Uttar Pradesh,2003-2004,1827,12,70,0.66
+Assam,2003-2004,790,3,23,0.38
+Bihar,2003-2004,1254,4,38,0.32
+Chhattisgarh,2003-2004,612,1,16,0.16
+Andaman And Nicobar Islands,2003-2004,19,0,2,0.0
+Arunachal Pradesh,2003-2004,133,0,15,0.0
+Chandigarh,2003-2004,5,0,1,0.0
+Gujarat,2003-2004,523,0,25,0.0
+Himachal Pradesh,2003-2004,70,0,12,0.0
+Jharkhand,2003-2004,153,0,22,0.0
+Manipur,2003-2004,259,0,9,0.0
+Meghalaya,2003-2004,158,0,7,0.0
+Mizoram,2003-2004,104,0,6,0.0
+Nagaland,2003-2004,213,0,8,0.0
+Odisha,2003-2004,863,0,30,0.0
+Puducherry,2003-2004,32,0,2,0.0
+Sikkim,2003-2004,46,0,4,0.0
+The Dadra And Nagar Haveli And Daman And Diu,2003-2004,17,0,1,0.0
+Tripura,2003-2004,32,0,4,0.0
+Uttarakhand,2003-2004,296,0,13,0.0
+West Bengal,2003-2004,558,0,18,0.0
+Chhattisgarh,2020-2021,981,44,28,4.49
+Madhya Pradesh,2020-2021,1040,26,52,2.5
+Andhra Pradesh,2020-2021,538,10,13,1.86
+Rajasthan,2020-2021,904,16,33,1.77
+Tamil Nadu,2020-2021,1494,25,38,1.67
+Telangana,2020-2021,1181,19,32,1.61
+Haryana,2020-2021,320,4,22,1.25
+Punjab,2020-2021,186,2,22,1.08
+Karnataka,2020-2021,1808,11,30,0.61
+Uttar Pradesh,2020-2021,2170,8,75,0.37
+Andaman And Nicobar Islands,2020-2021,41,0,3,0.0
+Arunachal Pradesh,2020-2021,473,0,25,0.0
+Assam,2020-2021,1055,0,33,0.0
+Bihar,2020-2021,947,0,38,0.0
+Chandigarh,2020-2021,3,0,1,0.0
+Goa,2020-2021,24,0,2,0.0
+Gujarat,2020-2021,823,0,33,0.0
+Himachal Pradesh,2020-2021,249,0,12,0.0
+Jammu And Kashmir,2020-2021,245,0,20,0.0
+Jharkhand,2020-2021,551,0,24,0.0
+Kerala,2020-2021,239,0,14,0.0
+Ladakh,2020-2021,9,0,1,0.0
+Maharashtra,2020-2021,912,0,34,0.0
+Manipur,2020-2021,11,0,9,0.0
+Meghalaya,2020-2021,302,0,11,0.0
+Mizoram,2020-2021,154,0,11,0.0
+Nagaland,2020-2021,297,0,11,0.0
+Odisha,2020-2021,518,0,30,0.0
+Puducherry,2020-2021,49,0,2,0.0
+Sikkim,2020-2021,35,0,4,0.0
+Tripura,2020-2021,222,0,8,0.0
+Uttarakhand,2020-2021,319,0,13,0.0
+West Bengal,2020-2021,555,0,22,0.0
+Haryana,2021-2022,438,66,22,15.07
+Chhattisgarh,2021-2022,958,42,28,4.38
+Rajasthan,2021-2022,887,19,33,2.14
+Kerala,2021-2022,236,3,14,1.27
+Tamil Nadu,2021-2022,1481,17,38,1.15
+Madhya Pradesh,2021-2022,962,10,52,1.04
+Jammu And Kashmir,2021-2022,111,1,19,0.9
+Telangana,2021-2022,1341,7,32,0.52
+Andhra Pradesh,2021-2022,550,2,14,0.36
+Jharkhand,2021-2022,509,1,24,0.2
+Bihar,2021-2022,935,1,38,0.11
+Andaman And Nicobar Islands,2021-2022,41,0,3,0.0
+Arunachal Pradesh,2021-2022,462,0,25,0.0
+Assam,2021-2022,1013,0,33,0.0
+Chandigarh,2021-2022,3,0,1,0.0
+Goa,2021-2022,24,0,2,0.0
+Gujarat,2021-2022,824,0,33,0.0
+Himachal Pradesh,2021-2022,245,0,12,0.0
+Karnataka,2021-2022,1681,0,30,0.0
+Ladakh,2021-2022,8,0,1,0.0
+Maharashtra,2021-2022,1001,0,34,0.0
+Manipur,2021-2022,90,0,9,0.0
+Meghalaya,2021-2022,117,0,11,0.0
+Mizoram,2021-2022,152,0,11,0.0
+Nagaland,2021-2022,287,0,12,0.0
+Odisha,2021-2022,571,0,30,0.0
+Puducherry,2021-2022,47,0,2,0.0
+Punjab,2021-2022,188,0,23,0.0
+Sikkim,2021-2022,37,0,5,0.0
+The Dadra And Nagar Haveli And Daman And Diu,2021-2022,4,0,3,0.0
+Tripura,2021-2022,204,0,8,0.0
+Uttar Pradesh,2021-2022,2062,0,75,0.0
+Uttarakhand,2021-2022,312,0,13,0.0
+West Bengal,2021-2022,556,0,22,0.0
+Karnataka,2022-2023,1745,85,31,4.87
+Chhattisgarh,2022-2023,1102,25,33,2.27
+Puducherry,2022-2023,52,1,2,1.92
+Rajasthan,2022-2023,841,15,33,1.78
+Jharkhand,2022-2023,492,7,24,1.42
+Himachal Pradesh,2022-2023,158,2,12,1.27
+Madhya Pradesh,2022-2023,994,11,52,1.11
+Telangana,2022-2023,1204,9,32,0.75
+Punjab,2022-2023,189,1,23,0.53
+Kerala,2022-2023,243,1,14,0.41
+Tamil Nadu,2022-2023,1465,6,38,0.41
+Uttar Pradesh,2022-2023,2122,3,75,0.14
+Gujarat,2022-2023,782,1,33,0.13
+Andaman And Nicobar Islands,2022-2023,44,0,3,0.0
+Andhra Pradesh,2022-2023,913,0,26,0.0
+Arunachal Pradesh,2022-2023,482,0,25,0.0
+Assam,2022-2023,1043,0,33,0.0
+Bihar,2022-2023,934,0,38,0.0
+Chandigarh,2022-2023,3,0,1,0.0
+Goa,2022-2023,22,0,2,0.0
+Haryana,2022-2023,187,0,22,0.0
+Jammu And Kashmir,2022-2023,113,0,19,0.0
+Ladakh,2022-2023,15,0,2,0.0
+Maharashtra,2022-2023,1000,0,34,0.0
+Manipur,2022-2023,90,0,9,0.0
+Meghalaya,2022-2023,238,0,11,0.0
+Mizoram,2022-2023,150,0,11,0.0
+Nagaland,2022-2023,445,0,16,0.0
+Odisha,2022-2023,556,0,30,0.0
+Sikkim,2022-2023,53,0,6,0.0
+The Dadra And Nagar Haveli And Daman And Diu,2022-2023,4,0,3,0.0
+Tripura,2022-2023,204,0,8,0.0
+Uttarakhand,2022-2023,264,0,13,0.0
+West Bengal,2022-2023,554,0,22,0.0

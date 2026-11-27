@@ -1,0 +1,962 @@
+year,state_name,crop_name,crop_code,season,area,production,district_count,districts,record_count
+1999-2000,Maharashtra,Castor Seed,1002.0,Kharif,300.0,100.0,8,Jalgaon | Jalna | Kolhapur | Latur | Nagpur | Pune | Satara | Yavatmal,8
+2008-2009,Maharashtra,Castor Seed,1002.0,Kharif,100.0,,7,Ahilyanagar | Buldhana | Chandrapur | Hingoli | Pune | Washim | Yavatmal,7
+2014-2015,Maharashtra,Niger Seed,1010.0,Kharif,100.0,,7,Chhatrapati Sambhajinagar | Raigad | Ratnagiri | Sangli | Sindhudurg | Solapur | Thane,7
+2018-2019,Madhya Pradesh,Castor Seed,1002.0,Kharif,1.0,,7,Agar-Malwa | Betul | Harda | Katni | Mandsaur | Neemuch | Sagar,7
+2018-2019,Madhya Pradesh,Niger Seed,1010.0,Kharif,1.0,,7,Balaghat | Gwalior | Khandwa (East Nimar) | Khargone (West Nimar) | Neemuch | Panna | Ratlam,7
+2000-2001,Odisha,Castor Seed,1002.0,Rabi,20.0,10.0,6,Cuttack | Jagatsinghapur | Jharsuguda | Mayurbhanj | Sambalpur | Sonepur,6
+2000-2001,Uttar Pradesh,Linseed,1005.0,Rabi,1.0,0.1,6,Ambedkar Nagar | Deoria | Mathura | Mau | Moradabad | Muzaffarnagar,6
+2002-2003,Maharashtra,Castor Seed,1002.0,Kharif,100.0,10.0,6,Ahilyanagar | Chandrapur | Pune | Wardha | Washim | Yavatmal,6
+2002-2003,Uttar Pradesh,Linseed,1005.0,Rabi,3.0,1.0,6,Bhadohi | Budaun | Etawah | Kaushambi | Mau | Muzaffarnagar,6
+2014-2015,Maharashtra,Castor Seed,1002.0,Kharif,100.0,,6,Ahilyanagar | Jalna | Nagpur | Pune | Satara | Washim,6
+2019-2020,Madhya Pradesh,Mesta,1103.0,Kharif,2.0,1.0,6,Chhatarpur | Datia | Indore | Jhabua | Neemuch | Vidisha,6
+2020-2021,Tamil Nadu,Castor Seed,1002.0,Kharif,1.0,0.0,6,Chengalpattu | Kanniyakumari | Ranipet | Thanjavur | Thoothukkudi | Viluppuram,6
+2020-2021,Uttar Pradesh,Linseed,1005.0,Rabi,2.0,1.0,6,Bulandshahr | Deoria | Jaunpur | Mau | Pilibhit | Varanasi,6
+2021-2022,Nagaland,Mesta,1103.0,Kharif,1.0,1.0,6,Kohima | Mokokchung | Noklak | Tuensang | Wokha | Zunheboto,6
+1999-2000,Maharashtra,Niger Seed,1010.0,Kharif,100.0,0.0,5,Chandrapur | Hingoli | Nagpur | Washim | Yavatmal,5
+2001-2002,Uttar Pradesh,Tobacco,1302.0,Whole Year,1.0,6.0,5,Banda | Fatehpur | Moradabad | Rampur | Siddharthnagar,5
+2003-2004,Madhya Pradesh,Castor Seed,1002.0,Kharif,1.0,0.0,5,Burhanpur | Datia | Indore | Mandsaur | Narmadapuram,5
+2004-2005,Maharashtra,Castor Seed,1002.0,Kharif,100.0,,5,Latur | Pune | Sangli | Wardha | Washim,5
+2005-2006,Madhya Pradesh,Castor Seed,1002.0,Kharif,1.0,,5,Harda | Mandsaur | Narmadapuram | Sagar | Ujjain,5
+2005-2006,Maharashtra,Castor Seed,1002.0,Kharif,200.0,100.0,5,Buldhana | Chandrapur | Gondia | Kolhapur | Sangli,5
+2007-2008,Maharashtra,Castor Seed,1002.0,Kharif,100.0,,5,Buldhana | Dharashiv | Gondia | Hingoli | Pune,5
+2007-2008,Maharashtra,Castor Seed,1002.0,Kharif,300.0,100.0,5,Chandrapur | Chhatrapati Sambhajinagar | Kolhapur | Nagpur | Solapur,5
+2008-2009,Maharashtra,Niger Seed,1010.0,Kharif,100.0,100.0,5,Chhatrapati Sambhajinagar | Dhule | Nandurbar | Sangli | Solapur,5
+2009-2010,Maharashtra,Castor Seed,1002.0,Kharif,100.0,,5,Ahilyanagar | Buldhana | Jalna | Pune | Wardha,5
+2011-2012,Assam,Tobacco,1302.0,Whole Year,1.0,1.0,5,Hailakandi | Kamrup Metro | Nalbari | Tinsukia | Udalguri,5
+2013-2014,Maharashtra,Niger Seed,1010.0,Kharif,100.0,,5,Chhatrapati Sambhajinagar | Jalna | Sangli | Sindhudurg | Solapur,5
+2014-2015,Madhya Pradesh,Niger Seed,1010.0,Kharif,2000.0,1000.0,5,Barwani | Khargone (West Nimar) | Shahdol | Singrauli | Umaria,5
+2017-2018,Assam,Castor Seed,1002.0,Kharif,1.0,1.0,5,Cachar | Darrang | Nalbari | Sivasagar | Sribhumi,5
+2018-2019,Karnataka,Niger Seed,1010.0,Kharif,1.0,,5,Davanagere | Dharwad | Kodagu | Shivamogga | Yadgir,5
+2019-2020,Madhya Pradesh,Niger Seed,1010.0,Kharif,4.0,1.0,5,Ashoknagar | Bhind | Gwalior | Sheopur | Shivpuri,5
+2019-2020,Tamil Nadu,Castor Seed,1002.0,Kharif,1.0,,5,Kanniyakumari | Pudukkottai | Sivaganga | Thanjavur | Thoothukkudi,5
+2019-2020,Uttar Pradesh,Linseed,1005.0,Rabi,1.0,1.0,5,Aligarh | Lucknow | Pratapgarh | Sambhal | Sitapur,5
+1997-1998,Uttar Pradesh,Castor Seed,1002.0,Kharif,1.0,1.0,4,Bahraich | Deoria | Hamirpur | Hardoi,4
+1998-1999,Maharashtra,Castor Seed,1002.0,Kharif,100.0,,4,Akola | Chhatrapati Sambhajinagar | Latur | Wardha,4
+1998-1999,Maharashtra,Castor Seed,1002.0,Kharif,200.0,100.0,4,Jalna | Nagpur | Pune | Solapur,4
+1998-1999,Uttar Pradesh,Castor Seed,1002.0,Rabi,2.0,1.0,4,Agra | Chitrakoot | Mirzapur | Sultanpur,4
+2000-2001,Maharashtra,Castor Seed,1002.0,Kharif,100.0,10.0,4,Bhandara | Latur | Pune | Washim,4
+2000-2001,Maharashtra,Niger Seed,1010.0,Kharif,100.0,10.0,4,Hingoli | Nandurbar | Sindhudurg | Yavatmal,4
+2000-2001,Punjab,Linseed,1005.0,Rabi,100.0,100.0,4,Gurdaspur | Hoshiarpur | Rupnagar | Shahid Bhagat Singh Nagar,4
+2001-2002,Madhya Pradesh,Niger Seed,1010.0,Kharif,1.0,0.01,4,Narmadapuram | Ratlam | Satna | Ujjain,4
+2001-2002,Odisha,Castor Seed,1002.0,Kharif,40.0,20.0,4,Cuttack | Deogarh | Jajpur | Sonepur,4
+2001-2002,Rajasthan,Linseed,1005.0,Rabi,4.0,3.0,4,Barmer | Bikaner | Dungarpur | Karauli,4
+2001-2002,Uttar Pradesh,Linseed,1005.0,Rabi,1.0,0.1,4,Agra | Ambedkar Nagar | Deoria | Muzaffarnagar,4
+2002-2003,Uttar Pradesh,Linseed,1005.0,Rabi,2.0,1.0,4,Ambedkar Nagar | Bareilly | Bijnor | Rampur,4
+2004-2005,Uttar Pradesh,Linseed,1005.0,Rabi,5.0,2.0,4,Aligarh | Kheri | Kushinagar | Rampur,4
+2006-2007,Madhya Pradesh,Castor Seed,1002.0,Kharif,1.0,,4,Morena | Panna | Sagar | Seoni,4
+2006-2007,Maharashtra,Castor Seed,1002.0,Kharif,100.0,,4,Buldhana | Wardha | Washim | Yavatmal,4
+2006-2007,Maharashtra,Castor Seed,1002.0,Kharif,200.0,100.0,4,Jalgaon | Nagpur | Pune | Sangli,4
+2006-2007,Maharashtra,Castor Seed,1002.0,Kharif,300.0,100.0,4,Akola | Chandrapur | Kolhapur | Solapur,4
+2007-2008,Assam,Tobacco,1302.0,Whole Year,2.0,1.0,4,Kamrup | Kamrup Metro | Tinsukia | Udalguri,4
+2008-2009,Assam,Tobacco,1302.0,Whole Year,1.0,1.0,4,Hailakandi | Kamrup | Nalbari | Tinsukia,4
+2008-2009,Uttar Pradesh,Linseed,1005.0,Rabi,4.0,1.0,4,Ghazipur | Jaunpur | Kaushambi | Pratapgarh,4
+2009-2010,Assam,Tobacco,1302.0,Whole Year,1.0,1.0,4,Darrang | Hailakandi | Kamrup | Nalbari,4
+2010-2011,Assam,Tobacco,1302.0,Whole Year,1.0,1.0,4,Hailakandi | Kamrup | Nalbari | Sivasagar,4
+2010-2011,Maharashtra,Castor Seed,1002.0,Kharif,100.0,100.0,4,Akola | Chandrapur | Nagpur | Solapur,4
+2010-2011,Nagaland,Castor Seed,1002.0,Kharif,20.0,10.0,4,Kohima | Mon | Phek | Tuensang,4
+2011-2012,Madhya Pradesh,Tobacco,1302.0,Whole Year,1.0,,4,Anuppur | Barwani | Dhar | Mandsaur,4
+2011-2012,Maharashtra,Castor Seed,1002.0,Kharif,200.0,100.0,4,Amravati | Chandrapur | Nagpur | Nandurbar,4
+2011-2012,Nagaland,Castor Seed,1002.0,Kharif,20.0,10.0,4,Kohima | Mon | Phek | Tuensang,4
+2012-2013,Nagaland,Castor Seed,1002.0,Kharif,20.0,10.0,4,Kohima | Mon | Phek | Tuensang,4
+2013-2014,Nagaland,Castor Seed,1002.0,Kharif,20.0,10.0,4,Kohima | Mon | Phek | Tuensang,4
+2014-2015,Assam,Tobacco,1302.0,Whole Year,1.0,1.0,4,Hailakandi | Kamrup | Nalbari | Tinsukia,4
+2014-2015,Nagaland,Castor Seed,1002.0,Kharif,20.0,10.0,4,Kohima | Mon | Phek | Tuensang,4
+2015-2016,Assam,Castor Seed,1002.0,Kharif,1.0,1.0,4,Cachar | Darrang | Nalbari | Sribhumi,4
+2015-2016,Assam,Tobacco,1302.0,Whole Year,1.0,1.0,4,Bongaigaon | Jorhat | Kamrup | Nalbari,4
+2015-2016,Nagaland,Castor Seed,1002.0,Kharif,20.0,10.0,4,Kohima | Mon | Phek | Tuensang,4
+2016-2017,Assam,Castor Seed,1002.0,Kharif,1.0,1.0,4,Cachar | Darrang | Nalbari | Sribhumi,4
+2016-2017,Nagaland,Castor Seed,1002.0,Kharif,20.0,10.0,4,Kohima | Mon | Phek | Tuensang,4
+2017-2018,Nagaland,Castor Seed,1002.0,Kharif,20.0,10.0,4,Kohima | Mon | Phek | Tuensang,4
+2018-2019,Assam,Castor Seed,1002.0,Kharif,1.0,1.0,4,Cachar | Darrang | Nalbari | Sribhumi,4
+2018-2019,Karnataka,Cardamom,506.0,Whole Year,2.0,0.2,4,Bengaluru Rural | Chitradurga | Haveri | Udupi,4
+2018-2019,Karnataka,Tobacco,1302.0,Whole Year,2.0,2.0,4,Bagalkote | Bidar | Chikkaballapura | Vijayapura,4
+2018-2019,Karnataka,Tobacco,1302.0,Whole Year,3.0,2.0,4,Bengaluru Rural | Chikkamagaluru | Shivamogga | Yadgir,4
+2018-2019,Nagaland,Castor Seed,1002.0,Kharif,20.0,10.0,4,Kohima | Mon | Phek | Tuensang,4
+2019-2020,Assam,Castor Seed,1002.0,Kharif,1.0,1.0,4,Cachar | Darrang | Nalbari | Sribhumi,4
+2019-2020,Karnataka,Cardamom,506.0,Whole Year,1.0,,4,Bengaluru Urban | Chamarajanagar | Haveri | Kolar,4
+2019-2020,Karnataka,Linseed,1005.0,Rabi,1.0,,4,Ballari | Dharwad | Hassan | Shivamogga,4
+2019-2020,Karnataka,Linseed,1005.0,Rabi,5.0,2.0,4,Bidar | Haveri | Mandya | Raichur,4
+2019-2020,Karnataka,Niger Seed,1010.0,Kharif,12.0,3.0,4,Bagalkote | Belagavi | Chamarajanagar | Kalaburagi,4
+2019-2020,Karnataka,Tobacco,1302.0,Whole Year,1.0,1.0,4,Dakshina Kannada | Gadag | Shivamogga | Uttara Kannada,4
+2019-2020,Madhya Pradesh,Mesta,1103.0,Kharif,1.0,,4,Gwalior | Raisen | Rajgarh | Shivpuri,4
+2019-2020,Madhya Pradesh,Mesta,1103.0,Kharif,4.0,1.0,4,Ashoknagar | Barwani | Betul | Harda,4
+2019-2020,Nagaland,Castor Seed,1002.0,Kharif,20.0,10.0,4,Kohima | Mon | Phek | Tuensang,4
+2019-2020,Odisha,Castor Seed,1002.0,Kharif,10.0,10.0,4,Angul | Cuttack | Puri | Sambalpur,4
+2019-2020,Uttar Pradesh,Linseed,1005.0,Rabi,2.0,1.0,4,Ambedkar Nagar | Bulandshahr | Mahrajganj | Pilibhit,4
+2020-2021,Karnataka,Cardamom,506.0,Whole Year,1.0,0.174,4,Bengaluru Rural | Chikkaballapura | Kalaburagi | Kolar,4
+2020-2021,Karnataka,Linseed,1005.0,Rabi,2.0,1.0,4,Ballari | Raichur | Shivamogga | Uttara Kannada,4
+2020-2021,Karnataka,Linseed,1005.0,Rabi,3.0,1.0,4,Bidar | Chamarajanagar | Kolar | Mandya,4
+2020-2021,Karnataka,Mesta,1103.0,Whole Year,1.0,0.0,4,Chikkamagaluru | Chitradurga | Dharwad | Gadag,4
+2020-2021,Karnataka,Tobacco,1302.0,Whole Year,2.0,2.0,4,Bagalkote | Bengaluru Urban | Kolar | Udupi,4
+2020-2021,Madhya Pradesh,Linseed,1005.0,Rabi,1.0,1.0,4,Burhanpur | Gwalior | Indore | Khargone (West Nimar),4
+2020-2021,Nagaland,Castor Seed,1002.0,Kharif,20.0,10.0,4,Kohima | Mon | Phek | Tuensang,4
+2021-2022,Karnataka,Linseed,1005.0,Rabi,2.0,1.0,4,Haveri | Kolar | Mandya | Raichur,4
+2021-2022,Telangana,Tobacco,1302.0,Kharif,1.0,3.0,4,Bhadradri Kothagudem | Jayashankar Bhupalapally | Kamareddy | Yadadri Bhuvanagiri,4
+2022-2023,Karnataka,Castor Seed,1002.0,Kharif,1.0,1.0,4,Belagavi | Bengaluru Urban | Dharwad | Shivamogga,4
+2022-2023,Karnataka,Linseed,1005.0,Rabi,1.0,0.33,4,Bengaluru South | Kolar | Koppal | Raichur,4
+2022-2023,Karnataka,Linseed,1005.0,Rabi,2.0,1.0,4,Bidar | Chikkamagaluru | Gadag | Mandya,4
+2022-2023,Telangana,Castor Seed,1002.0,Kharif,1.0,1.0,4,Jagitial | Jayashankar Bhupalapally | Kamareddy | Nizamabad,4
+2022-2023,Telangana,Castor Seed,1002.0,Rabi,1.0,1.0,4,Nizamabad | Sangareddy | Warangal | Yadadri Bhuvanagiri,4
+2022-2023,Uttar Pradesh,Linseed,1005.0,Rabi,2.0,1.0,4,Budaun | Pratapgarh | Sambhal | Sitapur,4
+1998-1999,Madhya Pradesh,Linseed,1005.0,Rabi,200.0,100.0,3,Khargone (West Nimar) | Rajgarh | Shajapur,3
+1998-1999,Maharashtra,Castor Seed,1002.0,Kharif,700.0,200.0,3,Amravati | Buldhana | Nanded,3
+1998-1999,Maharashtra,Niger Seed,1010.0,Kharif,400.0,100.0,3,Amravati | Chhatrapati Sambhajinagar | Raigad,3
+1998-1999,Punjab,Linseed,1005.0,Rabi,100.0,100.0,3,Gurdaspur | Jalandhar | Shahid Bhagat Singh Nagar,3
+1998-1999,Uttar Pradesh,Castor Seed,1002.0,Rabi,1.0,1.0,3,Bahraich | Farrukhabad | Hamirpur,3
+1998-1999,Uttar Pradesh,Linseed,1005.0,Rabi,2.0,1.0,3,Ambedkar Nagar | Mainpuri | Rampur,3
+1998-1999,Uttar Pradesh,Linseed,1005.0,Rabi,3.0,1.0,3,Auraiya | Bijnor | Hathras,3
+1998-1999,Uttar Pradesh,Tobacco,1302.0,Whole Year,2.0,12.0,3,Ayodhya | Bahraich | Prayagraj,3
+1999-2000,Madhya Pradesh,Castor Seed,1002.0,Kharif,2.0,1.0,3,Bhind | Morena | Rewa,3
+1999-2000,Maharashtra,Castor Seed,1002.0,Kharif,600.0,100.0,3,Dharashiv | Dhule | Nanded,3
+1999-2000,Odisha,Castor Seed,1002.0,Rabi,20.0,10.0,3,Bhadrak | Cuttack | Kendrapara,3
+1999-2000,Punjab,Linseed,1005.0,Rabi,100.0,100.0,3,Gurdaspur | Jalandhar | Shahid Bhagat Singh Nagar,3
+1999-2000,Uttar Pradesh,Castor Seed,1002.0,Kharif,1.0,1.0,3,Chitrakoot | Meerut | Unnao,3
+2001-2002,Madhya Pradesh,Castor Seed,1002.0,Kharif,2.0,1.0,3,Dewas | Mandsaur | Panna,3
+2001-2002,Maharashtra,Castor Seed,1002.0,Kharif,100.0,10.0,3,Latur | Pune | Washim,3
+2001-2002,Maharashtra,Castor Seed,1002.0,Kharif,800.0,200.0,3,Chhatrapati Sambhajinagar | Nanded | Yavatmal,3
+2001-2002,Maharashtra,Niger Seed,1010.0,Kharif,100.0,100.0,3,Hingoli | Sindhudurg | Solapur,3
+2001-2002,Maharashtra,Niger Seed,1010.0,Kharif,2200.0,400.0,3,Ahilyanagar | Beed | Kolhapur,3
+2001-2002,Punjab,Linseed,1005.0,Rabi,100.0,100.0,3,Gurdaspur | Jalandhar | Shahid Bhagat Singh Nagar,3
+2001-2002,Rajasthan,Linseed,1005.0,Rabi,1.0,1.0,3,Dausa | Jaipur | Rajsamand,3
+2001-2002,Uttar Pradesh,Linseed,1005.0,Rabi,5.0,2.0,3,Azamgarh | Bareilly | Kaushambi,3
+2002-2003,Madhya Pradesh,Castor Seed,1002.0,Kharif,2.0,1.0,3,Guna | Narsimhapur | Seoni,3
+2002-2003,Maharashtra,Castor Seed,1002.0,Kharif,200.0,10.0,3,Hingoli | Jalgaon | Nandurbar,3
+2002-2003,Maharashtra,Niger Seed,1010.0,Kharif,100.0,10.0,3,Nandurbar | Sindhudurg | Solapur,3
+2002-2003,Odisha,Castor Seed,1002.0,Rabi,30.0,20.0,3,Gajapati | Kendrapara | Nayagarh,3
+2002-2003,Rajasthan,Castor Seed,1002.0,Kharif,4.0,,3,Dungarpur | Kota | Rajsamand,3
+2002-2003,Rajasthan,Linseed,1005.0,Rabi,1.0,1.0,3,Ajmer | Dholpur | Jalore,3
+2002-2003,Uttar Pradesh,Linseed,1005.0,Rabi,6.0,3.0,3,Agra | Auraiya | Pilibhit,3
+2002-2003,Uttar Pradesh,Tobacco,1302.0,Whole Year,2.0,12.0,3,Ballia | Banda | Rae Bareli,3
+2003-2004,Assam,Mesta,1103.0,Kharif,2.0,10.0,3,Dibrugarh | Jorhat | Tinsukia,3
+2003-2004,Gujarat,Castor Seed,1002.0,Kharif,100.0,200.0,3,Bhavnagar | Dahod | Narmada,3
+2003-2004,Odisha,Castor Seed,1002.0,Rabi,40.0,20.0,3,Boudh | Deogarh | Mayurbhanj,3
+2003-2004,Tamil Nadu,Castor Seed,1002.0,Kharif,2.0,1.0,3,Kancheepuram | Thiruvallur | Thiruvarur,3
+2003-2004,Uttar Pradesh,Linseed,1005.0,Rabi,1.0,1.0,3,Agra | Deoria | Moradabad,3
+2003-2004,Uttar Pradesh,Tobacco,1302.0,Whole Year,2.0,15.0,3,Ballia | Banda | Rae Bareli,3
+2004-2005,Assam,Castor Seed,1002.0,Kharif,8.0,3.0,3,Darrang | Dibrugarh | Sivasagar,3
+2004-2005,Madhya Pradesh,Castor Seed,1002.0,Kharif,1.0,,3,Harda | Morena | Ratlam,3
+2005-2006,Assam,Castor Seed,1002.0,Kharif,5.0,2.0,3,Hailakandi | Tinsukia | Udalguri,3
+2005-2006,Maharashtra,Castor Seed,1002.0,Kharif,100.0,100.0,3,Akola | Wardha | Washim,3
+2005-2006,Maharashtra,Linseed,1005.0,Rabi,400.0,100.0,3,Latur | Nanded | Solapur,3
+2005-2006,Maharashtra,Niger Seed,1010.0,Kharif,100.0,100.0,3,Dhule | Nandurbar | Solapur,3
+2005-2006,Rajasthan,Castor Seed,1002.0,Kharif,3.0,3.0,3,Alwar | Bharatpur | Dausa,3
+2006-2007,Assam,Tobacco,1302.0,Whole Year,1.0,1.0,3,Hailakandi | Kamrup Metro | Udalguri,3
+2006-2007,Madhya Pradesh,Castor Seed,1002.0,Kharif,2.0,1.0,3,Dewas | Satna | Sehore,3
+2006-2007,Madhya Pradesh,Mesta,1103.0,Kharif,2.0,3.0,3,Chhatarpur | Datia | Dewas,3
+2006-2007,Uttar Pradesh,Linseed,1005.0,Rabi,1.0,,3,Azamgarh | Jaunpur | Moradabad,3
+2006-2007,Uttar Pradesh,Linseed,1005.0,Rabi,8.0,3.0,3,Bara Banki | Budaun | Hardoi,3
+2006-2007,Uttar Pradesh,Tobacco,1302.0,Rabi,1.0,5.0,3,Banda | Fatehpur | Prayagraj,3
+2006-2007,Uttar Pradesh,Tobacco,1302.0,Rabi,2.0,11.0,3,Bulandshahr | Mainpuri | Rae Bareli,3
+2006-2007,Uttar Pradesh,Tobacco,1302.0,Summer,2.0,6.0,3,Budaun | Fatehpur | Hardoi,3
+2006-2007,Uttarakhand,Tobacco,1302.0,Whole Year,1.0,4.0,3,Dehradun | Pauri Garhwal | Pithoragarh,3
+2007-2008,Assam,Niger Seed,1010.0,Kharif,7.0,4.0,3,Golaghat | Hailakandi | Lakhimpur,3
+2007-2008,Maharashtra,Linseed,1005.0,Rabi,100.0,100.0,3,Pune | Satara | Wardha,3
+2007-2008,Rajasthan,Castor Seed,1002.0,Kharif,1.0,,3,Banswara | Churu | Rajsamand,3
+2007-2008,Rajasthan,Linseed,1005.0,Rabi,1.0,1.0,3,Bhilwara | Dausa | Tonk,3
+2008-2009,Assam,Niger Seed,1010.0,Kharif,15.0,7.0,3,Cachar | Dhemaji | Jorhat,3
+2008-2009,Assam,Tobacco,1302.0,Whole Year,8.0,5.0,3,Dhemaji | Jorhat | Nagaon,3
+2008-2009,Karnataka,Cardamom,506.0,Whole Year,1.0,,3,Bengaluru Rural | Chamarajanagar | Davanagere,3
+2008-2009,Maharashtra,Castor Seed,1002.0,Kharif,200.0,100.0,3,Dhule | Gondia | Wardha,3
+2009-2010,Assam,Tobacco,1302.0,Whole Year,2.0,1.0,3,Kamrup Metro | Sivasagar | Tinsukia,3
+2009-2010,Madhya Pradesh,Mesta,1103.0,Whole Year,1.0,,3,Khandwa (East Nimar) | Raisen | Singrauli,3
+2009-2010,Maharashtra,Castor Seed,1002.0,Kharif,200.0,100.0,3,Akola | Chhatrapati Sambhajinagar | Nagpur,3
+2009-2010,Maharashtra,Linseed,1005.0,Rabi,100.0,,3,Nanded | Satara | Wardha,3
+2009-2010,Maharashtra,Linseed,1005.0,Rabi,400.0,100.0,3,Hingoli | Latur | Solapur,3
+2009-2010,Maharashtra,Niger Seed,1010.0,Kharif,100.0,,3,Chhatrapati Sambhajinagar | Sangli | Sindhudurg,3
+2009-2010,Nagaland,Castor Seed,1002.0,Kharif,50.0,20.0,3,Kohima | Mon | Tuensang,3
+2009-2010,Nagaland,Castor Seed,1002.0,Kharif,60.0,30.0,3,Phek | Wokha | Zunheboto,3
+2009-2010,Uttar Pradesh,Linseed,1005.0,Rabi,5.0,2.0,3,Azamgarh | Muzaffarnagar | Sant Kabir Nagar,3
+2009-2010,Uttar Pradesh,Tobacco,1302.0,Summer,1.0,4.0,3,Aligarh | Azamgarh | Budaun,3
+2010-2011,Karnataka,Cardamom,506.0,Whole Year,1.0,,3,Bengaluru Rural | Chamarajanagar | Tumakuru,3
+2010-2011,Uttar Pradesh,Tobacco,1302.0,Rabi,1.0,5.0,3,Auraiya | Rae Bareli | Saharanpur,3
+2010-2011,Uttar Pradesh,Tobacco,1302.0,Rabi,9.0,46.0,3,Bara Banki | Jaunpur | Mahoba,3
+2011-2012,Uttar Pradesh,Linseed,1005.0,Rabi,2.0,1.0,3,Kaushambi | Muzaffarnagar | Sitapur,3
+2011-2012,Uttar Pradesh,Linseed,1005.0,Rabi,3.0,1.0,3,Deoria | Kushinagar | Shrawasti,3
+2012-2013,Assam,Castor Seed,1002.0,Kharif,3.0,1.0,3,Dibrugarh | Kamrup Metro | Sivasagar,3
+2012-2013,Assam,Tobacco,1302.0,Whole Year,4.0,2.0,3,Bongaigaon | Goalpara | Kamrup,3
+2012-2013,Maharashtra,Niger Seed,1010.0,Kharif,100.0,20.0,3,Chhatrapati Sambhajinagar | Jalna | Solapur,3
+2012-2013,Rajasthan,Castor Seed,1002.0,Kharif,1.0,1.0,3,Chittorgarh | Karauli | Pratapgarh,3
+2013-2014,Assam,Tobacco,1302.0,Whole Year,1.0,1.0,3,Hailakandi | Kamrup Metro | Nalbari,3
+2013-2014,Maharashtra,Castor Seed,1002.0,Kharif,300.0,100.0,3,Jalna | Kolhapur | Satara,3
+2013-2014,Maharashtra,Castor Seed,1002.0,Kharif,600.0,100.0,3,Hingoli | Latur | Parbhani,3
+2013-2014,Uttar Pradesh,Linseed,1005.0,Rabi,1.0,,3,Firozabad | Shahjahanpur | Varanasi,3
+2013-2014,Uttar Pradesh,Linseed,1005.0,Rabi,7.0,3.0,3,Budaun | Kanpur Dehat | Sant Kabir Nagar,3
+2013-2014,Uttar Pradesh,Tobacco,1302.0,Rabi,4.0,22.0,3,Gautam Buddha Nagar | Hardoi | Unnao,3
+2014-2015,Assam,Castor Seed,1002.0,Kharif,1.0,1.0,3,Darrang | Nalbari | Sribhumi,3
+2014-2015,Madhya Pradesh,Linseed,1005.0,Rabi,1000.0,1000.0,3,Damoh | Panna | Raisen,3
+2014-2015,Madhya Pradesh,Linseed,1005.0,Rabi,2000.0,2000.0,3,Chhindwara | Jabalpur | Ratlam,3
+2015-2016,Assam,Niger Seed,1010.0,Kharif,2.0,1.0,3,Dhemaji | Hailakandi | Lakhimpur,3
+2015-2016,Madhya Pradesh,Linseed,1005.0,Rabi,1000.0,1000.0,3,Bhind | Ratlam | Umaria,3
+2015-2016,Madhya Pradesh,Linseed,1005.0,Rabi,3000.0,2000.0,3,Chhindwara | Jabalpur | Shahdol,3
+2015-2016,Madhya Pradesh,Linseed,1005.0,Rabi,5000.0,2000.0,3,Damoh | Katni | Sagar,3
+2015-2016,Uttar Pradesh,Linseed,1005.0,Rabi,2.0,,3,Budaun | Jaunpur | Kanpur Nagar,3
+2015-2016,Uttar Pradesh,Linseed,1005.0,Rabi,5.0,1.0,3,Balrampur | Etawah | Rae Bareli,3
+2015-2016,Uttar Pradesh,Tobacco,1302.0,Summer,2.0,3.0,3,Kannauj | Kasganj | Shamli,3
+2016-2017,Karnataka,Tobacco,1302.0,Whole Year,2.0,1.0,3,Gadag | Mandya | Tumakuru,3
+2017-2018,Assam,Tobacco,1302.0,Whole Year,1.0,1.0,3,Jorhat | Marigaon | Nalbari,3
+2017-2018,Madhya Pradesh,Linseed,1005.0,Rabi,10.0,10.0,3,Indore | Narsimhapur | Sehore,3
+2017-2018,Maharashtra,Castor Seed,1002.0,Kharif,100.0,10.0,3,Beed | Jalna | Pune,3
+2017-2018,Uttar Pradesh,Linseed,1005.0,Rabi,1.0,1.0,3,Bhadohi | Kheri | Sambhal,3
+2018-2019,Assam,Mesta,1103.0,Kharif,2.0,10.0,3,Cachar | Dhemaji | Golaghat,3
+2018-2019,Karnataka,Castor Seed,1002.0,Kharif,1.0,1.0,3,Belagavi | Bidar | Shivamogga,3
+2018-2019,Karnataka,Mesta,1103.0,Whole Year,1.0,1.0,3,Ballari | Bengaluru Rural | Raichur,3
+2018-2019,Karnataka,Niger Seed,1010.0,Kharif,2.0,,3,Chikkamagaluru | Haveri | Tumakuru,3
+2018-2019,Karnataka,Niger Seed,1010.0,Kharif,4.0,1.0,3,Bagalkote | Gadag | Vijayapura,3
+2018-2019,Karnataka,Tobacco,1302.0,Whole Year,1.0,1.0,3,Bengaluru South | Bengaluru Urban | Dakshina Kannada,3
+2018-2019,Madhya Pradesh,Castor Seed,1002.0,Kharif,3.0,1.0,3,Alirajpur | Balaghat | Ratlam,3
+2018-2019,Madhya Pradesh,Niger Seed,1010.0,Kharif,5.0,1.0,3,Bhopal | Narmadapuram | Ujjain,3
+2018-2019,Madhya Pradesh,Niger Seed,1010.0,Kharif,8.0,2.0,3,Agar-Malwa | Dewas | Shajapur,3
+2018-2019,Rajasthan,Linseed,1005.0,Rabi,1.0,1.0,3,Barmer | Bikaner | Jaipur,3
+2018-2019,Telangana,Castor Seed,1002.0,Rabi,5.0,4.0,3,Nalgonda | Narayanpet | Rajanna Sircilla,3
+2018-2019,Uttar Pradesh,Linseed,1005.0,Rabi,1.0,1.0,3,Deoria | Lucknow | Mahrajganj,3
+2018-2019,Uttar Pradesh,Tobacco,1302.0,Summer,3.0,7.0,3,Fatehpur | Kasganj | Sultanpur,3
+2019-2020,Chhattisgarh,Tobacco,1302.0,Whole Year,1.0,1.0,3,Balrampur-Ramanujganj | Korea | Surguja,3
+2019-2020,Karnataka,Cardamom,506.0,Whole Year,3.0,,3,Bagalkote | Bengaluru South | Bidar,3
+2019-2020,Karnataka,Linseed,1005.0,Rabi,4.0,2.0,3,Bengaluru Rural | Bengaluru Urban | Koppal,3
+2019-2020,Karnataka,Mesta,1103.0,Whole Year,3.0,,3,Koppal | Raichur | Vijayapura,3
+2019-2020,Karnataka,Tobacco,1302.0,Whole Year,4.0,3.0,3,Bengaluru South | Koppal | Vijayapura,3
+2019-2020,Madhya Pradesh,Mesta,1103.0,Kharif,1.0,1.0,3,Mandsaur | Panna | Sidhi,3
+2019-2020,Madhya Pradesh,Mesta,1103.0,Kharif,3.0,1.0,3,Dindori | Satna | Sheopur,3
+2019-2020,Madhya Pradesh,Niger Seed,1010.0,Kharif,1.0,,3,Balaghat | Burhanpur | Ratlam,3
+2019-2020,Rajasthan,Tobacco,1302.0,Whole Year,1.0,,3,Dholpur | Sawai Madhopur | Tonk,3
+2019-2020,Tamil Nadu,Castor Seed,1002.0,Kharif,3.0,1.0,3,Tenkasi | Thiruvallur | Tirunelveli,3
+2019-2020,Uttar Pradesh,Tobacco,1302.0,Rabi,1.0,3.0,3,Baghpat | Rae Bareli | Unnao,3
+2020-2021,Assam,Castor Seed,1002.0,Kharif,1.0,1.0,3,Cachar | Darrang | Nalbari,3
+2020-2021,Assam,Niger Seed,1010.0,Kharif,2.0,1.0,3,Dibrugarh | Jorhat | Sribhumi,3
+2020-2021,Bihar,Linseed,1005.0,Rabi,29.0,25.0,3,Darbhanga | Purbi Champaran | Siwan,3
+2020-2021,Karnataka,Cardamom,506.0,Whole Year,2.0,0.348,3,Chamarajanagar | Haveri | Koppal,3
+2020-2021,Tamil Nadu,Castor Seed,1002.0,Kharif,2.0,1.0,3,Pudukkottai | Sivaganga | Tiruvannamalai,3
+2020-2021,Telangana,Castor Seed,1002.0,Kharif,5.0,2.0,3,Adilabad | Kumuram Bheem Asifabad | Mancherial,3
+2020-2021,Uttar Pradesh,Linseed,1005.0,Rabi,7.0,4.0,3,Bara Banki | Lucknow | Sant Kabir Nagar,3
+2020-2021,Uttar Pradesh,Tobacco,1302.0,Rabi,1.0,4.0,3,Gorakhpur | Rae Bareli | Unnao,3
+2021-2022,Assam,Castor Seed,1002.0,Kharif,1.0,1.0,3,Cachar | Darrang | Nalbari,3
+2021-2022,Karnataka,Castor Seed,1002.0,Kharif,4.0,4.0,3,Bengaluru Rural | Bidar | Yadgir,3
+2021-2022,Karnataka,Linseed,1005.0,Rabi,1.0,0.35,3,Ballari | Chamarajanagar | Hassan,3
+2021-2022,Karnataka,Niger Seed,1010.0,Kharif,5.0,1.0,3,Gadag | Haveri | Raichur,3
+2021-2022,Karnataka,Tobacco,1302.0,Whole Year,1.0,1.0,3,Chikkamagaluru | Dakshina Kannada | Shivamogga,3
+2021-2022,Karnataka,Tobacco,1302.0,Whole Year,3.0,2.0,3,Bidar | Haveri | Vijayapura,3
+2021-2022,Madhya Pradesh,Linseed,1005.0,Rabi,2.0,2.0,3,Khargone (West Nimar) | Sheopur | Shivpuri,3
+2021-2022,Tamil Nadu,Castor Seed,1002.0,Kharif,1.0,0.0,3,Ramanathapuram | Thanjavur | Tirunelveli,3
+2021-2022,Telangana,Castor Seed,1002.0,Kharif,1.0,1.0,3,Karimnagar | Nizamabad | Warangal,3
+2021-2022,Telangana,Castor Seed,1002.0,Kharif,4.0,2.0,3,Adilabad | Nalgonda | Nirmal,3
+2021-2022,Telangana,Tobacco,1302.0,Rabi,4.0,12.0,3,Adilabad | Suryapet | Warangal,3
+2021-2022,Uttar Pradesh,Linseed,1005.0,Rabi,1.0,1.0,3,Lucknow | Sambhal | Sitapur,3
+2021-2022,Uttar Pradesh,Linseed,1005.0,Rabi,2.0,1.0,3,Bara Banki | Pilibhit | Varanasi,3
+2022-2023,Assam,Castor Seed,1002.0,Kharif,2.0,1.0,3,Hailakandi | Marigaon | Sonitpur,3
+2022-2023,Assam,Linseed,1005.0,Rabi,2.0,1.0,3,Dhemaji | Dibrugarh | Kamrup Metro,3
+2022-2023,Chhattisgarh,Niger Seed,1010.0,Kharif,1.0,0.0,3,Gariyaband | Sakti | Sukma,3
+2022-2023,Karnataka,Niger Seed,1010.0,Kharif,5.0,1.0,3,Chikkaballapura | Haveri | Kalaburagi,3
+2022-2023,Karnataka,Tobacco,1302.0,Whole Year,2.0,1.0,3,Bagalkote | Gadag | Haveri,3
+2022-2023,Madhya Pradesh,Linseed,1005.0,Rabi,1.0,0.0,3,Datia | Dewas | Harda,3
+2022-2023,Madhya Pradesh,Linseed,1005.0,Rabi,1.0,1.0,3,Barwani | Jhabua | Raisen,3
+2022-2023,Telangana,Castor Seed,1002.0,Rabi,2.0,2.0,3,Bhadradri Kothagudem | Rajanna Sircilla | Vikarabad,3
+2022-2023,Telangana,Castor Seed,1002.0,Rabi,3.0,4.0,3,Jangoan | Karimnagar | Nirmal,3
+2022-2023,Telangana,Castor Seed,1002.0,Rabi,4.0,5.0,3,Adilabad | Jayashankar Bhupalapally | Medak,3
+1997-1998,Assam,Mesta,1103.0,Kharif,3.0,14.0,2,Cachar | Tinsukia,2
+1997-1998,Jharkhand,Linseed,1005.0,Rabi,4.0,2.0,2,Dumka | Giridih,2
+1997-1998,Rajasthan,Linseed,1005.0,Rabi,100.0,100.0,2,Bhilwara | Udaipur,2
+1997-1998,Rajasthan,Linseed,1005.0,Rabi,1700.0,1000.0,2,Baran | Jhalawar,2
+1997-1998,Tamil Nadu,Tobacco,1302.0,Kharif,10.0,16.0,2,Karur | Theni,2
+1997-1998,Telangana,Tobacco,1302.0,Kharif,600.0,700.0,2,Nalgonda | Nizamabad,2
+1997-1998,Uttar Pradesh,Linseed,1005.0,Rabi,7.0,3.0,2,Ambedkar Nagar | Kushinagar,2
+1997-1998,Uttar Pradesh,Linseed,1005.0,Rabi,11.0,5.0,2,Deoria | Muzaffarnagar,2
+1998-1999,Jharkhand,Tobacco,1302.0,Whole Year,1.0,1.0,2,Dumka | Lohardaga,2
+1998-1999,Madhya Pradesh,Linseed,1005.0,Rabi,100.0,100.0,2,Morena | Narsimhapur,2
+1998-1999,Madhya Pradesh,Linseed,1005.0,Rabi,1700.0,600.0,2,Betul | Tikamgarh,2
+1998-1999,Maharashtra,Castor Seed,1002.0,Kharif,300.0,100.0,2,Bhandara | Nashik,2
+1998-1999,Maharashtra,Castor Seed,1002.0,Kharif,400.0,100.0,2,Ahilyanagar | Dhule,2
+1998-1999,Maharashtra,Linseed,1005.0,Rabi,300.0,100.0,2,Amravati | Buldhana,2
+1998-1999,Maharashtra,Linseed,1005.0,Rabi,800.0,200.0,2,Nanded | Yavatmal,2
+1998-1999,Maharashtra,Niger Seed,1010.0,Kharif,2100.0,900.0,2,Ahilyanagar | Satara,2
+1998-1999,Maharashtra,Niger Seed,1010.0,Kharif,2300.0,500.0,2,Nanded | Parbhani,2
+1998-1999,Rajasthan,Castor Seed,1002.0,Kharif,1.0,1.0,2,Rajsamand | Tonk,2
+1998-1999,Rajasthan,Castor Seed,1002.0,Kharif,2.0,3.0,2,Bharatpur | Churu,2
+1998-1999,Rajasthan,Castor Seed,1002.0,Kharif,3.0,4.0,2,Ganganagar | Sikar,2
+1998-1999,Rajasthan,Linseed,1005.0,Rabi,1.0,1.0,2,Dausa | Ganganagar,2
+1998-1999,Rajasthan,Linseed,1005.0,Rabi,1.0,,2,Barmer | Dholpur,2
+1998-1999,Rajasthan,Linseed,1005.0,Rabi,23.0,13.0,2,Alwar | Banswara,2
+1998-1999,Rajasthan,Tobacco,1302.0,Rabi,1.0,,2,Baran | Dungarpur,2
+1998-1999,Uttar Pradesh,Castor Seed,1002.0,Rabi,4.0,3.0,2,Banda | Kheri,2
+1998-1999,Uttar Pradesh,Linseed,1005.0,Rabi,4.0,1.0,2,Deoria | Firozabad,2
+1998-1999,Uttar Pradesh,Linseed,1005.0,Rabi,4.0,2.0,2,Bulandshahr | Mau,2
+1998-1999,Uttar Pradesh,Tobacco,1302.0,Whole Year,1.0,6.0,2,Bulandshahr | Pratapgarh,2
+1998-1999,Uttar Pradesh,Tobacco,1302.0,Whole Year,5.0,31.0,2,Fatehpur | Mathura,2
+1998-1999,Uttarakhand,Linseed,1005.0,Rabi,15.0,6.0,2,Haridwar | Udham Singh Nagar,2
+1999-2000,Assam,Mesta,1103.0,Kharif,4.0,20.0,2,Dibrugarh | Sribhumi,2
+1999-2000,Assam,Niger Seed,1010.0,Kharif,1.0,1.0,2,Dima Hasao | Sribhumi,2
+1999-2000,Assam,Niger Seed,1010.0,Kharif,10.0,5.0,2,Golaghat | Tinsukia,2
+1999-2000,Assam,Tobacco,1302.0,Whole Year,2.0,1.0,2,Sribhumi | Tinsukia,2
+1999-2000,Bihar,Mesta,1103.0,Kharif,14.0,95.0,2,Khagaria | Saran,2
+1999-2000,Madhya Pradesh,Castor Seed,1002.0,Kharif,1.0,0.0,2,Chhatarpur | Sidhi,2
+1999-2000,Madhya Pradesh,Castor Seed,1002.0,Kharif,1.0,1.0,2,Datia | Shivpuri,2
+1999-2000,Madhya Pradesh,Niger Seed,1010.0,Kharif,1.0,0.0,2,Mandsaur | Satna,2
+1999-2000,Maharashtra,Castor Seed,1002.0,Kharif,100.0,0.0,2,Chandrapur | Solapur,2
+1999-2000,Maharashtra,Castor Seed,1002.0,Kharif,400.0,100.0,2,Amravati | Chhatrapati Sambhajinagar,2
+1999-2000,Maharashtra,Linseed,1005.0,Rabi,100.0,0.0,2,Amravati | Nashik,2
+1999-2000,Maharashtra,Linseed,1005.0,Rabi,600.0,200.0,2,Nanded | Yavatmal,2
+1999-2000,Maharashtra,Niger Seed,1010.0,Kharif,400.0,100.0,2,Buldhana | Raigad,2
+1999-2000,Maharashtra,Niger Seed,1010.0,Kharif,1900.0,400.0,2,Parbhani | Pune,2
+1999-2000,Odisha,Castor Seed,1002.0,Kharif,20.0,10.0,2,Bhadrak | Sonepur,2
+1999-2000,Rajasthan,Castor Seed,1002.0,Kharif,1.0,,2,Rajsamand | Tonk,2
+1999-2000,Rajasthan,Castor Seed,1002.0,Kharif,2.0,1.0,2,Karauli | Sikar,2
+1999-2000,Rajasthan,Castor Seed,1002.0,Kharif,11.0,11.0,2,Chittorgarh | Jhalawar,2
+1999-2000,Rajasthan,Linseed,1005.0,Rabi,1.0,1.0,2,Jalore | Rajsamand,2
+1999-2000,Tamil Nadu,Tobacco,1302.0,Whole Year,10.0,16.0,2,Karur | Theni,2
+1999-2000,Uttar Pradesh,Linseed,1005.0,Rabi,3.0,1.0,2,Azamgarh | Mau,2
+1999-2000,Uttar Pradesh,Linseed,1005.0,Rabi,6.0,3.0,2,Agra | Firozabad,2
+1999-2000,Uttar Pradesh,Linseed,1005.0,Rabi,15.0,7.0,2,Bareilly | Basti,2
+1999-2000,Uttar Pradesh,Tobacco,1302.0,Whole Year,2.0,11.0,2,Bahraich | Prayagraj,2
+2000-2001,Andhra Pradesh,Mesta,1103.0,Kharif,6.0,53.0,2,Chittoor | Sri Potti Sriramulu Nellore,2
+2000-2001,Assam,Castor Seed,1002.0,Kharif,5.0,2.0,2,Hailakandi | Tinsukia,2
+2000-2001,Assam,Niger Seed,1010.0,Kharif,1.0,1.0,2,Dhemaji | Sribhumi,2
+2000-2001,Assam,Tobacco,1302.0,Whole Year,1.0,1.0,2,Hailakandi | Tinsukia,2
+2000-2001,Assam,Tobacco,1302.0,Whole Year,4.0,2.0,2,Dibrugarh | Sribhumi,2
+2000-2001,Chhattisgarh,Tobacco,1302.0,Whole Year,1.0,,2,Durg | Korea,2
+2000-2001,Gujarat,Tobacco,1302.0,Whole Year,100.0,100.0,2,Bharuch | Sabar Kantha,2
+2000-2001,Madhya Pradesh,Castor Seed,1002.0,Kharif,1.0,0.1,2,Neemuch | Shajapur,2
+2000-2001,Madhya Pradesh,Castor Seed,1002.0,Kharif,2.0,1.0,2,Sidhi | Ujjain,2
+2000-2001,Maharashtra,Castor Seed,1002.0,Kharif,200.0,100.0,2,Gondia | Wardha,2
+2000-2001,Maharashtra,Castor Seed,1002.0,Kharif,300.0,100.0,2,Jalgaon | Solapur,2
+2000-2001,Maharashtra,Castor Seed,1002.0,Kharif,500.0,100.0,2,Buldhana | Yavatmal,2
+2000-2001,Maharashtra,Linseed,1005.0,Rabi,400.0,100.0,2,Nanded | Satara,2
+2000-2001,Maharashtra,Linseed,1005.0,Rabi,2400.0,600.0,2,Gadchiroli | Jalna,2
+2000-2001,Maharashtra,Niger Seed,1010.0,Kharif,100.0,100.0,2,Dhule | Washim,2
+2000-2001,Maharashtra,Niger Seed,1010.0,Kharif,300.0,100.0,2,Raigad | Solapur,2
+2000-2001,Nagaland,Niger Seed,1010.0,Kharif,150.0,80.0,2,Mokokchung | Wokha,2
+2000-2001,Odisha,Castor Seed,1002.0,Kharif,30.0,10.0,2,Jajpur | Sonepur,2
+2000-2001,Odisha,Castor Seed,1002.0,Kharif,30.0,20.0,2,Bhadrak | Khordha,2
+2000-2001,Odisha,Castor Seed,1002.0,Rabi,130.0,40.0,2,Balangir | Balasore,2
+2000-2001,Odisha,Linseed,1005.0,Rabi,80.0,40.0,2,Cuttack | Kendrapara,2
+2000-2001,Rajasthan,Castor Seed,1002.0,Kharif,1.0,,2,Alwar | Rajsamand,2
+2000-2001,Rajasthan,Castor Seed,1002.0,Kharif,2.0,,2,Churu | Ganganagar,2
+2000-2001,Rajasthan,Linseed,1005.0,Rabi,2.0,1.0,2,Churu | Sirohi,2
+2000-2001,Rajasthan,Linseed,1005.0,Rabi,4.0,2.0,2,Dungarpur | Jaipur,2
+2000-2001,Uttar Pradesh,Castor Seed,1002.0,Kharif,1.0,0.1,2,Hamirpur | Sitapur,2
+2000-2001,Uttar Pradesh,Castor Seed,1002.0,Kharif,1.0,1.0,2,Firozabad | Kanpur Nagar,2
+2000-2001,Uttar Pradesh,Linseed,1005.0,Rabi,2.0,1.0,2,Bijnor | Saharanpur,2
+2001-2002,Assam,Tobacco,1302.0,Whole Year,1.0,1.0,2,Hailakandi | Tinsukia,2
+2001-2002,Bihar,Mesta,1103.0,Kharif,25.0,162.0,2,Gopalganj | Siwan,2
+2001-2002,Chhattisgarh,Niger Seed,1010.0,Kharif,3.0,1.0,2,Dhamtari | Rajnandgaon,2
+2001-2002,Maharashtra,Castor Seed,1002.0,Kharif,100.0,100.0,2,Bhandara | Gondia,2
+2001-2002,Maharashtra,Castor Seed,1002.0,Kharif,300.0,200.0,2,Nagpur | Wardha,2
+2001-2002,Maharashtra,Castor Seed,1002.0,Kharif,500.0,200.0,2,Dhule | Nandurbar,2
+2001-2002,Maharashtra,Niger Seed,1010.0,Kharif,2000.0,700.0,2,Ratnagiri | Thane,2
+2001-2002,Odisha,Castor Seed,1002.0,Rabi,40.0,20.0,2,Jharsuguda | Kendrapara,2
+2001-2002,Odisha,Castor Seed,1002.0,Rabi,50.0,20.0,2,Bargarh | Mayurbhanj,2
+2001-2002,Rajasthan,Castor Seed,1002.0,Kharif,1.0,1.0,2,Jhalawar | Sawai Madhopur,2
+2001-2002,Rajasthan,Tobacco,1302.0,Whole Year,2.0,2.0,2,Bharatpur | Bundi,2
+2001-2002,Uttar Pradesh,Linseed,1005.0,Rabi,2.0,1.0,2,Etah | Mau,2
+2001-2002,Uttar Pradesh,Linseed,1005.0,Rabi,4.0,2.0,2,Auraiya | Kushinagar,2
+2001-2002,Uttar Pradesh,Linseed,1005.0,Rabi,6.0,2.0,2,Bhadohi | Varanasi,2
+2001-2002,Uttar Pradesh,Linseed,1005.0,Rabi,6.0,3.0,2,Kheri | Pilibhit,2
+2001-2002,Uttar Pradesh,Linseed,1005.0,Rabi,24.0,10.0,2,Sant Kabir Nagar | Shahjahanpur,2
+2001-2002,Uttar Pradesh,Linseed,1005.0,Rabi,31.0,13.0,2,Bara Banki | Gorakhpur,2
+2001-2002,Uttar Pradesh,Tobacco,1302.0,Whole Year,3.0,19.0,2,Firozabad | Rae Bareli,2
+2001-2002,Uttarakhand,Tobacco,1302.0,Whole Year,6.0,46.0,2,Pithoragarh | Tehri Garhwal,2
+2002-2003,Assam,Castor Seed,1002.0,Kharif,5.0,2.0,2,Hailakandi | Tinsukia,2
+2002-2003,Assam,Linseed,1005.0,Rabi,2.0,1.0,2,Dibrugarh | Tinsukia,2
+2002-2003,Assam,Mesta,1103.0,Kharif,2.0,9.0,2,Dima Hasao | Tinsukia,2
+2002-2003,Assam,Tobacco,1302.0,Whole Year,4.0,2.0,2,Dibrugarh | Sribhumi,2
+2002-2003,Chhattisgarh,Castor Seed,1002.0,Kharif,9.0,3.0,2,Bastar | Durg,2
+2002-2003,Gujarat,Castor Seed,1002.0,Kharif,600.0,700.0,2,Bhavnagar | Surat,2
+2002-2003,Gujarat,Tobacco,1302.0,Whole Year,100.0,100.0,2,Bharuch | Panch Mahals,2
+2002-2003,Madhya Pradesh,Castor Seed,1002.0,Kharif,4.0,1.0,2,Dewas | Harda,2
+2002-2003,Madhya Pradesh,Niger Seed,1010.0,Kharif,1.0,0.01,2,Damoh | Satna,2
+2002-2003,Madhya Pradesh,Niger Seed,1010.0,Kharif,2.0,1.0,2,Harda | Ratlam,2
+2002-2003,Madhya Pradesh,Tobacco,1302.0,Whole Year,1.0,1.0,2,Balaghat | Khargone (West Nimar),2
+2002-2003,Madhya Pradesh,Tobacco,1302.0,Whole Year,2.0,1.0,2,Dhar | Shajapur,2
+2002-2003,Maharashtra,Castor Seed,1002.0,Kharif,300.0,100.0,2,Bhandara | Jalna,2
+2002-2003,Maharashtra,Castor Seed,1002.0,Kharif,500.0,100.0,2,Buldhana | Parbhani,2
+2002-2003,Maharashtra,Linseed,1005.0,Rabi,400.0,100.0,2,Nanded | Yavatmal,2
+2002-2003,Maharashtra,Niger Seed,1010.0,Kharif,2000.0,600.0,2,Ratnagiri | Thane,2
+2002-2003,Maharashtra,Niger Seed,1010.0,Kharif,2100.0,500.0,2,Beed | Pune,2
+2002-2003,Odisha,Castor Seed,1002.0,Kharif,60.0,30.0,2,Deogarh | Nayagarh,2
+2002-2003,Odisha,Castor Seed,1002.0,Rabi,20.0,10.0,2,Bargarh | Bhadrak,2
+2002-2003,Odisha,Castor Seed,1002.0,Rabi,120.0,50.0,2,Balangir | Jajpur,2
+2002-2003,Rajasthan,Linseed,1005.0,Rabi,2.0,1.0,2,Bharatpur | Udaipur,2
+2002-2003,Rajasthan,Linseed,1005.0,Rabi,3.0,2.0,2,Barmer | Jaipur,2
+2002-2003,Rajasthan,Mesta,1103.0,Kharif,2.0,,2,Dungarpur | Sirohi,2
+2002-2003,Uttar Pradesh,Linseed,1005.0,Rabi,41.0,18.0,2,Gonda | Shahjahanpur,2
+2002-2003,Uttar Pradesh,Tobacco,1302.0,Whole Year,1.0,6.0,2,Baghpat | Unnao,2
+2002-2003,Uttar Pradesh,Tobacco,1302.0,Whole Year,8.0,47.0,2,Firozabad | Mainpuri,2
+2002-2003,Uttar Pradesh,Tobacco,1302.0,Whole Year,56.0,330.0,2,Azamgarh | Hardoi,2
+2002-2003,Uttarakhand,Tobacco,1302.0,Whole Year,4.0,31.0,2,Pithoragarh | Uttarkashi,2
+2003-2004,Andhra Pradesh,Mesta,1103.0,Kharif,2.0,16.0,2,Chittoor | East Godavari,2
+2003-2004,Assam,Tobacco,1302.0,Whole Year,4.0,2.0,2,Dibrugarh | Sribhumi,2
+2003-2004,Bihar,Linseed,1005.0,Rabi,474.0,372.0,2,Madhubani | Muzaffarpur,2
+2003-2004,Gujarat,Castor Seed,1002.0,Kharif,2000.0,3800.0,2,Amreli | Panch Mahals,2
+2003-2004,Madhya Pradesh,Castor Seed,1002.0,Kharif,3.0,1.0,2,Harda | Ratlam,2
+2003-2004,Madhya Pradesh,Castor Seed,1002.0,Kharif,8.0,2.0,2,Balaghat | Chhatarpur,2
+2003-2004,Madhya Pradesh,Niger Seed,1010.0,Kharif,2.0,0.0,2,Bhind | Damoh,2
+2003-2004,Madhya Pradesh,Niger Seed,1010.0,Kharif,2.0,1.0,2,Harda | Ratlam,2
+2003-2004,Maharashtra,Linseed,1005.0,Rabi,300.0,100.0,2,Solapur | Yavatmal,2
+2003-2004,Maharashtra,Linseed,1005.0,Rabi,400.0,100.0,2,Nanded | Pune,2
+2003-2004,Maharashtra,Niger Seed,1010.0,Kharif,100.0,100.0,2,Nandurbar | Solapur,2
+2003-2004,Maharashtra,Niger Seed,1010.0,Kharif,200.0,100.0,2,Sangli | Sindhudurg,2
+2003-2004,Maharashtra,Niger Seed,1010.0,Kharif,2000.0,800.0,2,Ratnagiri | Thane,2
+2003-2004,Odisha,Castor Seed,1002.0,Kharif,30.0,10.0,2,Jagatsinghapur | Sonepur,2
+2003-2004,Odisha,Castor Seed,1002.0,Kharif,50.0,20.0,2,Jajpur | Nayagarh,2
+2003-2004,Odisha,Castor Seed,1002.0,Kharif,110.0,50.0,2,Balasore | Cuttack,2
+2003-2004,Odisha,Castor Seed,1002.0,Rabi,20.0,10.0,2,Gajapati | Khordha,2
+2003-2004,Odisha,Castor Seed,1002.0,Rabi,30.0,10.0,2,Jharsuguda | Kendrapara,2
+2003-2004,Odisha,Castor Seed,1002.0,Rabi,30.0,20.0,2,Jagatsinghapur | Nayagarh,2
+2003-2004,Odisha,Linseed,1005.0,Rabi,40.0,10.0,2,Balangir | Khordha,2
+2003-2004,Rajasthan,Castor Seed,1002.0,Kharif,1.0,1.0,2,Jhunjhunu | Sawai Madhopur,2
+2003-2004,Rajasthan,Linseed,1005.0,Rabi,3.0,2.0,2,Jaisalmer | Karauli,2
+2003-2004,Rajasthan,Tobacco,1302.0,Whole Year,4.0,,2,Bundi | Jalore,2
+2003-2004,Rajasthan,Tobacco,1302.0,Whole Year,6.0,,2,Churu | Dholpur,2
+2003-2004,Rajasthan,Tobacco,1302.0,Whole Year,17.0,,2,Jaipur | Sirohi,2
+2003-2004,Uttar Pradesh,Linseed,1005.0,Rabi,1.0,0.0,2,Bhadohi | Mainpuri,2
+2003-2004,Uttar Pradesh,Linseed,1005.0,Rabi,6.0,3.0,2,Bareilly | Budaun,2
+2003-2004,Uttar Pradesh,Linseed,1005.0,Rabi,15.0,7.0,2,Auraiya | Firozabad,2
+2003-2004,Uttar Pradesh,Tobacco,1302.0,Whole Year,1.0,4.0,2,Baghpat | Kanpur Dehat,2
+2003-2004,Uttar Pradesh,Tobacco,1302.0,Whole Year,3.0,21.0,2,Hathras | Kannauj,2
+2003-2004,Uttarakhand,Tobacco,1302.0,Whole Year,4.0,13.0,2,Dehradun | Tehri Garhwal,2
+2004-2005,Andhra Pradesh,Castor Seed,1002.0,Kharif,4.0,2.0,2,Visakhapatnam | Vizianagaram,2
+2004-2005,Andhra Pradesh,Mesta,1103.0,Kharif,2.0,17.0,2,Chittoor | East Godavari,2
+2004-2005,Assam,Castor Seed,1002.0,Kharif,5.0,2.0,2,Hailakandi | Tinsukia,2
+2004-2005,Assam,Castor Seed,1002.0,Kharif,41.0,17.0,2,Bongaigaon | Sonitpur,2
+2004-2005,Assam,Linseed,1005.0,Rabi,1.0,1.0,2,Dibrugarh | Tinsukia,2
+2004-2005,Assam,Mesta,1103.0,Kharif,2.0,10.0,2,Dibrugarh | Tinsukia,2
+2004-2005,Assam,Tobacco,1302.0,Whole Year,7.0,4.0,2,Dhemaji | Jorhat,2
+2004-2005,Bihar,Castor Seed,1002.0,Kharif,7.0,7.0,2,Bhagalpur | Purbi Champaran,2
+2004-2005,Bihar,Linseed,1005.0,Rabi,268.0,226.0,2,Jamui | Samastipur,2
+2004-2005,Bihar,Linseed,1005.0,Rabi,619.0,522.0,2,Madhubani | Pashchim Champaran,2
+2004-2005,Bihar,Tobacco,1302.0,Whole Year,3.0,3.0,2,Darbhanga | Saran,2
+2004-2005,Bihar,Tobacco,1302.0,Whole Year,6.0,7.0,2,Madhubani | Purbi Champaran,2
+2004-2005,Chhattisgarh,Tobacco,1302.0,Whole Year,1.0,1.0,2,Jashpur | Korea,2
+2004-2005,Madhya Pradesh,Castor Seed,1002.0,Kharif,2.0,1.0,2,Mandsaur | Seoni,2
+2004-2005,Madhya Pradesh,Castor Seed,1002.0,Kharif,6.0,2.0,2,Narmadapuram | Satna,2
+2004-2005,Madhya Pradesh,Linseed,1005.0,Rabi,1.0,,2,Barwani | Jhabua,2
+2004-2005,Madhya Pradesh,Niger Seed,1010.0,Kharif,1.0,,2,Ratlam | Rewa,2
+2004-2005,Maharashtra,Castor Seed,1002.0,Kharif,200.0,100.0,2,Dhule | Hingoli,2
+2004-2005,Maharashtra,Castor Seed,1002.0,Kharif,300.0,100.0,2,Jalgaon | Solapur,2
+2004-2005,Maharashtra,Castor Seed,1002.0,Kharif,500.0,200.0,2,Ahilyanagar | Gondia,2
+2004-2005,Maharashtra,Castor Seed,1002.0,Kharif,1100.0,200.0,2,Beed | Jalna,2
+2004-2005,Maharashtra,Linseed,1005.0,Rabi,100.0,0.0,2,Satara | Yavatmal,2
+2004-2005,Maharashtra,Linseed,1005.0,Rabi,400.0,200.0,2,Latur | Nanded,2
+2004-2005,Maharashtra,Niger Seed,1010.0,Kharif,200.0,100.0,2,Sindhudurg | Solapur,2
+2004-2005,Maharashtra,Niger Seed,1010.0,Kharif,2200.0,700.0,2,Pune | Satara,2
+2004-2005,Rajasthan,Castor Seed,1002.0,Kharif,1.0,1.0,2,Baran | Bundi,2
+2004-2005,Rajasthan,Linseed,1005.0,Rabi,2.0,1.0,2,Jaipur | Karauli,2
+2004-2005,Rajasthan,Linseed,1005.0,Rabi,4.0,3.0,2,Dholpur | Jaisalmer,2
+2004-2005,Tamil Nadu,Cardamom,506.0,Whole Year,1.0,,2,Erode | Tiruchirappalli,2
+2004-2005,Tamil Nadu,Castor Seed,1002.0,Kharif,4.0,2.0,2,Thanjavur | Tiruvannamalai,2
+2004-2005,Uttar Pradesh,Linseed,1005.0,Rabi,1.0,1.0,2,Azamgarh | Moradabad,2
+2004-2005,Uttar Pradesh,Linseed,1005.0,Rabi,2.0,1.0,2,Jaunpur | Pilibhit,2
+2004-2005,Uttar Pradesh,Linseed,1005.0,Rabi,8.0,4.0,2,Hardoi | Kaushambi,2
+2004-2005,Uttar Pradesh,Tobacco,1302.0,Whole Year,2.0,8.0,2,Baghpat | Fatehpur,2
+2004-2005,Uttar Pradesh,Tobacco,1302.0,Whole Year,2.0,12.0,2,Mainpuri | Muzaffarnagar,2
+2005-2006,Assam,Tobacco,1302.0,Whole Year,1.0,,2,Hailakandi | Kamrup Metro,2
+2005-2006,Assam,Tobacco,1302.0,Whole Year,3.0,2.0,2,Dibrugarh | Sivasagar,2
+2005-2006,Assam,Tobacco,1302.0,Whole Year,10.0,6.0,2,Cachar | Jorhat,2
+2005-2006,Chhattisgarh,Niger Seed,1010.0,Kharif,1.0,,2,Durg | Mahasamund,2
+2005-2006,Chhattisgarh,Tobacco,1302.0,Whole Year,2.0,1.0,2,Dakshin Bastar Dantewada | Jashpur,2
+2005-2006,Gujarat,Tobacco,1302.0,Whole Year,100.0,100.0,2,Bhavnagar | Patan,2
+2005-2006,Madhya Pradesh,Linseed,1005.0,Rabi,3.0,2.0,2,Burhanpur | Morena,2
+2005-2006,Maharashtra,Castor Seed,1002.0,Kharif,300.0,100.0,2,Dhule | Hingoli,2
+2005-2006,Maharashtra,Linseed,1005.0,Rabi,100.0,100.0,2,Pune | Wardha,2
+2005-2006,Maharashtra,Linseed,1005.0,Rabi,200.0,100.0,2,Satara | Yavatmal,2
+2005-2006,Maharashtra,Niger Seed,1010.0,Kharif,300.0,100.0,2,Hingoli | Raigad,2
+2005-2006,Maharashtra,Niger Seed,1010.0,Kharif,1700.0,500.0,2,Kolhapur | Satara,2
+2005-2006,Maharashtra,Niger Seed,1010.0,Kharif,2000.0,400.0,2,Beed | Parbhani,2
+2005-2006,Maharashtra,Niger Seed,1010.0,Kharif,2100.0,600.0,2,Ratnagiri | Thane,2
+2005-2006,Rajasthan,Linseed,1005.0,Rabi,1.0,1.0,2,Jhunjhunu | Sawai Madhopur,2
+2005-2006,Rajasthan,Linseed,1005.0,Rabi,2.0,2.0,2,Bikaner | Jaisalmer,2
+2005-2006,Tamil Nadu,Castor Seed,1002.0,Kharif,1.0,,2,Sivaganga | Thiruvarur,2
+2005-2006,Tamil Nadu,Castor Seed,1002.0,Kharif,5.0,1.0,2,Pudukkottai | Thiruvallur,2
+2005-2006,Uttar Pradesh,Linseed,1005.0,Rabi,3.0,1.0,2,Azamgarh | Kushinagar,2
+2005-2006,Uttar Pradesh,Linseed,1005.0,Rabi,7.0,3.0,2,Bareilly | Varanasi,2
+2005-2006,Uttar Pradesh,Linseed,1005.0,Rabi,10.0,4.0,2,Bhadohi | Kheri,2
+2005-2006,Uttar Pradesh,Linseed,1005.0,Rabi,15.0,6.0,2,Auraiya | Firozabad,2
+2005-2006,West Bengal,Mesta,1103.0,Kharif,1.0,10.0,2,Bankura | Purba Bardhaman,2
+2006-2007,Andhra Pradesh,Castor Seed,1002.0,Kharif,2.0,1.0,2,Visakhapatnam | Vizianagaram,2
+2006-2007,Andhra Pradesh,Mesta,1103.0,Kharif,2.0,18.0,2,Chittoor | East Godavari,2
+2006-2007,Assam,Linseed,1005.0,Rabi,4.0,2.0,2,Dibrugarh | Dima Hasao,2
+2006-2007,Assam,Linseed,1005.0,Rabi,20.0,10.0,2,Dhemaji | Kamrup Metro,2
+2006-2007,Assam,Mesta,1103.0,Kharif,1.0,5.0,2,Jorhat | Tinsukia,2
+2006-2007,Assam,Mesta,1103.0,Kharif,2.0,9.0,2,Cachar | Dima Hasao,2
+2006-2007,Assam,Tobacco,1302.0,Whole Year,3.0,1.0,2,Kamrup | Nalbari,2
+2006-2007,Chhattisgarh,Castor Seed,1002.0,Kharif,3.0,1.0,2,Bastar | Bilaspur,2
+2006-2007,Chhattisgarh,Tobacco,1302.0,Whole Year,1.0,1.0,2,Dakshin Bastar Dantewada | Jashpur,2
+2006-2007,Gujarat,Tobacco,1302.0,Whole Year,200.0,400.0,2,Banas Kantha | Gandhinagar,2
+2006-2007,Karnataka,Tobacco,1302.0,Whole Year,78.0,35.0,2,Chikkamagaluru | Shivamogga,2
+2006-2007,Madhya Pradesh,Castor Seed,1002.0,Kharif,4.0,2.0,2,Guna | Narmadapuram,2
+2006-2007,Madhya Pradesh,Linseed,1005.0,Rabi,1.0,,2,Barwani | Morena,2
+2006-2007,Madhya Pradesh,Tobacco,1302.0,Whole Year,1.0,,2,Mandsaur | Shajapur,2
+2006-2007,Maharashtra,Castor Seed,1002.0,Kharif,400.0,100.0,2,Chhatrapati Sambhajinagar | Jalna,2
+2006-2007,Maharashtra,Castor Seed,1002.0,Kharif,1100.0,200.0,2,Nanded | Nashik,2
+2006-2007,Maharashtra,Linseed,1005.0,Rabi,100.0,100.0,2,Satara | Wardha,2
+2006-2007,Maharashtra,Linseed,1005.0,Rabi,400.0,100.0,2,Latur | Nanded,2
+2006-2007,Maharashtra,Niger Seed,1010.0,Kharif,200.0,100.0,2,Sindhudurg | Solapur,2
+2006-2007,Rajasthan,Castor Seed,1002.0,Kharif,1.0,,2,Rajsamand | Sikar,2
+2006-2007,Rajasthan,Linseed,1005.0,Rabi,21.0,17.0,2,Ajmer | Banswara,2
+2006-2007,Rajasthan,Linseed,1005.0,Rabi,22.0,17.0,2,Barmer | Ganganagar,2
+2006-2007,Tamil Nadu,Cardamom,506.0,Whole Year,3.0,,2,Erode | Kancheepuram,2
+2006-2007,Tamil Nadu,Castor Seed,1002.0,Whole Year,2.0,1.0,2,Sivaganga | Thanjavur,2
+2006-2007,Uttar Pradesh,Linseed,1005.0,Rabi,11.0,4.0,2,Ayodhya | Kaushambi,2
+2006-2007,Uttar Pradesh,Linseed,1005.0,Rabi,23.0,8.0,2,Firozabad | Gorakhpur,2
+2006-2007,Uttar Pradesh,Linseed,1005.0,Rabi,145.0,51.0,2,Gonda | Unnao,2
+2006-2007,Uttar Pradesh,Tobacco,1302.0,Rabi,4.0,21.0,2,Aligarh | Ballia,2
+2006-2007,Uttar Pradesh,Tobacco,1302.0,Rabi,85.0,452.0,2,Kanpur Nagar | Shahjahanpur,2
+2006-2007,Uttar Pradesh,Tobacco,1302.0,Summer,29.0,85.0,2,Etah | Sitapur,2
+2006-2007,Uttarakhand,Tobacco,1302.0,Whole Year,1.0,,2,Almora | Champawat,2
+2006-2007,Uttarakhand,Tobacco,1302.0,Whole Year,4.0,16.0,2,Haridwar | Uttarkashi,2
+2007-2008,Andhra Pradesh,Castor Seed,1002.0,Kharif,2000.0,1000.0,2,Ananthapuramu | Guntur,2
+2007-2008,Assam,Castor Seed,1002.0,Kharif,2.0,1.0,2,Kamrup Metro | Udalguri,2
+2007-2008,Assam,Castor Seed,1002.0,Kharif,10.0,5.0,2,Golaghat | Sivasagar,2
+2007-2008,Assam,Linseed,1005.0,Rabi,4.0,2.0,2,Dibrugarh | Dima Hasao,2
+2007-2008,Assam,Mesta,1103.0,Kharif,1.0,5.0,2,Jorhat | Sivasagar,2
+2007-2008,Assam,Tobacco,1302.0,Whole Year,1.0,1.0,2,Darrang | Nalbari,2
+2007-2008,Assam,Tobacco,1302.0,Whole Year,7.0,4.0,2,Dhemaji | Sribhumi,2
+2007-2008,Bihar,Castor Seed,1002.0,Kharif,7.0,7.0,2,Bhagalpur | Purbi Champaran,2
+2007-2008,Bihar,Linseed,1005.0,Rabi,29.0,24.0,2,Gopalganj | Khagaria,2
+2007-2008,Chhattisgarh,Tobacco,1302.0,Whole Year,2.0,2.0,2,Bastar | Jashpur,2
+2007-2008,Gujarat,Castor Seed,1002.0,Kharif,200.0,400.0,2,Dahod | Surat,2
+2007-2008,Karnataka,Cardamom,506.0,Whole Year,1.0,,2,Chamarajanagar | Davanagere,2
+2007-2008,Karnataka,Castor Seed,1002.0,Kharif,45.0,30.0,2,Davanagere | Kolar,2
+2007-2008,Madhya Pradesh,Castor Seed,1002.0,Kharif,1.0,,2,Burhanpur | Satna,2
+2007-2008,Madhya Pradesh,Linseed,1005.0,Rabi,2.0,,2,Barwani | Burhanpur,2
+2007-2008,Madhya Pradesh,Niger Seed,1010.0,Kharif,2.0,,2,Harda | Khandwa (East Nimar),2
+2007-2008,Maharashtra,Castor Seed,1002.0,Kharif,200.0,100.0,2,Jalgaon | Washim,2
+2007-2008,Maharashtra,Castor Seed,1002.0,Kharif,400.0,100.0,2,Ahilyanagar | Wardha,2
+2007-2008,Maharashtra,Linseed,1005.0,Rabi,300.0,100.0,2,Latur | Nanded,2
+2007-2008,Maharashtra,Niger Seed,1010.0,Kharif,100.0,100.0,2,Dhule | Solapur,2
+2007-2008,Maharashtra,Niger Seed,1010.0,Kharif,200.0,100.0,2,Chhatrapati Sambhajinagar | Sindhudurg,2
+2007-2008,Rajasthan,Linseed,1005.0,Rabi,28.0,22.0,2,Jalore | Sikar,2
+2007-2008,Telangana,Castor Seed,1002.0,Kharif,2000.0,1000.0,2,Karimnagar | Medak,2
+2007-2008,Uttar Pradesh,Linseed,1005.0,Rabi,1.0,,2,Ambedkar Nagar | Jaunpur,2
+2007-2008,Uttar Pradesh,Linseed,1005.0,Rabi,2.0,1.0,2,Deoria | Etah,2
+2007-2008,Uttar Pradesh,Linseed,1005.0,Rabi,3.0,1.0,2,Bhadohi | Sant Kabir Nagar,2
+2007-2008,Uttar Pradesh,Linseed,1005.0,Rabi,7.0,2.0,2,Hardoi | Moradabad,2
+2007-2008,Uttar Pradesh,Linseed,1005.0,Rabi,8.0,2.0,2,Bareilly | Gorakhpur,2
+2007-2008,Uttarakhand,Tobacco,1302.0,Whole Year,1.0,3.0,2,Chamoli | Dehradun,2
+2007-2008,Uttarakhand,Tobacco,1302.0,Whole Year,4.0,12.0,2,Bageshwar | Nainital,2
+2008-2009,Andhra Pradesh,Castor Seed,1002.0,Kharif,2.0,1.0,2,Visakhapatnam | Vizianagaram,2
+2008-2009,Assam,Castor Seed,1002.0,Kharif,2.0,1.0,2,Kamrup Metro | Sonitpur,2
+2008-2009,Assam,Castor Seed,1002.0,Kharif,5.0,2.0,2,Darrang | Hailakandi,2
+2008-2009,Assam,Tobacco,1302.0,Whole Year,2.0,1.0,2,Kamrup Metro | Sivasagar,2
+2008-2009,Bihar,Castor Seed,1002.0,Kharif,7.0,7.0,2,Bhagalpur | Purbi Champaran,2
+2008-2009,Bihar,Linseed,1005.0,Rabi,46.0,39.0,2,Darbhanga | Gopalganj,2
+2008-2009,Bihar,Mesta,1103.0,Kharif,6.0,52.0,2,Arwal | Gaya,2
+2008-2009,Chhattisgarh,Castor Seed,1002.0,Kharif,1.0,,2,Bilaspur | Rajnandgaon,2
+2008-2009,Chhattisgarh,Castor Seed,1002.0,Kharif,3.0,1.0,2,Bastar | Raipur,2
+2008-2009,Chhattisgarh,Tobacco,1302.0,Whole Year,2.0,1.0,2,Bastar | Jashpur,2
+2008-2009,Karnataka,Tobacco,1302.0,Whole Year,65.0,33.0,2,Haveri | Uttara Kannada,2
+2008-2009,Madhya Pradesh,Castor Seed,1002.0,Kharif,4.0,1.0,2,Rewa | Shivpuri,2
+2008-2009,Madhya Pradesh,Castor Seed,1002.0,Kharif,7.0,2.0,2,Indore | Ratlam,2
+2008-2009,Madhya Pradesh,Niger Seed,1010.0,Kharif,4.0,1.0,2,Damoh | Narmadapuram,2
+2008-2009,Madhya Pradesh,Niger Seed,1010.0,Kharif,5.0,1.0,2,Ashoknagar | Shivpuri,2
+2008-2009,Maharashtra,Castor Seed,1002.0,Kharif,300.0,100.0,2,Kolhapur | Nagpur,2
+2008-2009,Maharashtra,Castor Seed,1002.0,Kharif,800.0,200.0,2,Akola | Jalna,2
+2008-2009,Maharashtra,Niger Seed,1010.0,Kharif,200.0,100.0,2,Jalna | Sindhudurg,2
+2008-2009,Maharashtra,Niger Seed,1010.0,Kharif,1100.0,300.0,2,Kolhapur | Satara,2
+2008-2009,Maharashtra,Niger Seed,1010.0,Kharif,1800.0,500.0,2,Pune | Thane,2
+2008-2009,Nagaland,Cardamom,506.0,Kharif,20.0,10.0,2,Kiphire | Wokha,2
+2008-2009,Nagaland,Cardamom,506.0,Kharif,60.0,10.0,2,Tuensang | Zunheboto,2
+2008-2009,Rajasthan,Linseed,1005.0,Rabi,1.0,1.0,2,Jaipur | Jalore,2
+2008-2009,Uttar Pradesh,Linseed,1005.0,Rabi,1.0,1.0,2,Azamgarh | Varanasi,2
+2008-2009,Uttar Pradesh,Linseed,1005.0,Rabi,2.0,1.0,2,Bhadohi | Kushinagar,2
+2008-2009,Uttar Pradesh,Linseed,1005.0,Rabi,9.0,4.0,2,Kheri | Muzaffarnagar,2
+2008-2009,Uttar Pradesh,Linseed,1005.0,Rabi,27.0,12.0,2,Basti | Hardoi,2
+2008-2009,Uttarakhand,Tobacco,1302.0,Whole Year,5.0,18.0,2,Haridwar | Pithoragarh,2
+2009-2010,Assam,Castor Seed,1002.0,Kharif,3.0,1.0,2,Dibrugarh | Kamrup Metro,2
+2009-2010,Assam,Castor Seed,1002.0,Kharif,5.0,3.0,2,Nalbari | Sivasagar,2
+2009-2010,Bihar,Linseed,1005.0,Rabi,49.0,41.0,2,Gopalganj | Vaishali,2
+2009-2010,Bihar,Mesta,1103.0,Kharif,3.0,22.0,2,Arwal | Gaya,2
+2009-2010,Chhattisgarh,Castor Seed,1002.0,Kharif,1.0,,2,Bilaspur | Rajnandgaon,2
+2009-2010,Chhattisgarh,Niger Seed,1010.0,Kharif,1.0,,2,Durg | Mahasamund,2
+2009-2010,Gujarat,Tobacco,1302.0,Kharif,200.0,300.0,2,Banas Kantha | Sabar Kantha,2
+2009-2010,Gujarat,Tobacco,1302.0,Rabi,200.0,300.0,2,Banas Kantha | Sabar Kantha,2
+2009-2010,Karnataka,Tobacco,1302.0,Whole Year,5.0,4.0,2,Tumakuru | Uttara Kannada,2
+2009-2010,Madhya Pradesh,Niger Seed,1010.0,Whole Year,3.0,1.0,2,Damoh | Shivpuri,2
+2009-2010,Madhya Pradesh,Niger Seed,1010.0,Whole Year,5.0,1.0,2,Harda | Vidisha,2
+2009-2010,Madhya Pradesh,Tobacco,1302.0,Whole Year,1.0,1.0,2,Sidhi | Singrauli,2
+2009-2010,Maharashtra,Castor Seed,1002.0,Kharif,200.0,,2,Hingoli | Jalgaon,2
+2009-2010,Maharashtra,Castor Seed,1002.0,Kharif,300.0,100.0,2,Amravati | Dhule,2
+2009-2010,Maharashtra,Castor Seed,1002.0,Kharif,400.0,100.0,2,Beed | Nandurbar,2
+2009-2010,Maharashtra,Linseed,1005.0,Rabi,600.0,100.0,2,Ahilyanagar | Jalna,2
+2009-2010,Maharashtra,Linseed,1005.0,Rabi,1400.0,300.0,2,Beed | Parbhani,2
+2009-2010,Maharashtra,Niger Seed,1010.0,Kharif,300.0,100.0,2,Hingoli | Raigad,2
+2009-2010,Maharashtra,Niger Seed,1010.0,Kharif,2000.0,400.0,2,Ratnagiri | Thane,2
+2009-2010,Nagaland,Castor Seed,1002.0,Kharif,40.0,20.0,2,Kiphire | Longleng,2
+2009-2010,Rajasthan,Castor Seed,1002.0,Kharif,2.0,1.0,2,Kota | Rajsamand,2
+2009-2010,Rajasthan,Linseed,1005.0,Rabi,1.0,1.0,2,Ajmer | Jalore,2
+2009-2010,Rajasthan,Linseed,1005.0,Rabi,2.0,2.0,2,Bikaner | Karauli,2
+2009-2010,Tamil Nadu,Cardamom,506.0,Whole Year,2.0,,2,Erode | Krishnagiri,2
+2009-2010,Tamil Nadu,Castor Seed,1002.0,Whole Year,1.0,,2,Pudukkottai | Thanjavur,2
+2009-2010,Tamil Nadu,Tobacco,1302.0,Whole Year,2.0,3.0,2,Cuddalore | Vellore,2
+2009-2010,Telangana,Castor Seed,1002.0,Kharif,152.0,60.0,2,Adilabad | Karimnagar,2
+2009-2010,Uttar Pradesh,Linseed,1005.0,Rabi,1.0,,2,Bhadohi | Kaushambi,2
+2009-2010,Uttar Pradesh,Linseed,1005.0,Rabi,118.0,52.0,2,Shrawasti | Sultanpur,2
+2010-2011,Assam,Castor Seed,1002.0,Kharif,2.0,1.0,2,Darrang | Sonitpur,2
+2010-2011,Assam,Castor Seed,1002.0,Kharif,5.0,3.0,2,Nalbari | Sivasagar,2
+2010-2011,Assam,Castor Seed,1002.0,Kharif,6.0,2.0,2,Bongaigaon | Chirang,2
+2010-2011,Assam,Castor Seed,1002.0,Kharif,7.0,3.0,2,Tinsukia | Udalguri,2
+2010-2011,Assam,Mesta,1103.0,Kharif,3.0,15.0,2,Jorhat | Sribhumi,2
+2010-2011,Assam,Tobacco,1302.0,Whole Year,2.0,1.0,2,Tinsukia | Udalguri,2
+2010-2011,Assam,Tobacco,1302.0,Whole Year,5.0,3.0,2,Darrang | Sonitpur,2
+2010-2011,Assam,Tobacco,1302.0,Whole Year,6.0,4.0,2,Cachar | Nagaon,2
+2010-2011,Assam,Tobacco,1302.0,Whole Year,7.0,4.0,2,Dhemaji | Jorhat,2
+2010-2011,Bihar,Linseed,1005.0,Rabi,410.0,335.0,2,Katihar | Madhubani,2
+2010-2011,Bihar,Mesta,1103.0,Kharif,7.0,120.0,2,Pashchim Champaran | Purbi Champaran,2
+2010-2011,Gujarat,Castor Seed,1002.0,Kharif,300.0,600.0,2,Bhavnagar | Surat,2
+2010-2011,Karnataka,Castor Seed,1002.0,Kharif,2.0,2.0,2,Shivamogga | Vijayapura,2
+2010-2011,Karnataka,Castor Seed,1002.0,Kharif,68.0,57.0,2,Gadag | Kalaburagi,2
+2010-2011,Karnataka,Mesta,1103.0,Whole Year,4.0,5.0,2,Bagalkote | Belagavi,2
+2010-2011,Madhya Pradesh,Castor Seed,1002.0,Kharif,1.0,,2,Mandsaur | Ratlam,2
+2010-2011,Maharashtra,Castor Seed,1002.0,Kharif,100.0,40.0,2,Dhule | Jalgaon,2
+2010-2011,Maharashtra,Linseed,1005.0,Rabi,500.0,100.0,2,Ahilyanagar | Hingoli,2
+2010-2011,Maharashtra,Linseed,1005.0,Rabi,1400.0,300.0,2,Beed | Parbhani,2
+2010-2011,Maharashtra,Niger Seed,1010.0,Kharif,100.0,,2,Chhatrapati Sambhajinagar | Solapur,2
+2010-2011,Maharashtra,Niger Seed,1010.0,Kharif,200.0,100.0,2,Jalna | Sangli,2
+2010-2011,Nagaland,Castor Seed,1002.0,Kharif,30.0,20.0,2,Wokha | Zunheboto,2
+2010-2011,Nagaland,Castor Seed,1002.0,Kharif,40.0,30.0,2,Mokokchung | Peren,2
+2010-2011,Nagaland,Linseed,1005.0,Rabi,550.0,450.0,2,Mon | Peren,2
+2010-2011,Uttar Pradesh,Linseed,1005.0,Rabi,4.0,2.0,2,Jaunpur | Kaushambi,2
+2010-2011,Uttar Pradesh,Linseed,1005.0,Rabi,20.0,9.0,2,Auraiya | Kheri,2
+2011-2012,Assam,Castor Seed,1002.0,Kharif,4.0,2.0,2,Dibrugarh | Nalbari,2
+2011-2012,Assam,Castor Seed,1002.0,Kharif,7.0,4.0,2,Bongaigaon | Tinsukia,2
+2011-2012,Assam,Mesta,1103.0,Kharif,2.0,13.0,2,Dibrugarh | Sivasagar,2
+2011-2012,Assam,Niger Seed,1010.0,Kharif,1.0,1.0,2,Golaghat | Sivasagar,2
+2011-2012,Assam,Tobacco,1302.0,Whole Year,5.0,2.0,2,Baksa | Goalpara,2
+2011-2012,Assam,Tobacco,1302.0,Whole Year,6.0,3.0,2,Cachar | Jorhat,2
+2011-2012,Assam,Tobacco,1302.0,Whole Year,7.0,4.0,2,Bongaigaon | Dhemaji,2
+2011-2012,Assam,Tobacco,1302.0,Whole Year,10.0,6.0,2,Golaghat | Lakhimpur,2
+2011-2012,Chhattisgarh,Castor Seed,1002.0,Kharif,3.0,1.0,2,Balodabazar-Bhatapara | Bastar,2
+2011-2012,Gujarat,Castor Seed,1002.0,Kharif,400.0,800.0,2,Dahod | Tapi,2
+2011-2012,Gujarat,Castor Seed,1002.0,Kharif,2000.0,4100.0,2,Amreli | Junagadh,2
+2011-2012,Gujarat,Castor Seed,1002.0,Kharif,3000.0,6200.0,2,Anand | Surat,2
+2011-2012,Gujarat,Tobacco,1302.0,Kharif,100.0,100.0,2,Ahmedabad | Mahesana,2
+2011-2012,Karnataka,Mesta,1103.0,Whole Year,5.0,6.0,2,Dharwad | Yadgir,2
+2011-2012,Karnataka,Niger Seed,1010.0,Kharif,178.0,48.0,2,Bagalkote | Dharwad,2
+2011-2012,Madhya Pradesh,Castor Seed,1002.0,Kharif,25.0,8.0,2,Balaghat | Datia,2
+2011-2012,Maharashtra,Castor Seed,1002.0,Kharif,100.0,30.0,2,Kolhapur | Solapur,2
+2011-2012,Maharashtra,Linseed,1005.0,Rabi,100.0,,2,Chhatrapati Sambhajinagar | Jalna,2
+2011-2012,Maharashtra,Linseed,1005.0,Rabi,300.0,100.0,2,Ahilyanagar | Hingoli,2
+2011-2012,Maharashtra,Niger Seed,1010.0,Kharif,100.0,20.0,2,Chhatrapati Sambhajinagar | Jalna,2
+2011-2012,Maharashtra,Niger Seed,1010.0,Kharif,400.0,100.0,2,Hingoli | Raigad,2
+2011-2012,Nagaland,Castor Seed,1002.0,Kharif,30.0,20.0,2,Wokha | Zunheboto,2
+2011-2012,Nagaland,Castor Seed,1002.0,Kharif,50.0,40.0,2,Dimapur | Mokokchung,2
+2011-2012,Tamil Nadu,Castor Seed,1002.0,Whole Year,2.0,,2,Kancheepuram | Pudukkottai,2
+2011-2012,Tamil Nadu,Castor Seed,1002.0,Whole Year,6.0,2.0,2,Sivaganga | Tiruvannamalai,2
+2011-2012,Uttar Pradesh,Linseed,1005.0,Rabi,12.0,5.0,2,Kanpur Dehat | Sultanpur,2
+2011-2012,Uttar Pradesh,Linseed,1005.0,Rabi,17.0,8.0,2,Bara Banki | Rampur,2
+2011-2012,Uttar Pradesh,Tobacco,1302.0,Rabi,6.0,31.0,2,Hamirpur | Mahoba,2
+2011-2012,Uttar Pradesh,Tobacco,1302.0,Summer,4.0,12.0,2,Fatehpur | Rae Bareli,2
+2011-2012,Uttar Pradesh,Tobacco,1302.0,Summer,5.0,15.0,2,Budaun | Mahrajganj,2
+2012-2013,Assam,Castor Seed,1002.0,Kharif,2.0,1.0,2,Darrang | Nalbari,2
+2012-2013,Assam,Castor Seed,1002.0,Kharif,6.0,3.0,2,Bongaigaon | Chirang,2
+2012-2013,Assam,Mesta,1103.0,Kharif,1.0,5.0,2,Golaghat | Sribhumi,2
+2012-2013,Assam,Tobacco,1302.0,Whole Year,1.0,1.0,2,Hailakandi | Kamrup Metro,2
+2012-2013,Assam,Tobacco,1302.0,Whole Year,7.0,4.0,2,Cachar | Sribhumi,2
+2012-2013,Bihar,Mesta,1103.0,Kharif,3.0,7.0,2,Khagaria | Rohtas,2
+2012-2013,Bihar,Tobacco,1302.0,Whole Year,23.0,43.0,2,Bhagalpur | Sheohar,2
+2012-2013,Gujarat,Castor Seed,1002.0,Kharif,300.0,600.0,2,Porbandar | Tapi,2
+2012-2013,Gujarat,Tobacco,1302.0,Rabi,100.0,100.0,2,Ahmedabad | Patan,2
+2012-2013,Karnataka,Linseed,1005.0,Rabi,3.0,1.0,2,Shivamogga | Yadgir,2
+2012-2013,Karnataka,Niger Seed,1010.0,Kharif,304.0,73.0,2,Belagavi | Kalaburagi,2
+2012-2013,Karnataka,Tobacco,1302.0,Whole Year,15.0,9.0,2,Ballari | Shivamogga,2
+2012-2013,Maharashtra,Castor Seed,1002.0,Kharif,200.0,20.0,2,Ahilyanagar | Chandrapur,2
+2012-2013,Maharashtra,Castor Seed,1002.0,Kharif,200.0,100.0,2,Jalna | Nandurbar,2
+2012-2013,Maharashtra,Castor Seed,1002.0,Kharif,1200.0,300.0,2,Beed | Latur,2
+2012-2013,Maharashtra,Niger Seed,1010.0,Kharif,2000.0,700.0,2,Ahilyanagar | Thane,2
+2012-2013,Nagaland,Castor Seed,1002.0,Kharif,30.0,20.0,2,Wokha | Zunheboto,2
+2012-2013,Rajasthan,Castor Seed,1002.0,Kharif,9.0,9.0,2,Bundi | Jaipur,2
+2012-2013,Tamil Nadu,Castor Seed,1002.0,Kharif,2.0,,2,Kancheepuram | Pudukkottai,2
+2012-2013,Telangana,Castor Seed,1002.0,Kharif,1000.0,1000.0,2,Medak | Warangal,2
+2012-2013,Uttar Pradesh,Linseed,1005.0,Rabi,2.0,1.0,2,Auraiya | Varanasi,2
+2012-2013,Uttar Pradesh,Linseed,1005.0,Rabi,3.0,1.0,2,Kushinagar | Lucknow,2
+2012-2013,Uttar Pradesh,Linseed,1005.0,Rabi,4.0,2.0,2,Sant Kabir Nagar | Shahjahanpur,2
+2012-2013,Uttar Pradesh,Linseed,1005.0,Rabi,15.0,7.0,2,Ayodhya | Sultanpur,2
+2012-2013,Uttar Pradesh,Tobacco,1302.0,Rabi,19.0,103.0,2,Kannauj | Kaushambi,2
+2013-2014,Assam,Castor Seed,1002.0,Kharif,1.0,1.0,2,Nalbari | Sribhumi,2
+2013-2014,Assam,Niger Seed,1010.0,Kharif,19.0,10.0,2,Cachar | Tinsukia,2
+2013-2014,Assam,Tobacco,1302.0,Whole Year,4.0,2.0,2,Jorhat | Kamrup,2
+2013-2014,Assam,Tobacco,1302.0,Whole Year,9.0,7.0,2,Barpeta | Sonitpur,2
+2013-2014,Bihar,Linseed,1005.0,Rabi,29.0,25.0,2,Khagaria | Siwan,2
+2013-2014,Bihar,Linseed,1005.0,Rabi,165.0,140.0,2,Arwal | Banka,2
+2013-2014,Chhattisgarh,Castor Seed,1002.0,Rabi,3.0,1.0,2,Gariyaband | Kabeerdham,2
+2013-2014,Karnataka,Linseed,1005.0,Rabi,2.0,1.0,2,Bengaluru Urban | Shivamogga,2
+2013-2014,Madhya Pradesh,Linseed,1005.0,Rabi,3.0,3.0,2,Ashoknagar | Dhar,2
+2013-2014,Madhya Pradesh,Mesta,1103.0,Kharif,4.0,6.0,2,Khandwa (East Nimar) | Satna,2
+2013-2014,Madhya Pradesh,Tobacco,1302.0,Whole Year,3.0,2.0,2,Mandsaur | Shahdol,2
+2013-2014,Maharashtra,Castor Seed,1002.0,Kharif,200.0,100.0,2,Akola | Chhatrapati Sambhajinagar,2
+2013-2014,Maharashtra,Castor Seed,1002.0,Kharif,200.0,,2,Pune | Solapur,2
+2013-2014,Maharashtra,Castor Seed,1002.0,Kharif,1000.0,200.0,2,Dharashiv | Nanded,2
+2013-2014,Maharashtra,Linseed,1005.0,Rabi,200.0,100.0,2,Ahilyanagar | Solapur,2
+2013-2014,Maharashtra,Niger Seed,1010.0,Kharif,2000.0,700.0,2,Ahilyanagar | Thane,2
+2013-2014,Nagaland,Castor Seed,1002.0,Kharif,30.0,20.0,2,Wokha | Zunheboto,2
+2013-2014,Nagaland,Mesta,1103.0,Kharif,110.0,120.0,2,Kohima | Mokokchung,2
+2013-2014,Nagaland,Mesta,1103.0,Kharif,220.0,250.0,2,Peren | Phek,2
+2013-2014,Uttar Pradesh,Linseed,1005.0,Rabi,2.0,1.0,2,Ambedkar Nagar | Bhadohi,2
+2013-2014,Uttar Pradesh,Tobacco,1302.0,Rabi,2.0,11.0,2,Baghpat | Pratapgarh,2
+2014-2015,Assam,Castor Seed,1002.0,Kharif,3.0,1.0,2,Dibrugarh | Kamrup Metro,2
+2014-2015,Assam,Linseed,1005.0,Rabi,5.0,3.0,2,Hailakandi | Jorhat,2
+2014-2015,Assam,Niger Seed,1010.0,Kharif,3.0,2.0,2,Hailakandi | Lakhimpur,2
+2014-2015,Assam,Tobacco,1302.0,Whole Year,3.0,2.0,2,Dhemaji | Jorhat,2
+2014-2015,Assam,Tobacco,1302.0,Whole Year,6.0,3.0,2,Baksa | Nagaon,2
+2014-2015,Madhya Pradesh,Linseed,1005.0,Rabi,2000.0,1000.0,2,Sagar | Satna,2
+2014-2015,Madhya Pradesh,Linseed,1005.0,Rabi,3000.0,2000.0,2,Chhatarpur | Katni,2
+2014-2015,Madhya Pradesh,Linseed,1005.0,Rabi,4000.0,2000.0,2,Mandla | Shahdol,2
+2014-2015,Madhya Pradesh,Niger Seed,1010.0,Kharif,5000.0,2000.0,2,Anuppur | Mandla,2
+2014-2015,Madhya Pradesh,Niger Seed,1010.0,Kharif,7000.0,3000.0,2,Chhindwara | Dindori,2
+2014-2015,Maharashtra,Castor Seed,1002.0,Kharif,300.0,100.0,2,Kolhapur | Nanded,2
+2014-2015,Maharashtra,Castor Seed,1002.0,Kharif,600.0,100.0,2,Nandurbar | Parbhani,2
+2014-2015,Maharashtra,Castor Seed,1002.0,Kharif,900.0,400.0,2,Amravati | Yavatmal,2
+2014-2015,Maharashtra,Linseed,1005.0,Rabi,200.0,,2,Ahilyanagar | Solapur,2
+2014-2015,Nagaland,Castor Seed,1002.0,Kharif,30.0,20.0,2,Wokha | Zunheboto,2
+2014-2015,Nagaland,Mesta,1103.0,Kharif,220.0,250.0,2,Peren | Phek,2
+2014-2015,Tamil Nadu,Cardamom,506.0,Whole Year,1.0,,2,Erode | Vellore,2
+2014-2015,Tamil Nadu,Castor Seed,1002.0,Kharif,7.0,2.0,2,Tirunelveli | Virudhunagar,2
+2014-2015,Uttar Pradesh,Linseed,1005.0,Rabi,1.0,1.0,2,Kaushambi | Varanasi,2
+2014-2015,Uttar Pradesh,Linseed,1005.0,Rabi,3.0,2.0,2,Bara Banki | Deoria,2
+2014-2015,Uttar Pradesh,Linseed,1005.0,Rabi,5.0,3.0,2,Etawah | Sant Kabir Nagar,2
+2015-2016,Assam,Castor Seed,1002.0,Kharif,3.0,1.0,2,Dibrugarh | Kamrup Metro,2
+2015-2016,Assam,Castor Seed,1002.0,Kharif,4.0,2.0,2,Nagaon | Tinsukia,2
+2015-2016,Assam,Castor Seed,1002.0,Kharif,5.0,3.0,2,Marigaon | Sivasagar,2
+2015-2016,Assam,Castor Seed,1002.0,Kharif,7.0,3.0,2,Kamrup | Sonitpur,2
+2015-2016,Assam,Mesta,1103.0,Kharif,1.0,5.0,2,Sribhumi | Tinsukia,2
+2015-2016,Assam,Tobacco,1302.0,Whole Year,5.0,2.0,2,Baksa | Goalpara,2
+2015-2016,Chhattisgarh,Castor Seed,1002.0,Rabi,4.0,1.0,2,Dhamtari | Mungeli,2
+2015-2016,Chhattisgarh,Niger Seed,1010.0,Kharif,5.0,1.0,2,Balodabazar-Bhatapara | Bijapur,2
+2015-2016,Karnataka,Linseed,1005.0,Rabi,16.0,2.0,2,Chikkamagaluru | Mysuru,2
+2015-2016,Madhya Pradesh,Castor Seed,1002.0,Kharif,2000.0,1000.0,2,Alirajpur | Burhanpur,2
+2015-2016,Madhya Pradesh,Linseed,1005.0,Rabi,4000.0,2000.0,2,Dewas | Singrauli,2
+2015-2016,Madhya Pradesh,Linseed,1005.0,Rabi,4000.0,3000.0,2,Mandsaur | Satna,2
+2015-2016,Maharashtra,Castor Seed,1002.0,Kharif,100.0,30.0,2,Ahilyanagar | Jalna,2
+2015-2016,Maharashtra,Castor Seed,1002.0,Kharif,300.0,100.0,2,Sangli | Satara,2
+2015-2016,Maharashtra,Niger Seed,1010.0,Kharif,10.0,2.0,2,Dhule | Nandurbar,2
+2015-2016,Maharashtra,Niger Seed,1010.0,Kharif,100.0,10.0,2,Raigad | Thane,2
+2015-2016,Nagaland,Castor Seed,1002.0,Kharif,30.0,20.0,2,Wokha | Zunheboto,2
+2015-2016,Nagaland,Mesta,1103.0,Kharif,220.0,250.0,2,Peren | Phek,2
+2015-2016,Rajasthan,Linseed,1005.0,Rabi,1.0,1.0,2,Hanumangarh | Sawai Madhopur,2
+2015-2016,Rajasthan,Tobacco,1302.0,Whole Year,1.0,,2,Bhilwara | Jaipur,2
+2015-2016,Tamil Nadu,Castor Seed,1002.0,Kharif,1.0,,2,Ramanathapuram | Sivaganga,2
+2015-2016,Uttar Pradesh,Linseed,1005.0,Rabi,13.0,2.0,2,Amethi | Unnao,2
+2015-2016,Uttar Pradesh,Tobacco,1302.0,Rabi,1.0,5.0,2,Rae Bareli | Unnao,2
+2016-2017,Andhra Pradesh,Castor Seed,1002.0,Kharif,2.0,1.0,2,Visakhapatnam | West Godavari,2
+2016-2017,Assam,Castor Seed,1002.0,Kharif,4.0,2.0,2,Dibrugarh | Marigaon,2
+2016-2017,Assam,Castor Seed,1002.0,Kharif,13.0,8.0,2,Barpeta | Chirang,2
+2016-2017,Assam,Mesta,1103.0,Kharif,1.0,5.0,2,Sribhumi | Tinsukia,2
+2016-2017,Assam,Niger Seed,1010.0,Kharif,2.0,1.0,2,Dhemaji | Lakhimpur,2
+2016-2017,Assam,Tobacco,1302.0,Whole Year,1.0,1.0,2,Dhemaji | Jorhat,2
+2016-2017,Bihar,Linseed,1005.0,Rabi,155.0,129.0,2,Bhojpur | Katihar,2
+2016-2017,Bihar,Mesta,1103.0,Kharif,9.0,21.0,2,Nawada | Pashchim Champaran,2
+2016-2017,Chhattisgarh,Mesta,1103.0,Kharif,4.0,9.0,2,Bijapur | Kondagaon,2
+2016-2017,Karnataka,Castor Seed,1002.0,Kharif,10.0,5.0,2,Gadag | Kalaburagi,2
+2016-2017,Karnataka,Castor Seed,1002.0,Kharif,23.0,11.0,2,Belagavi | Yadgir,2
+2016-2017,Karnataka,Linseed,1005.0,Rabi,2.0,,2,Chikkamagaluru | Yadgir,2
+2016-2017,Karnataka,Tobacco,1302.0,Whole Year,1.0,1.0,2,Haveri | Shivamogga,2
+2016-2017,Madhya Pradesh,Mesta,1103.0,Kharif,20.0,10.0,2,Rewa | Sagar,2
+2016-2017,Madhya Pradesh,Niger Seed,1010.0,Kharif,2000.0,1000.0,2,Jabalpur | Khargone (West Nimar),2
+2016-2017,Madhya Pradesh,Niger Seed,1010.0,Kharif,3000.0,1000.0,2,Betul | Jhabua,2
+2016-2017,Maharashtra,Castor Seed,1002.0,Kharif,30.0,10.0,2,Ahilyanagar | Sindhudurg,2
+2016-2017,Maharashtra,Castor Seed,1002.0,Kharif,100.0,40.0,2,Beed | Nanded,2
+2016-2017,Maharashtra,Niger Seed,1010.0,Kharif,36.0,6.0,2,Jalna | Sangli,2
+2016-2017,Nagaland,Castor Seed,1002.0,Kharif,30.0,20.0,2,Wokha | Zunheboto,2
+2016-2017,Rajasthan,Castor Seed,1002.0,Kharif,9.0,4.0,2,Banswara | Tonk,2
+2016-2017,Rajasthan,Linseed,1005.0,Rabi,1.0,1.0,2,Banswara | Jaipur,2
+2016-2017,Rajasthan,Tobacco,1302.0,Whole Year,2.0,2.0,2,Dausa | Sirohi,2
+2016-2017,Tamil Nadu,Castor Seed,1002.0,Kharif,1.0,,2,Ramanathapuram | Tirunelveli,2
+2016-2017,Telangana,Castor Seed,1002.0,Kharif,2.0,1.0,2,Medchal Malkajgiri | Suryapet,2
+2016-2017,Uttar Pradesh,Linseed,1005.0,Rabi,2.0,1.0,2,Pilibhit | Varanasi,2
+2016-2017,Uttar Pradesh,Linseed,1005.0,Rabi,7.0,4.0,2,Budaun | Kanpur Dehat,2
+2016-2017,Uttar Pradesh,Linseed,1005.0,Rabi,22.0,12.0,2,Sultanpur | Unnao,2
+2016-2017,Uttar Pradesh,Tobacco,1302.0,Rabi,1.0,4.0,2,Rae Bareli | Unnao,2
+2016-2017,Uttar Pradesh,Tobacco,1302.0,Rabi,2.0,9.0,2,Baghpat | Jalaun,2
+2016-2017,Uttar Pradesh,Tobacco,1302.0,Rabi,3.0,13.0,2,Mahoba | Mainpuri,2
+2016-2017,Uttar Pradesh,Tobacco,1302.0,Rabi,9.0,40.0,2,Jaunpur | Sultanpur,2
+2017-2018,Assam,Castor Seed,1002.0,Kharif,3.0,1.0,2,Dibrugarh | Tinsukia,2
+2017-2018,Assam,Linseed,1005.0,Rabi,4.0,2.0,2,Hailakandi | Kamrup Metro,2
+2017-2018,Assam,Tobacco,1302.0,Whole Year,2.0,2.0,2,Barpeta | Lakhimpur,2
+2017-2018,Chhattisgarh,Castor Seed,1002.0,Kharif,3.0,1.0,2,Balodabazar-Bhatapara | Janjgir-Champa,2
+2017-2018,Chhattisgarh,Linseed,1005.0,Rabi,1.0,,2,Dakshin Bastar Dantewada | Mahasamund,2
+2017-2018,Chhattisgarh,Mesta,1103.0,Kharif,1.0,2.0,2,Balod | Mahasamund,2
+2017-2018,Chhattisgarh,Tobacco,1302.0,Whole Year,3.0,2.0,2,Bastar | Surguja,2
+2017-2018,Haryana,Castor Seed,1002.0,Kharif,400.0,400.0,2,Hisar | Sirsa,2
+2017-2018,Karnataka,Castor Seed,1002.0,Kharif,2.0,1.0,2,Haveri | Shivamogga,2
+2017-2018,Karnataka,Niger Seed,1010.0,Kharif,40.0,9.0,2,Bagalkote | Ballari,2
+2017-2018,Madhya Pradesh,Linseed,1005.0,Rabi,20.0,20.0,2,Bhopal | Vidisha,2
+2017-2018,Madhya Pradesh,Linseed,1005.0,Rabi,40.0,30.0,2,Jhabua | Rajgarh,2
+2017-2018,Madhya Pradesh,Linseed,1005.0,Rabi,50.0,20.0,2,Ashoknagar | Khargone (West Nimar),2
+2017-2018,Maharashtra,Castor Seed,1002.0,Kharif,300.0,100.0,2,Latur | Nashik,2
+2017-2018,Nagaland,Castor Seed,1002.0,Kharif,30.0,20.0,2,Wokha | Zunheboto,2
+2017-2018,Rajasthan,Castor Seed,1002.0,Kharif,15.0,15.0,2,Bharatpur | Dholpur,2
+2017-2018,Rajasthan,Linseed,1005.0,Rabi,1.0,1.0,2,Bikaner | Jalore,2
+2017-2018,Rajasthan,Linseed,1005.0,Rabi,6.0,5.0,2,Jaipur | Tonk,2
+2017-2018,Tamil Nadu,Castor Seed,1002.0,Kharif,1.0,,2,Sivaganga | Tirunelveli,2
+2017-2018,Tamil Nadu,Tobacco,1302.0,Whole Year,4.0,6.0,2,Dindigul | The Nilgiris,2
+2017-2018,Uttar Pradesh,Linseed,1005.0,Rabi,8.0,5.0,2,Hathras | Shahjahanpur,2
+2017-2018,Uttar Pradesh,Linseed,1005.0,Rabi,11.0,7.0,2,Amroha | Bareilly,2
+2017-2018,Uttar Pradesh,Linseed,1005.0,Rabi,22.0,13.0,2,Budaun | Unnao,2
+2017-2018,Uttar Pradesh,Tobacco,1302.0,Rabi,3.0,14.0,2,Hardoi | Mainpuri,2
+2018-2019,Assam,Castor Seed,1002.0,Kharif,8.0,4.0,2,Chirang | Sonitpur,2
+2018-2019,Assam,Tobacco,1302.0,Whole Year,5.0,3.0,2,Lakhimpur | Sribhumi,2
+2018-2019,Bihar,Castor Seed,1002.0,Kharif,1.0,1.0,2,Madhubani | Nalanda,2
+2018-2019,Bihar,Linseed,1005.0,Rabi,25.0,21.0,2,Darbhanga | Purnia,2
+2018-2019,Bihar,Linseed,1005.0,Rabi,98.0,83.0,2,Jehanabad | Nalanda,2
+2018-2019,Chhattisgarh,Castor Seed,1002.0,Kharif,3.0,1.0,2,Janjgir-Champa | Rajnandgaon,2
+2018-2019,Chhattisgarh,Linseed,1005.0,Rabi,4.0,1.0,2,Balodabazar-Bhatapara | Mahasamund,2
+2018-2019,Chhattisgarh,Mesta,1103.0,Kharif,1.0,2.0,2,Bijapur | Kondagaon,2
+2018-2019,Gujarat,Tobacco,1302.0,Kharif,20.0,37.0,2,Amreli | Banas Kantha,2
+2018-2019,Haryana,Castor Seed,1002.0,Kharif,6.0,5.0,2,Charkhi Dadri | Yamunanagar,2
+2018-2019,Karnataka,Cardamom,506.0,Whole Year,3.0,0.3,2,Chamarajanagar | Dakshina Kannada,2
+2018-2019,Karnataka,Castor Seed,1002.0,Kharif,5.0,3.0,2,Bengaluru Urban | Haveri,2
+2018-2019,Karnataka,Mesta,1103.0,Whole Year,2.0,3.0,2,Gadag | Mandya,2
+2018-2019,Karnataka,Niger Seed,1010.0,Kharif,22.0,4.0,2,Chikkaballapura | Raichur,2
+2018-2019,Karnataka,Tobacco,1302.0,Whole Year,4.0,3.0,2,Haveri | Udupi,2
+2018-2019,Karnataka,Tobacco,1302.0,Whole Year,14.0,12.0,2,Chitradurga | Koppal,2
+2018-2019,Madhya Pradesh,Linseed,1005.0,Rabi,1.0,,2,Harda | Khargone (West Nimar),2
+2018-2019,Madhya Pradesh,Mesta,1103.0,Kharif,1.0,0.36,2,Khargone (West Nimar) | Singrauli,2
+2018-2019,Madhya Pradesh,Niger Seed,1010.0,Kharif,2.0,1.0,2,Damoh | Narsimhapur,2
+2018-2019,Madhya Pradesh,Niger Seed,1010.0,Kharif,3.0,1.0,2,Mandsaur | Rajgarh,2
+2018-2019,Nagaland,Mesta,1103.0,Kharif,220.0,250.0,2,Peren | Wokha,2
+2018-2019,Rajasthan,Castor Seed,1002.0,Kharif,5.0,5.0,2,Chittorgarh | Dholpur,2
+2018-2019,Tamil Nadu,Castor Seed,1002.0,Kharif,1.0,,2,Pudukkottai | Ramanathapuram,2
+2018-2019,Tamil Nadu,Tobacco,1302.0,Whole Year,1.0,1.0,2,Namakkal | Viluppuram,2
+2018-2019,Telangana,Tobacco,1302.0,Rabi,2.0,10.0,2,Mulugu | Nirmal,2
+2018-2019,Uttar Pradesh,Linseed,1005.0,Rabi,5.0,3.0,2,Ambedkar Nagar | Budaun,2
+2018-2019,Uttar Pradesh,Linseed,1005.0,Rabi,13.0,8.0,2,Kheri | Sitapur,2
+2018-2019,Uttar Pradesh,Linseed,1005.0,Rabi,15.0,9.0,2,Ayodhya | Kanpur Dehat,2
+2018-2019,Uttar Pradesh,Linseed,1005.0,Rabi,19.0,12.0,2,Farrukhabad | Moradabad,2
+2018-2019,Uttar Pradesh,Linseed,1005.0,Rabi,28.0,18.0,2,Bareilly | Gonda,2
+2018-2019,Uttar Pradesh,Tobacco,1302.0,Rabi,1.0,2.0,2,Rae Bareli | Unnao,2
+2019-2020,Andhra Pradesh,Castor Seed,1002.0,Kharif,1.0,1.0,2,Srikakulam | Vizianagaram,2
+2019-2020,Assam,Mesta,1103.0,Kharif,1.0,5.0,2,Golaghat | Sribhumi,2
+2019-2020,Assam,Tobacco,1302.0,Whole Year,1.0,1.0,2,Dhemaji | Jorhat,2
+2019-2020,Bihar,Castor Seed,1002.0,Kharif,1.0,1.0,2,Madhubani | Nalanda,2
+2019-2020,Chhattisgarh,Mesta,1103.0,Kharif,8.0,16.0,2,Bastar | Dakshin Bastar Dantewada,2
+2019-2020,Karnataka,Cardamom,506.0,Whole Year,5.0,1.0,2,Davanagere | Mysuru,2
+2019-2020,Karnataka,Cardamom,506.0,Whole Year,7.0,1.0,2,Belagavi | Chitradurga,2
+2019-2020,Karnataka,Mesta,1103.0,Whole Year,1.0,,2,Ballari | Bengaluru Rural,2
+2019-2020,Karnataka,Niger Seed,1010.0,Kharif,1.0,,2,Chikkamagaluru | Chitradurga,2
+2019-2020,Karnataka,Niger Seed,1010.0,Kharif,2.0,,2,Davanagere | Raichur,2
+2019-2020,Karnataka,Niger Seed,1010.0,Kharif,14.0,3.0,2,Bengaluru Rural | Vijayapura,2
+2019-2020,Karnataka,Tobacco,1302.0,Whole Year,6.0,5.0,2,Chikkaballapura | Haveri,2
+2019-2020,Karnataka,Tobacco,1302.0,Whole Year,7.0,6.0,2,Bagalkote | Bengaluru Urban,2
+2019-2020,Madhya Pradesh,Linseed,1005.0,Rabi,2.0,3.0,2,Harda | Narmadapuram,2
+2019-2020,Madhya Pradesh,Linseed,1005.0,Rabi,3.0,3.0,2,Indore | Niwari,2
+2019-2020,Madhya Pradesh,Niger Seed,1010.0,Kharif,3.0,1.0,2,Morena | Rajgarh,2
+2019-2020,Maharashtra,Linseed,1005.0,Rabi,2.0,,2,Nanded | Pune,2
+2019-2020,Nagaland,Mesta,1103.0,Kharif,224.0,250.0,2,Peren | Wokha,2
+2019-2020,Odisha,Castor Seed,1002.0,Kharif,140.0,90.0,2,Gajapati | Kandhamal,2
+2019-2020,Odisha,Castor Seed,1002.0,Kharif,470.0,290.0,2,Kalahandi | Rayagada,2
+2019-2020,Odisha,Castor Seed,1002.0,Rabi,40.0,30.0,2,Balangir | Gajapati,2
+2019-2020,Odisha,Linseed,1005.0,Rabi,20.0,10.0,2,Balangir | Kendrapara,2
+2019-2020,Rajasthan,Linseed,1005.0,Rabi,3.0,3.0,2,Ajmer | Rajsamand,2
+2019-2020,Rajasthan,Tobacco,1302.0,Whole Year,1.0,1.0,2,Bhilwara | Sirohi,2
+2019-2020,Telangana,Castor Seed,1002.0,Rabi,1.0,1.0,2,Adilabad | Sangareddy,2
+2019-2020,Telangana,Castor Seed,1002.0,Rabi,11.0,14.0,2,Medak | Siddipet,2
+2019-2020,Telangana,Tobacco,1302.0,Kharif,2.0,6.0,2,Hanumakonda | Wanaparthy,2
+2019-2020,Uttar Pradesh,Linseed,1005.0,Rabi,7.0,5.0,2,Budaun | Sant Kabir Nagar,2
+2019-2020,Uttar Pradesh,Linseed,1005.0,Rabi,8.0,6.0,2,Ghaziabad | Kanpur Dehat,2
+2019-2020,Uttar Pradesh,Linseed,1005.0,Rabi,18.0,12.0,2,Sultanpur | Unnao,2
+2019-2020,Uttar Pradesh,Linseed,1005.0,Rabi,23.0,16.0,2,Basti | Varanasi,2
+2019-2020,Uttar Pradesh,Tobacco,1302.0,Summer,2.0,4.0,2,Kasganj | Unnao,2
+2020-2021,Andhra Pradesh,Castor Seed,1002.0,Kharif,8.0,2.0,2,Krishna | Vizianagaram,2
+2020-2021,Assam,Castor Seed,1002.0,Kharif,4.0,2.0,2,Hailakandi | Sonitpur,2
+2020-2021,Assam,Castor Seed,1002.0,Kharif,4.0,3.0,2,Biswanath | Dhubri,2
+2020-2021,Assam,Mesta,1103.0,Kharif,1.0,4.0,2,Sribhumi | Tinsukia,2
+2020-2021,Assam,Tobacco,1302.0,Whole Year,1.0,1.0,2,Dhemaji | Jorhat,2
+2020-2021,Assam,Tobacco,1302.0,Whole Year,2.0,1.0,2,Biswanath | Majuli,2
+2020-2021,Assam,Tobacco,1302.0,Whole Year,3.0,2.0,2,Lakhimpur | West Karbi Anglong,2
+2020-2021,Chhattisgarh,Mesta,1103.0,Kharif,1.0,1.0,2,Bijapur | Bilaspur,2
+2020-2021,Chhattisgarh,Mesta,1103.0,Kharif,3.0,7.0,2,Kondagaon | Sukma,2
+2020-2021,Chhattisgarh,Niger Seed,1010.0,Kharif,1.0,0.0,2,Raipur | Sukma,2
+2020-2021,Karnataka,Cardamom,506.0,Whole Year,5.0,1.0,2,Chitradurga | Davanagere,2
+2020-2021,Karnataka,Linseed,1005.0,Rabi,9.0,4.0,2,Bengaluru South | Haveri,2
+2020-2021,Karnataka,Linseed,1005.0,Rabi,62.0,28.0,2,Chikkaballapura | Kalaburagi,2
+2020-2021,Karnataka,Mesta,1103.0,Whole Year,2.0,0.0,2,Ballari | Raichur,2
+2020-2021,Karnataka,Tobacco,1302.0,Whole Year,1.0,1.0,2,Bengaluru South | Shivamogga,2
+2020-2021,Karnataka,Tobacco,1302.0,Whole Year,3.0,2.0,2,Bengaluru Rural | Bidar,2
+2020-2021,Karnataka,Tobacco,1302.0,Whole Year,9.0,7.0,2,Chikkamagaluru | Vijayapura,2
+2020-2021,Madhya Pradesh,Linseed,1005.0,Rabi,1.0,0.0,2,Jhabua | Morena,2
+2020-2021,Madhya Pradesh,Linseed,1005.0,Rabi,2.0,2.0,2,Dewas | Harda,2
+2020-2021,Madhya Pradesh,Linseed,1005.0,Rabi,7.0,6.0,2,Guna | Narsimhapur,2
+2020-2021,Madhya Pradesh,Linseed,1005.0,Rabi,11.0,6.0,2,Ashoknagar | Dhar,2
+2020-2021,Rajasthan,Tobacco,1302.0,Whole Year,1.0,0.0,2,Bhilwara | Dholpur,2
+2020-2021,Tamil Nadu,Castor Seed,1002.0,Kharif,12.0,4.0,2,Coimbatore | Cuddalore,2
+2020-2021,Tamil Nadu,Tobacco,1302.0,Whole Year,1.0,2.0,2,Tiruchirappalli | Vellore,2
+2020-2021,Telangana,Castor Seed,1002.0,Kharif,2.0,1.0,2,Khammam | Suryapet,2
+2020-2021,Telangana,Castor Seed,1002.0,Kharif,33.0,12.0,2,Jangoan | Sangareddy,2
+2020-2021,Telangana,Castor Seed,1002.0,Rabi,2.0,1.0,2,Nirmal | Yadadri Bhuvanagiri,2
+2020-2021,Telangana,Castor Seed,1002.0,Rabi,6.0,2.0,2,Mancherial | Suryapet,2
+2020-2021,Uttar Pradesh,Linseed,1005.0,Rabi,1.0,1.0,2,Mahrajganj | Sambhal,2
+2020-2021,Uttar Pradesh,Linseed,1005.0,Rabi,23.0,13.0,2,Basti | Sultanpur,2
+2020-2021,Uttar Pradesh,Linseed,1005.0,Rabi,39.0,22.0,2,Ghaziabad | Sitapur,2
+2020-2021,Uttar Pradesh,Tobacco,1302.0,Rabi,2.0,9.0,2,Baghpat | Mainpuri,2
+2020-2021,Uttar Pradesh,Tobacco,1302.0,Rabi,9.0,40.0,2,Hardoi | Jaunpur,2
+2020-2021,Uttar Pradesh,Tobacco,1302.0,Summer,1.0,3.0,2,Budaun | Unnao,2
+2020-2021,West Bengal,Mesta,1103.0,Kharif,12.0,143.0,2,Birbhum | Darjeeling,2
+2021-2022,Assam,Castor Seed,1002.0,Kharif,2.0,1.0,2,Marigaon | Sonitpur,2
+2021-2022,Assam,Niger Seed,1010.0,Kharif,2.0,1.0,2,Dhemaji | Jorhat,2
+2021-2022,Bihar,Linseed,1005.0,Rabi,82.0,70.0,2,Buxar | Sitamarhi,2
+2021-2022,Bihar,Linseed,1005.0,Rabi,88.0,75.0,2,Katihar | Rohtas,2
+2021-2022,Bihar,Mesta,1103.0,Kharif,12.0,133.33,2,Khagaria | Madhubani,2
+2021-2022,Chhattisgarh,Linseed,1005.0,Rabi,1.0,0.0,2,Gariyaband | Mahasamund,2
+2021-2022,Chhattisgarh,Linseed,1005.0,Rabi,8.0,2.0,2,Bastar | Janjgir-Champa,2
+2021-2022,Chhattisgarh,Niger Seed,1010.0,Kharif,1.0,0.0,2,Raipur | Sukma,2
+2021-2022,Gujarat,Tobacco,1302.0,Rabi,1.0,2.0,2,Bhavnagar | Jamnagar,2
+2021-2022,Karnataka,Cardamom,506.0,Whole Year,1.0,0.19,2,Bengaluru Urban | Haveri,2
+2021-2022,Karnataka,Cardamom,506.0,Whole Year,7.0,1.0,2,Chitradurga | Dakshina Kannada,2
+2021-2022,Karnataka,Castor Seed,1002.0,Kharif,1.0,1.0,2,Bengaluru Urban | Dharwad,2
+2021-2022,Karnataka,Linseed,1005.0,Rabi,3.0,1.0,2,Belagavi | Bidar,2
+2021-2022,Karnataka,Linseed,1005.0,Rabi,6.0,2.0,2,Bengaluru Rural | Gadag,2
+2021-2022,Karnataka,Linseed,1005.0,Rabi,15.0,5.0,2,Bagalkote | Kalaburagi,2
+2021-2022,Karnataka,Niger Seed,1010.0,Kharif,2.0,0.49,2,Chitradurga | Davanagere,2
+2021-2022,Karnataka,Niger Seed,1010.0,Kharif,3.0,1.0,2,Chikkaballapura | Kolar,2
+2021-2022,Karnataka,Niger Seed,1010.0,Kharif,4.0,1.0,2,Chamarajanagar | Dharwad,2
+2021-2022,Karnataka,Niger Seed,1010.0,Kharif,12.0,3.0,2,Mandya | Vijayapura,2
+2021-2022,Karnataka,Niger Seed,1010.0,Kharif,22.0,5.0,2,Bagalkote | Bengaluru Urban,2
+2021-2022,Karnataka,Tobacco,1302.0,Whole Year,4.0,3.0,2,Bagalkote | Gadag,2
+2021-2022,Rajasthan,Tobacco,1302.0,Whole Year,1.0,0.0,2,Kota | Sawai Madhopur,2
+2021-2022,Tamil Nadu,Castor Seed,1002.0,Kharif,14.0,5.0,2,Tiruvannamalai | Vellore,2
+2021-2022,Tamil Nadu,Castor Seed,1002.0,Kharif,15.0,4.0,2,Tenkasi | Thoothukkudi,2
+2021-2022,Telangana,Castor Seed,1002.0,Rabi,6.0,9.0,2,Jayashankar Bhupalapally | Nirmal,2
+2021-2022,Telangana,Castor Seed,1002.0,Rabi,8.0,12.0,2,Vikarabad | Yadadri Bhuvanagiri,2
+2021-2022,Telangana,Castor Seed,1002.0,Rabi,16.0,25.0,2,Medak | Sangareddy,2
+2021-2022,Telangana,Castor Seed,1002.0,Rabi,48.0,74.0,2,Nalgonda | Siddipet,2
+2021-2022,Uttar Pradesh,Linseed,1005.0,Rabi,7.0,4.0,2,Budaun | Sant Kabir Nagar,2
+2021-2022,Uttar Pradesh,Linseed,1005.0,Rabi,25.0,16.0,2,Sultanpur | Unnao,2
+2021-2022,Uttar Pradesh,Tobacco,1302.0,Rabi,2.0,9.0,2,Baghpat | Mainpuri,2
+2021-2022,Uttar Pradesh,Tobacco,1302.0,Summer,1.0,2.0,2,Budaun | Unnao,2
+2021-2022,Uttar Pradesh,Tobacco,1302.0,Summer,3.0,6.0,2,Bara Banki | Fatehpur,2
+2021-2022,Uttar Pradesh,Tobacco,1302.0,Summer,5.0,10.0,2,Hardoi | Pilibhit,2
+2021-2022,West Bengal,Mesta,1103.0,Kharif,18.0,54.0,2,Bankura | Jhargram,2
+2022-2023,Andhra Pradesh,Castor Seed,1002.0,Rabi,4.0,1.0,2,Annamayya | Bapatla,2
+2022-2023,Andhra Pradesh,Castor Seed,1002.0,Rabi,22.0,7.0,2,Sri Potti Sriramulu Nellore | Sri Sathya Sai,2
+2022-2023,Andhra Pradesh,Niger Seed,1010.0,Rabi,4.0,2.0,2,Eluru | Prakasam,2
+2022-2023,Andhra Pradesh,Tobacco,1302.0,Kharif,1.0,2.0,2,Bapatla | Y.S.R. Kadapa,2
+2022-2023,Assam,Castor Seed,1002.0,Kharif,1.0,1.0,2,Cachar | Darrang,2
+2022-2023,Assam,Castor Seed,1002.0,Kharif,4.0,4.0,2,Kamrup | Nagaon,2
+2022-2023,Assam,Linseed,1005.0,Rabi,14.0,6.0,2,South Salmara Mancachar | West Karbi Anglong,2
+2022-2023,Assam,Niger Seed,1010.0,Kharif,2.0,1.0,2,Dibrugarh | Jorhat,2
+2022-2023,Assam,Tobacco,1302.0,Whole Year,3.0,1.0,2,Baksa | Lakhimpur,2
+2022-2023,Bihar,Linseed,1005.0,Rabi,3.0,3.0,2,Lakhisarai | Rohtas,2
+2022-2023,Bihar,Linseed,1005.0,Rabi,13.0,11.0,2,Khagaria | Purnia,2
+2022-2023,Bihar,Linseed,1005.0,Rabi,29.0,25.0,2,Darbhanga | Siwan,2
+2022-2023,Bihar,Linseed,1005.0,Rabi,82.0,70.0,2,Madhubani | Sitamarhi,2
+2022-2023,Chhattisgarh,Mesta,1103.0,Kharif,4.0,2.0,2,Dakshin Bastar Dantewada | Rajnandgaon,2
+2022-2023,Chhattisgarh,Mesta,1103.0,Kharif,4.0,8.0,2,Balrampur-Ramanujganj | Bastar,2
+2022-2023,Chhattisgarh,Tobacco,1302.0,Whole Year,1.0,1.0,2,Balodabazar-Bhatapara | Balrampur-Ramanujganj,2
+2022-2023,Karnataka,Cardamom,506.0,Whole Year,1.0,0.21,2,Belagavi | Udupi,2
+2022-2023,Karnataka,Castor Seed,1002.0,Kharif,2.0,1.0,2,Haveri | Kalaburagi,2
+2022-2023,Karnataka,Castor Seed,1002.0,Kharif,6.0,4.0,2,Vijayapura | Yadgir,2
+2022-2023,Karnataka,Linseed,1005.0,Rabi,5.0,2.0,2,Bagalkote | Bengaluru Urban,2
+2022-2023,Karnataka,Mesta,1103.0,Whole Year,1.0,0.0,2,Ballari | Hassan,2
+2022-2023,Karnataka,Niger Seed,1010.0,Kharif,1.0,0.23,2,Dharwad | Kolar,2
+2022-2023,Karnataka,Tobacco,1302.0,Whole Year,1.0,1.0,2,Bengaluru South | Udupi,2
+2022-2023,Karnataka,Tobacco,1302.0,Whole Year,3.0,2.0,2,Bengaluru Urban | Tumakuru,2
+2022-2023,Karnataka,Tobacco,1302.0,Whole Year,4.0,3.0,2,Ballari | Chikkaballapura,2
+2022-2023,Madhya Pradesh,Linseed,1005.0,Rabi,2.0,0.0,2,Khandwa (East Nimar) | Morena,2
+2022-2023,Tamil Nadu,Castor Seed,1002.0,Kharif,13.0,4.0,2,Thoothukkudi | Tiruvannamalai,2
+2022-2023,Telangana,Castor Seed,1002.0,Kharif,2.0,1.0,2,Mahabubabad | Peddapalli,2
+2022-2023,Telangana,Castor Seed,1002.0,Kharif,3.0,2.0,2,Hanumakonda | Nalgonda,2
+2022-2023,Telangana,Castor Seed,1002.0,Kharif,4.0,3.0,2,Jangoan | Rajanna Sircilla,2
+2022-2023,Telangana,Tobacco,1302.0,Kharif,4.0,9.0,2,Kamareddy | Nizamabad,2
+2022-2023,Uttar Pradesh,Linseed,1005.0,Rabi,4.0,3.0,2,Bara Banki | Pilibhit,2
+2022-2023,Uttar Pradesh,Linseed,1005.0,Rabi,6.0,4.0,2,Kushinagar | Lucknow,2
+2022-2023,Uttar Pradesh,Tobacco,1302.0,Rabi,9.0,37.0,2,Mainpuri | Sultanpur,2
+2022-2023,Uttar Pradesh,Tobacco,1302.0,Summer,5.0,11.0,2,Kanpur Nagar | Varanasi,2

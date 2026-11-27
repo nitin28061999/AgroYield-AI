@@ -1,0 +1,374 @@
+state_name,district_name,crop_name,crop_code,season,area,production,occurrences,production_missing,simple_area_value,simple_production_value
+Andhra Pradesh,Chittoor,Mesta,1103.0,Kharif,2.0,18.0,3,False,False,False
+Andhra Pradesh,Kurnool,Linseed,1005.0,Rabi,6.0,1.0,3,False,False,True
+Andhra Pradesh,Visakhapatnam,Castor Seed,1002.0,Kharif,2.0,1.0,5,False,False,True
+Andhra Pradesh,Vizianagaram,Castor Seed,1002.0,Kharif,1.0,1.0,5,False,True,True
+Andhra Pradesh,Vizianagaram,Castor Seed,1002.0,Kharif,2.0,1.0,3,False,False,True
+Assam,Baksa,Tobacco,1302.0,Whole Year,5.0,2.0,3,False,True,False
+Assam,Baksa,Tobacco,1302.0,Whole Year,7.0,3.0,3,False,False,False
+Assam,Barpeta,Castor Seed,1002.0,Kharif,10.0,6.0,4,False,True,False
+Assam,Barpeta,Castor Seed,1002.0,Kharif,11.0,6.0,3,False,False,False
+Assam,Barpeta,Tobacco,1302.0,Whole Year,2.0,2.0,3,False,False,False
+Assam,Bongaigaon,Castor Seed,1002.0,Kharif,7.0,4.0,4,False,False,False
+Assam,Cachar,Castor Seed,1002.0,Kharif,1.0,1.0,8,False,True,True
+Assam,Cachar,Linseed,1005.0,Rabi,38.0,16.0,5,False,False,False
+Assam,Cachar,Mesta,1103.0,Kharif,3.0,14.0,5,False,False,False
+Assam,Cachar,Mesta,1103.0,Kharif,5.0,23.0,3,False,True,False
+Assam,Cachar,Mesta,1103.0,Kharif,6.0,27.0,4,False,False,False
+Assam,Cachar,Tobacco,1302.0,Whole Year,6.0,4.0,3,False,False,False
+Assam,Cachar,Tobacco,1302.0,Whole Year,7.0,5.0,5,False,False,True
+Assam,Cachar,Tobacco,1302.0,Whole Year,9.0,6.0,6,False,False,False
+Assam,Cachar,Tobacco,1302.0,Whole Year,10.0,7.0,3,False,True,False
+Assam,Darrang,Castor Seed,1002.0,Kharif,1.0,1.0,9,False,True,True
+Assam,Darrang,Castor Seed,1002.0,Kharif,4.0,2.0,3,False,False,False
+Assam,Dhemaji,Linseed,1005.0,Rabi,9.0,7.0,3,False,False,False
+Assam,Dhemaji,Linseed,1005.0,Rabi,20.0,10.0,4,False,True,True
+Assam,Dhemaji,Mesta,1103.0,Kharif,2.0,12.0,3,False,False,False
+Assam,Dhemaji,Mesta,1103.0,Kharif,7.0,22.0,4,False,False,False
+Assam,Dhemaji,Niger Seed,1010.0,Kharif,2.0,1.0,7,False,False,True
+Assam,Dhemaji,Niger Seed,1010.0,Kharif,50.0,26.0,5,False,True,False
+Assam,Dhemaji,Tobacco,1302.0,Whole Year,1.0,1.0,3,False,True,True
+Assam,Dhemaji,Tobacco,1302.0,Whole Year,7.0,4.0,6,False,False,False
+Assam,Dhemaji,Tobacco,1302.0,Whole Year,13.0,8.0,3,False,False,False
+Assam,Dhubri,Castor Seed,1002.0,Kharif,3.0,3.0,4,False,False,False
+Assam,Dhubri,Castor Seed,1002.0,Kharif,15.0,9.0,3,False,False,False
+Assam,Dhubri,Tobacco,1302.0,Whole Year,6.0,5.0,4,False,False,True
+Assam,Dibrugarh,Castor Seed,1002.0,Kharif,3.0,1.0,7,False,False,True
+Assam,Dibrugarh,Linseed,1005.0,Rabi,2.0,1.0,6,False,False,True
+Assam,Dibrugarh,Linseed,1005.0,Rabi,8.0,3.0,4,False,False,False
+Assam,Dibrugarh,Mesta,1103.0,Kharif,2.0,10.0,3,False,False,True
+Assam,Dibrugarh,Mesta,1103.0,Kharif,3.0,15.0,3,False,False,False
+Assam,Dibrugarh,Mesta,1103.0,Kharif,4.0,20.0,3,False,False,True
+Assam,Dibrugarh,Mesta,1103.0,Kharif,8.0,42.0,3,False,False,False
+Assam,Dibrugarh,Niger Seed,1010.0,Kharif,2.0,1.0,3,False,False,True
+Assam,Dibrugarh,Tobacco,1302.0,Whole Year,4.0,2.0,5,False,False,False
+Assam,Dima Hasao,Castor Seed,1002.0,Kharif,86.0,39.0,3,False,False,False
+Assam,Dima Hasao,Linseed,1005.0,Rabi,4.0,2.0,12,False,False,False
+Assam,Dima Hasao,Mesta,1103.0,Kharif,2.0,9.0,13,False,False,False
+Assam,Dima Hasao,Niger Seed,1010.0,Kharif,1.0,1.0,8,False,True,True
+Assam,Dima Hasao,Niger Seed,1010.0,Kharif,2.0,1.0,3,False,False,True
+Assam,Dima Hasao,Tobacco,1302.0,Whole Year,12.0,5.0,4,False,False,True
+Assam,Dima Hasao,Tobacco,1302.0,Whole Year,27.0,21.0,3,False,False,False
+Assam,Dima Hasao,Tobacco,1302.0,Whole Year,29.0,23.0,8,False,False,False
+Assam,Goalpara,Castor Seed,1002.0,Kharif,21.0,10.0,4,False,False,True
+Assam,Goalpara,Castor Seed,1002.0,Kharif,25.0,9.0,3,False,False,False
+Assam,Goalpara,Niger Seed,1010.0,Kharif,950.0,475.0,4,False,False,False
+Assam,Goalpara,Tobacco,1302.0,Whole Year,5.0,2.0,3,False,True,False
+Assam,Goalpara,Tobacco,1302.0,Whole Year,60.0,28.0,3,False,False,False
+Assam,Golaghat,Mesta,1103.0,Kharif,2.0,10.0,4,False,False,True
+Assam,Golaghat,Mesta,1103.0,Kharif,5.0,18.0,3,False,True,False
+Assam,Golaghat,Niger Seed,1010.0,Kharif,11.0,5.0,4,False,False,True
+Assam,Golaghat,Tobacco,1302.0,Whole Year,16.0,11.0,3,False,False,False
+Assam,Hailakandi,Castor Seed,1002.0,Kharif,5.0,2.0,10,False,True,False
+Assam,Hailakandi,Linseed,1005.0,Rabi,4.0,2.0,4,False,False,False
+Assam,Hailakandi,Linseed,1005.0,Rabi,5.0,2.0,3,False,True,False
+Assam,Hailakandi,Linseed,1005.0,Rabi,5.0,3.0,6,False,True,False
+Assam,Hailakandi,Linseed,1005.0,Rabi,10.0,5.0,5,False,True,True
+Assam,Hailakandi,Niger Seed,1010.0,Kharif,1.0,1.0,5,False,True,True
+Assam,Hailakandi,Tobacco,1302.0,Whole Year,1.0,1.0,14,False,True,True
+Assam,Hojai,Linseed,1005.0,Rabi,35.0,18.0,3,False,False,False
+Assam,Jorhat,Castor Seed,1002.0,Kharif,15.0,6.0,3,False,False,False
+Assam,Jorhat,Linseed,1005.0,Rabi,1.0,1.0,4,False,True,True
+Assam,Jorhat,Linseed,1005.0,Rabi,3.0,2.0,3,False,False,False
+Assam,Jorhat,Mesta,1103.0,Kharif,6.0,33.0,3,False,False,False
+Assam,Jorhat,Niger Seed,1010.0,Kharif,2.0,1.0,3,False,False,True
+Assam,Jorhat,Tobacco,1302.0,Whole Year,1.0,1.0,6,False,True,True
+Assam,Jorhat,Tobacco,1302.0,Whole Year,8.0,5.0,3,False,False,True
+Assam,Kamrup,Castor Seed,1002.0,Kharif,7.0,3.0,3,False,False,False
+Assam,Kamrup,Tobacco,1302.0,Whole Year,1.0,1.0,5,False,True,True
+Assam,Kamrup Metro,Castor Seed,1002.0,Kharif,2.0,1.0,3,False,False,True
+Assam,Kamrup Metro,Castor Seed,1002.0,Kharif,3.0,1.0,7,False,False,True
+Assam,Kamrup Metro,Mesta,1103.0,Kharif,10.0,53.0,3,False,True,False
+Assam,Kamrup Metro,Tobacco,1302.0,Whole Year,1.0,1.0,4,False,True,True
+Assam,Kamrup Metro,Tobacco,1302.0,Whole Year,2.0,1.0,3,False,False,True
+Assam,Kokrajhar,Tobacco,1302.0,Whole Year,15.0,7.0,3,False,False,False
+Assam,Lakhimpur,Castor Seed,1002.0,Kharif,219.0,99.0,4,False,False,False
+Assam,Lakhimpur,Niger Seed,1010.0,Kharif,7.0,4.0,6,False,False,False
+Assam,Lakhimpur,Tobacco,1302.0,Whole Year,3.0,2.0,3,False,False,False
+Assam,Lakhimpur,Tobacco,1302.0,Whole Year,5.0,3.0,5,False,True,False
+Assam,Majuli,Niger Seed,1010.0,Kharif,5.0,3.0,3,False,True,False
+Assam,Majuli,Tobacco,1302.0,Whole Year,2.0,1.0,3,False,False,True
+Assam,Marigaon,Castor Seed,1002.0,Kharif,5.0,2.0,4,False,True,False
+Assam,Marigaon,Castor Seed,1002.0,Kharif,20.0,4.0,8,False,True,False
+Assam,Marigaon,Linseed,1005.0,Rabi,200.0,94.0,3,False,True,False
+Assam,Marigaon,Niger Seed,1010.0,Kharif,120.0,60.0,3,False,False,False
+Assam,Marigaon,Tobacco,1302.0,Whole Year,2.0,1.0,3,False,False,True
+Assam,Nalbari,Castor Seed,1002.0,Kharif,1.0,1.0,9,False,True,True
+Assam,Nalbari,Castor Seed,1002.0,Kharif,50.0,25.0,4,False,True,False
+Assam,Nalbari,Mesta,1103.0,Kharif,145.0,564.0,3,False,False,False
+Assam,Nalbari,Tobacco,1302.0,Whole Year,1.0,1.0,9,False,True,True
+Assam,Sivasagar,Castor Seed,1002.0,Kharif,5.0,3.0,5,False,True,False
+Assam,Sivasagar,Linseed,1005.0,Rabi,1.0,1.0,6,False,True,True
+Assam,Sivasagar,Linseed,1005.0,Rabi,2.0,2.0,5,False,False,False
+Assam,Sivasagar,Tobacco,1302.0,Whole Year,12.0,6.0,3,False,False,False
+Assam,Sonitpur,Castor Seed,1002.0,Kharif,2.0,1.0,6,False,False,True
+Assam,Sonitpur,Castor Seed,1002.0,Kharif,47.0,20.0,4,False,False,True
+Assam,Sonitpur,Tobacco,1302.0,Whole Year,6.0,4.0,3,False,False,False
+Assam,Sribhumi,Castor Seed,1002.0,Kharif,1.0,1.0,8,False,True,True
+Assam,Sribhumi,Linseed,1005.0,Rabi,27.0,15.0,3,False,False,False
+Assam,Sribhumi,Linseed,1005.0,Rabi,30.0,12.0,3,False,False,False
+Assam,Sribhumi,Mesta,1103.0,Kharif,1.0,4.0,3,False,True,False
+Assam,Sribhumi,Mesta,1103.0,Kharif,1.0,5.0,4,False,True,True
+Assam,Sribhumi,Niger Seed,1010.0,Kharif,1.0,1.0,3,False,True,True
+Assam,Sribhumi,Tobacco,1302.0,Whole Year,4.0,2.0,5,False,False,False
+Assam,Sribhumi,Tobacco,1302.0,Whole Year,5.0,3.0,4,False,True,False
+Assam,Sribhumi,Tobacco,1302.0,Whole Year,7.0,4.0,5,False,False,False
+Assam,Tinsukia,Castor Seed,1002.0,Kharif,5.0,2.0,5,False,True,False
+Assam,Tinsukia,Castor Seed,1002.0,Kharif,6.0,3.0,3,False,False,False
+Assam,Tinsukia,Castor Seed,1002.0,Kharif,7.0,3.0,4,False,False,False
+Assam,Tinsukia,Linseed,1005.0,Rabi,2.0,1.0,4,False,False,True
+Assam,Tinsukia,Mesta,1103.0,Kharif,1.0,5.0,12,False,True,True
+Assam,Tinsukia,Mesta,1103.0,Kharif,2.0,10.0,4,False,False,True
+Assam,Tinsukia,Niger Seed,1010.0,Kharif,3.0,1.0,5,False,False,True
+Assam,Tinsukia,Niger Seed,1010.0,Kharif,19.0,10.0,4,False,False,True
+Assam,Tinsukia,Niger Seed,1010.0,Kharif,20.0,10.0,3,False,True,True
+Assam,Tinsukia,Tobacco,1302.0,Whole Year,1.0,1.0,5,False,True,True
+Assam,Tinsukia,Tobacco,1302.0,Whole Year,2.0,1.0,8,False,False,True
+Assam,Udalguri,Tobacco,1302.0,Whole Year,2.0,1.0,3,False,False,True
+Bihar,Begusarai,Linseed,1005.0,Rabi,2.0,2.0,4,False,False,False
+Bihar,Begusarai,Tobacco,1302.0,Whole Year,6.0,11.0,4,False,False,False
+Bihar,Bhagalpur,Castor Seed,1002.0,Kharif,7.0,7.0,14,False,False,False
+Bihar,Bhagalpur,Tobacco,1302.0,Whole Year,8.0,14.0,3,False,False,False
+Bihar,Khagaria,Linseed,1005.0,Rabi,29.0,25.0,3,False,False,False
+Bihar,Khagaria,Tobacco,1302.0,Whole Year,1.0,2.0,5,False,True,False
+Bihar,Madhepura,Castor Seed,1002.0,Kharif,4.0,4.0,4,False,False,False
+Bihar,Madhubani,Castor Seed,1002.0,Kharif,1.0,1.0,6,False,True,True
+Bihar,Nalanda,Castor Seed,1002.0,Kharif,1.0,1.0,3,False,True,True
+Bihar,Purbi Champaran,Castor Seed,1002.0,Kharif,7.0,7.0,4,False,False,False
+Bihar,Siwan,Linseed,1005.0,Rabi,29.0,25.0,6,False,False,False
+Bihar,Siwan,Tobacco,1302.0,Whole Year,92.0,162.0,5,False,False,False
+Chhattisgarh,Balrampur-Ramanujganj,Tobacco,1302.0,Whole Year,1.0,1.0,3,False,True,True
+Chhattisgarh,Bastar,Castor Seed,1002.0,Kharif,3.0,1.0,5,False,False,True
+Chhattisgarh,Bastar,Tobacco,1302.0,Whole Year,3.0,2.0,4,False,False,False
+Chhattisgarh,Bastar,Tobacco,1302.0,Whole Year,7.0,4.0,3,False,False,False
+Chhattisgarh,Dakshin Bastar Dantewada,Linseed,1005.0,Rabi,1.0,,4,True,True,False
+Chhattisgarh,Jashpur,Tobacco,1302.0,Whole Year,1.0,1.0,3,False,True,True
+Chhattisgarh,Kondagaon,Mesta,1103.0,Kharif,2.0,5.0,3,False,False,True
+Chhattisgarh,Mahasamund,Niger Seed,1010.0,Kharif,1.0,,5,True,True,False
+Chhattisgarh,Rajnandgaon,Castor Seed,1002.0,Kharif,1.0,,4,True,True,False
+Chhattisgarh,Rajnandgaon,Niger Seed,1010.0,Kharif,1.0,,4,True,True,False
+Chhattisgarh,Rajnandgaon,Niger Seed,1010.0,Kharif,4.0,1.0,3,False,False,True
+Chhattisgarh,Sukma,Niger Seed,1010.0,Kharif,1.0,0.0,3,False,True,False
+Gujarat,Ahmedabad,Tobacco,1302.0,Whole Year,1000.0,1800.0,3,False,True,False
+Gujarat,Bharuch,Tobacco,1302.0,Whole Year,100.0,100.0,4,False,True,True
+Gujarat,Dahod,Castor Seed,1002.0,Kharif,100.0,200.0,4,False,True,True
+Gujarat,Sabar Kantha,Tobacco,1302.0,Whole Year,100.0,100.0,3,False,True,True
+Gujarat,Surat,Castor Seed,1002.0,Kharif,400.0,700.0,3,False,False,False
+Haryana,Hisar,Castor Seed,1002.0,Kharif,100.0,100.0,3,False,True,True
+Jammu And Kashmir,Udhampur,Tobacco,1302.0,Whole Year,4.0,1.0,3,False,False,True
+Karnataka,Bengaluru Rural,Cardamom,506.0,Whole Year,1.0,,3,True,True,False
+Karnataka,Bengaluru South,Tobacco,1302.0,Whole Year,1.0,1.0,3,False,True,True
+Karnataka,Chamarajanagar,Cardamom,506.0,Whole Year,1.0,,4,True,True,False
+Karnataka,Chamarajanagar,Cardamom,506.0,Whole Year,15.0,1.0,3,False,False,True
+Karnataka,Dakshina Kannada,Tobacco,1302.0,Whole Year,1.0,1.0,3,False,True,True
+Karnataka,Davanagere,Cardamom,506.0,Whole Year,1.0,,3,True,True,False
+Karnataka,Dharwad,Castor Seed,1002.0,Kharif,1.0,1.0,3,False,True,True
+Karnataka,Gadag,Tobacco,1302.0,Whole Year,5.0,4.0,3,False,True,False
+Karnataka,Shivamogga,Linseed,1005.0,Rabi,5.0,2.0,3,False,True,False
+Karnataka,Shivamogga,Tobacco,1302.0,Whole Year,1.0,1.0,4,False,True,True
+Karnataka,Uttara Kannada,Linseed,1005.0,Rabi,2.0,1.0,3,False,False,True
+Karnataka,Uttara Kannada,Mesta,1103.0,Kharif,1.0,2.0,3,False,True,False
+Kerala,Kannur,Cardamom,506.0,Whole Year,128.0,,14,True,False,False
+Kerala,Kasaragod,Cardamom,506.0,Whole Year,368.0,,5,True,False,False
+Kerala,Kasaragod,Cardamom,506.0,Whole Year,515.0,,4,True,False,False
+Kerala,Kasaragod,Tobacco,1302.0,Whole Year,43.0,69.0,3,False,False,False
+Kerala,Kollam,Cardamom,506.0,Whole Year,7.0,,3,True,False,False
+Kerala,Kottayam,Cardamom,506.0,Whole Year,85.0,5.0,4,False,False,True
+Kerala,Kozhikode,Cardamom,506.0,Whole Year,220.0,1.0,6,False,False,True
+Kerala,Kozhikode,Cardamom,506.0,Whole Year,220.0,5.0,3,False,False,True
+Kerala,Kozhikode,Cardamom,506.0,Whole Year,220.0,,5,True,False,False
+Kerala,Malappuram,Cardamom,506.0,Whole Year,65.0,1.0,4,False,False,True
+Kerala,Malappuram,Cardamom,506.0,Whole Year,70.0,1.0,6,False,False,True
+Kerala,Malappuram,Cardamom,506.0,Whole Year,70.0,2.0,5,False,False,False
+Kerala,Malappuram,Cardamom,506.0,Whole Year,70.0,3.0,5,False,False,False
+Kerala,Malappuram,Cardamom,506.0,Whole Year,70.0,,4,True,False,False
+Kerala,Palakkad,Cardamom,506.0,Whole Year,2755.0,290.0,3,False,False,False
+Kerala,Pathanamthitta,Cardamom,506.0,Whole Year,665.0,8.0,4,False,False,False
+Madhya Pradesh,Barwani,Linseed,1005.0,Rabi,1.0,,3,True,True,False
+Madhya Pradesh,Dhar,Tobacco,1302.0,Whole Year,1.0,,3,True,True,False
+Madhya Pradesh,Dhar,Tobacco,1302.0,Whole Year,2.0,1.0,3,False,False,True
+Madhya Pradesh,Harda,Castor Seed,1002.0,Kharif,1.0,,3,True,True,False
+Madhya Pradesh,Harda,Niger Seed,1010.0,Kharif,2.0,1.0,4,False,False,True
+Madhya Pradesh,Mandsaur,Castor Seed,1002.0,Kharif,1.0,,3,True,True,False
+Madhya Pradesh,Ratlam,Castor Seed,1002.0,Kharif,1.0,,4,True,True,False
+Madhya Pradesh,Ratlam,Niger Seed,1010.0,Kharif,1.0,,3,True,True,False
+Madhya Pradesh,Sagar,Castor Seed,1002.0,Kharif,1.0,,3,True,True,False
+Madhya Pradesh,Seoni,Castor Seed,1002.0,Kharif,5.0,2.0,3,False,True,False
+Madhya Pradesh,Shajapur,Tobacco,1302.0,Whole Year,1.0,,3,True,True,False
+Madhya Pradesh,Sidhi,Tobacco,1302.0,Whole Year,1.0,1.0,3,False,True,True
+Maharashtra,Ahilyanagar,Castor Seed,1002.0,Kharif,100.0,,3,True,True,False
+Maharashtra,Ahilyanagar,Castor Seed,1002.0,Kharif,400.0,100.0,4,False,False,True
+Maharashtra,Beed,Niger Seed,1010.0,Kharif,800.0,100.0,3,False,False,True
+Maharashtra,Beed,Niger Seed,1010.0,Kharif,2000.0,400.0,3,False,False,False
+Maharashtra,Buldhana,Castor Seed,1002.0,Kharif,100.0,,4,True,True,False
+Maharashtra,Chhatrapati Sambhajinagar,Niger Seed,1010.0,Kharif,100.0,,4,True,True,False
+Maharashtra,Chhatrapati Sambhajinagar,Niger Seed,1010.0,Kharif,400.0,100.0,7,False,False,True
+Maharashtra,Dharashiv,Castor Seed,1002.0,Kharif,700.0,100.0,3,False,False,True
+Maharashtra,Dhule,Niger Seed,1010.0,Kharif,100.0,100.0,6,False,True,True
+Maharashtra,Gondia,Castor Seed,1002.0,Kharif,200.0,100.0,3,False,True,True
+Maharashtra,Hingoli,Niger Seed,1010.0,Kharif,300.0,100.0,5,False,False,True
+Maharashtra,Hingoli,Niger Seed,1010.0,Kharif,500.0,100.0,4,False,True,True
+Maharashtra,Jalgaon,Castor Seed,1002.0,Kharif,300.0,100.0,3,False,False,True
+Maharashtra,Jalna,Castor Seed,1002.0,Kharif,300.0,100.0,3,False,False,True
+Maharashtra,Jalna,Niger Seed,1010.0,Kharif,1100.0,200.0,3,False,False,True
+Maharashtra,Kolhapur,Castor Seed,1002.0,Kharif,300.0,100.0,6,False,False,True
+Maharashtra,Latur,Linseed,1005.0,Rabi,400.0,100.0,3,False,False,True
+Maharashtra,Nagpur,Castor Seed,1002.0,Kharif,200.0,100.0,5,False,True,True
+Maharashtra,Nagpur,Castor Seed,1002.0,Kharif,300.0,100.0,3,False,False,True
+Maharashtra,Nanded,Castor Seed,1002.0,Kharif,1000.0,200.0,4,False,True,True
+Maharashtra,Nanded,Linseed,1005.0,Rabi,400.0,100.0,5,False,False,True
+Maharashtra,Nandurbar,Castor Seed,1002.0,Kharif,200.0,100.0,3,False,True,True
+Maharashtra,Nandurbar,Niger Seed,1010.0,Kharif,100.0,100.0,4,False,True,True
+Maharashtra,Parbhani,Castor Seed,1002.0,Kharif,600.0,100.0,4,False,False,True
+Maharashtra,Parbhani,Linseed,1005.0,Rabi,1400.0,300.0,4,False,False,False
+Maharashtra,Pune,Castor Seed,1002.0,Kharif,100.0,10.0,4,False,True,True
+Maharashtra,Pune,Castor Seed,1002.0,Kharif,100.0,,6,True,True,False
+Maharashtra,Pune,Linseed,1005.0,Rabi,100.0,100.0,3,False,True,True
+Maharashtra,Pune,Linseed,1005.0,Rabi,200.0,100.0,6,False,True,True
+Maharashtra,Raigad,Niger Seed,1010.0,Kharif,300.0,100.0,10,False,False,True
+Maharashtra,Raigad,Niger Seed,1010.0,Kharif,400.0,100.0,4,False,False,True
+Maharashtra,Sangli,Castor Seed,1002.0,Kharif,200.0,100.0,3,False,True,True
+Maharashtra,Sangli,Niger Seed,1010.0,Kharif,100.0,,3,True,True,False
+Maharashtra,Sangli,Niger Seed,1010.0,Kharif,200.0,100.0,5,False,True,True
+Maharashtra,Satara,Castor Seed,1002.0,Kharif,300.0,100.0,3,False,False,True
+Maharashtra,Sindhudurg,Niger Seed,1010.0,Kharif,100.0,,4,True,True,False
+Maharashtra,Sindhudurg,Niger Seed,1010.0,Kharif,200.0,100.0,7,False,True,True
+Maharashtra,Solapur,Castor Seed,1002.0,Kharif,200.0,,3,True,True,False
+Maharashtra,Solapur,Castor Seed,1002.0,Kharif,300.0,100.0,4,False,False,True
+Maharashtra,Solapur,Linseed,1005.0,Rabi,400.0,100.0,4,False,False,True
+Maharashtra,Solapur,Niger Seed,1010.0,Kharif,100.0,100.0,5,False,True,True
+Maharashtra,Solapur,Niger Seed,1010.0,Kharif,100.0,,4,True,True,False
+Maharashtra,Thane,Niger Seed,1010.0,Kharif,2000.0,700.0,3,False,False,False
+Maharashtra,Wardha,Castor Seed,1002.0,Kharif,100.0,,4,True,True,False
+Maharashtra,Wardha,Castor Seed,1002.0,Kharif,200.0,100.0,3,False,True,True
+Maharashtra,Wardha,Linseed,1005.0,Rabi,100.0,100.0,4,False,True,True
+Maharashtra,Washim,Castor Seed,1002.0,Kharif,100.0,10.0,3,False,True,True
+Maharashtra,Washim,Castor Seed,1002.0,Kharif,100.0,,4,True,True,False
+Meghalaya,East Garo Hills,Castor Seed,1002.0,Kharif,8.0,4.0,7,False,False,False
+Meghalaya,East Garo Hills,Castor Seed,1002.0,Rabi,16.0,16.0,6,False,False,False
+Meghalaya,East Garo Hills,Tobacco,1302.0,Rabi,100.0,97.0,5,False,True,False
+Meghalaya,East Jaintia Hills,Tobacco,1302.0,Whole Year,8.0,2.0,4,False,False,False
+Meghalaya,East Jaintia Hills,Tobacco,1302.0,Whole Year,9.0,3.0,3,False,False,False
+Meghalaya,North Garo Hills,Castor Seed,1002.0,Rabi,12.0,10.0,7,False,False,True
+Meghalaya,Ri Bhoi,Castor Seed,1002.0,Rabi,6.0,10.0,7,False,False,True
+Meghalaya,South Garo Hills,Mesta,1103.0,Kharif,887.0,5326.0,3,False,False,False
+Meghalaya,South Garo Hills,Tobacco,1302.0,Rabi,128.0,120.0,4,False,False,False
+Meghalaya,South West Garo Hills,Castor Seed,1002.0,Rabi,21.0,17.0,7,False,False,False
+Meghalaya,South West Garo Hills,Linseed,1005.0,Rabi,13.0,8.0,7,False,False,False
+Meghalaya,South West Garo Hills,Mesta,1103.0,Kharif,1307.0,7911.0,4,False,False,False
+Meghalaya,South West Garo Hills,Tobacco,1302.0,Rabi,157.0,158.0,3,False,False,False
+Meghalaya,West Garo Hills,Castor Seed,1002.0,Rabi,17.0,12.0,7,False,False,False
+Meghalaya,West Garo Hills,Linseed,1005.0,Rabi,82.0,39.0,3,False,False,False
+Meghalaya,West Garo Hills,Linseed,1005.0,Rabi,82.0,49.0,3,False,False,False
+Meghalaya,West Garo Hills,Mesta,1103.0,Kharif,2219.0,12755.0,4,False,False,False
+Meghalaya,West Khasi Hills,Tobacco,1302.0,Rabi,43.0,65.0,5,False,False,False
+Nagaland,Dimapur,Castor Seed,1002.0,Kharif,60.0,40.0,3,False,False,False
+Nagaland,Dimapur,Castor Seed,1002.0,Kharif,90.0,70.0,4,False,False,False
+Nagaland,Dimapur,Linseed,1005.0,Rabi,1130.0,930.0,5,False,False,False
+Nagaland,Dimapur,Mesta,1103.0,Kharif,270.0,300.0,4,False,False,False
+Nagaland,Dimapur,Mesta,1103.0,Kharif,270.0,310.0,3,False,False,False
+Nagaland,Kiphire,Linseed,1005.0,Rabi,200.0,160.0,6,False,True,False
+Nagaland,Kiphire,Mesta,1103.0,Kharif,60.0,70.0,4,False,False,False
+Nagaland,Kohima,Castor Seed,1002.0,Kharif,20.0,10.0,11,False,True,True
+Nagaland,Kohima,Linseed,1005.0,Rabi,470.0,370.0,3,False,False,False
+Nagaland,Kohima,Linseed,1005.0,Rabi,470.0,380.0,7,False,False,False
+Nagaland,Kohima,Mesta,1103.0,Kharif,110.0,120.0,6,False,False,False
+Nagaland,Longleng,Linseed,1005.0,Rabi,230.0,190.0,6,False,False,False
+Nagaland,Longleng,Linseed,1005.0,Rabi,250.0,200.0,3,False,False,True
+Nagaland,Longleng,Mesta,1103.0,Kharif,80.0,80.0,7,False,False,False
+Nagaland,Mokokchung,Castor Seed,1002.0,Kharif,70.0,60.0,3,False,False,False
+Nagaland,Mokokchung,Castor Seed,1002.0,Kharif,80.0,60.0,4,False,False,False
+Nagaland,Mokokchung,Linseed,1005.0,Rabi,760.0,610.0,4,False,False,False
+Nagaland,Mokokchung,Linseed,1005.0,Rabi,770.0,630.0,3,False,False,False
+Nagaland,Mon,Castor Seed,1002.0,Kharif,20.0,10.0,11,False,True,True
+Nagaland,Mon,Linseed,1005.0,Rabi,550.0,450.0,6,False,False,False
+Nagaland,Mon,Linseed,1005.0,Rabi,560.0,450.0,4,False,False,False
+Nagaland,Mon,Mesta,1103.0,Kharif,190.0,210.0,4,False,False,False
+Nagaland,Mon,Mesta,1103.0,Kharif,200.0,220.0,3,False,True,False
+Nagaland,Peren,Castor Seed,1002.0,Kharif,40.0,30.0,11,False,False,False
+Nagaland,Peren,Linseed,1005.0,Rabi,560.0,460.0,4,False,False,False
+Nagaland,Peren,Linseed,1005.0,Rabi,570.0,470.0,4,False,False,False
+Nagaland,Peren,Mesta,1103.0,Kharif,220.0,250.0,6,False,False,False
+Nagaland,Phek,Castor Seed,1002.0,Kharif,20.0,10.0,11,False,True,True
+Nagaland,Phek,Linseed,1005.0,Rabi,660.0,520.0,3,False,False,False
+Nagaland,Phek,Linseed,1005.0,Rabi,660.0,530.0,7,False,False,False
+Nagaland,Phek,Mesta,1103.0,Kharif,220.0,250.0,4,False,False,False
+Nagaland,Tuensang,Castor Seed,1002.0,Kharif,20.0,10.0,11,False,True,True
+Nagaland,Tuensang,Linseed,1005.0,Rabi,360.0,290.0,10,False,False,False
+Nagaland,Tuensang,Mesta,1103.0,Kharif,160.0,180.0,7,False,False,False
+Nagaland,Wokha,Castor Seed,1002.0,Kharif,30.0,20.0,8,False,False,True
+Nagaland,Wokha,Castor Seed,1002.0,Kharif,40.0,20.0,3,False,False,True
+Nagaland,Wokha,Linseed,1005.0,Rabi,590.0,470.0,3,False,False,False
+Nagaland,Wokha,Linseed,1005.0,Rabi,590.0,480.0,5,False,False,False
+Nagaland,Wokha,Mesta,1103.0,Kharif,200.0,220.0,3,False,True,False
+Nagaland,Zunheboto,Castor Seed,1002.0,Kharif,30.0,20.0,11,False,False,True
+Nagaland,Zunheboto,Linseed,1005.0,Rabi,260.0,210.0,3,False,False,False
+Nagaland,Zunheboto,Linseed,1005.0,Rabi,280.0,210.0,3,False,False,False
+Nagaland,Zunheboto,Linseed,1005.0,Rabi,280.0,230.0,4,False,False,False
+Nagaland,Zunheboto,Mesta,1103.0,Kharif,210.0,220.0,5,False,False,False
+Odisha,Boudh,Castor Seed,1002.0,Rabi,40.0,30.0,3,False,False,False
+Odisha,Gajapati,Castor Seed,1002.0,Rabi,30.0,20.0,3,False,False,True
+Odisha,Khordha,Castor Seed,1002.0,Kharif,20.0,10.0,3,False,True,True
+Odisha,Khordha,Linseed,1005.0,Rabi,40.0,10.0,3,False,False,True
+Odisha,Sonepur,Castor Seed,1002.0,Kharif,30.0,10.0,3,False,False,True
+Punjab,Gurdaspur,Linseed,1005.0,Rabi,100.0,100.0,4,False,True,True
+Punjab,Jalandhar,Linseed,1005.0,Rabi,100.0,100.0,5,False,True,True
+Punjab,Shahid Bhagat Singh Nagar,Linseed,1005.0,Rabi,100.0,100.0,4,False,True,True
+Rajasthan,Banswara,Castor Seed,1002.0,Kharif,7.0,3.0,3,False,False,False
+Rajasthan,Bharatpur,Tobacco,1302.0,Whole Year,1.0,1.0,3,False,True,True
+Rajasthan,Bharatpur,Tobacco,1302.0,Whole Year,1.0,,3,True,True,False
+Rajasthan,Bhilwara,Tobacco,1302.0,Whole Year,1.0,,5,True,True,False
+Rajasthan,Bikaner,Linseed,1005.0,Rabi,1.0,1.0,3,False,True,True
+Rajasthan,Dausa,Linseed,1005.0,Rabi,1.0,1.0,5,False,True,True
+Rajasthan,Jaipur,Linseed,1005.0,Rabi,1.0,1.0,4,False,True,True
+Rajasthan,Jalore,Linseed,1005.0,Rabi,1.0,1.0,6,False,True,True
+Rajasthan,Jhunjhunu,Tobacco,1302.0,Whole Year,24.0,120.0,3,False,False,False
+Rajasthan,Karauli,Castor Seed,1002.0,Kharif,1.0,1.0,3,False,True,True
+Rajasthan,Pratapgarh,Castor Seed,1002.0,Kharif,1.0,1.0,3,False,True,True
+Rajasthan,Rajsamand,Castor Seed,1002.0,Kharif,1.0,,4,True,True,False
+Rajasthan,Rajsamand,Linseed,1005.0,Rabi,1.0,3.0,3,False,True,False
+Rajasthan,Sikar,Castor Seed,1002.0,Kharif,2.0,1.0,3,False,False,True
+Rajasthan,Sikar,Tobacco,1302.0,Whole Year,1.0,4.0,4,False,True,False
+Tamil Nadu,Coimbatore,Cardamom,506.0,Whole Year,808.0,63.0,10,False,False,False
+Tamil Nadu,Erode,Cardamom,506.0,Whole Year,1.0,,6,True,True,False
+Tamil Nadu,Kanniyakumari,Cardamom,506.0,Whole Year,16.0,1.0,3,False,False,True
+Tamil Nadu,Kanniyakumari,Cardamom,506.0,Whole Year,60.0,6.0,3,False,False,False
+Tamil Nadu,Namakkal,Cardamom,506.0,Whole Year,15.0,1.0,3,False,False,True
+Tamil Nadu,Ramanathapuram,Castor Seed,1002.0,Kharif,1.0,,4,True,True,False
+Tamil Nadu,Salem,Cardamom,506.0,Whole Year,40.0,3.0,4,False,False,False
+Tamil Nadu,Salem,Cardamom,506.0,Whole Year,42.0,3.0,4,False,False,False
+Tamil Nadu,Sivaganga,Castor Seed,1002.0,Kharif,1.0,,4,True,True,False
+Tamil Nadu,Thanjavur,Castor Seed,1002.0,Whole Year,3.0,1.0,3,False,False,True
+Tamil Nadu,Theni,Tobacco,1302.0,Whole Year,21.0,46.0,3,False,False,False
+Tamil Nadu,Thiruvallur,Castor Seed,1002.0,Kharif,2.0,1.0,3,False,False,True
+Tamil Nadu,Tiruvannamalai,Castor Seed,1002.0,Kharif,2.0,1.0,3,False,False,True
+Tamil Nadu,Viluppuram,Tobacco,1302.0,Whole Year,1.0,1.0,3,False,True,True
+Tamil Nadu,Virudhunagar,Cardamom,506.0,Whole Year,279.0,24.0,7,False,False,False
+Tamil Nadu,Virudhunagar,Cardamom,506.0,Whole Year,325.0,28.0,3,False,False,False
+Telangana,Bhadradri Kothagudem,Tobacco,1302.0,Kharif,1.0,3.0,3,False,True,False
+The Dadra And Nagar Haveli And Daman And Diu,Dadra And Nagar Haveli,Niger Seed,1010.0,Kharif,10.0,3.0,3,False,True,False
+The Dadra And Nagar Haveli And Daman And Diu,Dadra And Nagar Haveli,Niger Seed,1010.0,Rabi,20.0,8.0,3,False,True,False
+The Dadra And Nagar Haveli And Daman And Diu,Dadra And Nagar Haveli,Niger Seed,1010.0,Winter,30.0,30.0,3,False,False,False
+Uttar Pradesh,Ambedkar Nagar,Linseed,1005.0,Rabi,2.0,1.0,4,False,False,True
+Uttar Pradesh,Azamgarh,Linseed,1005.0,Rabi,1.0,1.0,3,False,True,True
+Uttar Pradesh,Azamgarh,Linseed,1005.0,Rabi,3.0,1.0,3,False,False,True
+Uttar Pradesh,Baghpat,Tobacco,1302.0,Rabi,2.0,9.0,3,False,False,False
+Uttar Pradesh,Bhadohi,Linseed,1005.0,Rabi,2.0,1.0,3,False,False,True
+Uttar Pradesh,Jaunpur,Tobacco,1302.0,Rabi,9.0,40.0,3,False,False,False
+Uttar Pradesh,Kaushambi,Tobacco,1302.0,Rabi,18.0,80.0,3,False,False,False
+Uttar Pradesh,Kushinagar,Linseed,1005.0,Rabi,3.0,1.0,3,False,False,True
+Uttar Pradesh,Kushinagar,Linseed,1005.0,Rabi,3.0,2.0,3,False,False,False
+Uttar Pradesh,Lucknow,Linseed,1005.0,Rabi,1.0,1.0,3,False,True,True
+Uttar Pradesh,Mahoba,Tobacco,1302.0,Rabi,3.0,13.0,4,False,False,False
+Uttar Pradesh,Mau,Linseed,1005.0,Rabi,3.0,1.0,3,False,False,True
+Uttar Pradesh,Pilibhit,Linseed,1005.0,Rabi,2.0,1.0,6,False,False,True
+Uttar Pradesh,Rae Bareli,Tobacco,1302.0,Rabi,1.0,5.0,5,False,True,True
+Uttar Pradesh,Sambhal,Linseed,1005.0,Rabi,1.0,1.0,4,False,True,True
+Uttar Pradesh,Sant Kabir Nagar,Linseed,1005.0,Rabi,7.0,4.0,3,False,False,False
+Uttar Pradesh,Sitapur,Linseed,1005.0,Rabi,1.0,1.0,3,False,True,True
+Uttar Pradesh,Unnao,Tobacco,1302.0,Rabi,1.0,4.0,3,False,True,False
+Uttar Pradesh,Unnao,Tobacco,1302.0,Summer,1.0,3.0,3,False,True,False
+Uttar Pradesh,Varanasi,Linseed,1005.0,Rabi,1.0,1.0,3,False,True,True
+Uttar Pradesh,Varanasi,Linseed,1005.0,Rabi,2.0,1.0,4,False,False,True
+West Bengal,Cooch Behar,Niger Seed,1010.0,Kharif,110.0,65.0,3,False,False,False
+West Bengal,Darjeeling,Cardamom,506.0,Whole Year,2874.0,704.0,4,False,False,False

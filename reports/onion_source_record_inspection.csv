@@ -1,0 +1,153 @@
+id,year,state_name,district_name,crop_name,crop_code,season,area,area_unit,production,production_unit,yield,yield_unit,calculated_yield
+288886,2015-2016,Andhra Pradesh,Ananthapuramu,Onion,708.0,Kharif,2286.0,Hectare,48603.0,Tonnes,21.261,Tonnes/Hectare,21.261154855643046
+288887,2015-2016,Andhra Pradesh,Ananthapuramu,Onion,708.0,Rabi,836.0,Hectare,14144.0,Tonnes,16.919,Tonnes/Hectare,16.91866028708134
+288888,2015-2016,Andhra Pradesh,Ananthapuramu,Onion,708.0,Total,3122.0,Hectare,62747.0,Tonnes,20.098,Tonnes/Hectare,20.098334401024985
+307359,2016-2017,Andhra Pradesh,Ananthapuramu,Onion,708.0,Kharif,2545.0,Hectare,58637.0,Tonnes,23.04,Tonnes/Hectare,23.04007858546169
+307360,2016-2017,Andhra Pradesh,Ananthapuramu,Onion,708.0,Rabi,254.0,Hectare,6853.0,Tonnes,26.98,Tonnes/Hectare,26.980314960629922
+307361,2016-2017,Andhra Pradesh,Ananthapuramu,Onion,708.0,Total,2799.0,Hectare,65490.0,Tonnes,23.398,Tonnes/Hectare,23.39764201500536
+327150,2017-2018,Andhra Pradesh,Ananthapuramu,Onion,708.0,Kharif,1207.0,Hectare,48708.0,Tonnes,40.355,Tonnes/Hectare,40.35459817729909
+327151,2017-2018,Andhra Pradesh,Ananthapuramu,Onion,708.0,Rabi,545.0,Hectare,64992.0,Tonnes,119.251,Tonnes/Hectare,119.25137614678899
+327152,2017-2018,Andhra Pradesh,Ananthapuramu,Onion,708.0,Total,1752.0,Hectare,113700.0,Tonnes,64.897,Tonnes/Hectare,64.8972602739726
+347708,2018-2019,Andhra Pradesh,Ananthapuramu,Onion,708.0,Kharif,1407.0,Hectare,50908.0,Tonnes,36.182,Tonnes/Hectare,36.181947405828005
+347709,2018-2019,Andhra Pradesh,Ananthapuramu,Onion,708.0,Rabi,410.0,Hectare,53064.0,Tonnes,129.424,Tonnes/Hectare,129.42439024390245
+347710,2018-2019,Andhra Pradesh,Ananthapuramu,Onion,708.0,Total,1817.0,Hectare,103972.0,Tonnes,57.222,Tonnes/Hectare,57.221794166208035
+368453,2019-2020,Andhra Pradesh,Ananthapuramu,Onion,708.0,Kharif,2168.0,Hectare,47696.0,Tonnes,22.0,Tonnes/Hectare,22.0
+368454,2019-2020,Andhra Pradesh,Ananthapuramu,Onion,708.0,Rabi,1684.0,Hectare,35287.0,Tonnes,20.954,Tonnes/Hectare,20.954275534441805
+368455,2019-2020,Andhra Pradesh,Ananthapuramu,Onion,708.0,Total,3852.0,Hectare,82983.0,Tonnes,21.543,Tonnes/Hectare,21.542834890965732
+288949,2015-2016,Andhra Pradesh,Chittoor,Onion,708.0,Kharif,194.0,Hectare,3285.0,Tonnes,16.933,Tonnes/Hectare,16.932989690721648
+288950,2015-2016,Andhra Pradesh,Chittoor,Onion,708.0,Rabi,249.0,Hectare,4213.0,Tonnes,16.92,Tonnes/Hectare,16.919678714859437
+288951,2015-2016,Andhra Pradesh,Chittoor,Onion,708.0,Total,443.0,Hectare,7498.0,Tonnes,16.926,Tonnes/Hectare,16.9255079006772
+307419,2016-2017,Andhra Pradesh,Chittoor,Onion,708.0,Kharif,217.0,Hectare,3724.0,Tonnes,17.161,Tonnes/Hectare,17.161290322580644
+307420,2016-2017,Andhra Pradesh,Chittoor,Onion,708.0,Rabi,213.0,Hectare,4671.0,Tonnes,21.93,Tonnes/Hectare,21.929577464788732
+307421,2016-2017,Andhra Pradesh,Chittoor,Onion,708.0,Total,430.0,Hectare,8395.0,Tonnes,19.523,Tonnes/Hectare,19.523255813953487
+327216,2017-2018,Andhra Pradesh,Chittoor,Onion,708.0,Kharif,253.0,Hectare,7678.0,Tonnes,30.348,Tonnes/Hectare,30.347826086956523
+327217,2017-2018,Andhra Pradesh,Chittoor,Onion,708.0,Rabi,304.0,Hectare,4922.0,Tonnes,16.191,Tonnes/Hectare,16.19078947368421
+327218,2017-2018,Andhra Pradesh,Chittoor,Onion,708.0,Total,557.0,Hectare,12600.0,Tonnes,22.621,Tonnes/Hectare,22.621184919210055
+347779,2018-2019,Andhra Pradesh,Chittoor,Onion,708.0,Kharif,203.0,Hectare,7678.0,Tonnes,37.823,Tonnes/Hectare,37.82266009852217
+347780,2018-2019,Andhra Pradesh,Chittoor,Onion,708.0,Rabi,268.0,Hectare,3740.0,Tonnes,13.955,Tonnes/Hectare,13.955223880597014
+347781,2018-2019,Andhra Pradesh,Chittoor,Onion,708.0,Total,471.0,Hectare,11418.0,Tonnes,24.242,Tonnes/Hectare,24.24203821656051
+368520,2019-2020,Andhra Pradesh,Chittoor,Onion,708.0,Kharif,285.0,Hectare,6102.0,Tonnes,21.411,Tonnes/Hectare,21.410526315789475
+368521,2019-2020,Andhra Pradesh,Chittoor,Onion,708.0,Rabi,187.0,Hectare,4282.0,Tonnes,22.898,Tonnes/Hectare,22.898395721925134
+368522,2019-2020,Andhra Pradesh,Chittoor,Onion,708.0,Total,472.0,Hectare,10384.0,Tonnes,22.0,Tonnes/Hectare,22.0
+289013,2015-2016,Andhra Pradesh,East Godavari,Onion,708.0,Kharif,549.0,Hectare,9174.0,Tonnes,16.71,Tonnes/Hectare,16.7103825136612
+289014,2015-2016,Andhra Pradesh,East Godavari,Onion,708.0,Rabi,10.0,Hectare,142.0,Tonnes,14.2,Tonnes/Hectare,14.2
+289015,2015-2016,Andhra Pradesh,East Godavari,Onion,708.0,Total,559.0,Hectare,9316.0,Tonnes,16.665,Tonnes/Hectare,16.6654740608229
+307488,2016-2017,Andhra Pradesh,East Godavari,Onion,708.0,Kharif,40.0,Hectare,641.0,Tonnes,16.025,Tonnes/Hectare,16.025
+307489,2016-2017,Andhra Pradesh,East Godavari,Onion,708.0,Rabi,3.0,Hectare,67.0,Tonnes,22.333,Tonnes/Hectare,22.333333333333332
+307490,2016-2017,Andhra Pradesh,East Godavari,Onion,708.0,Total,43.0,Hectare,708.0,Tonnes,16.465,Tonnes/Hectare,16.46511627906977
+327281,2017-2018,Andhra Pradesh,East Godavari,Onion,708.0,Kharif,50.0,Hectare,,Tonnes,0.0,Tonnes/Hectare,
+327282,2017-2018,Andhra Pradesh,East Godavari,Onion,708.0,Rabi,2.0,Hectare,200.0,Tonnes,100.0,Tonnes/Hectare,100.0
+327283,2017-2018,Andhra Pradesh,East Godavari,Onion,708.0,Total,52.0,Hectare,200.0,Tonnes,3.846,Tonnes/Hectare,3.8461538461538463
+347844,2018-2019,Andhra Pradesh,East Godavari,Onion,708.0,Kharif,98.0,Hectare,,Tonnes,0.0,Tonnes/Hectare,
+347845,2018-2019,Andhra Pradesh,East Godavari,Onion,708.0,Rabi,11.0,Hectare,2156.0,Tonnes,196.0,Tonnes/Hectare,196.0
+347846,2018-2019,Andhra Pradesh,East Godavari,Onion,708.0,Total,109.0,Hectare,2156.0,Tonnes,19.78,Tonnes/Hectare,19.779816513761467
+368588,2019-2020,Andhra Pradesh,East Godavari,Onion,708.0,Rabi,125.0,Hectare,2760.0,Tonnes,22.08,Tonnes/Hectare,22.08
+289070,2015-2016,Andhra Pradesh,Guntur,Onion,708.0,Kharif,66.0,Hectare,1110.0,Tonnes,16.818,Tonnes/Hectare,16.818181818181817
+289071,2015-2016,Andhra Pradesh,Guntur,Onion,708.0,Rabi,163.0,Hectare,2318.0,Tonnes,14.221,Tonnes/Hectare,14.220858895705522
+289072,2015-2016,Andhra Pradesh,Guntur,Onion,708.0,Total,229.0,Hectare,3428.0,Tonnes,14.969,Tonnes/Hectare,14.969432314410481
+307548,2016-2017,Andhra Pradesh,Guntur,Onion,708.0,Kharif,56.0,Hectare,1326.0,Tonnes,23.679,Tonnes/Hectare,23.678571428571427
+307549,2016-2017,Andhra Pradesh,Guntur,Onion,708.0,Rabi,128.0,Hectare,2849.0,Tonnes,22.258,Tonnes/Hectare,22.2578125
+307550,2016-2017,Andhra Pradesh,Guntur,Onion,708.0,Total,184.0,Hectare,4175.0,Tonnes,22.69,Tonnes/Hectare,22.690217391304348
+327340,2017-2018,Andhra Pradesh,Guntur,Onion,708.0,Kharif,20.0,Hectare,,Tonnes,0.0,Tonnes/Hectare,
+327341,2017-2018,Andhra Pradesh,Guntur,Onion,708.0,Rabi,102.0,Hectare,2318.0,Tonnes,22.725,Tonnes/Hectare,22.725490196078432
+327342,2017-2018,Andhra Pradesh,Guntur,Onion,708.0,Total,122.0,Hectare,2318.0,Tonnes,19.0,Tonnes/Hectare,19.0
+347905,2018-2019,Andhra Pradesh,Guntur,Onion,708.0,Kharif,165.0,Hectare,,Tonnes,0.0,Tonnes/Hectare,
+347906,2018-2019,Andhra Pradesh,Guntur,Onion,708.0,Rabi,33.0,Hectare,4532.0,Tonnes,137.333,Tonnes/Hectare,137.33333333333334
+347907,2018-2019,Andhra Pradesh,Guntur,Onion,708.0,Total,198.0,Hectare,4532.0,Tonnes,22.889,Tonnes/Hectare,22.88888888888889
+368646,2019-2020,Andhra Pradesh,Guntur,Onion,708.0,Kharif,405.0,Hectare,8910.0,Tonnes,22.0,Tonnes/Hectare,22.0
+307595,2016-2017,Andhra Pradesh,Krishna,Onion,708.0,Kharif,1.0,Hectare,24.0,Tonnes,24.0,Tonnes/Hectare,24.0
+289169,2015-2016,Andhra Pradesh,Kurnool,Onion,708.0,Kharif,26624.0,Hectare,463923.0,Tonnes,17.425,Tonnes/Hectare,17.42499248798077
+289170,2015-2016,Andhra Pradesh,Kurnool,Onion,708.0,Rabi,3237.0,Hectare,63711.0,Tonnes,19.682,Tonnes/Hectare,19.682113067655237
+289171,2015-2016,Andhra Pradesh,Kurnool,Onion,708.0,Total,29861.0,Hectare,527634.0,Tonnes,17.67,Tonnes/Hectare,17.669669468537556
+307647,2016-2017,Andhra Pradesh,Kurnool,Onion,708.0,Kharif,24502.0,Hectare,422341.0,Tonnes,17.237,Tonnes/Hectare,17.237001061137867
+307648,2016-2017,Andhra Pradesh,Kurnool,Onion,708.0,Rabi,1636.0,Hectare,41072.0,Tonnes,25.105,Tonnes/Hectare,25.105134474327627
+307649,2016-2017,Andhra Pradesh,Kurnool,Onion,708.0,Total,26138.0,Hectare,463413.0,Tonnes,17.729,Tonnes/Hectare,17.72947432856378
+327445,2017-2018,Andhra Pradesh,Kurnool,Onion,708.0,Kharif,12945.0,Hectare,570526.0,Tonnes,44.073,Tonnes/Hectare,44.07307840865199
+327446,2017-2018,Andhra Pradesh,Kurnool,Onion,708.0,Rabi,4076.0,Hectare,101306.0,Tonnes,24.854,Tonnes/Hectare,24.854268891069676
+327447,2017-2018,Andhra Pradesh,Kurnool,Onion,708.0,Total,17021.0,Hectare,671832.0,Tonnes,39.471,Tonnes/Hectare,39.470771400035254
+348006,2018-2019,Andhra Pradesh,Kurnool,Onion,708.0,Kharif,18900.0,Hectare,582186.0,Tonnes,30.803,Tonnes/Hectare,30.803492063492065
+348007,2018-2019,Andhra Pradesh,Kurnool,Onion,708.0,Rabi,2927.0,Hectare,169290.0,Tonnes,57.837,Tonnes/Hectare,57.83737615305774
+348008,2018-2019,Andhra Pradesh,Kurnool,Onion,708.0,Total,21827.0,Hectare,751476.0,Tonnes,34.429,Tonnes/Hectare,34.42873505291611
+368749,2019-2020,Andhra Pradesh,Kurnool,Onion,708.0,Kharif,19404.0,Hectare,426232.0,Tonnes,21.966,Tonnes/Hectare,21.966192537621108
+368750,2019-2020,Andhra Pradesh,Kurnool,Onion,708.0,Rabi,9062.0,Hectare,188935.0,Tonnes,20.849,Tonnes/Hectare,20.849150297947475
+368751,2019-2020,Andhra Pradesh,Kurnool,Onion,708.0,Total,28466.0,Hectare,615167.0,Tonnes,21.611,Tonnes/Hectare,21.61058806997822
+289238,2015-2016,Andhra Pradesh,Prakasam,Onion,708.0,Kharif,328.0,Hectare,5485.0,Tonnes,16.723,Tonnes/Hectare,16.722560975609756
+289239,2015-2016,Andhra Pradesh,Prakasam,Onion,708.0,Rabi,37.0,Hectare,526.0,Tonnes,14.216,Tonnes/Hectare,14.216216216216216
+289240,2015-2016,Andhra Pradesh,Prakasam,Onion,708.0,Total,365.0,Hectare,6011.0,Tonnes,16.468,Tonnes/Hectare,16.46849315068493
+307720,2016-2017,Andhra Pradesh,Prakasam,Onion,708.0,Kharif,707.0,Hectare,17048.0,Tonnes,24.113,Tonnes/Hectare,24.11315417256011
+307721,2016-2017,Andhra Pradesh,Prakasam,Onion,708.0,Rabi,3.0,Hectare,67.0,Tonnes,22.333,Tonnes/Hectare,22.333333333333332
+307722,2016-2017,Andhra Pradesh,Prakasam,Onion,708.0,Total,710.0,Hectare,17115.0,Tonnes,24.106,Tonnes/Hectare,24.1056338028169
+327514,2017-2018,Andhra Pradesh,Prakasam,Onion,708.0,Kharif,163.0,Hectare,,Tonnes,0.0,Tonnes/Hectare,
+327515,2017-2018,Andhra Pradesh,Prakasam,Onion,708.0,Rabi,46.0,Hectare,3200.0,Tonnes,69.565,Tonnes/Hectare,69.56521739130434
+327516,2017-2018,Andhra Pradesh,Prakasam,Onion,708.0,Total,209.0,Hectare,3200.0,Tonnes,15.311,Tonnes/Hectare,15.311004784688995
+348070,2018-2019,Andhra Pradesh,Prakasam,Onion,708.0,Kharif,225.0,Hectare,,Tonnes,0.0,Tonnes/Hectare,
+348071,2018-2019,Andhra Pradesh,Prakasam,Onion,708.0,Rabi,11.0,Hectare,1540.0,Tonnes,140.0,Tonnes/Hectare,140.0
+348072,2018-2019,Andhra Pradesh,Prakasam,Onion,708.0,Total,236.0,Hectare,1540.0,Tonnes,6.525,Tonnes/Hectare,6.52542372881356
+368821,2019-2020,Andhra Pradesh,Prakasam,Onion,708.0,Kharif,200.0,Hectare,4400.0,Tonnes,22.0,Tonnes/Hectare,22.0
+289301,2015-2016,Andhra Pradesh,Sri Potti Sriramulu Nellore,Onion,708.0,Kharif,107.0,Hectare,1789.0,Tonnes,16.72,Tonnes/Hectare,16.7196261682243
+289302,2015-2016,Andhra Pradesh,Sri Potti Sriramulu Nellore,Onion,708.0,Rabi,16.0,Hectare,228.0,Tonnes,14.25,Tonnes/Hectare,14.25
+289303,2015-2016,Andhra Pradesh,Sri Potti Sriramulu Nellore,Onion,708.0,Total,123.0,Hectare,2017.0,Tonnes,16.398,Tonnes/Hectare,16.398373983739837
+307784,2016-2017,Andhra Pradesh,Sri Potti Sriramulu Nellore,Onion,708.0,Kharif,78.0,Hectare,1847.0,Tonnes,23.679,Tonnes/Hectare,23.67948717948718
+327577,2017-2018,Andhra Pradesh,Sri Potti Sriramulu Nellore,Onion,708.0,Kharif,5.0,Hectare,,Tonnes,0.0,Tonnes/Hectare,
+348137,2018-2019,Andhra Pradesh,Sri Potti Sriramulu Nellore,Onion,708.0,Kharif,20.0,Hectare,,Tonnes,0.0,Tonnes/Hectare,
+289354,2015-2016,Andhra Pradesh,Srikakulam,Onion,708.0,Kharif,16.0,Hectare,268.0,Tonnes,16.75,Tonnes/Hectare,16.75
+289355,2015-2016,Andhra Pradesh,Srikakulam,Onion,708.0,Rabi,342.0,Hectare,4863.0,Tonnes,14.219,Tonnes/Hectare,14.219298245614034
+289356,2015-2016,Andhra Pradesh,Srikakulam,Onion,708.0,Total,358.0,Hectare,5131.0,Tonnes,14.332,Tonnes/Hectare,14.332402234636872
+307836,2016-2017,Andhra Pradesh,Srikakulam,Onion,708.0,Kharif,16.0,Hectare,379.0,Tonnes,23.688,Tonnes/Hectare,23.6875
+307837,2016-2017,Andhra Pradesh,Srikakulam,Onion,708.0,Rabi,281.0,Hectare,6255.0,Tonnes,22.26,Tonnes/Hectare,22.259786476868328
+307838,2016-2017,Andhra Pradesh,Srikakulam,Onion,708.0,Total,297.0,Hectare,6634.0,Tonnes,22.337,Tonnes/Hectare,22.336700336700336
+327626,2017-2018,Andhra Pradesh,Srikakulam,Onion,708.0,Kharif,2.0,Hectare,8140.0,Tonnes,4070.0,Tonnes/Hectare,4070.0
+327627,2017-2018,Andhra Pradesh,Srikakulam,Onion,708.0,Rabi,287.0,Hectare,7885.0,Tonnes,27.474,Tonnes/Hectare,27.473867595818817
+327628,2017-2018,Andhra Pradesh,Srikakulam,Onion,708.0,Total,289.0,Hectare,16025.0,Tonnes,55.45,Tonnes/Hectare,55.449826989619375
+348187,2018-2019,Andhra Pradesh,Srikakulam,Onion,708.0,Kharif,3.0,Hectare,7832.0,Tonnes,2610.667,Tonnes/Hectare,2610.6666666666665
+348188,2018-2019,Andhra Pradesh,Srikakulam,Onion,708.0,Rabi,173.0,Hectare,6270.0,Tonnes,36.243,Tonnes/Hectare,36.24277456647399
+348189,2018-2019,Andhra Pradesh,Srikakulam,Onion,708.0,Total,176.0,Hectare,14102.0,Tonnes,80.125,Tonnes/Hectare,80.125
+368940,2019-2020,Andhra Pradesh,Srikakulam,Onion,708.0,Kharif,4.0,Hectare,96.0,Tonnes,24.0,Tonnes/Hectare,24.0
+368941,2019-2020,Andhra Pradesh,Srikakulam,Onion,708.0,Rabi,19.0,Hectare,415.0,Tonnes,21.842,Tonnes/Hectare,21.842105263157894
+368942,2019-2020,Andhra Pradesh,Srikakulam,Onion,708.0,Total,23.0,Hectare,511.0,Tonnes,22.217,Tonnes/Hectare,22.217391304347824
+289412,2015-2016,Andhra Pradesh,Visakhapatnam,Onion,708.0,Kharif,67.0,Hectare,1120.0,Tonnes,16.716,Tonnes/Hectare,16.71641791044776
+289413,2015-2016,Andhra Pradesh,Visakhapatnam,Onion,708.0,Rabi,98.0,Hectare,1393.0,Tonnes,14.214,Tonnes/Hectare,14.214285714285714
+289414,2015-2016,Andhra Pradesh,Visakhapatnam,Onion,708.0,Total,165.0,Hectare,2513.0,Tonnes,15.23,Tonnes/Hectare,15.23030303030303
+307891,2016-2017,Andhra Pradesh,Visakhapatnam,Onion,708.0,Kharif,49.0,Hectare,1160.0,Tonnes,23.673,Tonnes/Hectare,23.6734693877551
+307892,2016-2017,Andhra Pradesh,Visakhapatnam,Onion,708.0,Rabi,104.0,Hectare,2315.0,Tonnes,22.26,Tonnes/Hectare,22.259615384615383
+307893,2016-2017,Andhra Pradesh,Visakhapatnam,Onion,708.0,Total,153.0,Hectare,3475.0,Tonnes,22.712,Tonnes/Hectare,22.712418300653596
+327678,2017-2018,Andhra Pradesh,Visakhapatnam,Onion,708.0,Kharif,52.0,Hectare,,Tonnes,0.0,Tonnes/Hectare,
+327679,2017-2018,Andhra Pradesh,Visakhapatnam,Onion,708.0,Rabi,96.0,Hectare,1500.0,Tonnes,15.625,Tonnes/Hectare,15.625
+327680,2017-2018,Andhra Pradesh,Visakhapatnam,Onion,708.0,Total,148.0,Hectare,1500.0,Tonnes,10.135,Tonnes/Hectare,10.135135135135135
+348240,2018-2019,Andhra Pradesh,Visakhapatnam,Onion,708.0,Kharif,38.0,Hectare,,Tonnes,0.0,Tonnes/Hectare,
+348241,2018-2019,Andhra Pradesh,Visakhapatnam,Onion,708.0,Rabi,79.0,Hectare,1100.0,Tonnes,13.924,Tonnes/Hectare,13.924050632911392
+348242,2018-2019,Andhra Pradesh,Visakhapatnam,Onion,708.0,Total,117.0,Hectare,1100.0,Tonnes,9.402,Tonnes/Hectare,9.401709401709402
+368999,2019-2020,Andhra Pradesh,Visakhapatnam,Onion,708.0,Kharif,10.0,Hectare,225.0,Tonnes,22.5,Tonnes/Hectare,22.5
+369000,2019-2020,Andhra Pradesh,Visakhapatnam,Onion,708.0,Rabi,50.0,Hectare,1110.0,Tonnes,22.2,Tonnes/Hectare,22.2
+369001,2019-2020,Andhra Pradesh,Visakhapatnam,Onion,708.0,Total,60.0,Hectare,1335.0,Tonnes,22.25,Tonnes/Hectare,22.25
+289472,2015-2016,Andhra Pradesh,Vizianagaram,Onion,708.0,Kharif,68.0,Hectare,1137.0,Tonnes,16.721,Tonnes/Hectare,16.720588235294116
+289473,2015-2016,Andhra Pradesh,Vizianagaram,Onion,708.0,Rabi,168.0,Hectare,2389.0,Tonnes,14.22,Tonnes/Hectare,14.220238095238095
+289474,2015-2016,Andhra Pradesh,Vizianagaram,Onion,708.0,Total,236.0,Hectare,3526.0,Tonnes,14.941,Tonnes/Hectare,14.940677966101696
+307953,2016-2017,Andhra Pradesh,Vizianagaram,Onion,708.0,Kharif,70.0,Hectare,1658.0,Tonnes,23.686,Tonnes/Hectare,23.685714285714287
+307954,2016-2017,Andhra Pradesh,Vizianagaram,Onion,708.0,Rabi,131.0,Hectare,2916.0,Tonnes,22.26,Tonnes/Hectare,22.259541984732824
+307955,2016-2017,Andhra Pradesh,Vizianagaram,Onion,708.0,Total,201.0,Hectare,4574.0,Tonnes,22.756,Tonnes/Hectare,22.756218905472636
+327744,2017-2018,Andhra Pradesh,Vizianagaram,Onion,708.0,Kharif,88.0,Hectare,,Tonnes,0.0,Tonnes/Hectare,
+327745,2017-2018,Andhra Pradesh,Vizianagaram,Onion,708.0,Rabi,119.0,Hectare,1950.0,Tonnes,16.387,Tonnes/Hectare,16.386554621848738
+327746,2017-2018,Andhra Pradesh,Vizianagaram,Onion,708.0,Total,207.0,Hectare,1950.0,Tonnes,9.42,Tonnes/Hectare,9.420289855072463
+348306,2018-2019,Andhra Pradesh,Vizianagaram,Onion,708.0,Kharif,60.0,Hectare,,Tonnes,0.0,Tonnes/Hectare,
+348307,2018-2019,Andhra Pradesh,Vizianagaram,Onion,708.0,Rabi,75.0,Hectare,1760.0,Tonnes,23.467,Tonnes/Hectare,23.466666666666665
+348308,2018-2019,Andhra Pradesh,Vizianagaram,Onion,708.0,Total,135.0,Hectare,1760.0,Tonnes,13.037,Tonnes/Hectare,13.037037037037036
+369061,2019-2020,Andhra Pradesh,Vizianagaram,Onion,708.0,Kharif,7.0,Hectare,155.0,Tonnes,22.143,Tonnes/Hectare,22.142857142857142
+369062,2019-2020,Andhra Pradesh,Vizianagaram,Onion,708.0,Rabi,39.0,Hectare,853.0,Tonnes,21.872,Tonnes/Hectare,21.871794871794872
+369063,2019-2020,Andhra Pradesh,Vizianagaram,Onion,708.0,Total,46.0,Hectare,1008.0,Tonnes,21.913,Tonnes/Hectare,21.91304347826087
+289526,2015-2016,Andhra Pradesh,West Godavari,Onion,708.0,Rabi,1.0,Hectare,14.0,Tonnes,14.0,Tonnes/Hectare,14.0
+289584,2015-2016,Andhra Pradesh,Y.S.R. Kadapa,Onion,708.0,Kharif,3562.0,Hectare,37330.0,Tonnes,10.48,Tonnes/Hectare,10.480067377877598
+289585,2015-2016,Andhra Pradesh,Y.S.R. Kadapa,Onion,708.0,Rabi,2218.0,Hectare,28583.0,Tonnes,12.887,Tonnes/Hectare,12.886834986474302
+289586,2015-2016,Andhra Pradesh,Y.S.R. Kadapa,Onion,708.0,Total,5780.0,Hectare,65913.0,Tonnes,11.404,Tonnes/Hectare,11.403633217993079
+308076,2016-2017,Andhra Pradesh,Y.S.R. Kadapa,Onion,708.0,Kharif,3725.0,Hectare,47159.0,Tonnes,12.66,Tonnes/Hectare,12.66013422818792
+308077,2016-2017,Andhra Pradesh,Y.S.R. Kadapa,Onion,708.0,Rabi,758.0,Hectare,10144.0,Tonnes,13.383,Tonnes/Hectare,13.382585751978892
+308078,2016-2017,Andhra Pradesh,Y.S.R. Kadapa,Onion,708.0,Total,4483.0,Hectare,57303.0,Tonnes,12.782,Tonnes/Hectare,12.782288645995985
+327860,2017-2018,Andhra Pradesh,Y.S.R. Kadapa,Onion,708.0,Kharif,2551.0,Hectare,27676.0,Tonnes,10.849,Tonnes/Hectare,10.84907879263034
+327861,2017-2018,Andhra Pradesh,Y.S.R. Kadapa,Onion,708.0,Rabi,1805.0,Hectare,61593.0,Tonnes,34.124,Tonnes/Hectare,34.12354570637119
+327862,2017-2018,Andhra Pradesh,Y.S.R. Kadapa,Onion,708.0,Total,4356.0,Hectare,89269.0,Tonnes,20.493,Tonnes/Hectare,20.493342516069788
+348421,2018-2019,Andhra Pradesh,Y.S.R. Kadapa,Onion,708.0,Kharif,3631.0,Hectare,28446.0,Tonnes,7.834,Tonnes/Hectare,7.834205453043238
+348422,2018-2019,Andhra Pradesh,Y.S.R. Kadapa,Onion,708.0,Rabi,1034.0,Hectare,56353.0,Tonnes,54.5,Tonnes/Hectare,54.5
+348423,2018-2019,Andhra Pradesh,Y.S.R. Kadapa,Onion,708.0,Total,4665.0,Hectare,84799.0,Tonnes,18.178,Tonnes/Hectare,18.17770632368703
+369180,2019-2020,Andhra Pradesh,Y.S.R. Kadapa,Onion,708.0,Kharif,1381.0,Hectare,30382.0,Tonnes,22.0,Tonnes/Hectare,22.0
+369181,2019-2020,Andhra Pradesh,Y.S.R. Kadapa,Onion,708.0,Rabi,1084.0,Hectare,23248.0,Tonnes,21.446,Tonnes/Hectare,21.44649446494465
+369182,2019-2020,Andhra Pradesh,Y.S.R. Kadapa,Onion,708.0,Total,2465.0,Hectare,53630.0,Tonnes,21.757,Tonnes/Hectare,21.75659229208925

@@ -1,0 +1,81 @@
+crop,crop_code,year,state,district,area,production,reported_yield,national_reference_yield,multiple_of_reference,outlier_flag,production_unit,yield_unit
+Cashewnut,619,2018-2019,Andhra Pradesh,Prakasam,139.0,766.0,5.511,0.672,8.200892857142858,False,Tonnes,Tonnes/Hectare
+Cashewnut,619,2018-2019,Andhra Pradesh,Chittoor,68.0,140.0,2.059,0.672,3.0639880952380953,False,Tonnes,Tonnes/Hectare
+Cashewnut,619,2018-2019,Meghalaya,South West Garo Hills,1659.0,3218.0,1.94,0.672,2.886904761904762,False,Tonnes,Tonnes/Hectare
+Cashewnut,619,2018-2019,Meghalaya,West Garo Hills,4008.0,7551.0,1.884,0.672,2.8035714285714284,False,Tonnes,Tonnes/Hectare
+Cashewnut,619,2018-2019,Andaman And Nicobar Islands,North And Middle Andaman,4.16,6.58,1.582,0.672,2.3541666666666665,False,Tonnes,Tonnes/Hectare
+Cashewnut,619,2018-2019,Karnataka,Belagavi,5175.0,7572.0,1.463,0.672,2.1770833333333335,False,Tonnes,Tonnes/Hectare
+Cashewnut,619,2018-2019,Karnataka,Uttara Kannada,4300.0,5977.0,1.39,0.672,2.0684523809523805,False,Tonnes,Tonnes/Hectare
+Cashewnut,619,2018-2019,Karnataka,Kodagu,305.0,410.0,1.344,0.672,2.0,False,Tonnes,Tonnes/Hectare
+Cashewnut,619,2018-2019,Karnataka,Shivamogga,1378.0,1746.0,1.267,0.672,1.8854166666666663,False,Tonnes,Tonnes/Hectare
+Cashewnut,619,2018-2019,Karnataka,Bengaluru Urban,4.0,5.0,1.25,0.672,1.8601190476190474,False,Tonnes,Tonnes/Hectare
+Cashewnut,619,2019-2020,Meghalaya,South West Garo Hills,1660.0,3222.0,1.941,0.625,3.1056,False,Tonnes,Tonnes/Hectare
+Cashewnut,619,2019-2020,Meghalaya,West Garo Hills,4009.0,7555.0,1.885,0.625,3.016,False,Tonnes,Tonnes/Hectare
+Cashewnut,619,2019-2020,Karnataka,Kodagu,251.0,436.0,1.737,0.625,2.7792000000000003,False,Tonnes,Tonnes/Hectare
+Cashewnut,619,2019-2020,Karnataka,Bengaluru Urban,4.0,6.0,1.5,0.625,2.4,False,Tonnes,Tonnes/Hectare
+Cashewnut,619,2019-2020,Karnataka,Chamarajanagar,6.0,9.0,1.5,0.625,2.4,False,Tonnes,Tonnes/Hectare
+Cashewnut,619,2019-2020,Karnataka,Mandya,6.0,9.0,1.5,0.625,2.4,False,Tonnes,Tonnes/Hectare
+Cashewnut,619,2019-2020,Karnataka,Yadgir,2.0,3.0,1.5,0.625,2.4,False,Tonnes,Tonnes/Hectare
+Cashewnut,619,2019-2020,Karnataka,Dakshina Kannada,14095.0,20652.0,1.465,0.625,2.3440000000000003,False,Tonnes,Tonnes/Hectare
+Cashewnut,619,2019-2020,Karnataka,Udupi,18600.0,27253.0,1.465,0.625,2.3440000000000003,False,Tonnes,Tonnes/Hectare
+Cashewnut,619,2019-2020,Karnataka,Bengaluru South,23.0,33.0,1.435,0.625,2.2960000000000003,False,Tonnes,Tonnes/Hectare
+Maize,104,2018-2019,Kerala,Malappuram,0.04,0.6,15.0,2.7,5.555555555555555,True,Tonnes,Tonnes/Hectare
+Maize,104,2018-2019,Tamil Nadu,Kancheepuram,1.0,12.0,12.0,2.7,4.444444444444444,True,Tonnes,Tonnes/Hectare
+Maize,104,2018-2019,Tamil Nadu,Salem,25165.0,267697.0,10.638,2.7,3.9399999999999995,True,Tonnes,Tonnes/Hectare
+Maize,104,2018-2019,Tamil Nadu,Tirunelveli,326.0,3413.0,10.469,2.7,3.8774074074074067,True,Tonnes,Tonnes/Hectare
+Maize,104,2018-2019,West Bengal,Uttar Dinajpur,47840.0,487968.0,10.2,2.7,3.7777777777777772,True,Tonnes,Tonnes/Hectare
+Maize,104,2018-2019,Bihar,Supaul,4595.0,46364.0,10.09,2.7,3.737037037037037,True,Tonnes,Tonnes/Hectare
+Maize,104,2018-2019,Bihar,Katihar,29745.0,299651.0,10.074,2.7,3.731111111111111,True,Tonnes,Tonnes/Hectare
+Maize,104,2018-2019,Tamil Nadu,Virudhunagar,738.0,7429.0,10.066,2.7,3.728148148148148,True,Tonnes,Tonnes/Hectare
+Maize,104,2018-2019,Bihar,Araria,26499.0,263188.0,9.932,2.7,3.6785185185185183,True,Tonnes,Tonnes/Hectare
+Maize,104,2018-2019,Bihar,Purnia,35786.0,337605.0,9.434,2.7,3.4940740740740734,True,Tonnes,Tonnes/Hectare
+Maize,104,2019-2020,Bihar,Supaul,4599.0,51228.0,11.139,3.066,3.6330724070450096,True,Tonnes,Tonnes/Hectare
+Maize,104,2019-2020,Tamil Nadu,The Nilgiris,1.0,11.0,11.0,3.066,3.5877364644487932,True,Tonnes,Tonnes/Hectare
+Maize,104,2019-2020,Telangana,Mulugu,2631.0,28830.0,10.958,3.066,3.5740378343118073,True,Tonnes,Tonnes/Hectare
+Maize,104,2019-2020,Andhra Pradesh,Guntur,47426.0,499538.0,10.533,3.066,3.435420743639922,True,Tonnes,Tonnes/Hectare
+Maize,104,2019-2020,Bihar,Katihar,30965.0,317174.0,10.243,3.066,3.3408349641226356,True,Tonnes,Tonnes/Hectare
+Maize,104,2019-2020,Bihar,Kishanganj,1299.0,13306.0,10.243,3.066,3.3408349641226356,True,Tonnes,Tonnes/Hectare
+Maize,104,2019-2020,West Bengal,Uttar Dinajpur,40000.0,409000.0,10.225,3.066,3.3349641226353555,True,Tonnes,Tonnes/Hectare
+Maize,104,2019-2020,Tamil Nadu,Perambalur,55723.0,560439.0,10.058,3.066,3.280495759947815,True,Tonnes,Tonnes/Hectare
+Maize,104,2019-2020,Tamil Nadu,Tiruppur,21447.0,210611.0,9.82,3.066,3.202870189171559,True,Tonnes,Tonnes/Hectare
+Maize,104,2019-2020,Tamil Nadu,Tiruchirappalli,9685.0,93520.0,9.656,3.066,3.149380300065232,True,Tonnes,Tonnes/Hectare
+Onion,708,2018-2019,Andhra Pradesh,Srikakulam,3.0,7832.0,2610.667,18.705,139.5705426356589,True,Tonnes,Tonnes/Hectare
+Onion,708,2018-2019,Andhra Pradesh,East Godavari,11.0,2156.0,196.0,18.705,10.478481689387865,True,Tonnes,Tonnes/Hectare
+Onion,708,2018-2019,Andhra Pradesh,Prakasam,11.0,1540.0,140.0,18.705,7.484629778134189,True,Tonnes,Tonnes/Hectare
+Onion,708,2018-2019,Andhra Pradesh,Guntur,33.0,4532.0,137.333,18.705,7.342047580860733,True,Tonnes,Tonnes/Hectare
+Onion,708,2018-2019,Andhra Pradesh,Ananthapuramu,410.0,53064.0,129.424,18.705,6.919219460037424,True,Tonnes,Tonnes/Hectare
+Onion,708,2018-2019,Andhra Pradesh,Kurnool,2927.0,169290.0,57.837,18.705,3.092060946271051,True,Tonnes,Tonnes/Hectare
+Onion,708,2018-2019,Andhra Pradesh,Y.S.R. Kadapa,1034.0,56353.0,54.5,18.705,2.9136594493450954,True,Tonnes,Tonnes/Hectare
+Onion,708,2018-2019,Telangana,Sangareddy,1347.0,51675.0,38.363,18.705,2.050948944132585,True,Tonnes,Tonnes/Hectare
+Onion,708,2018-2019,Andhra Pradesh,Chittoor,203.0,7678.0,37.823,18.705,2.022079657845496,True,Tonnes,Tonnes/Hectare
+Onion,708,2018-2019,Andhra Pradesh,Srikakulam,173.0,6270.0,36.243,18.705,1.9376102646351245,False,Tonnes,Tonnes/Hectare
+Onion,708,2019-2020,Telangana,Vikarabad,1047.0,53156.0,50.77,18.245,2.7826801863524255,True,Tonnes,Tonnes/Hectare
+Onion,708,2019-2020,Telangana,Mahabubnagar,220.0,9671.0,43.959,18.245,2.40937243080296,True,Tonnes,Tonnes/Hectare
+Onion,708,2019-2020,Haryana,Fatehabad,87.0,3470.0,39.885,18.245,2.186078377637709,True,Tonnes,Tonnes/Hectare
+Onion,708,2019-2020,Gujarat,Amreli,6118.0,239584.0,39.161,18.245,2.1463962729514936,True,Tonnes,Tonnes/Hectare
+Onion,708,2019-2020,Haryana,Bhiwani,962.0,35920.0,37.339,18.245,2.046533296793642,False,Tonnes,Tonnes/Hectare
+Onion,708,2019-2020,Madhya Pradesh,Jhabua,750.0,26250.0,35.0,18.245,1.9183337900794737,False,Tonnes,Tonnes/Hectare
+Onion,708,2019-2020,Telangana,Khammam,2.0,69.0,34.5,18.245,1.890929021649767,False,Tonnes,Tonnes/Hectare
+Onion,708,2019-2020,Telangana,Medchal Malkajgiri,2.0,69.0,34.5,18.245,1.890929021649767,False,Tonnes,Tonnes/Hectare
+Onion,708,2019-2020,Telangana,Nalgonda,2.0,69.0,34.5,18.245,1.890929021649767,False,Tonnes,Tonnes/Hectare
+Onion,708,2019-2020,Telangana,Peddapalli,3.0,103.0,34.333,18.245,1.8817758289942448,False,Tonnes,Tonnes/Hectare
+Sugarcane,401,2018-2019,Tamil Nadu,Tiruppur,2966.0,399067.0,134.547,80.0,1.6818374999999999,False,Tonnes,Tonnes/Hectare
+Sugarcane,401,2018-2019,Puducherry,Puducherry,1444.0,187720.0,130.0,80.0,1.625,False,Tonnes,Tonnes/Hectare
+Sugarcane,401,2018-2019,Tamil Nadu,Erode,12214.0,1580779.0,129.424,80.0,1.6178000000000001,False,Tonnes,Tonnes/Hectare
+Sugarcane,401,2018-2019,Tamil Nadu,Theni,3082.0,371436.0,120.518,80.0,1.506475,False,Tonnes,Tonnes/Hectare
+Sugarcane,401,2018-2019,Tamil Nadu,Namakkal,10813.0,1268693.0,117.33,80.0,1.466625,False,Tonnes,Tonnes/Hectare
+Sugarcane,401,2018-2019,Tamil Nadu,Cuddalore,17138.0,1997499.0,116.554,80.0,1.456925,False,Tonnes,Tonnes/Hectare
+Sugarcane,401,2018-2019,Odisha,Kalahandi,49.0,5674.2,115.8,80.0,1.4475,False,Tonnes,Tonnes/Hectare
+Sugarcane,401,2018-2019,Tamil Nadu,Dindigul,1827.0,210267.0,115.089,80.0,1.4386125,False,Tonnes,Tonnes/Hectare
+Sugarcane,401,2018-2019,Karnataka,Davanagere,890.0,99769.0,112.1,80.0,1.4012499999999999,False,Tonnes,Tonnes/Hectare
+Sugarcane,401,2018-2019,West Bengal,Purulia,455.0,50835.0,111.725,80.0,1.3965625,False,Tonnes,Tonnes/Hectare
+Sugarcane,401,2019-2020,Puducherry,Puducherry,1308.0,183120.0,140.0,80.0,1.75,False,Tonnes,Tonnes/Hectare
+Sugarcane,401,2019-2020,Tamil Nadu,Namakkal,10111.0,1400119.0,138.475,80.0,1.7309375,False,Tonnes,Tonnes/Hectare
+Sugarcane,401,2019-2020,Kerala,Idukki,849.0,112832.1,132.9,80.0,1.6612500000000001,False,Tonnes,Tonnes/Hectare
+Sugarcane,401,2019-2020,Tamil Nadu,Tiruppur,2425.0,313657.0,129.343,80.0,1.6167874999999998,False,Tonnes,Tonnes/Hectare
+Sugarcane,401,2019-2020,Tamil Nadu,Erode,12785.0,1626476.0,127.218,80.0,1.590225,False,Tonnes,Tonnes/Hectare
+Sugarcane,401,2019-2020,Odisha,Sundargarh,82.0,10328.4,125.956,80.0,1.5744500000000001,False,Tonnes,Tonnes/Hectare
+Sugarcane,401,2019-2020,Tamil Nadu,Pudukkottai,2333.0,285922.0,122.556,80.0,1.53195,False,Tonnes,Tonnes/Hectare
+Sugarcane,401,2019-2020,Tamil Nadu,Cuddalore,15248.0,1851533.0,121.428,80.0,1.51785,False,Tonnes,Tonnes/Hectare
+Sugarcane,401,2019-2020,West Bengal,Purulia,1045.0,124883.0,119.505,80.0,1.4938125,False,Tonnes,Tonnes/Hectare
+Sugarcane,401,2019-2020,Karnataka,Tumakuru,404.0,47759.0,118.215,80.0,1.4776875,False,Tonnes,Tonnes/Hectare

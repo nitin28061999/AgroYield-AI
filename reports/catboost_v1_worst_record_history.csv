@@ -1,0 +1,129 @@
+anchor_id,anchor_error,relative_to_anchor,id,year,state_name,district_name,crop_name,crop_code,season,area,area_unit,production,production_unit,yield,yield_unit
+347709,99.64660567261734,CONTEXT,252254,2013-2014,Andhra Pradesh,Ananthapuramu,Onion,708.0,Rabi,611.0,Hectare,14317.0,Tonnes,23.432,Tonnes/Hectare
+347709,99.64660567261734,CONTEXT,270875,2014-2015,Andhra Pradesh,Ananthapuramu,Onion,708.0,Rabi,297.0,Hectare,6767.0,Tonnes,22.785,Tonnes/Hectare
+347709,99.64660567261734,CONTEXT,288887,2015-2016,Andhra Pradesh,Ananthapuramu,Onion,708.0,Rabi,836.0,Hectare,14144.0,Tonnes,16.919,Tonnes/Hectare
+347709,99.64660567261734,CONTEXT,307360,2016-2017,Andhra Pradesh,Ananthapuramu,Onion,708.0,Rabi,254.0,Hectare,6853.0,Tonnes,26.98,Tonnes/Hectare
+347709,99.64660567261734,CONTEXT,327151,2017-2018,Andhra Pradesh,Ananthapuramu,Onion,708.0,Rabi,545.0,Hectare,64992.0,Tonnes,119.251,Tonnes/Hectare
+347709,99.64660567261734,TARGET,347709,2018-2019,Andhra Pradesh,Ananthapuramu,Onion,708.0,Rabi,410.0,Hectare,53064.0,Tonnes,129.424,Tonnes/Hectare
+347709,99.64660567261734,CONTEXT,368454,2019-2020,Andhra Pradesh,Ananthapuramu,Onion,708.0,Rabi,1684.0,Hectare,35287.0,Tonnes,20.954,Tonnes/Hectare
+347747,164.18978326753907,CONTEXT,252295,2013-2014,Andhra Pradesh,Chittoor,Banana,606.0,Whole Year,910.0,Hectare,50203.0,Tonnes,55.168,Tonnes/Hectare
+347747,164.18978326753907,CONTEXT,270916,2014-2015,Andhra Pradesh,Chittoor,Banana,606.0,Whole Year,911.0,Hectare,49174.0,Tonnes,53.978,Tonnes/Hectare
+347747,164.18978326753907,CONTEXT,288917,2015-2016,Andhra Pradesh,Chittoor,Banana,606.0,Whole Year,839.0,Hectare,54301.0,Tonnes,64.721,Tonnes/Hectare
+347747,164.18978326753907,CONTEXT,307390,2016-2017,Andhra Pradesh,Chittoor,Banana,606.0,Whole Year,720.0,Hectare,50139.0,Tonnes,69.638,Tonnes/Hectare
+347747,164.18978326753907,CONTEXT,327182,2017-2018,Andhra Pradesh,Chittoor,Banana,606.0,Whole Year,684.0,Hectare,136380.0,Tonnes,199.386,Tonnes/Hectare
+347747,164.18978326753907,TARGET,347747,2018-2019,Andhra Pradesh,Chittoor,Banana,606.0,Whole Year,568.0,Hectare,143040.0,Tonnes,251.831,Tonnes/Hectare
+347747,164.18978326753907,CONTEXT,368487,2019-2020,Andhra Pradesh,Chittoor,Banana,606.0,Whole Year,2384.0,Hectare,143040.0,Tonnes,60.0,Tonnes/Hectare
+347807,958.5794718866126,CONTEXT,252367,2013-2014,Andhra Pradesh,Chittoor,Turmeric,504.0,Kharif,16.0,Hectare,197.0,Tonnes,12.312,Tonnes/Hectare
+347807,958.5794718866126,CONTEXT,270986,2014-2015,Andhra Pradesh,Chittoor,Turmeric,504.0,Kharif,17.0,Hectare,199.0,Tonnes,11.706,Tonnes/Hectare
+347807,958.5794718866126,CONTEXT,288974,2015-2016,Andhra Pradesh,Chittoor,Turmeric,504.0,Kharif,12.0,Hectare,95.0,Tonnes,7.917,Tonnes/Hectare
+347807,958.5794718866126,CONTEXT,307445,2016-2017,Andhra Pradesh,Chittoor,Turmeric,504.0,Kharif,13.0,Hectare,52.0,Tonnes,4.0,Tonnes/Hectare
+347807,958.5794718866126,CONTEXT,327242,2017-2018,Andhra Pradesh,Chittoor,Turmeric,504.0,Kharif,402.0,Hectare,4824.0,Tonnes,12.0,Tonnes/Hectare
+347807,958.5794718866126,TARGET,347807,2018-2019,Andhra Pradesh,Chittoor,Turmeric,504.0,Kharif,5.0,Hectare,4824.0,Tonnes,964.8,Tonnes/Hectare
+347807,958.5794718866126,CONTEXT,368549,2019-2020,Andhra Pradesh,Chittoor,Turmeric,504.0,Kharif,402.0,Hectare,4824.0,Tonnes,12.0,Tonnes/Hectare
+347845,172.38146215654433,CONTEXT,252414,2013-2014,Andhra Pradesh,East Godavari,Onion,708.0,Rabi,14.0,Hectare,259.0,Tonnes,18.5,Tonnes/Hectare
+347845,172.38146215654433,CONTEXT,271032,2014-2015,Andhra Pradesh,East Godavari,Onion,708.0,Rabi,15.0,Hectare,265.0,Tonnes,17.667,Tonnes/Hectare
+347845,172.38146215654433,CONTEXT,289014,2015-2016,Andhra Pradesh,East Godavari,Onion,708.0,Rabi,10.0,Hectare,142.0,Tonnes,14.2,Tonnes/Hectare
+347845,172.38146215654433,CONTEXT,307489,2016-2017,Andhra Pradesh,East Godavari,Onion,708.0,Rabi,3.0,Hectare,67.0,Tonnes,22.333,Tonnes/Hectare
+347845,172.38146215654433,CONTEXT,327282,2017-2018,Andhra Pradesh,East Godavari,Onion,708.0,Rabi,2.0,Hectare,200.0,Tonnes,100.0,Tonnes/Hectare
+347845,172.38146215654433,TARGET,347845,2018-2019,Andhra Pradesh,East Godavari,Onion,708.0,Rabi,11.0,Hectare,2156.0,Tonnes,196.0,Tonnes/Hectare
+347845,172.38146215654433,CONTEXT,368588,2019-2020,Andhra Pradesh,East Godavari,Onion,708.0,Rabi,125.0,Hectare,2760.0,Tonnes,22.08,Tonnes/Hectare
+347906,113.38594555355978,CONTEXT,252481,2013-2014,Andhra Pradesh,Guntur,Onion,708.0,Rabi,19.0,Hectare,352.0,Tonnes,18.526,Tonnes/Hectare
+347906,113.38594555355978,CONTEXT,271106,2014-2015,Andhra Pradesh,Guntur,Onion,708.0,Rabi,40.0,Hectare,707.0,Tonnes,17.675,Tonnes/Hectare
+347906,113.38594555355978,CONTEXT,289071,2015-2016,Andhra Pradesh,Guntur,Onion,708.0,Rabi,163.0,Hectare,2318.0,Tonnes,14.221,Tonnes/Hectare
+347906,113.38594555355978,CONTEXT,307549,2016-2017,Andhra Pradesh,Guntur,Onion,708.0,Rabi,128.0,Hectare,2849.0,Tonnes,22.258,Tonnes/Hectare
+347906,113.38594555355978,CONTEXT,327341,2017-2018,Andhra Pradesh,Guntur,Onion,708.0,Rabi,102.0,Hectare,2318.0,Tonnes,22.725,Tonnes/Hectare
+347906,113.38594555355978,TARGET,347906,2018-2019,Andhra Pradesh,Guntur,Onion,708.0,Rabi,33.0,Hectare,4532.0,Tonnes,137.333,Tonnes/Hectare
+347930,192.8891852046474,CONTEXT,252512,2013-2014,Andhra Pradesh,Krishna,Banana,606.0,Whole Year,1266.0,Hectare,45738.0,Tonnes,36.128,Tonnes/Hectare
+347930,192.8891852046474,CONTEXT,271134,2014-2015,Andhra Pradesh,Krishna,Banana,606.0,Whole Year,1554.0,Hectare,61764.0,Tonnes,39.745,Tonnes/Hectare
+347930,192.8891852046474,CONTEXT,289092,2015-2016,Andhra Pradesh,Krishna,Banana,606.0,Whole Year,1372.0,Hectare,89260.0,Tonnes,65.058,Tonnes/Hectare
+347930,192.8891852046474,CONTEXT,307571,2016-2017,Andhra Pradesh,Krishna,Banana,606.0,Whole Year,1512.0,Hectare,57364.0,Tonnes,37.939,Tonnes/Hectare
+347930,192.8891852046474,CONTEXT,327366,2017-2018,Andhra Pradesh,Krishna,Banana,606.0,Whole Year,1355.0,Hectare,289920.0,Tonnes,213.963,Tonnes/Hectare
+347930,192.8891852046474,TARGET,347930,2018-2019,Andhra Pradesh,Krishna,Banana,606.0,Whole Year,1305.0,Hectare,336780.0,Tonnes,258.069,Tonnes/Hectare
+347930,192.8891852046474,CONTEXT,368674,2019-2020,Andhra Pradesh,Krishna,Banana,606.0,Whole Year,4771.0,Hectare,286260.0,Tonnes,60.0,Tonnes/Hectare
+348071,116.15169968910665,CONTEXT,252699,2013-2014,Andhra Pradesh,Prakasam,Onion,708.0,Rabi,67.0,Hectare,1241.0,Tonnes,18.522,Tonnes/Hectare
+348071,116.15169968910665,CONTEXT,271313,2014-2015,Andhra Pradesh,Prakasam,Onion,708.0,Rabi,48.0,Hectare,848.0,Tonnes,17.667,Tonnes/Hectare
+348071,116.15169968910665,CONTEXT,289239,2015-2016,Andhra Pradesh,Prakasam,Onion,708.0,Rabi,37.0,Hectare,526.0,Tonnes,14.216,Tonnes/Hectare
+348071,116.15169968910665,CONTEXT,307721,2016-2017,Andhra Pradesh,Prakasam,Onion,708.0,Rabi,3.0,Hectare,67.0,Tonnes,22.333,Tonnes/Hectare
+348071,116.15169968910665,CONTEXT,327515,2017-2018,Andhra Pradesh,Prakasam,Onion,708.0,Rabi,46.0,Hectare,3200.0,Tonnes,69.565,Tonnes/Hectare
+348071,116.15169968910665,TARGET,348071,2018-2019,Andhra Pradesh,Prakasam,Onion,708.0,Rabi,11.0,Hectare,1540.0,Tonnes,140.0,Tonnes/Hectare
+348108,79.46106032426574,CONTEXT,252742,2013-2014,Andhra Pradesh,Sri Potti Sriramulu Nellore,Banana,606.0,Whole Year,816.0,Hectare,25764.0,Tonnes,31.574,Tonnes/Hectare
+348108,79.46106032426574,CONTEXT,271358,2014-2015,Andhra Pradesh,Sri Potti Sriramulu Nellore,Banana,606.0,Whole Year,551.0,Hectare,11725.0,Tonnes,21.279,Tonnes/Hectare
+348108,79.46106032426574,CONTEXT,289277,2015-2016,Andhra Pradesh,Sri Potti Sriramulu Nellore,Banana,606.0,Whole Year,726.0,Hectare,19065.0,Tonnes,26.26,Tonnes/Hectare
+348108,79.46106032426574,CONTEXT,307757,2016-2017,Andhra Pradesh,Sri Potti Sriramulu Nellore,Banana,606.0,Whole Year,813.0,Hectare,21919.0,Tonnes,26.961,Tonnes/Hectare
+348108,79.46106032426574,CONTEXT,327548,2017-2018,Andhra Pradesh,Sri Potti Sriramulu Nellore,Banana,606.0,Whole Year,763.0,Hectare,92700.0,Tonnes,121.494,Tonnes/Hectare
+348108,79.46106032426574,TARGET,348108,2018-2019,Andhra Pradesh,Sri Potti Sriramulu Nellore,Banana,606.0,Whole Year,670.0,Hectare,96720.0,Tonnes,144.358,Tonnes/Hectare
+348108,79.46106032426574,CONTEXT,368857,2019-2020,Andhra Pradesh,Sri Potti Sriramulu Nellore,Banana,606.0,Whole Year,962.0,Hectare,57720.0,Tonnes,60.0,Tonnes/Hectare
+348162,46.674043174115226,CONTEXT,252809,2013-2014,Andhra Pradesh,Srikakulam,Banana,606.0,Whole Year,2422.0,Hectare,47549.0,Tonnes,19.632,Tonnes/Hectare
+348162,46.674043174115226,CONTEXT,271419,2014-2015,Andhra Pradesh,Srikakulam,Banana,606.0,Whole Year,2487.0,Hectare,798.0,Tonnes,0.321,Tonnes/Hectare
+348162,46.674043174115226,CONTEXT,289333,2015-2016,Andhra Pradesh,Srikakulam,Banana,606.0,Whole Year,2349.0,Hectare,50569.0,Tonnes,21.528,Tonnes/Hectare
+348162,46.674043174115226,CONTEXT,307811,2016-2017,Andhra Pradesh,Srikakulam,Banana,606.0,Whole Year,1682.0,Hectare,55762.0,Tonnes,33.152,Tonnes/Hectare
+348162,46.674043174115226,CONTEXT,327603,2017-2018,Andhra Pradesh,Srikakulam,Banana,606.0,Whole Year,1561.0,Hectare,188220.0,Tonnes,120.577,Tonnes/Hectare
+348162,46.674043174115226,TARGET,348162,2018-2019,Andhra Pradesh,Srikakulam,Banana,606.0,Whole Year,1659.0,Hectare,188220.0,Tonnes,113.454,Tonnes/Hectare
+348162,46.674043174115226,CONTEXT,368916,2019-2020,Andhra Pradesh,Srikakulam,Banana,606.0,Whole Year,3152.0,Hectare,189120.0,Tonnes,60.0,Tonnes/Hectare
+348187,2351.793440528307,CONTEXT,252839,2013-2014,Andhra Pradesh,Srikakulam,Onion,708.0,Kharif,16.0,Hectare,301.0,Tonnes,18.812,Tonnes/Hectare
+348187,2351.793440528307,CONTEXT,271448,2014-2015,Andhra Pradesh,Srikakulam,Onion,708.0,Kharif,4.0,Hectare,73.0,Tonnes,18.25,Tonnes/Hectare
+348187,2351.793440528307,CONTEXT,289354,2015-2016,Andhra Pradesh,Srikakulam,Onion,708.0,Kharif,16.0,Hectare,268.0,Tonnes,16.75,Tonnes/Hectare
+348187,2351.793440528307,CONTEXT,307836,2016-2017,Andhra Pradesh,Srikakulam,Onion,708.0,Kharif,16.0,Hectare,379.0,Tonnes,23.688,Tonnes/Hectare
+348187,2351.793440528307,CONTEXT,327626,2017-2018,Andhra Pradesh,Srikakulam,Onion,708.0,Kharif,2.0,Hectare,8140.0,Tonnes,4070.0,Tonnes/Hectare
+348187,2351.793440528307,TARGET,348187,2018-2019,Andhra Pradesh,Srikakulam,Onion,708.0,Kharif,3.0,Hectare,7832.0,Tonnes,2610.667,Tonnes/Hectare
+348187,2351.793440528307,CONTEXT,368940,2019-2020,Andhra Pradesh,Srikakulam,Onion,708.0,Kharif,4.0,Hectare,96.0,Tonnes,24.0,Tonnes/Hectare
+350641,40.70529391852524,CONTEXT,255014,2013-2014,Bihar,Saharsa,Jute,1102.0,Kharif,52.0,Hectare,723.0,Tonnes,13.904,Tonnes/Hectare
+350641,40.70529391852524,CONTEXT,273628,2014-2015,Bihar,Saharsa,Jute,1102.0,Kharif,2.0,Hectare,27.0,Tonnes,13.5,Tonnes/Hectare
+350641,40.70529391852524,CONTEXT,291393,2015-2016,Bihar,Saharsa,Jute,1102.0,Kharif,2.0,Hectare,44.0,Tonnes,22.0,Tonnes/Hectare
+350641,40.70529391852524,CONTEXT,310333,2016-2017,Bihar,Saharsa,Jute,1102.0,Kharif,2.0,Hectare,44.0,Tonnes,22.0,Tonnes/Hectare
+350641,40.70529391852524,CONTEXT,330063,2017-2018,Bihar,Saharsa,Jute,1102.0,Kharif,2.0,Hectare,50.0,Tonnes,25.0,Tonnes/Hectare
+350641,40.70529391852524,TARGET,350641,2018-2019,Bihar,Saharsa,Jute,1102.0,Kharif,2.0,Hectare,22.0,Tonnes,11.0,Tonnes/Hectare
+350641,40.70529391852524,CONTEXT,371465,2019-2020,Bihar,Saharsa,Jute,1102.0,Kharif,2.0,Hectare,22.0,Tonnes,11.0,Tonnes/Hectare
+353016,83.13149592154612,CONTEXT,257210,2013-2014,Haryana,Fatehabad,Turmeric,504.0,Whole Year,10.0,Hectare,110.0,Tonnes,11.0,Tonnes/Hectare
+353016,83.13149592154612,CONTEXT,275990,2014-2015,Haryana,Fatehabad,Turmeric,504.0,Whole Year,8.0,Hectare,80.0,Tonnes,10.0,Tonnes/Hectare
+353016,83.13149592154612,CONTEXT,293715,2015-2016,Haryana,Fatehabad,Turmeric,504.0,Whole Year,5.0,Hectare,40.0,Tonnes,8.0,Tonnes/Hectare
+353016,83.13149592154612,CONTEXT,312684,2016-2017,Haryana,Fatehabad,Turmeric,504.0,Whole Year,8.0,Hectare,75.0,Tonnes,9.375,Tonnes/Hectare
+353016,83.13149592154612,CONTEXT,332454,2017-2018,Haryana,Fatehabad,Turmeric,504.0,Whole Year,9.0,Hectare,46.0,Tonnes,5.111,Tonnes/Hectare
+353016,83.13149592154612,TARGET,353016,2018-2019,Haryana,Fatehabad,Turmeric,504.0,Whole Year,2.0,Hectare,25.0,Tonnes,12.5,Tonnes/Hectare
+354837,443.08443954996295,CONTEXT,258572,2013-2014,Karnataka,Chamarajanagar,Cashewnut,619.0,Whole Year,38.0,Hectare,34.0,Tonnes,0.895,Tonnes/Hectare
+354837,443.08443954996295,CONTEXT,277420,2014-2015,Karnataka,Chamarajanagar,Cashewnut,619.0,Whole Year,31.0,Hectare,23.0,Tonnes,0.742,Tonnes/Hectare
+354837,443.08443954996295,CONTEXT,295279,2015-2016,Karnataka,Chamarajanagar,Cashewnut,619.0,Whole Year,32.0,Hectare,21.0,Tonnes,0.656,Tonnes/Hectare
+354837,443.08443954996295,CONTEXT,314201,2016-2017,Karnataka,Chamarajanagar,Cashewnut,619.0,Whole Year,28.0,Hectare,16.0,Tonnes,0.571,Tonnes/Hectare
+354837,443.08443954996295,CONTEXT,334209,2017-2018,Karnataka,Chamarajanagar,Cashewnut,619.0,Whole Year,28.0,Hectare,21.0,Tonnes,0.75,Tonnes/Hectare
+354837,443.08443954996295,TARGET,354837,2018-2019,Karnataka,Chamarajanagar,Cashewnut,619.0,Whole Year,1.0,Hectare,1.0,Tonnes,1.0,Tonnes/Hectare
+354837,443.08443954996295,CONTEXT,375812,2019-2020,Karnataka,Chamarajanagar,Cashewnut,619.0,Whole Year,6.0,Hectare,9.0,Tonnes,1.5,Tonnes/Hectare
+355418,215.28074235329115,TARGET,355418,2018-2019,Karnataka,Kalaburagi,Cashewnut,619.0,Whole Year,1.0,Hectare,1.0,Tonnes,1.0,Tonnes/Hectare
+367748,66.91906282152195,CONTEXT,270204,2013-2014,West Bengal,Bankura,Jute,1102.0,Kharif,4.0,Hectare,78.0,Tonnes,19.5,Tonnes/Hectare
+367748,66.91906282152195,CONTEXT,288202,2014-2015,West Bengal,Bankura,Jute,1102.0,Kharif,290.0,Hectare,6018.0,Tonnes,20.752,Tonnes/Hectare
+367748,66.91906282152195,CONTEXT,306665,2015-2016,West Bengal,Bankura,Jute,1102.0,Kharif,14.0,Hectare,253.0,Tonnes,18.071,Tonnes/Hectare
+367748,66.91906282152195,CONTEXT,326414,2016-2017,West Bengal,Bankura,Jute,1102.0,Kharif,12.0,Hectare,212.0,Tonnes,17.667,Tonnes/Hectare
+367748,66.91906282152195,CONTEXT,346986,2017-2018,West Bengal,Bankura,Jute,1102.0,Kharif,51.0,Hectare,699.0,Tonnes,13.706,Tonnes/Hectare
+367748,66.91906282152195,TARGET,367748,2018-2019,West Bengal,Bankura,Jute,1102.0,Kharif,2.0,Hectare,34.0,Tonnes,17.0,Tonnes/Hectare
+367748,66.91906282152195,CONTEXT,389935,2019-2020,West Bengal,Bankura,Jute,1102.0,Kharif,40.0,Hectare,646.0,Tonnes,16.15,Tonnes/Hectare
+367935,64.61875511593959,CONTEXT,270376,2013-2014,West Bengal,Howrah,Jute,1102.0,Kharif,1877.0,Hectare,40819.0,Tonnes,21.747,Tonnes/Hectare
+367935,64.61875511593959,CONTEXT,288385,2014-2015,West Bengal,Howrah,Jute,1102.0,Kharif,2237.0,Hectare,39378.0,Tonnes,17.603,Tonnes/Hectare
+367935,64.61875511593959,CONTEXT,306854,2015-2016,West Bengal,Howrah,Jute,1102.0,Kharif,4954.0,Hectare,114767.0,Tonnes,23.167,Tonnes/Hectare
+367935,64.61875511593959,CONTEXT,326613,2016-2017,West Bengal,Howrah,Jute,1102.0,Kharif,3639.0,Hectare,94005.0,Tonnes,25.833,Tonnes/Hectare
+367935,64.61875511593959,CONTEXT,347181,2017-2018,West Bengal,Howrah,Jute,1102.0,Kharif,3867.0,Hectare,12961.0,Tonnes,3.352,Tonnes/Hectare
+367935,64.61875511593959,TARGET,367935,2018-2019,West Bengal,Howrah,Jute,1102.0,Kharif,4245.0,Hectare,352272.0,Tonnes,82.985,Tonnes/Hectare
+367935,64.61875511593959,CONTEXT,390118,2019-2020,West Bengal,Howrah,Jute,1102.0,Kharif,4220.0,Hectare,92120.0,Tonnes,21.829,Tonnes/Hectare
+368315,163.10912941389628,CONTEXT,270718,2013-2014,West Bengal,South 24 Parganas,Jute,1102.0,Kharif,1494.0,Hectare,31600.0,Tonnes,21.151,Tonnes/Hectare
+368315,163.10912941389628,CONTEXT,288737,2014-2015,West Bengal,South 24 Parganas,Jute,1102.0,Kharif,527.0,Hectare,10997.0,Tonnes,20.867,Tonnes/Hectare
+368315,163.10912941389628,CONTEXT,307209,2015-2016,West Bengal,South 24 Parganas,Jute,1102.0,Kharif,641.0,Hectare,9386.0,Tonnes,14.643,Tonnes/Hectare
+368315,163.10912941389628,CONTEXT,327008,2016-2017,West Bengal,South 24 Parganas,Jute,1102.0,Kharif,486.0,Hectare,8539.0,Tonnes,17.57,Tonnes/Hectare
+368315,163.10912941389628,CONTEXT,347568,2017-2018,West Bengal,South 24 Parganas,Jute,1102.0,Kharif,295.0,Hectare,6308.0,Tonnes,21.383,Tonnes/Hectare
+368315,163.10912941389628,TARGET,368315,2018-2019,West Bengal,South 24 Parganas,Jute,1102.0,Kharif,349.0,Hectare,62922.0,Tonnes,180.292,Tonnes/Hectare
+368315,163.10912941389628,CONTEXT,390502,2019-2020,West Bengal,South 24 Parganas,Jute,1102.0,Kharif,674.0,Hectare,18339.0,Tonnes,27.209,Tonnes/Hectare
+368940,91.89839303772604,CONTEXT,271448,2014-2015,Andhra Pradesh,Srikakulam,Onion,708.0,Kharif,4.0,Hectare,73.0,Tonnes,18.25,Tonnes/Hectare
+368940,91.89839303772604,CONTEXT,289354,2015-2016,Andhra Pradesh,Srikakulam,Onion,708.0,Kharif,16.0,Hectare,268.0,Tonnes,16.75,Tonnes/Hectare
+368940,91.89839303772604,CONTEXT,307836,2016-2017,Andhra Pradesh,Srikakulam,Onion,708.0,Kharif,16.0,Hectare,379.0,Tonnes,23.688,Tonnes/Hectare
+368940,91.89839303772604,CONTEXT,327626,2017-2018,Andhra Pradesh,Srikakulam,Onion,708.0,Kharif,2.0,Hectare,8140.0,Tonnes,4070.0,Tonnes/Hectare
+368940,91.89839303772604,CONTEXT,348187,2018-2019,Andhra Pradesh,Srikakulam,Onion,708.0,Kharif,3.0,Hectare,7832.0,Tonnes,2610.667,Tonnes/Hectare
+368940,91.89839303772604,TARGET,368940,2019-2020,Andhra Pradesh,Srikakulam,Onion,708.0,Kharif,4.0,Hectare,96.0,Tonnes,24.0,Tonnes/Hectare
+380311,116.89840694302359,CONTEXT,280427,2014-2015,Manipur,Bishnupur,Banana,606.0,Whole Year,761.0,Hectare,10425.7,Tonnes,13.7,Tonnes/Hectare
+380311,116.89840694302359,CONTEXT,298880,2015-2016,Manipur,Bishnupur,Banana,606.0,Whole Year,799.0,Hectare,10877.61,Tonnes,13.614,Tonnes/Hectare
+380311,116.89840694302359,CONTEXT,317731,2016-2017,Manipur,Bishnupur,Banana,606.0,Whole Year,820.0,Hectare,11152.0,Tonnes,13.6,Tonnes/Hectare
+380311,116.89840694302359,CONTEXT,338088,2017-2018,Manipur,Bishnupur,Banana,606.0,Whole Year,827.0,Hectare,11275.0,Tonnes,13.634,Tonnes/Hectare
+380311,116.89840694302359,CONTEXT,358866,2018-2019,Manipur,Bishnupur,Banana,606.0,Whole Year,858.0,Hectare,11657.0,Tonnes,13.586,Tonnes/Hectare
+380311,116.89840694302359,TARGET,380311,2019-2020,Manipur,Bishnupur,Banana,606.0,Whole Year,876.0,Hectare,117034.0,Tonnes,133.6,Tonnes/Hectare
+380321,115.49962757839238,CONTEXT,280496,2014-2015,Manipur,Imphal East,Banana,606.0,Whole Year,779.0,Hectare,10895.0,Tonnes,13.986,Tonnes/Hectare
+380321,115.49962757839238,CONTEXT,298947,2015-2016,Manipur,Imphal East,Banana,606.0,Whole Year,396.0,Hectare,5544.0,Tonnes,14.0,Tonnes/Hectare
+380321,115.49962757839238,CONTEXT,317799,2016-2017,Manipur,Imphal East,Banana,606.0,Whole Year,401.0,Hectare,5620.0,Tonnes,14.015,Tonnes/Hectare
+380321,115.49962757839238,CONTEXT,338156,2017-2018,Manipur,Imphal East,Banana,606.0,Whole Year,401.0,Hectare,5401.0,Tonnes,13.469,Tonnes/Hectare
+380321,115.49962757839238,CONTEXT,358935,2018-2019,Manipur,Imphal East,Banana,606.0,Whole Year,412.0,Hectare,5644.0,Tonnes,13.699,Tonnes/Hectare
+380321,115.49962757839238,TARGET,380321,2019-2020,Manipur,Imphal East,Banana,606.0,Whole Year,470.0,Hectare,62735.0,Tonnes,133.479,Tonnes/Hectare

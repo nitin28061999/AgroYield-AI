@@ -1,0 +1,5 @@
+target_quality,records,crops,states
+missing_production,4973,53,30
+positive_production_rounded_zero_yield,30,7,5
+valid_positive_yield,398343,80,34
+zero_production,3969,84,23

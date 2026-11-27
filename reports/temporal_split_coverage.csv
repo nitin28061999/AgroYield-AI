@@ -1,0 +1,4 @@
+split,records,crop_identities,districts,unseen_crops_vs_train,unseen_districts_vs_train,outlier_flags
+train,306119,97,688,0,0,1208
+validation,37034,59,707,0,21,333
+test,55190,56,737,1,52,453

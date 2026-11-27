@@ -1,0 +1,101 @@
+id,year,state_name,state_code,district_name,district_code,crop_name,crop_code,crop_type,season,area,area_unit,production,production_unit,yield,yield_unit,crop_code_num,calculated_yield
+6891,1997-1998,Tamil Nadu,33,Madurai,578,Sugarcane,401.0,Sugar,Whole Year,8108.0,Hectare,18223000.0,Tonnes,2247.533,Tonnes/Hectare,401.0,2247.533300444006
+7185,1997-1998,Tamil Nadu,33,Thiruvallur,589,Sugarcane,401.0,Sugar,Whole Year,5964.0,Hectare,11811000.0,Tonnes,1980.382,Tonnes/Hectare,401.0,1980.3822937625755
+6821,1997-1998,Tamil Nadu,33,Kancheepuram,574,Sugarcane,401.0,Sugar,Whole Year,6735.0,Hectare,9896000.0,Tonnes,1469.339,Tonnes/Hectare,401.0,1469.3392724573125
+6947,1997-1998,Tamil Nadu,33,Namakkal,580,Sugarcane,401.0,Sugar,Whole Year,9415.0,Hectare,13608000.0,Tonnes,1445.353,Tonnes/Hectare,401.0,1445.3531598513011
+7268,1997-1998,Tamil Nadu,33,Tiruchirappalli,591,Sugarcane,401.0,Sugar,Whole Year,4315.0,Hectare,5806000.0,Tonnes,1345.539,Tonnes/Hectare,401.0,1345.5388180764774
+6688,1997-1998,Tamil Nadu,33,Cuddalore,570,Sugarcane,401.0,Sugar,Whole Year,23826.0,Hectare,28322000.0,Tonnes,1188.701,Tonnes/Hectare,401.0,1188.7014186183162
+6860,1997-1998,Tamil Nadu,33,Karur,576,Sugarcane,401.0,Sugar,Whole Year,5961.0,Hectare,7081000.0,Tonnes,1187.888,Tonnes/Hectare,401.0,1187.8879382653918
+7062,1997-1998,Tamil Nadu,33,Salem,584,Sugarcane,401.0,Sugar,Whole Year,13759.0,Hectare,15866000.0,Tonnes,1153.136,Tonnes/Hectare,401.0,1153.1361290791483
+6656,1997-1998,Tamil Nadu,33,Coimbatore,569,Sugarcane,401.0,Sugar,Whole Year,10756.0,Hectare,12272000.0,Tonnes,1140.945,Tonnes/Hectare,401.0,1140.9445890665675
+7402,1997-1998,Tamil Nadu,33,Viluppuram,596,Sugarcane,401.0,Sugar,Whole Year,33175.0,Hectare,37158000.0,Tonnes,1120.06,Tonnes/Hectare,401.0,1120.060286360211
+6795,1997-1998,Tamil Nadu,33,Erode,573,Sugarcane,401.0,Sugar,Whole Year,24112.0,Hectare,26930000.0,Tonnes,1116.871,Tonnes/Hectare,401.0,1116.8712674187127
+7161,1997-1998,Tamil Nadu,33,Theni,588,Sugarcane,401.0,Sugar,Whole Year,9524.0,Hectare,10598000.0,Tonnes,1112.768,Tonnes/Hectare,401.0,1112.767744645107
+7132,1997-1998,Tamil Nadu,33,The Nilgiris,587,Sugarcane,401.0,Sugar,Whole Year,22.0,Hectare,24000.0,Tonnes,1090.909,Tonnes/Hectare,401.0,1090.909090909091
+7237,1997-1998,Tamil Nadu,33,Thoothukkudi,594,Sugarcane,401.0,Sugar,Whole Year,90.0,Hectare,97000.0,Tonnes,1077.778,Tonnes/Hectare,401.0,1077.7777777777778
+7302,1997-1998,Tamil Nadu,33,Tirunelveli,592,Sugarcane,401.0,Sugar,Whole Year,2237.0,Hectare,2402000.0,Tonnes,1073.759,Tonnes/Hectare,401.0,1073.759499329459
+6914,1997-1998,Tamil Nadu,33,Nagapattinam,579,Sugarcane,401.0,Sugar,Whole Year,4601.0,Hectare,4940000.0,Tonnes,1073.68,Tonnes/Hectare,401.0,1073.6796348619864
+7004,1997-1998,Tamil Nadu,33,Pudukkottai,582,Sugarcane,401.0,Sugar,Whole Year,2377.0,Hectare,2552000.0,Tonnes,1073.622,Tonnes/Hectare,401.0,1073.6222128733698
+7435,1997-1998,Tamil Nadu,33,Virudhunagar,597,Sugarcane,401.0,Sugar,Whole Year,2639.0,Hectare,2833000.0,Tonnes,1073.513,Tonnes/Hectare,401.0,1073.5126942023494
+7030,1997-1998,Tamil Nadu,33,Ramanathapuram,583,Sugarcane,401.0,Sugar,Whole Year,182.0,Hectare,195000.0,Tonnes,1071.429,Tonnes/Hectare,401.0,1071.4285714285713
+6722,1997-1998,Tamil Nadu,33,Dharmapuri,571,Sugarcane,401.0,Sugar,Whole Year,18938.0,Hectare,18100000.0,Tonnes,955.75,Tonnes/Hectare,401.0,955.7503432252614
+6975,1997-1998,Tamil Nadu,33,Perambalur,581,Sugarcane,401.0,Sugar,Whole Year,11508.0,Hectare,10448000.0,Tonnes,907.89,Tonnes/Hectare,401.0,907.8901633646159
+7335,1997-1998,Tamil Nadu,33,Tiruvannamalai,593,Sugarcane,401.0,Sugar,Whole Year,27636.0,Hectare,23914000.0,Tonnes,865.321,Tonnes/Hectare,401.0,865.3205963236359
+6758,1997-1998,Tamil Nadu,33,Dindigul,572,Sugarcane,401.0,Sugar,Whole Year,6826.0,Hectare,5749000.0,Tonnes,842.221,Tonnes/Hectare,401.0,842.2209200117198
+7090,1997-1998,Tamil Nadu,33,Sivaganga,585,Sugarcane,401.0,Sugar,Whole Year,4794.0,Hectare,3938000.0,Tonnes,821.443,Tonnes/Hectare,401.0,821.4434710054235
+7115,1997-1998,Tamil Nadu,33,Thanjavur,586,Sugarcane,401.0,Sugar,Whole Year,12604.0,Hectare,9900000.0,Tonnes,785.465,Tonnes/Hectare,401.0,785.4649317676927
+7371,1997-1998,Tamil Nadu,33,Vellore,595,Sugarcane,401.0,Sugar,Whole Year,29072.0,Hectare,22069000.0,Tonnes,759.115,Tonnes/Hectare,401.0,759.1152999449642
+7203,1997-1998,Tamil Nadu,33,Thiruvarur,590,Sugarcane,401.0,Sugar,Whole Year,3669.0,Hectare,2287000.0,Tonnes,623.331,Tonnes/Hectare,401.0,623.3306077950396
+1369,1997-1998,Bihar,10,Buxar,194,Sugarcane,401.0,Sugar,Whole Year,59.0,Hectare,29529.0,Tonnes,500.492,Tonnes/Hectare,401.0,500.49152542372883
+416319,2021-2022,Chhattisgarh,22,Narayanpur,637,Sugarcane,401.0,Sugar,Whole Year,1.0,Hectare,420.0,Tonnes,420.0,Tonnes/Hectare,401.0,420.0
+178872,2008-2009,Tamil Nadu,33,Coimbatore,569,Sugarcane,401.0,Sugar,Whole Year,2581.0,Hectare,812334.0,Tonnes,314.736,Tonnes/Hectare,401.0,314.7361487795428
+20333,1998-1999,Tamil Nadu,33,Madurai,578,Sugarcane,401.0,Sugar,Whole Year,10081.0,Hectare,3059430.0,Tonnes,303.485,Tonnes/Hectare,401.0,303.48477333597856
+179192,2008-2009,Tamil Nadu,33,Perambalur,581,Sugarcane,401.0,Sugar,Whole Year,3688.0,Hectare,952805.0,Tonnes,258.353,Tonnes/Hectare,401.0,258.3527657266811
+20264,1998-1999,Tamil Nadu,33,Kancheepuram,574,Sugarcane,401.0,Sugar,Whole Year,23801.0,Hectare,5775500.0,Tonnes,242.658,Tonnes/Hectare,401.0,242.65787151800345
+301607,2015-2016,Rajasthan,8,Sawai Madhopur,113,Sugarcane,401.0,Sugar,Whole Year,45.0,Hectare,10528.0,Tonnes,233.956,Tonnes/Hectare,401.0,233.95555555555555
+432936,2021-2022,West Bengal,19,Bankura,305,Sugarcane,401.0,Sugar,Whole Year,28.0,Hectare,6453.0,Tonnes,230.464,Tonnes/Hectare,401.0,230.46428571428572
+173734,2008-2009,Kerala,32,Pathanamthitta,564,Sugarcane,401.0,Sugar,Whole Year,14.0,Hectare,3210.0,Tonnes,229.286,Tonnes/Hectare,401.0,229.28571428571428
+20570,1998-1999,Tamil Nadu,33,Theni,588,Sugarcane,401.0,Sugar,Whole Year,16133.0,Hectare,3617820.0,Tonnes,224.25,Tonnes/Hectare,401.0,224.2496745800533
+270609,2013-2014,West Bengal,19,Paschim Medinipur,318,Sugarcane,401.0,Sugar,Whole Year,3210.0,Hectare,708183.0,Tonnes,220.618,Tonnes/Hectare,401.0,220.61775700934578
+146534,2006-2007,Tamil Nadu,33,Namakkal,580,Sugarcane,401.0,Sugar,Whole Year,21058.0,Hectare,3967643.0,Tonnes,188.415,Tonnes/Hectare,401.0,188.41499667584765
+320521,2016-2017,Rajasthan,8,Sawai Madhopur,113,Sugarcane,401.0,Sugar,Whole Year,16.0,Hectare,2962.0,Tonnes,185.125,Tonnes/Hectare,401.0,185.125
+173618,2008-2009,Kerala,32,Kannur,557,Sugarcane,401.0,Sugar,Whole Year,40.0,Hectare,7220.0,Tonnes,180.5,Tonnes/Hectare,401.0,180.5
+416141,2021-2022,Chhattisgarh,22,Kondagaon,643,Sugarcane,401.0,Sugar,Whole Year,10.0,Hectare,1800.0,Tonnes,180.0,Tonnes/Hectare,401.0,180.0
+288624,2014-2015,West Bengal,19,Paschim Medinipur,318,Sugarcane,401.0,Sugar,Whole Year,4390.0,Hectare,789614.0,Tonnes,179.867,Tonnes/Hectare,401.0,179.86651480637812
+288379,2014-2015,West Bengal,19,Hooghly,312,Sugarcane,401.0,Sugar,Whole Year,830.0,Hectare,149289.0,Tonnes,179.866,Tonnes/Hectare,401.0,179.86626506024098
+234376,2011-2012,West Bengal,19,Bankura,305,Sugarcane,401.0,Sugar,Whole Year,12.0,Hectare,2114.0,Tonnes,176.167,Tonnes/Hectare,401.0,176.16666666666666
+20592,1998-1999,Tamil Nadu,33,Thiruvallur,589,Sugarcane,401.0,Sugar,Whole Year,8284.0,Hectare,1432090.0,Tonnes,172.874,Tonnes/Hectare,401.0,172.87421535490103
+282180,2014-2015,Puducherry,34,Puducherry,600,Sugarcane,401.0,Sugar,Kharif,1921.0,Hectare,316965.0,Tonnes,165.0,Tonnes/Hectare,401.0,165.0
+234766,2011-2012,West Bengal,19,Paschim Medinipur,318,Sugarcane,401.0,Sugar,Whole Year,3208.0,Hectare,524279.0,Tonnes,163.429,Tonnes/Hectare,401.0,163.42861596009976
+13675,1998-1999,Haryana,6,Gurugram,62,Sugarcane,401.0,Sugar,Whole Year,306.0,Hectare,50000.0,Tonnes,163.399,Tonnes/Hectare,401.0,163.3986928104575
+92261,2003-2004,Kerala,32,Kannur,557,Sugarcane,401.0,Sugar,Whole Year,3.0,Hectare,490.0,Tonnes,163.333,Tonnes/Hectare,401.0,163.33333333333334
+110017,2004-2005,Kerala,32,Kannur,557,Sugarcane,401.0,Sugar,Whole Year,4.0,Hectare,650.0,Tonnes,162.5,Tonnes/Hectare,401.0,162.5
+29284,1999-2000,Kerala,32,Kannur,557,Sugarcane,401.0,Sugar,Whole Year,4.0,Hectare,650.0,Tonnes,162.5,Tonnes/Hectare,401.0,162.5
+74526,2002-2003,Kerala,32,Kannur,557,Sugarcane,401.0,Sugar,Whole Year,5.0,Hectare,810.0,Tonnes,162.0,Tonnes/Hectare,401.0,162.0
+44356,2000-2001,Kerala,32,Kannur,557,Sugarcane,401.0,Sugar,Whole Year,5.0,Hectare,810.0,Tonnes,162.0,Tonnes/Hectare,401.0,162.0
+20381,1998-1999,Tamil Nadu,33,Namakkal,580,Sugarcane,401.0,Sugar,Whole Year,9411.0,Hectare,1505330.0,Tonnes,159.954,Tonnes/Hectare,401.0,159.95430878758899
+251990,2012-2013,West Bengal,19,Paschim Medinipur,318,Sugarcane,401.0,Sugar,Whole Year,3155.0,Hectare,503642.0,Tonnes,159.633,Tonnes/Hectare,401.0,159.63296354992076
+64284,2001-2002,Tamil Nadu,33,Theni,588,Sugarcane,401.0,Sugar,Whole Year,10790.0,Hectare,1711000.0,Tonnes,158.573,Tonnes/Hectare,401.0,158.57275254865615
+211776,2010-2011,Puducherry,34,Puducherry,600,Sugarcane,401.0,Sugar,Kharif,1764.0,Hectare,277610.0,Tonnes,157.375,Tonnes/Hectare,401.0,157.37528344671202
+229176,2011-2012,Rajasthan,8,Bharatpur,91,Sugarcane,401.0,Sugar,Whole Year,181.0,Hectare,28050.0,Tonnes,154.972,Tonnes/Hectare,401.0,154.97237569060775
+347557,2017-2018,West Bengal,19,Purulia,321,Sugarcane,401.0,Sugar,Whole Year,474.0,Hectare,73088.0,Tonnes,154.194,Tonnes/Hectare,401.0,154.19409282700423
+145096,2006-2007,Puducherry,34,Puducherry,600,Sugarcane,401.0,Sugar,Kharif,2480.0,Hectare,382297.0,Tonnes,154.152,Tonnes/Hectare,401.0,154.15201612903226
+270371,2013-2014,West Bengal,19,Hooghly,312,Sugarcane,401.0,Sugar,Whole Year,831.0,Hectare,126522.0,Tonnes,152.253,Tonnes/Hectare,401.0,152.25270758122744
+426662,2021-2022,Tamil Nadu,33,Kancheepuram,574,Sugarcane,401.0,Sugar,Whole Year,685.0,Hectare,103929.0,Tonnes,151.721,Tonnes/Hectare,401.0,151.72116788321168
+64150,2001-2002,Tamil Nadu,33,Kancheepuram,574,Sugarcane,401.0,Sugar,Whole Year,6165.0,Hectare,932200.0,Tonnes,151.208,Tonnes/Hectare,401.0,151.20843471208434
+264239,2013-2014,Puducherry,34,Puducherry,600,Sugarcane,401.0,Sugar,Kharif,2024.0,Hectare,304066.0,Tonnes,150.23,Tonnes/Hectare,401.0,150.2302371541502
+246846,2012-2013,Puducherry,34,Puducherry,600,Sugarcane,401.0,Sugar,Kharif,2027.0,Hectare,304516.0,Tonnes,150.23,Tonnes/Hectare,401.0,150.22989639861865
+190137,2009-2010,Kerala,32,Kannur,557,Sugarcane,401.0,Sugar,Whole Year,1.0,Hectare,150.0,Tonnes,150.0,Tonnes/Hectare,401.0,150.0
+411986,2020-2021,West Bengal,19,Paschim Bardhaman,704,Sugarcane,401.0,Sugar,Whole Year,27.0,Hectare,4023.0,Tonnes,149.0,Tonnes/Hectare,401.0,149.0
+64138,2001-2002,Tamil Nadu,33,Erode,573,Sugarcane,401.0,Sugar,Whole Year,35875.0,Hectare,5297300.0,Tonnes,147.66,Tonnes/Hectare,401.0,147.65993031358886
+228835,2011-2012,Puducherry,34,Puducherry,600,Sugarcane,401.0,Sugar,Kharif,1949.0,Hectare,287785.0,Tonnes,147.658,Tonnes/Hectare,401.0,147.6577732170344
+131384,2005-2006,Tamil Nadu,33,Theni,588,Sugarcane,401.0,Sugar,Whole Year,7510.0,Hectare,1105908.0,Tonnes,147.258,Tonnes/Hectare,401.0,147.25805592543276
+234524,2011-2012,West Bengal,19,Hooghly,312,Sugarcane,401.0,Sugar,Whole Year,57.0,Hectare,8351.0,Tonnes,146.509,Tonnes/Hectare,401.0,146.50877192982455
+195762,2009-2010,Tamil Nadu,33,Dindigul,572,Sugarcane,401.0,Sugar,Whole Year,5055.0,Hectare,739841.0,Tonnes,146.358,Tonnes/Hectare,401.0,146.35825914935708
+146589,2006-2007,Tamil Nadu,33,Pudukkottai,582,Sugarcane,401.0,Sugar,Whole Year,10204.0,Hectare,1485060.0,Tonnes,145.537,Tonnes/Hectare,401.0,145.53704429635437
+20658,1998-1999,Tamil Nadu,33,Tiruchirappalli,591,Sugarcane,401.0,Sugar,Whole Year,13204.0,Hectare,1899500.0,Tonnes,143.858,Tonnes/Hectare,401.0,143.8579218418661
+129738,2005-2006,Puducherry,34,Puducherry,600,Sugarcane,401.0,Sugar,Whole Year,2074.0,Hectare,297125.0,Tonnes,143.262,Tonnes/Hectare,401.0,143.26181292189005
+427652,2021-2022,Tamil Nadu,33,Thoothukkudi,594,Sugarcane,401.0,Sugar,Whole Year,1.0,Hectare,143.0,Tonnes,143.0,Tonnes/Hectare,401.0,143.0
+140608,2006-2007,Karnataka,29,Mysuru,545,Sugarcane,401.0,Sugar,Whole Year,11178.0,Hectare,1592865.0,Tonnes,142.5,Tonnes/Hectare,401.0,142.5
+295784,2015-2016,Karnataka,29,Hassan,539,Sugarcane,401.0,Sugar,Whole Year,689.0,Hectare,98182.0,Tonnes,142.499,Tonnes/Hectare,401.0,142.49927431059507
+288551,2014-2015,West Bengal,19,Nadia,320,Sugarcane,401.0,Sugar,Whole Year,1754.0,Hectare,248215.0,Tonnes,141.514,Tonnes/Hectare,401.0,141.51368301026227
+207376,2010-2011,Kerala,32,Kannur,557,Sugarcane,401.0,Sugar,Whole Year,1.24,Hectare,175.19,Tonnes,141.282,Tonnes/Hectare,401.0,141.28225806451613
+251750,2012-2013,West Bengal,19,Hooghly,312,Sugarcane,401.0,Sugar,Whole Year,1.0,Hectare,141.0,Tonnes,141.0,Tonnes/Hectare,401.0,141.0
+251597,2012-2013,West Bengal,19,Bankura,305,Sugarcane,401.0,Sugar,Whole Year,1.0,Hectare,141.0,Tonnes,141.0,Tonnes/Hectare,401.0,141.0
+382573,2019-2020,Puducherry,34,Puducherry,600,Sugarcane,401.0,Sugar,Kharif,1308.0,Hectare,183120.0,Tonnes,140.0,Tonnes/Hectare,401.0,140.0
+130867,2005-2006,Tamil Nadu,33,Coimbatore,569,Sugarcane,401.0,Sugar,Whole Year,8894.0,Hectare,1237716.0,Tonnes,139.163,Tonnes/Hectare,401.0,139.1630312570272
+166383,2007-2008,West Bengal,19,Nadia,320,Sugarcane,401.0,Sugar,Whole Year,1943.0,Hectare,270045.0,Tonnes,138.984,Tonnes/Hectare,401.0,138.98353062274833
+131175,2005-2006,Tamil Nadu,33,Namakkal,580,Sugarcane,401.0,Sugar,Whole Year,13278.0,Hectare,1844553.0,Tonnes,138.918,Tonnes/Hectare,401.0,138.9179846362404
+194490,2009-2010,Puducherry,34,Puducherry,600,Sugarcane,401.0,Sugar,Kharif,1784.0,Hectare,247198.0,Tonnes,138.564,Tonnes/Hectare,401.0,138.56390134529147
+264627,2013-2014,Rajasthan,8,Bhilwara,92,Sugarcane,401.0,Sugar,Whole Year,47.0,Hectare,6509.0,Tonnes,138.489,Tonnes/Hectare,401.0,138.48936170212767
+384432,2019-2020,Tamil Nadu,33,Namakkal,580,Sugarcane,401.0,Sugar,Whole Year,10111.0,Hectare,1400119.0,Tonnes,138.475,Tonnes/Hectare,401.0,138.4748293937296
+146231,2006-2007,Tamil Nadu,33,Coimbatore,569,Sugarcane,401.0,Sugar,Whole Year,9456.0,Hectare,1305713.0,Tonnes,138.083,Tonnes/Hectare,401.0,138.0830160744501
+115803,2004-2005,Tamil Nadu,33,Namakkal,580,Sugarcane,401.0,Sugar,Whole Year,9476.0,Hectare,1306920.0,Tonnes,137.919,Tonnes/Hectare,401.0,137.91895314478683
+146356,2006-2007,Tamil Nadu,33,Erode,573,Sugarcane,401.0,Sugar,Whole Year,43891.0,Hectare,6038436.0,Tonnes,137.578,Tonnes/Hectare,401.0,137.57800004556742
+234697,2011-2012,West Bengal,19,Nadia,320,Sugarcane,401.0,Sugar,Whole Year,1780.0,Hectare,244107.0,Tonnes,137.139,Tonnes/Hectare,401.0,137.13876404494383
+335418,2017-2018,Kerala,32,Kannur,557,Sugarcane,401.0,Sugar,Whole Year,2.63,Hectare,360.0,Tonnes,136.882,Tonnes/Hectare,401.0,136.88212927756655
+230276,2011-2012,Tamil Nadu,33,Karur,576,Sugarcane,401.0,Sugar,Whole Year,8130.0,Hectare,1111906.0,Tonnes,136.766,Tonnes/Hectare,401.0,136.7658056580566
+229376,2011-2012,Rajasthan,8,Dholpur,98,Sugarcane,401.0,Sugar,Whole Year,114.0,Hectare,15533.0,Tonnes,136.254,Tonnes/Hectare,401.0,136.25438596491227
+426991,2021-2022,Tamil Nadu,33,Namakkal,580,Sugarcane,401.0,Sugar,Whole Year,10072.0,Hectare,1372136.0,Tonnes,136.233,Tonnes/Hectare,401.0,136.2327243844321
+282803,2014-2015,Rajasthan,8,Jaipur,102,Sugarcane,401.0,Sugar,Whole Year,27.0,Hectare,3675.0,Tonnes,136.111,Tonnes/Hectare,401.0,136.11111111111111
+399243,2020-2021,Karnataka,29,Mysuru,545,Sugarcane,401.0,Sugar,Whole Year,10721.0,Hectare,1458056.0,Tonnes,136.0,Tonnes/Hectare,401.0,136.0

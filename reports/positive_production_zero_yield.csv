@@ -1,0 +1,31 @@
+id,year,state_name,district_name,crop_name,crop_code,season,area,production,yield,calculated_yield
+321474,2016-2017,Tamil Nadu,Sivaganga,Cashewnut,619.0,Whole Year,3324.0,1.0,0.0,0.00030084235860409147
+341893,2017-2018,Tamil Nadu,Ramanathapuram,Cotton(Lint),1101.0,Rabi,2152.0,1.0,0.0,0.00046468401486988845
+194805,2009-2010,Rajasthan,Barmer,Guar Seed,727.0,Whole Year,367347.0,125.0,0.0,0.00034027772106482427
+448395,2022-2023,Tamil Nadu,Coimbatore,Other Cereals,188.0,Rabi,4.0,0.001,0.0,0.00025
+449484,2022-2023,Tamil Nadu,The Nilgiris,Other Cereals,188.0,Kharif,6.0,0.001,0.0,0.00016666666666666666
+449891,2022-2023,Tamil Nadu,Tiruppur,Other Cereals,188.0,Kharif,2.0,0.001,0.0,0.0005
+319869,2016-2017,Rajasthan,Bharatpur,Other Kharif Pulses,288.0,Kharif,2308.0,1.0,0.0,0.0004332755632582322
+89064,2003-2004,Chhattisgarh,Mahasamund,Other Misc. Pulses,288.0,Rabi,41.0,0.01,0.0,0.00024390243902439024
+92721,2003-2004,Madhya Pradesh,Barwani,Other Misc. Pulses,288.0,Kharif,1242.0,0.01,0.0,8.051529790660226e-06
+92764,2003-2004,Madhya Pradesh,Betul,Other Misc. Pulses,288.0,Kharif,26.0,0.01,0.0,0.0003846153846153846
+92810,2003-2004,Madhya Pradesh,Bhind,Other Misc. Pulses,288.0,Kharif,37.0,0.01,0.0,0.0002702702702702703
+92895,2003-2004,Madhya Pradesh,Burhanpur,Other Misc. Pulses,288.0,Kharif,113.0,0.01,0.0,8.849557522123894e-05
+93068,2003-2004,Madhya Pradesh,Datia,Other Misc. Pulses,288.0,Rabi,2970.0,0.01,0.0,3.367003367003367e-06
+93448,2003-2004,Madhya Pradesh,Jhabua,Other Misc. Pulses,288.0,Kharif,113.0,0.01,0.0,8.849557522123894e-05
+93539,2003-2004,Madhya Pradesh,Khandwa (East Nimar),Other Misc. Pulses,288.0,Kharif,755.0,0.01,0.0,1.3245033112582782e-05
+93589,2003-2004,Madhya Pradesh,Khargone (West Nimar),Other Misc. Pulses,288.0,Kharif,611.0,0.01,0.0,1.6366612111292963e-05
+93676,2003-2004,Madhya Pradesh,Mandsaur,Other Misc. Pulses,288.0,Kharif,308.0,0.01,0.0,3.246753246753247e-05
+93843,2003-2004,Madhya Pradesh,Neemuch,Other Misc. Pulses,288.0,Kharif,51.0,0.01,0.0,0.000196078431372549
+93970,2003-2004,Madhya Pradesh,Rajgarh,Other Misc. Pulses,288.0,Kharif,187.0,0.01,0.0,5.347593582887701e-05
+94016,2003-2004,Madhya Pradesh,Ratlam,Other Misc. Pulses,288.0,Kharif,118.0,0.01,0.0,8.474576271186441e-05
+94231,2003-2004,Madhya Pradesh,Seoni,Other Misc. Pulses,288.0,Kharif,78.0,0.01,0.0,0.0001282051282051282
+94392,2003-2004,Madhya Pradesh,Shivpuri,Other Misc. Pulses,288.0,Kharif,515.0,0.01,0.0,1.941747572815534e-05
+225697,2011-2012,Madhya Pradesh,Panna,Other Rabi Pulses,288.0,Rabi,11824.0,5.0,0.0,0.0004228687415426252
+448441,2022-2023,Tamil Nadu,Cuddalore,Other Rabi Pulses,288.0,Rabi,3.0,0.001,0.0,0.0003333333333333333
+48466,2000-2001,Rajasthan,Banswara,Small Millets,108.0,Kharif,4919.0,0.1,0.0,2.0329335230737956e-05
+48785,2000-2001,Rajasthan,Dungarpur,Small Millets,108.0,Kharif,4359.0,2.0,0.0,0.0004588208304657031
+79755,2002-2003,Rajasthan,Dungarpur,Small Millets,108.0,Kharif,4591.0,0.1,0.0,2.178174689610107e-05
+79910,2002-2003,Rajasthan,Jalore,Small Millets,108.0,Kharif,587.0,0.1,0.0,0.00017035775127768315
+137576,2006-2007,Chhattisgarh,Narayanpur,Small Millets,108.0,Kharif,3220.0,1.0,0.0,0.00031055900621118014
+74747,2002-2003,Kerala,Pathanamthitta,Tea,1501.0,Whole Year,1348.0,0.1,0.0,7.418397626112761e-05

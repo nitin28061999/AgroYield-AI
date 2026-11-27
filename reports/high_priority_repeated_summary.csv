@@ -1,0 +1,7 @@
+crop_name,crop_code,repeated_groups,records_in_groups,missing_production_groups,simple_area_groups,simple_production_groups
+Cardamom,506.0,29,135,10,4,8
+Castor Seed,1002.0,103,489,14,47,54
+Linseed,1005.0,80,335,2,27,35
+Mesta,1103.0,37,159,0,9,7
+Niger Seed,1010.0,44,187,7,22,25
+Tobacco,1302.0,80,314,4,35,29

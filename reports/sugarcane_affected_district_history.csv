@@ -1,0 +1,321 @@
+id,year,state_name,state_code,district_name,district_code,crop_name,crop_code,crop_type,season,area,area_unit,production,production_unit,yield,yield_unit,crop_code_num,calculated_yield,extreme_flag
+137578,2006-2007,Chhattisgarh,22,Narayanpur,637,Sugarcane,401.0,Sugar,Whole Year,4.0,Hectare,,Tonnes,0.0,Tonnes/Hectare,401.0,,False
+153757,2007-2008,Chhattisgarh,22,Narayanpur,637,Sugarcane,401.0,Sugar,Whole Year,2.0,Hectare,7.0,Tonnes,3.5,Tonnes/Hectare,401.0,3.5,False
+170111,2008-2009,Chhattisgarh,22,Narayanpur,637,Sugarcane,401.0,Sugar,Whole Year,2.0,Hectare,6.0,Tonnes,3.0,Tonnes/Hectare,401.0,3.0,False
+186436,2009-2010,Chhattisgarh,22,Narayanpur,637,Sugarcane,401.0,Sugar,Whole Year,2.0,Hectare,,Tonnes,0.0,Tonnes/Hectare,401.0,,False
+203472,2010-2011,Chhattisgarh,22,Narayanpur,637,Sugarcane,401.0,Sugar,Whole Year,5.0,Hectare,9.0,Tonnes,1.8,Tonnes/Hectare,401.0,1.8,False
+220342,2011-2012,Chhattisgarh,22,Narayanpur,637,Sugarcane,401.0,Sugar,Whole Year,3.0,Hectare,13.0,Tonnes,4.333,Tonnes/Hectare,401.0,4.333333333333333,False
+238482,2012-2013,Chhattisgarh,22,Narayanpur,637,Sugarcane,401.0,Sugar,Whole Year,3.0,Hectare,11.0,Tonnes,3.667,Tonnes/Hectare,401.0,3.6666666666666665,False
+255994,2013-2014,Chhattisgarh,22,Narayanpur,637,Sugarcane,401.0,Sugar,Whole Year,5.0,Hectare,15.0,Tonnes,3.0,Tonnes/Hectare,401.0,3.0,False
+274601,2014-2015,Chhattisgarh,22,Narayanpur,637,Sugarcane,401.0,Sugar,Whole Year,4.0,Hectare,19.0,Tonnes,4.75,Tonnes/Hectare,401.0,4.75,False
+292362,2015-2016,Chhattisgarh,22,Narayanpur,637,Sugarcane,401.0,Sugar,Whole Year,3.0,Hectare,7.0,Tonnes,2.333,Tonnes/Hectare,401.0,2.3333333333333335,False
+311323,2016-2017,Chhattisgarh,22,Narayanpur,637,Sugarcane,401.0,Sugar,Whole Year,2.0,Hectare,3.0,Tonnes,1.5,Tonnes/Hectare,401.0,1.5,False
+331032,2017-2018,Chhattisgarh,22,Narayanpur,637,Sugarcane,401.0,Sugar,Whole Year,3.0,Hectare,4.0,Tonnes,1.333,Tonnes/Hectare,401.0,1.3333333333333333,False
+351623,2018-2019,Chhattisgarh,22,Narayanpur,637,Sugarcane,401.0,Sugar,Whole Year,3.0,Hectare,5.0,Tonnes,1.667,Tonnes/Hectare,401.0,1.6666666666666667,False
+372485,2019-2020,Chhattisgarh,22,Narayanpur,637,Sugarcane,401.0,Sugar,Whole Year,4.0,Hectare,6.0,Tonnes,1.5,Tonnes/Hectare,401.0,1.5,False
+394773,2020-2021,Chhattisgarh,22,Narayanpur,637,Sugarcane,401.0,Sugar,Whole Year,1.0,Hectare,0.0,Tonnes,0.0,Tonnes/Hectare,401.0,0.0,False
+416319,2021-2022,Chhattisgarh,22,Narayanpur,637,Sugarcane,401.0,Sugar,Whole Year,1.0,Hectare,420.0,Tonnes,420.0,Tonnes/Hectare,401.0,420.0,True
+438333,2022-2023,Chhattisgarh,22,Narayanpur,637,Sugarcane,401.0,Sugar,Whole Year,2.0,Hectare,3.0,Tonnes,1.5,Tonnes/Hectare,401.0,1.5,False
+3852,1997-1998,Karnataka,29,Kodagu,541,Sugarcane,401.0,Sugar,Whole Year,7.0,Hectare,658.0,Tonnes,94.0,Tonnes/Hectare,401.0,94.0,False
+398925,2020-2021,Karnataka,29,Kodagu,541,Sugarcane,401.0,Sugar,Whole Year,1.0,Hectare,96.0,Tonnes,96.0,Tonnes/Hectare,401.0,96.0,False
+420273,2021-2022,Karnataka,29,Kodagu,541,Sugarcane,401.0,Sugar,Whole Year,1.0,Hectare,107.0,Tonnes,107.0,Tonnes/Hectare,401.0,107.0,True
+15900,1998-1999,Kerala,32,Ernakulam,555,Sugarcane,401.0,Sugar,Whole Year,12.0,Hectare,840.0,Tonnes,70.0,Tonnes/Hectare,401.0,70.0,False
+29250,1999-2000,Kerala,32,Ernakulam,555,Sugarcane,401.0,Sugar,Whole Year,15.0,Hectare,1890.0,Tonnes,126.0,Tonnes/Hectare,401.0,126.0,False
+44322,2000-2001,Kerala,32,Ernakulam,555,Sugarcane,401.0,Sugar,Whole Year,14.0,Hectare,1760.0,Tonnes,125.714,Tonnes/Hectare,401.0,125.71428571428571,False
+59098,2001-2002,Kerala,32,Ernakulam,555,Sugarcane,401.0,Sugar,Whole Year,12.0,Hectare,1510.0,Tonnes,125.833,Tonnes/Hectare,401.0,125.83333333333333,False
+74460,2002-2003,Kerala,32,Ernakulam,555,Sugarcane,401.0,Sugar,Whole Year,8.0,Hectare,1010.0,Tonnes,126.25,Tonnes/Hectare,401.0,126.25,True
+92204,2003-2004,Kerala,32,Ernakulam,555,Sugarcane,401.0,Sugar,Whole Year,1.0,Hectare,130.0,Tonnes,130.0,Tonnes/Hectare,401.0,130.0,True
+109981,2004-2005,Kerala,32,Ernakulam,555,Sugarcane,401.0,Sugar,Whole Year,1.0,Hectare,130.0,Tonnes,130.0,Tonnes/Hectare,401.0,130.0,True
+126015,2005-2006,Kerala,32,Ernakulam,555,Sugarcane,401.0,Sugar,Whole Year,6.0,Hectare,400.0,Tonnes,66.667,Tonnes/Hectare,401.0,66.66666666666667,False
+157344,2007-2008,Kerala,32,Ernakulam,555,Sugarcane,401.0,Sugar,Whole Year,8.0,Hectare,230.0,Tonnes,28.75,Tonnes/Hectare,401.0,28.75,False
+173583,2008-2009,Kerala,32,Ernakulam,555,Sugarcane,401.0,Sugar,Whole Year,2.0,Hectare,,Tonnes,0.0,Tonnes/Hectare,401.0,,False
+190103,2009-2010,Kerala,32,Ernakulam,555,Sugarcane,401.0,Sugar,Whole Year,5.0,Hectare,,Tonnes,0.0,Tonnes/Hectare,401.0,,False
+207350,2010-2011,Kerala,32,Ernakulam,555,Sugarcane,401.0,Sugar,Whole Year,1.36,Hectare,,Tonnes,0.0,Tonnes/Hectare,401.0,,False
+224460,2011-2012,Kerala,32,Ernakulam,555,Sugarcane,401.0,Sugar,Whole Year,12.93,Hectare,,Tonnes,0.0,Tonnes/Hectare,401.0,,False
+242448,2012-2013,Kerala,32,Ernakulam,555,Sugarcane,401.0,Sugar,Whole Year,1.0,Hectare,,Tonnes,0.0,Tonnes/Hectare,401.0,,False
+259801,2013-2014,Kerala,32,Ernakulam,555,Sugarcane,401.0,Sugar,Whole Year,1.0,Hectare,,Tonnes,0.0,Tonnes/Hectare,401.0,,False
+278625,2014-2015,Kerala,32,Ernakulam,555,Sugarcane,401.0,Sugar,Whole Year,0.2,Hectare,,Tonnes,0.0,Tonnes/Hectare,401.0,,False
+296513,2015-2016,Kerala,32,Ernakulam,555,Sugarcane,401.0,Sugar,Whole Year,0.31,Hectare,,Tonnes,0.0,Tonnes/Hectare,401.0,,False
+315383,2016-2017,Kerala,32,Ernakulam,555,Sugarcane,401.0,Sugar,Whole Year,0.004,Hectare,,Tonnes,0.0,Tonnes/Hectare,401.0,,False
+335382,2017-2018,Kerala,32,Ernakulam,555,Sugarcane,401.0,Sugar,Whole Year,0.16,Hectare,,Tonnes,0.0,Tonnes/Hectare,401.0,,False
+356126,2018-2019,Kerala,32,Ernakulam,555,Sugarcane,401.0,Sugar,Whole Year,0.008,Hectare,0.68,Tonnes,85.0,Tonnes/Hectare,401.0,85.0,False
+377316,2019-2020,Kerala,32,Ernakulam,555,Sugarcane,401.0,Sugar,Whole Year,4.0,Hectare,,Tonnes,0.0,Tonnes/Hectare,401.0,,False
+399771,2020-2021,Kerala,32,Ernakulam,555,Sugarcane,401.0,Sugar,Whole Year,4.0,Hectare,20.0,Tonnes,5.0,Tonnes/Hectare,401.0,5.0,False
+421056,2021-2022,Kerala,32,Ernakulam,555,Sugarcane,401.0,Sugar,Whole Year,4.0,Hectare,10.0,Tonnes,2.5,Tonnes/Hectare,401.0,2.5,False
+442809,2022-2023,Kerala,32,Ernakulam,555,Sugarcane,401.0,Sugar,Whole Year,5.25,Hectare,37.37,Tonnes,7.118,Tonnes/Hectare,401.0,7.118095238095238,False
+15936,1998-1999,Kerala,32,Kannur,557,Sugarcane,401.0,Sugar,Whole Year,20.0,Hectare,1410.0,Tonnes,70.5,Tonnes/Hectare,401.0,70.5,False
+29284,1999-2000,Kerala,32,Kannur,557,Sugarcane,401.0,Sugar,Whole Year,4.0,Hectare,650.0,Tonnes,162.5,Tonnes/Hectare,401.0,162.5,True
+44356,2000-2001,Kerala,32,Kannur,557,Sugarcane,401.0,Sugar,Whole Year,5.0,Hectare,810.0,Tonnes,162.0,Tonnes/Hectare,401.0,162.0,True
+74526,2002-2003,Kerala,32,Kannur,557,Sugarcane,401.0,Sugar,Whole Year,5.0,Hectare,810.0,Tonnes,162.0,Tonnes/Hectare,401.0,162.0,True
+92261,2003-2004,Kerala,32,Kannur,557,Sugarcane,401.0,Sugar,Whole Year,3.0,Hectare,490.0,Tonnes,163.333,Tonnes/Hectare,401.0,163.33333333333334,True
+110017,2004-2005,Kerala,32,Kannur,557,Sugarcane,401.0,Sugar,Whole Year,4.0,Hectare,650.0,Tonnes,162.5,Tonnes/Hectare,401.0,162.5,True
+126048,2005-2006,Kerala,32,Kannur,557,Sugarcane,401.0,Sugar,Whole Year,8.0,Hectare,780.0,Tonnes,97.5,Tonnes/Hectare,401.0,97.5,False
+140961,2006-2007,Kerala,32,Kannur,557,Sugarcane,401.0,Sugar,Whole Year,2.0,Hectare,30.0,Tonnes,15.0,Tonnes/Hectare,401.0,15.0,False
+157380,2007-2008,Kerala,32,Kannur,557,Sugarcane,401.0,Sugar,Whole Year,2.0,Hectare,50.0,Tonnes,25.0,Tonnes/Hectare,401.0,25.0,False
+173618,2008-2009,Kerala,32,Kannur,557,Sugarcane,401.0,Sugar,Whole Year,40.0,Hectare,7220.0,Tonnes,180.5,Tonnes/Hectare,401.0,180.5,False
+190137,2009-2010,Kerala,32,Kannur,557,Sugarcane,401.0,Sugar,Whole Year,1.0,Hectare,150.0,Tonnes,150.0,Tonnes/Hectare,401.0,150.0,True
+207376,2010-2011,Kerala,32,Kannur,557,Sugarcane,401.0,Sugar,Whole Year,1.24,Hectare,175.19,Tonnes,141.282,Tonnes/Hectare,401.0,141.28225806451613,True
+224490,2011-2012,Kerala,32,Kannur,557,Sugarcane,401.0,Sugar,Whole Year,2.58,Hectare,296.7,Tonnes,115.0,Tonnes/Hectare,401.0,114.99999999999999,True
+242497,2012-2013,Kerala,32,Kannur,557,Sugarcane,401.0,Sugar,Whole Year,4.0,Hectare,450.0,Tonnes,112.5,Tonnes/Hectare,401.0,112.5,True
+259844,2013-2014,Kerala,32,Kannur,557,Sugarcane,401.0,Sugar,Whole Year,1.0,Hectare,90.0,Tonnes,90.0,Tonnes/Hectare,401.0,90.0,False
+278665,2014-2015,Kerala,32,Kannur,557,Sugarcane,401.0,Sugar,Whole Year,3.43,Hectare,460.0,Tonnes,134.111,Tonnes/Hectare,401.0,134.11078717201167,True
+296550,2015-2016,Kerala,32,Kannur,557,Sugarcane,401.0,Sugar,Whole Year,2.788,Hectare,374.34,Tonnes,134.268,Tonnes/Hectare,401.0,134.26829268292684,True
+315419,2016-2017,Kerala,32,Kannur,557,Sugarcane,401.0,Sugar,Whole Year,3.64,Hectare,410.0,Tonnes,112.637,Tonnes/Hectare,401.0,112.63736263736263,True
+335418,2017-2018,Kerala,32,Kannur,557,Sugarcane,401.0,Sugar,Whole Year,2.63,Hectare,360.0,Tonnes,136.882,Tonnes/Hectare,401.0,136.88212927756655,True
+356166,2018-2019,Kerala,32,Kannur,557,Sugarcane,401.0,Sugar,Whole Year,2.52,Hectare,262.6,Tonnes,104.206,Tonnes/Hectare,401.0,104.20634920634922,True
+377354,2019-2020,Kerala,32,Kannur,557,Sugarcane,401.0,Sugar,Whole Year,2.44,Hectare,168.62,Tonnes,69.107,Tonnes/Hectare,401.0,69.10655737704919,False
+399811,2020-2021,Kerala,32,Kannur,557,Sugarcane,401.0,Sugar,Whole Year,0.84,Hectare,9.366,Tonnes,11.15,Tonnes/Hectare,401.0,11.15,False
+421095,2021-2022,Kerala,32,Kannur,557,Sugarcane,401.0,Sugar,Whole Year,0.39,Hectare,3.895,Tonnes,9.987,Tonnes/Hectare,401.0,9.987179487179487,False
+442851,2022-2023,Kerala,32,Kannur,557,Sugarcane,401.0,Sugar,Whole Year,1.0,Hectare,7.68,Tonnes,7.68,Tonnes/Hectare,401.0,7.68,False
+44389,2000-2001,Kerala,32,Kollam,559,Sugarcane,401.0,Sugar,Whole Year,3.0,Hectare,310.0,Tonnes,103.333,Tonnes/Hectare,401.0,103.33333333333333,True
+59169,2001-2002,Kerala,32,Kollam,559,Sugarcane,401.0,Sugar,Whole Year,6.0,Hectare,620.0,Tonnes,103.333,Tonnes/Hectare,401.0,103.33333333333333,True
+74587,2002-2003,Kerala,32,Kollam,559,Sugarcane,401.0,Sugar,Whole Year,1.0,Hectare,100.0,Tonnes,100.0,Tonnes/Hectare,401.0,100.0,False
+92319,2003-2004,Kerala,32,Kollam,559,Sugarcane,401.0,Sugar,Whole Year,2.0,Hectare,200.0,Tonnes,100.0,Tonnes/Hectare,401.0,100.0,False
+110049,2004-2005,Kerala,32,Kollam,559,Sugarcane,401.0,Sugar,Whole Year,3.0,Hectare,300.0,Tonnes,100.0,Tonnes/Hectare,401.0,100.0,False
+126082,2005-2006,Kerala,32,Kollam,559,Sugarcane,401.0,Sugar,Whole Year,2.0,Hectare,120.0,Tonnes,60.0,Tonnes/Hectare,401.0,60.0,False
+140995,2006-2007,Kerala,32,Kollam,559,Sugarcane,401.0,Sugar,Whole Year,1.0,Hectare,20.0,Tonnes,20.0,Tonnes/Hectare,401.0,20.0,False
+157414,2007-2008,Kerala,32,Kollam,559,Sugarcane,401.0,Sugar,Whole Year,2.0,Hectare,40.0,Tonnes,20.0,Tonnes/Hectare,401.0,20.0,False
+173653,2008-2009,Kerala,32,Kollam,559,Sugarcane,401.0,Sugar,Whole Year,1.0,Hectare,,Tonnes,0.0,Tonnes/Hectare,401.0,,False
+190170,2009-2010,Kerala,32,Kollam,559,Sugarcane,401.0,Sugar,Whole Year,2.0,Hectare,,Tonnes,0.0,Tonnes/Hectare,401.0,,False
+207403,2010-2011,Kerala,32,Kollam,559,Sugarcane,401.0,Sugar,Whole Year,0.5,Hectare,,Tonnes,0.0,Tonnes/Hectare,401.0,,False
+224521,2011-2012,Kerala,32,Kollam,559,Sugarcane,401.0,Sugar,Whole Year,0.29,Hectare,,Tonnes,0.0,Tonnes/Hectare,401.0,,False
+259888,2013-2014,Kerala,32,Kollam,559,Sugarcane,401.0,Sugar,Whole Year,5.0,Hectare,,Tonnes,0.0,Tonnes/Hectare,401.0,,False
+278702,2014-2015,Kerala,32,Kollam,559,Sugarcane,401.0,Sugar,Whole Year,0.38,Hectare,,Tonnes,0.0,Tonnes/Hectare,401.0,,False
+296582,2015-2016,Kerala,32,Kollam,559,Sugarcane,401.0,Sugar,Whole Year,0.18,Hectare,,Tonnes,0.0,Tonnes/Hectare,401.0,,False
+377387,2019-2020,Kerala,32,Kollam,559,Sugarcane,401.0,Sugar,Whole Year,0.3,Hectare,33.12,Tonnes,110.4,Tonnes/Hectare,401.0,110.39999999999999,False
+16014,1998-1999,Kerala,32,Malappuram,562,Sugarcane,401.0,Sugar,Whole Year,6.0,Hectare,460.0,Tonnes,76.667,Tonnes/Hectare,401.0,76.66666666666667,False
+29363,1999-2000,Kerala,32,Malappuram,562,Sugarcane,401.0,Sugar,Whole Year,4.0,Hectare,400.0,Tonnes,100.0,Tonnes/Hectare,401.0,100.0,False
+44436,2000-2001,Kerala,32,Malappuram,562,Sugarcane,401.0,Sugar,Whole Year,5.0,Hectare,510.0,Tonnes,102.0,Tonnes/Hectare,401.0,102.0,True
+59224,2001-2002,Kerala,32,Malappuram,562,Sugarcane,401.0,Sugar,Whole Year,7.0,Hectare,710.0,Tonnes,101.429,Tonnes/Hectare,401.0,101.42857142857143,True
+74677,2002-2003,Kerala,32,Malappuram,562,Sugarcane,401.0,Sugar,Whole Year,11.0,Hectare,1120.0,Tonnes,101.818,Tonnes/Hectare,401.0,101.81818181818181,False
+92400,2003-2004,Kerala,32,Malappuram,562,Sugarcane,401.0,Sugar,Whole Year,4.0,Hectare,410.0,Tonnes,102.5,Tonnes/Hectare,401.0,102.5,True
+110097,2004-2005,Kerala,32,Malappuram,562,Sugarcane,401.0,Sugar,Whole Year,3.0,Hectare,310.0,Tonnes,103.333,Tonnes/Hectare,401.0,103.33333333333333,True
+126128,2005-2006,Kerala,32,Malappuram,562,Sugarcane,401.0,Sugar,Whole Year,1.0,Hectare,90.0,Tonnes,90.0,Tonnes/Hectare,401.0,90.0,False
+207443,2010-2011,Kerala,32,Malappuram,562,Sugarcane,401.0,Sugar,Whole Year,0.05,Hectare,,Tonnes,0.0,Tonnes/Hectare,401.0,,False
+224567,2011-2012,Kerala,32,Malappuram,562,Sugarcane,401.0,Sugar,Whole Year,0.09,Hectare,,Tonnes,0.0,Tonnes/Hectare,401.0,,False
+242619,2012-2013,Kerala,32,Malappuram,562,Sugarcane,401.0,Sugar,Whole Year,1.0,Hectare,,Tonnes,0.0,Tonnes/Hectare,401.0,,False
+296631,2015-2016,Kerala,32,Malappuram,562,Sugarcane,401.0,Sugar,Whole Year,0.46,Hectare,,Tonnes,0.0,Tonnes/Hectare,401.0,,False
+356248,2018-2019,Kerala,32,Malappuram,562,Sugarcane,401.0,Sugar,Whole Year,0.121,Hectare,10.29,Tonnes,85.041,Tonnes/Hectare,401.0,85.04132231404958,False
+377436,2019-2020,Kerala,32,Malappuram,562,Sugarcane,401.0,Sugar,Whole Year,0.12,Hectare,10.45,Tonnes,87.083,Tonnes/Hectare,401.0,87.08333333333333,False
+399896,2020-2021,Kerala,32,Malappuram,562,Sugarcane,401.0,Sugar,Whole Year,0.12,Hectare,1.11,Tonnes,9.25,Tonnes/Hectare,401.0,9.250000000000002,False
+16052,1998-1999,Kerala,32,Pathanamthitta,564,Sugarcane,401.0,Sugar,Whole Year,227.0,Hectare,12580.0,Tonnes,55.419,Tonnes/Hectare,401.0,55.418502202643175,False
+29401,1999-2000,Kerala,32,Pathanamthitta,564,Sugarcane,401.0,Sugar,Whole Year,230.0,Hectare,11240.0,Tonnes,48.87,Tonnes/Hectare,401.0,48.869565217391305,False
+44472,2000-2001,Kerala,32,Pathanamthitta,564,Sugarcane,401.0,Sugar,Whole Year,224.0,Hectare,10950.0,Tonnes,48.884,Tonnes/Hectare,401.0,48.88392857142857,False
+59264,2001-2002,Kerala,32,Pathanamthitta,564,Sugarcane,401.0,Sugar,Whole Year,142.0,Hectare,6940.0,Tonnes,48.873,Tonnes/Hectare,401.0,48.87323943661972,False
+74744,2002-2003,Kerala,32,Pathanamthitta,564,Sugarcane,401.0,Sugar,Whole Year,95.0,Hectare,4640.0,Tonnes,48.842,Tonnes/Hectare,401.0,48.8421052631579,False
+92459,2003-2004,Kerala,32,Pathanamthitta,564,Sugarcane,401.0,Sugar,Whole Year,129.0,Hectare,6300.0,Tonnes,48.837,Tonnes/Hectare,401.0,48.83720930232558,False
+110134,2004-2005,Kerala,32,Pathanamthitta,564,Sugarcane,401.0,Sugar,Whole Year,123.0,Hectare,6010.0,Tonnes,48.862,Tonnes/Hectare,401.0,48.86178861788618,False
+126164,2005-2006,Kerala,32,Pathanamthitta,564,Sugarcane,401.0,Sugar,Whole Year,55.0,Hectare,2020.0,Tonnes,36.727,Tonnes/Hectare,401.0,36.72727272727273,False
+141077,2006-2007,Kerala,32,Pathanamthitta,564,Sugarcane,401.0,Sugar,Whole Year,36.0,Hectare,1200.0,Tonnes,33.333,Tonnes/Hectare,401.0,33.333333333333336,False
+157496,2007-2008,Kerala,32,Pathanamthitta,564,Sugarcane,401.0,Sugar,Whole Year,45.0,Hectare,440.0,Tonnes,9.778,Tonnes/Hectare,401.0,9.777777777777779,False
+173734,2008-2009,Kerala,32,Pathanamthitta,564,Sugarcane,401.0,Sugar,Whole Year,14.0,Hectare,3210.0,Tonnes,229.286,Tonnes/Hectare,401.0,229.28571428571428,False
+190251,2009-2010,Kerala,32,Pathanamthitta,564,Sugarcane,401.0,Sugar,Whole Year,9.0,Hectare,720.0,Tonnes,80.0,Tonnes/Hectare,401.0,80.0,False
+207470,2010-2011,Kerala,32,Pathanamthitta,564,Sugarcane,401.0,Sugar,Whole Year,23.75,Hectare,1021.25,Tonnes,43.0,Tonnes/Hectare,401.0,43.0,False
+224598,2011-2012,Kerala,32,Pathanamthitta,564,Sugarcane,401.0,Sugar,Whole Year,25.28,Hectare,1119.0,Tonnes,44.264,Tonnes/Hectare,401.0,44.26424050632911,False
+242676,2012-2013,Kerala,32,Pathanamthitta,564,Sugarcane,401.0,Sugar,Whole Year,10.0,Hectare,440.0,Tonnes,44.0,Tonnes/Hectare,401.0,44.0,False
+259994,2013-2014,Kerala,32,Pathanamthitta,564,Sugarcane,401.0,Sugar,Whole Year,16.0,Hectare,1690.0,Tonnes,105.625,Tonnes/Hectare,401.0,105.625,False
+278796,2014-2015,Kerala,32,Pathanamthitta,564,Sugarcane,401.0,Sugar,Whole Year,5.3,Hectare,530.0,Tonnes,100.0,Tonnes/Hectare,401.0,100.0,False
+296673,2015-2016,Kerala,32,Pathanamthitta,564,Sugarcane,401.0,Sugar,Whole Year,6.98,Hectare,579.66,Tonnes,83.046,Tonnes/Hectare,401.0,83.0458452722063,False
+315537,2016-2017,Kerala,32,Pathanamthitta,564,Sugarcane,401.0,Sugar,Whole Year,10.17,Hectare,1120.0,Tonnes,110.128,Tonnes/Hectare,401.0,110.12782694198623,False
+335540,2017-2018,Kerala,32,Pathanamthitta,564,Sugarcane,401.0,Sugar,Whole Year,8.14,Hectare,840.0,Tonnes,103.194,Tonnes/Hectare,401.0,103.19410319410319,True
+356292,2018-2019,Kerala,32,Pathanamthitta,564,Sugarcane,401.0,Sugar,Whole Year,10.198,Hectare,680.21,Tonnes,66.7,Tonnes/Hectare,401.0,66.70033339870562,False
+377482,2019-2020,Kerala,32,Pathanamthitta,564,Sugarcane,401.0,Sugar,Whole Year,11.63,Hectare,1358.91,Tonnes,116.845,Tonnes/Hectare,401.0,116.84522785898538,False
+399944,2020-2021,Kerala,32,Pathanamthitta,564,Sugarcane,401.0,Sugar,Whole Year,11.81,Hectare,128.372,Tonnes,10.87,Tonnes/Hectare,401.0,10.869771380186284,False
+421225,2021-2022,Kerala,32,Pathanamthitta,564,Sugarcane,401.0,Sugar,Whole Year,11.04,Hectare,94.524,Tonnes,8.562,Tonnes/Hectare,401.0,8.56195652173913,False
+442981,2022-2023,Kerala,32,Pathanamthitta,564,Sugarcane,401.0,Sugar,Whole Year,14.61,Hectare,124.05,Tonnes,8.491,Tonnes/Hectare,401.0,8.49075975359343,False
+6533,1997-1998,Rajasthan,8,Sawai Madhopur,113,Sugarcane,401.0,Sugar,Kharif,300.0,Hectare,35600.0,Tonnes,118.667,Tonnes/Hectare,401.0,118.66666666666667,False
+19927,1998-1999,Rajasthan,8,Sawai Madhopur,113,Sugarcane,401.0,Sugar,Whole Year,278.0,Hectare,14525.0,Tonnes,52.248,Tonnes/Hectare,401.0,52.24820143884892,False
+34488,1999-2000,Rajasthan,8,Sawai Madhopur,113,Sugarcane,401.0,Sugar,Whole Year,226.0,Hectare,13699.0,Tonnes,60.615,Tonnes/Hectare,401.0,60.61504424778761,False
+49170,2000-2001,Rajasthan,8,Sawai Madhopur,113,Sugarcane,401.0,Sugar,Whole Year,109.0,Hectare,9388.0,Tonnes,86.128,Tonnes/Hectare,401.0,86.12844036697248,False
+63917,2001-2002,Rajasthan,8,Sawai Madhopur,113,Sugarcane,401.0,Sugar,Whole Year,45.0,Hectare,3409.0,Tonnes,75.756,Tonnes/Hectare,401.0,75.75555555555556,False
+80203,2002-2003,Rajasthan,8,Sawai Madhopur,113,Sugarcane,401.0,Sugar,Whole Year,21.0,Hectare,614.0,Tonnes,29.238,Tonnes/Hectare,401.0,29.238095238095237,False
+98539,2003-2004,Rajasthan,8,Sawai Madhopur,113,Sugarcane,401.0,Sugar,Whole Year,19.0,Hectare,1324.0,Tonnes,69.684,Tonnes/Hectare,401.0,69.6842105263158,False
+115314,2004-2005,Rajasthan,8,Sawai Madhopur,113,Sugarcane,401.0,Sugar,Whole Year,28.0,Hectare,1849.0,Tonnes,66.036,Tonnes/Hectare,401.0,66.03571428571429,False
+130673,2005-2006,Rajasthan,8,Sawai Madhopur,113,Sugarcane,401.0,Sugar,Whole Year,57.0,Hectare,3472.0,Tonnes,60.912,Tonnes/Hectare,401.0,60.91228070175438,False
+146044,2006-2007,Rajasthan,8,Sawai Madhopur,113,Sugarcane,401.0,Sugar,Whole Year,75.0,Hectare,4329.0,Tonnes,57.72,Tonnes/Hectare,401.0,57.72,False
+162104,2007-2008,Rajasthan,8,Sawai Madhopur,113,Sugarcane,401.0,Sugar,Whole Year,57.0,Hectare,3256.0,Tonnes,57.123,Tonnes/Hectare,401.0,57.12280701754386,False
+178658,2008-2009,Rajasthan,8,Sawai Madhopur,113,Sugarcane,401.0,Sugar,Whole Year,39.0,Hectare,2318.0,Tonnes,59.436,Tonnes/Hectare,401.0,59.43589743589744,False
+195459,2009-2010,Rajasthan,8,Sawai Madhopur,113,Sugarcane,401.0,Sugar,Whole Year,27.0,Hectare,1554.0,Tonnes,57.556,Tonnes/Hectare,401.0,57.55555555555556,False
+212718,2010-2011,Rajasthan,8,Sawai Madhopur,113,Sugarcane,401.0,Sugar,Whole Year,36.0,Hectare,2412.0,Tonnes,67.0,Tonnes/Hectare,401.0,67.0,False
+229811,2011-2012,Rajasthan,8,Sawai Madhopur,113,Sugarcane,401.0,Sugar,Whole Year,42.0,Hectare,2955.0,Tonnes,70.357,Tonnes/Hectare,401.0,70.35714285714286,False
+247835,2012-2013,Rajasthan,8,Sawai Madhopur,113,Sugarcane,401.0,Sugar,Whole Year,67.0,Hectare,4221.0,Tonnes,63.0,Tonnes/Hectare,401.0,63.0,False
+265222,2013-2014,Rajasthan,8,Sawai Madhopur,113,Sugarcane,401.0,Sugar,Whole Year,56.0,Hectare,2789.0,Tonnes,49.804,Tonnes/Hectare,401.0,49.80357142857143,False
+283113,2014-2015,Rajasthan,8,Sawai Madhopur,113,Sugarcane,401.0,Sugar,Whole Year,46.0,Hectare,3988.0,Tonnes,86.696,Tonnes/Hectare,401.0,86.69565217391305,False
+301607,2015-2016,Rajasthan,8,Sawai Madhopur,113,Sugarcane,401.0,Sugar,Whole Year,45.0,Hectare,10528.0,Tonnes,233.956,Tonnes/Hectare,401.0,233.95555555555555,False
+320521,2016-2017,Rajasthan,8,Sawai Madhopur,113,Sugarcane,401.0,Sugar,Whole Year,16.0,Hectare,2962.0,Tonnes,185.125,Tonnes/Hectare,401.0,185.125,False
+340911,2017-2018,Rajasthan,8,Sawai Madhopur,113,Sugarcane,401.0,Sugar,Whole Year,11.0,Hectare,856.0,Tonnes,77.818,Tonnes/Hectare,401.0,77.81818181818181,False
+361667,2018-2019,Rajasthan,8,Sawai Madhopur,113,Sugarcane,401.0,Sugar,Whole Year,8.0,Hectare,640.0,Tonnes,80.0,Tonnes/Hectare,401.0,80.0,False
+383566,2019-2020,Rajasthan,8,Sawai Madhopur,113,Sugarcane,401.0,Sugar,Whole Year,4.0,Hectare,414.0,Tonnes,103.5,Tonnes/Hectare,401.0,103.5,True
+404772,2020-2021,Rajasthan,8,Sawai Madhopur,113,Sugarcane,401.0,Sugar,Whole Year,9.0,Hectare,712.0,Tonnes,79.111,Tonnes/Hectare,401.0,79.11111111111111,False
+426025,2021-2022,Rajasthan,8,Sawai Madhopur,113,Sugarcane,401.0,Sugar,Whole Year,5.0,Hectare,379.0,Tonnes,75.8,Tonnes/Hectare,401.0,75.8,False
+448075,2022-2023,Rajasthan,8,Sawai Madhopur,113,Sugarcane,401.0,Sugar,Whole Year,3.0,Hectare,268.0,Tonnes,89.333,Tonnes/Hectare,401.0,89.33333333333333,False
+195835,2009-2010,Tamil Nadu,33,Kanniyakumari,575,Sugarcane,401.0,Sugar,Whole Year,6.0,Hectare,609.0,Tonnes,101.5,Tonnes/Hectare,401.0,101.5,True
+212978,2010-2011,Tamil Nadu,33,Kanniyakumari,575,Sugarcane,401.0,Sugar,Whole Year,6.0,Hectare,650.0,Tonnes,108.333,Tonnes/Hectare,401.0,108.33333333333333,True
+230245,2011-2012,Tamil Nadu,33,Kanniyakumari,575,Sugarcane,401.0,Sugar,Whole Year,7.0,Hectare,788.0,Tonnes,112.571,Tonnes/Hectare,401.0,112.57142857142857,True
+248085,2012-2013,Tamil Nadu,33,Kanniyakumari,575,Sugarcane,401.0,Sugar,Whole Year,1.0,Hectare,98.0,Tonnes,98.0,Tonnes/Hectare,401.0,98.0,False
+265741,2013-2014,Tamil Nadu,33,Kanniyakumari,575,Sugarcane,401.0,Sugar,Whole Year,2.0,Hectare,207.0,Tonnes,103.5,Tonnes/Hectare,401.0,103.5,True
+448742,2022-2023,Tamil Nadu,33,Kanniyakumari,575,Sugarcane,401.0,Sugar,Whole Year,1.0,Hectare,11.0,Tonnes,11.0,Tonnes/Hectare,401.0,11.0,False
+7132,1997-1998,Tamil Nadu,33,The Nilgiris,587,Sugarcane,401.0,Sugar,Whole Year,22.0,Hectare,24000.0,Tonnes,1090.909,Tonnes/Hectare,401.0,1090.909090909091,False
+20544,1998-1999,Tamil Nadu,33,The Nilgiris,587,Sugarcane,401.0,Sugar,Whole Year,104.0,Hectare,12760.0,Tonnes,122.692,Tonnes/Hectare,401.0,122.6923076923077,False
+35098,1999-2000,Tamil Nadu,33,The Nilgiris,587,Sugarcane,401.0,Sugar,Whole Year,240.0,Hectare,25723.0,Tonnes,107.179,Tonnes/Hectare,401.0,107.17916666666666,False
+49766,2000-2001,Tamil Nadu,33,The Nilgiris,587,Sugarcane,401.0,Sugar,Whole Year,14.0,Hectare,1500.0,Tonnes,107.143,Tonnes/Hectare,401.0,107.14285714285714,False
+64274,2001-2002,Tamil Nadu,33,The Nilgiris,587,Sugarcane,401.0,Sugar,Whole Year,7.0,Hectare,700.0,Tonnes,100.0,Tonnes/Hectare,401.0,100.0,False
+81282,2002-2003,Tamil Nadu,33,The Nilgiris,587,Sugarcane,401.0,Sugar,Whole Year,14.0,Hectare,1290.0,Tonnes,92.143,Tonnes/Hectare,401.0,92.14285714285714,False
+115981,2004-2005,Tamil Nadu,33,The Nilgiris,587,Sugarcane,401.0,Sugar,Whole Year,11.0,Hectare,1211.0,Tonnes,110.091,Tonnes/Hectare,401.0,110.0909090909091,False
+131357,2005-2006,Tamil Nadu,33,The Nilgiris,587,Sugarcane,401.0,Sugar,Whole Year,11.0,Hectare,1152.0,Tonnes,104.727,Tonnes/Hectare,401.0,104.72727272727273,False
+146715,2006-2007,Tamil Nadu,33,The Nilgiris,587,Sugarcane,401.0,Sugar,Whole Year,10.0,Hectare,1228.0,Tonnes,122.8,Tonnes/Hectare,401.0,122.8,False
+162767,2007-2008,Tamil Nadu,33,The Nilgiris,587,Sugarcane,401.0,Sugar,Whole Year,10.0,Hectare,1075.0,Tonnes,107.5,Tonnes/Hectare,401.0,107.5,False
+179337,2008-2009,Tamil Nadu,33,The Nilgiris,587,Sugarcane,401.0,Sugar,Whole Year,5.0,Hectare,531.0,Tonnes,106.2,Tonnes/Hectare,401.0,106.2,True
+248234,2012-2013,Tamil Nadu,33,The Nilgiris,587,Sugarcane,401.0,Sugar,Whole Year,4.0,Hectare,391.0,Tonnes,97.75,Tonnes/Hectare,401.0,97.75,False
+266252,2013-2014,Tamil Nadu,33,The Nilgiris,587,Sugarcane,401.0,Sugar,Whole Year,3.0,Hectare,311.0,Tonnes,103.667,Tonnes/Hectare,401.0,103.66666666666667,True
+284161,2014-2015,Tamil Nadu,33,The Nilgiris,587,Sugarcane,401.0,Sugar,Whole Year,4.0,Hectare,427.0,Tonnes,106.75,Tonnes/Hectare,401.0,106.75,True
+302645,2015-2016,Tamil Nadu,33,The Nilgiris,587,Sugarcane,401.0,Sugar,Whole Year,4.0,Hectare,404.0,Tonnes,101.0,Tonnes/Hectare,401.0,101.0,True
+321572,2016-2017,Tamil Nadu,33,The Nilgiris,587,Sugarcane,401.0,Sugar,Whole Year,4.0,Hectare,348.0,Tonnes,87.0,Tonnes/Hectare,401.0,87.0,False
+342115,2017-2018,Tamil Nadu,33,The Nilgiris,587,Sugarcane,401.0,Sugar,Whole Year,5.0,Hectare,500.0,Tonnes,100.0,Tonnes/Hectare,401.0,100.0,False
+362844,2018-2019,Tamil Nadu,33,The Nilgiris,587,Sugarcane,401.0,Sugar,Whole Year,4.0,Hectare,380.0,Tonnes,95.0,Tonnes/Hectare,401.0,95.0,False
+384784,2019-2020,Tamil Nadu,33,The Nilgiris,587,Sugarcane,401.0,Sugar,Whole Year,1.0,Hectare,86.0,Tonnes,86.0,Tonnes/Hectare,401.0,86.0,False
+406203,2020-2021,Tamil Nadu,33,The Nilgiris,587,Sugarcane,401.0,Sugar,Whole Year,1.0,Hectare,83.0,Tonnes,83.0,Tonnes/Hectare,401.0,83.0,False
+7237,1997-1998,Tamil Nadu,33,Thoothukkudi,594,Sugarcane,401.0,Sugar,Whole Year,90.0,Hectare,97000.0,Tonnes,1077.778,Tonnes/Hectare,401.0,1077.7777777777778,False
+20629,1998-1999,Tamil Nadu,33,Thoothukkudi,594,Sugarcane,401.0,Sugar,Whole Year,31.0,Hectare,3800.0,Tonnes,122.581,Tonnes/Hectare,401.0,122.58064516129032,False
+35185,1999-2000,Tamil Nadu,33,Thoothukkudi,594,Sugarcane,401.0,Sugar,Whole Year,131.0,Hectare,14020.0,Tonnes,107.023,Tonnes/Hectare,401.0,107.02290076335878,False
+49853,2000-2001,Tamil Nadu,33,Thoothukkudi,594,Sugarcane,401.0,Sugar,Whole Year,57.0,Hectare,6100.0,Tonnes,107.018,Tonnes/Hectare,401.0,107.01754385964912,False
+64316,2001-2002,Tamil Nadu,33,Thoothukkudi,594,Sugarcane,401.0,Sugar,Whole Year,113.0,Hectare,11300.0,Tonnes,100.0,Tonnes/Hectare,401.0,100.0,False
+81475,2002-2003,Tamil Nadu,33,Thoothukkudi,594,Sugarcane,401.0,Sugar,Whole Year,113.0,Hectare,10380.0,Tonnes,91.858,Tonnes/Hectare,401.0,91.85840707964601,False
+99867,2003-2004,Tamil Nadu,33,Thoothukkudi,594,Sugarcane,401.0,Sugar,Whole Year,69.0,Hectare,7016.0,Tonnes,101.681,Tonnes/Hectare,401.0,101.68115942028986,False
+116080,2004-2005,Tamil Nadu,33,Thoothukkudi,594,Sugarcane,401.0,Sugar,Whole Year,60.0,Hectare,6604.0,Tonnes,110.067,Tonnes/Hectare,401.0,110.06666666666666,False
+131458,2005-2006,Tamil Nadu,33,Thoothukkudi,594,Sugarcane,401.0,Sugar,Whole Year,155.0,Hectare,16227.0,Tonnes,104.69,Tonnes/Hectare,401.0,104.69032258064516,False
+146803,2006-2007,Tamil Nadu,33,Thoothukkudi,594,Sugarcane,401.0,Sugar,Whole Year,219.0,Hectare,26892.0,Tonnes,122.795,Tonnes/Hectare,401.0,122.79452054794521,False
+162854,2007-2008,Tamil Nadu,33,Thoothukkudi,594,Sugarcane,401.0,Sugar,Whole Year,231.0,Hectare,24841.0,Tonnes,107.537,Tonnes/Hectare,401.0,107.53679653679653,False
+179427,2008-2009,Tamil Nadu,33,Thoothukkudi,594,Sugarcane,401.0,Sugar,Whole Year,253.0,Hectare,26872.0,Tonnes,106.213,Tonnes/Hectare,401.0,106.21343873517786,False
+196225,2009-2010,Tamil Nadu,33,Thoothukkudi,594,Sugarcane,401.0,Sugar,Whole Year,428.0,Hectare,43421.0,Tonnes,101.451,Tonnes/Hectare,401.0,101.45093457943925,False
+213174,2010-2011,Tamil Nadu,33,Thoothukkudi,594,Sugarcane,401.0,Sugar,Whole Year,562.0,Hectare,60924.0,Tonnes,108.406,Tonnes/Hectare,401.0,108.40569395017793,False
+230772,2011-2012,Tamil Nadu,33,Thoothukkudi,594,Sugarcane,401.0,Sugar,Whole Year,581.0,Hectare,65380.0,Tonnes,112.53,Tonnes/Hectare,401.0,112.53012048192771,False
+248280,2012-2013,Tamil Nadu,33,Thoothukkudi,594,Sugarcane,401.0,Sugar,Whole Year,457.0,Hectare,44619.0,Tonnes,97.635,Tonnes/Hectare,401.0,97.63457330415756,False
+266405,2013-2014,Tamil Nadu,33,Thoothukkudi,594,Sugarcane,401.0,Sugar,Whole Year,204.0,Hectare,21129.0,Tonnes,103.574,Tonnes/Hectare,401.0,103.57352941176471,False
+284315,2014-2015,Tamil Nadu,33,Thoothukkudi,594,Sugarcane,401.0,Sugar,Whole Year,98.0,Hectare,10465.0,Tonnes,106.786,Tonnes/Hectare,401.0,106.78571428571429,False
+302793,2015-2016,Tamil Nadu,33,Thoothukkudi,594,Sugarcane,401.0,Sugar,Whole Year,181.0,Hectare,18281.0,Tonnes,101.0,Tonnes/Hectare,401.0,101.0,False
+321724,2016-2017,Tamil Nadu,33,Thoothukkudi,594,Sugarcane,401.0,Sugar,Whole Year,163.0,Hectare,14180.0,Tonnes,86.994,Tonnes/Hectare,401.0,86.99386503067484,False
+342293,2017-2018,Tamil Nadu,33,Thoothukkudi,594,Sugarcane,401.0,Sugar,Whole Year,39.0,Hectare,3900.0,Tonnes,100.0,Tonnes/Hectare,401.0,100.0,False
+363025,2018-2019,Tamil Nadu,33,Thoothukkudi,594,Sugarcane,401.0,Sugar,Whole Year,37.0,Hectare,3810.0,Tonnes,102.973,Tonnes/Hectare,401.0,102.97297297297297,False
+384970,2019-2020,Tamil Nadu,33,Thoothukkudi,594,Sugarcane,401.0,Sugar,Whole Year,26.0,Hectare,2811.0,Tonnes,108.115,Tonnes/Hectare,401.0,108.11538461538461,False
+406393,2020-2021,Tamil Nadu,33,Thoothukkudi,594,Sugarcane,401.0,Sugar,Whole Year,7.0,Hectare,712.0,Tonnes,101.714,Tonnes/Hectare,401.0,101.71428571428571,True
+427652,2021-2022,Tamil Nadu,33,Thoothukkudi,594,Sugarcane,401.0,Sugar,Whole Year,1.0,Hectare,143.0,Tonnes,143.0,Tonnes/Hectare,401.0,143.0,True
+449679,2022-2023,Tamil Nadu,33,Thoothukkudi,594,Sugarcane,401.0,Sugar,Whole Year,4.0,Hectare,434.0,Tonnes,108.5,Tonnes/Hectare,401.0,108.5,True
+322512,2016-2017,Telangana,36,Kumuram Bheem Asifabad,699,Sugarcane,401.0,Sugar,Kharif,2.0,Hectare,163.0,Tonnes,81.5,Tonnes/Hectare,401.0,81.5,False
+407392,2020-2021,Telangana,36,Kumuram Bheem Asifabad,699,Sugarcane,401.0,Sugar,Kharif,1.0,Hectare,98.0,Tonnes,98.0,Tonnes/Hectare,401.0,98.0,False
+428730,2021-2022,Telangana,36,Kumuram Bheem Asifabad,699,Sugarcane,401.0,Sugar,Kharif,2.0,Hectare,208.0,Tonnes,104.0,Tonnes/Hectare,401.0,104.0,True
+450686,2022-2023,Telangana,36,Kumuram Bheem Asifabad,699,Sugarcane,401.0,Sugar,Kharif,3.0,Hectare,285.0,Tonnes,95.0,Tonnes/Hectare,401.0,95.0,False
+428890,2021-2022,Telangana,36,Mancherial,684,Sugarcane,401.0,Sugar,Kharif,2.0,Hectare,208.0,Tonnes,104.0,Tonnes/Hectare,401.0,104.0,True
+9932,1997-1998,West Bengal,19,Bankura,305,Sugarcane,401.0,Sugar,Whole Year,468.0,Hectare,39520.0,Tonnes,84.444,Tonnes/Hectare,401.0,84.44444444444444,False
+23586,1998-1999,West Bengal,19,Bankura,305,Sugarcane,401.0,Sugar,Whole Year,364.0,Hectare,32610.0,Tonnes,89.588,Tonnes/Hectare,401.0,89.58791208791209,False
+37810,1999-2000,West Bengal,19,Bankura,305,Sugarcane,401.0,Sugar,Whole Year,297.0,Hectare,28838.0,Tonnes,97.098,Tonnes/Hectare,401.0,97.0976430976431,False
+52710,2000-2001,West Bengal,19,Bankura,305,Sugarcane,401.0,Sugar,Whole Year,24.0,Hectare,1730.0,Tonnes,72.083,Tonnes/Hectare,401.0,72.08333333333333,False
+67099,2001-2002,West Bengal,19,Bankura,305,Sugarcane,401.0,Sugar,Whole Year,12.0,Hectare,1184.0,Tonnes,98.667,Tonnes/Hectare,401.0,98.66666666666667,False
+84835,2002-2003,West Bengal,19,Bankura,305,Sugarcane,401.0,Sugar,Whole Year,13.0,Hectare,722.0,Tonnes,55.538,Tonnes/Hectare,401.0,55.53846153846154,False
+103316,2003-2004,West Bengal,19,Bankura,305,Sugarcane,401.0,Sugar,Whole Year,8.0,Hectare,565.0,Tonnes,70.625,Tonnes/Hectare,401.0,70.625,False
+118717,2004-2005,West Bengal,19,Bankura,305,Sugarcane,401.0,Sugar,Whole Year,18.0,Hectare,988.0,Tonnes,54.889,Tonnes/Hectare,401.0,54.888888888888886,False
+133926,2005-2006,West Bengal,19,Bankura,305,Sugarcane,401.0,Sugar,Whole Year,13.0,Hectare,573.0,Tonnes,44.077,Tonnes/Hectare,401.0,44.07692307692308,False
+150009,2006-2007,West Bengal,19,Bankura,305,Sugarcane,401.0,Sugar,Whole Year,9.0,Hectare,662.0,Tonnes,73.556,Tonnes/Hectare,401.0,73.55555555555556,False
+166000,2007-2008,West Bengal,19,Bankura,305,Sugarcane,401.0,Sugar,Whole Year,14.0,Hectare,1093.0,Tonnes,78.071,Tonnes/Hectare,401.0,78.07142857142857,False
+182650,2008-2009,West Bengal,19,Bankura,305,Sugarcane,401.0,Sugar,Whole Year,26.0,Hectare,3169.0,Tonnes,121.885,Tonnes/Hectare,401.0,121.88461538461539,False
+199712,2009-2010,West Bengal,19,Bankura,305,Sugarcane,401.0,Sugar,Whole Year,10.0,Hectare,831.0,Tonnes,83.1,Tonnes/Hectare,401.0,83.1,False
+216228,2010-2011,West Bengal,19,Bankura,305,Sugarcane,401.0,Sugar,Whole Year,1.0,Hectare,38.0,Tonnes,38.0,Tonnes/Hectare,401.0,38.0,False
+234376,2011-2012,West Bengal,19,Bankura,305,Sugarcane,401.0,Sugar,Whole Year,12.0,Hectare,2114.0,Tonnes,176.167,Tonnes/Hectare,401.0,176.16666666666666,False
+251597,2012-2013,West Bengal,19,Bankura,305,Sugarcane,401.0,Sugar,Whole Year,1.0,Hectare,141.0,Tonnes,141.0,Tonnes/Hectare,401.0,141.0,True
+270224,2013-2014,West Bengal,19,Bankura,305,Sugarcane,401.0,Sugar,Whole Year,1.0,Hectare,125.0,Tonnes,125.0,Tonnes/Hectare,401.0,125.0,True
+288223,2014-2015,West Bengal,19,Bankura,305,Sugarcane,401.0,Sugar,Whole Year,5.0,Hectare,393.0,Tonnes,78.6,Tonnes/Hectare,401.0,78.6,False
+306686,2015-2016,West Bengal,19,Bankura,305,Sugarcane,401.0,Sugar,Whole Year,27.0,Hectare,2549.0,Tonnes,94.407,Tonnes/Hectare,401.0,94.4074074074074,False
+326438,2016-2017,West Bengal,19,Bankura,305,Sugarcane,401.0,Sugar,Whole Year,37.0,Hectare,2476.0,Tonnes,66.919,Tonnes/Hectare,401.0,66.91891891891892,False
+347010,2017-2018,West Bengal,19,Bankura,305,Sugarcane,401.0,Sugar,Whole Year,18.0,Hectare,1840.0,Tonnes,102.222,Tonnes/Hectare,401.0,102.22222222222223,False
+367769,2018-2019,West Bengal,19,Bankura,305,Sugarcane,401.0,Sugar,Whole Year,11.0,Hectare,917.0,Tonnes,83.364,Tonnes/Hectare,401.0,83.36363636363636,False
+389958,2019-2020,West Bengal,19,Bankura,305,Sugarcane,401.0,Sugar,Whole Year,62.0,Hectare,4870.0,Tonnes,78.548,Tonnes/Hectare,401.0,78.54838709677419,False
+411589,2020-2021,West Bengal,19,Bankura,305,Sugarcane,401.0,Sugar,Whole Year,31.0,Hectare,2108.0,Tonnes,68.0,Tonnes/Hectare,401.0,68.0,False
+432936,2021-2022,West Bengal,19,Bankura,305,Sugarcane,401.0,Sugar,Whole Year,28.0,Hectare,6453.0,Tonnes,230.464,Tonnes/Hectare,401.0,230.46428571428572,False
+454788,2022-2023,West Bengal,19,Bankura,305,Sugarcane,401.0,Sugar,Whole Year,37.0,Hectare,2655.0,Tonnes,71.757,Tonnes/Hectare,401.0,71.75675675675676,False
+37891,1999-2000,West Bengal,19,Cooch Behar,308,Sugarcane,401.0,Sugar,Whole Year,8.0,Hectare,620.0,Tonnes,77.5,Tonnes/Hectare,401.0,77.5,False
+67168,2001-2002,West Bengal,19,Cooch Behar,308,Sugarcane,401.0,Sugar,Whole Year,1.0,Hectare,84.0,Tonnes,84.0,Tonnes/Hectare,401.0,84.0,False
+84911,2002-2003,West Bengal,19,Cooch Behar,308,Sugarcane,401.0,Sugar,Whole Year,9.0,Hectare,592.0,Tonnes,65.778,Tonnes/Hectare,401.0,65.77777777777777,False
+103386,2003-2004,West Bengal,19,Cooch Behar,308,Sugarcane,401.0,Sugar,Whole Year,3.0,Hectare,223.0,Tonnes,74.333,Tonnes/Hectare,401.0,74.33333333333333,False
+118781,2004-2005,West Bengal,19,Cooch Behar,308,Sugarcane,401.0,Sugar,Whole Year,5.0,Hectare,340.0,Tonnes,68.0,Tonnes/Hectare,401.0,68.0,False
+150075,2006-2007,West Bengal,19,Cooch Behar,308,Sugarcane,401.0,Sugar,Whole Year,8.0,Hectare,820.0,Tonnes,102.5,Tonnes/Hectare,401.0,102.5,True
+234443,2011-2012,West Bengal,19,Cooch Behar,308,Sugarcane,401.0,Sugar,Whole Year,756.0,Hectare,87994.0,Tonnes,116.394,Tonnes/Hectare,401.0,116.3941798941799,False
+251666,2012-2013,West Bengal,19,Cooch Behar,308,Sugarcane,401.0,Sugar,Whole Year,760.0,Hectare,79471.0,Tonnes,104.567,Tonnes/Hectare,401.0,104.5671052631579,False
+270292,2013-2014,West Bengal,19,Cooch Behar,308,Sugarcane,401.0,Sugar,Whole Year,735.0,Hectare,75239.0,Tonnes,102.366,Tonnes/Hectare,401.0,102.36598639455782,False
+288293,2014-2015,West Bengal,19,Cooch Behar,308,Sugarcane,401.0,Sugar,Whole Year,455.0,Hectare,48692.0,Tonnes,107.015,Tonnes/Hectare,401.0,107.01538461538462,False
+306758,2015-2016,West Bengal,19,Cooch Behar,308,Sugarcane,401.0,Sugar,Whole Year,556.0,Hectare,52079.0,Tonnes,93.667,Tonnes/Hectare,401.0,93.66726618705036,False
+326511,2016-2017,West Bengal,19,Cooch Behar,308,Sugarcane,401.0,Sugar,Whole Year,51.0,Hectare,3757.0,Tonnes,73.667,Tonnes/Hectare,401.0,73.66666666666667,False
+347082,2017-2018,West Bengal,19,Cooch Behar,308,Sugarcane,401.0,Sugar,Whole Year,57.0,Hectare,4988.0,Tonnes,87.509,Tonnes/Hectare,401.0,87.50877192982456,False
+367837,2018-2019,West Bengal,19,Cooch Behar,308,Sugarcane,401.0,Sugar,Whole Year,53.0,Hectare,4439.0,Tonnes,83.755,Tonnes/Hectare,401.0,83.75471698113208,False
+390030,2019-2020,West Bengal,19,Cooch Behar,308,Sugarcane,401.0,Sugar,Whole Year,230.0,Hectare,18313.0,Tonnes,79.622,Tonnes/Hectare,401.0,79.62173913043478,False
+411659,2020-2021,West Bengal,19,Cooch Behar,308,Sugarcane,401.0,Sugar,Whole Year,167.0,Hectare,12555.0,Tonnes,75.18,Tonnes/Hectare,401.0,75.17964071856288,False
+433008,2021-2022,West Bengal,19,Cooch Behar,308,Sugarcane,401.0,Sugar,Whole Year,117.0,Hectare,9513.0,Tonnes,81.308,Tonnes/Hectare,401.0,81.3076923076923,False
+454861,2022-2023,West Bengal,19,Cooch Behar,308,Sugarcane,401.0,Sugar,Whole Year,113.0,Hectare,8819.0,Tonnes,78.044,Tonnes/Hectare,401.0,78.04424778761062,False
+10024,1997-1998,West Bengal,19,Dakshin Dinajpur,310,Sugarcane,401.0,Sugar,Whole Year,16.0,Hectare,1190.0,Tonnes,74.375,Tonnes/Hectare,401.0,74.375,False
+23685,1998-1999,West Bengal,19,Dakshin Dinajpur,310,Sugarcane,401.0,Sugar,Whole Year,16.0,Hectare,1230.0,Tonnes,76.875,Tonnes/Hectare,401.0,76.875,False
+37926,1999-2000,West Bengal,19,Dakshin Dinajpur,310,Sugarcane,401.0,Sugar,Whole Year,153.0,Hectare,11862.0,Tonnes,77.529,Tonnes/Hectare,401.0,77.52941176470588,False
+103415,2003-2004,West Bengal,19,Dakshin Dinajpur,310,Sugarcane,401.0,Sugar,Whole Year,8.0,Hectare,594.0,Tonnes,74.25,Tonnes/Hectare,401.0,74.25,False
+234461,2011-2012,West Bengal,19,Dakshin Dinajpur,310,Sugarcane,401.0,Sugar,Whole Year,5.0,Hectare,582.0,Tonnes,116.4,Tonnes/Hectare,401.0,116.4,True
+433037,2021-2022,West Bengal,19,Dakshin Dinajpur,310,Sugarcane,401.0,Sugar,Whole Year,16.0,Hectare,1424.0,Tonnes,89.0,Tonnes/Hectare,401.0,89.0,False
+454889,2022-2023,West Bengal,19,Dakshin Dinajpur,310,Sugarcane,401.0,Sugar,Whole Year,18.0,Hectare,1494.0,Tonnes,83.0,Tonnes/Hectare,401.0,83.0,False
+166153,2007-2008,West Bengal,19,Darjeeling,309,Sugarcane,401.0,Sugar,Whole Year,19.0,Hectare,2306.0,Tonnes,121.368,Tonnes/Hectare,401.0,121.36842105263158,False
+182798,2008-2009,West Bengal,19,Darjeeling,309,Sugarcane,401.0,Sugar,Whole Year,8.0,Hectare,849.0,Tonnes,106.125,Tonnes/Hectare,401.0,106.125,True
+199841,2009-2010,West Bengal,19,Darjeeling,309,Sugarcane,401.0,Sugar,Whole Year,3.0,Hectare,296.0,Tonnes,98.667,Tonnes/Hectare,401.0,98.66666666666667,False
+216357,2010-2011,West Bengal,19,Darjeeling,309,Sugarcane,401.0,Sugar,Whole Year,3.0,Hectare,297.0,Tonnes,99.0,Tonnes/Hectare,401.0,99.0,False
+234499,2011-2012,West Bengal,19,Darjeeling,309,Sugarcane,401.0,Sugar,Whole Year,8.0,Hectare,931.0,Tonnes,116.375,Tonnes/Hectare,401.0,116.375,True
+251724,2012-2013,West Bengal,19,Darjeeling,309,Sugarcane,401.0,Sugar,Whole Year,8.0,Hectare,837.0,Tonnes,104.625,Tonnes/Hectare,401.0,104.625,True
+270344,2013-2014,West Bengal,19,Darjeeling,309,Sugarcane,401.0,Sugar,Whole Year,2.0,Hectare,205.0,Tonnes,102.5,Tonnes/Hectare,401.0,102.5,True
+288351,2014-2015,West Bengal,19,Darjeeling,309,Sugarcane,401.0,Sugar,Whole Year,2.0,Hectare,214.0,Tonnes,107.0,Tonnes/Hectare,401.0,107.0,True
+306819,2015-2016,West Bengal,19,Darjeeling,309,Sugarcane,401.0,Sugar,Whole Year,8.0,Hectare,749.0,Tonnes,93.625,Tonnes/Hectare,401.0,93.625,False
+326575,2016-2017,West Bengal,19,Darjeeling,309,Sugarcane,401.0,Sugar,Whole Year,10.0,Hectare,737.0,Tonnes,73.7,Tonnes/Hectare,401.0,73.7,False
+347147,2017-2018,West Bengal,19,Darjeeling,309,Sugarcane,401.0,Sugar,Whole Year,14.0,Hectare,1225.0,Tonnes,87.5,Tonnes/Hectare,401.0,87.5,False
+367898,2018-2019,West Bengal,19,Darjeeling,309,Sugarcane,401.0,Sugar,Whole Year,10.0,Hectare,838.0,Tonnes,83.8,Tonnes/Hectare,401.0,83.8,False
+390082,2019-2020,West Bengal,19,Darjeeling,309,Sugarcane,401.0,Sugar,Whole Year,12.0,Hectare,955.0,Tonnes,79.583,Tonnes/Hectare,401.0,79.58333333333333,False
+411712,2020-2021,West Bengal,19,Darjeeling,309,Sugarcane,401.0,Sugar,Whole Year,10.0,Hectare,752.0,Tonnes,75.2,Tonnes/Hectare,401.0,75.2,False
+433061,2021-2022,West Bengal,19,Darjeeling,309,Sugarcane,401.0,Sugar,Whole Year,11.0,Hectare,894.0,Tonnes,81.273,Tonnes/Hectare,401.0,81.27272727272727,False
+454913,2022-2023,West Bengal,19,Darjeeling,309,Sugarcane,401.0,Sugar,Whole Year,10.0,Hectare,780.0,Tonnes,78.0,Tonnes/Hectare,401.0,78.0,False
+10077,1997-1998,West Bengal,19,Hooghly,312,Sugarcane,401.0,Sugar,Whole Year,99.0,Hectare,1360.0,Tonnes,13.737,Tonnes/Hectare,401.0,13.737373737373737,False
+23739,1998-1999,West Bengal,19,Hooghly,312,Sugarcane,401.0,Sugar,Whole Year,37.0,Hectare,3310.0,Tonnes,89.459,Tonnes/Hectare,401.0,89.45945945945945,False
+52867,2000-2001,West Bengal,19,Hooghly,312,Sugarcane,401.0,Sugar,Whole Year,28.0,Hectare,2010.0,Tonnes,71.786,Tonnes/Hectare,401.0,71.78571428571429,False
+67263,2001-2002,West Bengal,19,Hooghly,312,Sugarcane,401.0,Sugar,Whole Year,1195.0,Hectare,117900.0,Tonnes,98.661,Tonnes/Hectare,401.0,98.66108786610879,False
+85014,2002-2003,West Bengal,19,Hooghly,312,Sugarcane,401.0,Sugar,Whole Year,2.0,Hectare,111.0,Tonnes,55.5,Tonnes/Hectare,401.0,55.5,False
+103480,2003-2004,West Bengal,19,Hooghly,312,Sugarcane,401.0,Sugar,Whole Year,637.0,Hectare,44948.0,Tonnes,70.562,Tonnes/Hectare,401.0,70.56200941915228,False
+118867,2004-2005,West Bengal,19,Hooghly,312,Sugarcane,401.0,Sugar,Whole Year,198.0,Hectare,10872.0,Tonnes,54.909,Tonnes/Hectare,401.0,54.90909090909091,False
+134080,2005-2006,West Bengal,19,Hooghly,312,Sugarcane,401.0,Sugar,Whole Year,107.0,Hectare,8223.0,Tonnes,76.85,Tonnes/Hectare,401.0,76.85046728971963,False
+150166,2006-2007,West Bengal,19,Hooghly,312,Sugarcane,401.0,Sugar,Whole Year,30.0,Hectare,2261.0,Tonnes,75.367,Tonnes/Hectare,401.0,75.36666666666666,False
+166182,2007-2008,West Bengal,19,Hooghly,312,Sugarcane,401.0,Sugar,Whole Year,438.0,Hectare,46862.0,Tonnes,106.991,Tonnes/Hectare,401.0,106.99086757990868,False
+182828,2008-2009,West Bengal,19,Hooghly,312,Sugarcane,401.0,Sugar,Whole Year,431.0,Hectare,52531.0,Tonnes,121.882,Tonnes/Hectare,401.0,121.88167053364269,False
+199866,2009-2010,West Bengal,19,Hooghly,312,Sugarcane,401.0,Sugar,Whole Year,62.0,Hectare,5152.0,Tonnes,83.097,Tonnes/Hectare,401.0,83.09677419354838,False
+216383,2010-2011,West Bengal,19,Hooghly,312,Sugarcane,401.0,Sugar,Whole Year,27.0,Hectare,1028.0,Tonnes,38.074,Tonnes/Hectare,401.0,38.074074074074076,False
+234524,2011-2012,West Bengal,19,Hooghly,312,Sugarcane,401.0,Sugar,Whole Year,57.0,Hectare,8351.0,Tonnes,146.509,Tonnes/Hectare,401.0,146.50877192982455,False
+251750,2012-2013,West Bengal,19,Hooghly,312,Sugarcane,401.0,Sugar,Whole Year,1.0,Hectare,141.0,Tonnes,141.0,Tonnes/Hectare,401.0,141.0,True
+270371,2013-2014,West Bengal,19,Hooghly,312,Sugarcane,401.0,Sugar,Whole Year,831.0,Hectare,126522.0,Tonnes,152.253,Tonnes/Hectare,401.0,152.25270758122744,False
+288379,2014-2015,West Bengal,19,Hooghly,312,Sugarcane,401.0,Sugar,Whole Year,830.0,Hectare,149289.0,Tonnes,179.866,Tonnes/Hectare,401.0,179.86626506024098,False
+306847,2015-2016,West Bengal,19,Hooghly,312,Sugarcane,401.0,Sugar,Whole Year,477.0,Hectare,35643.0,Tonnes,74.723,Tonnes/Hectare,401.0,74.72327044025157,False
+326604,2016-2017,West Bengal,19,Hooghly,312,Sugarcane,401.0,Sugar,Whole Year,604.0,Hectare,40585.0,Tonnes,67.194,Tonnes/Hectare,401.0,67.19370860927152,False
+347174,2017-2018,West Bengal,19,Hooghly,312,Sugarcane,401.0,Sugar,Whole Year,570.0,Hectare,39549.0,Tonnes,69.384,Tonnes/Hectare,401.0,69.38421052631578,False
+367926,2018-2019,West Bengal,19,Hooghly,312,Sugarcane,401.0,Sugar,Whole Year,1.0,Hectare,74.0,Tonnes,74.0,Tonnes/Hectare,401.0,74.0,False
+390111,2019-2020,West Bengal,19,Hooghly,312,Sugarcane,401.0,Sugar,Whole Year,438.0,Hectare,34908.0,Tonnes,79.699,Tonnes/Hectare,401.0,79.6986301369863,False
+411741,2020-2021,West Bengal,19,Hooghly,312,Sugarcane,401.0,Sugar,Whole Year,470.0,Hectare,35222.0,Tonnes,74.94,Tonnes/Hectare,401.0,74.9404255319149,False
+433089,2021-2022,West Bengal,19,Hooghly,312,Sugarcane,401.0,Sugar,Whole Year,366.0,Hectare,27963.0,Tonnes,76.402,Tonnes/Hectare,401.0,76.40163934426229,False
+454940,2022-2023,West Bengal,19,Hooghly,312,Sugarcane,401.0,Sugar,Whole Year,416.0,Hectare,32866.0,Tonnes,79.005,Tonnes/Hectare,401.0,79.0048076923077,False
+10439,1997-1998,West Bengal,19,Uttar Dinajpur,311,Sugarcane,401.0,Sugar,Whole Year,449.0,Hectare,33590.0,Tonnes,74.811,Tonnes/Hectare,401.0,74.81069042316258,False
+24109,1998-1999,West Bengal,19,Uttar Dinajpur,311,Sugarcane,401.0,Sugar,Whole Year,449.0,Hectare,34560.0,Tonnes,76.971,Tonnes/Hectare,401.0,76.97104677060133,False
+38438,1999-2000,West Bengal,19,Uttar Dinajpur,311,Sugarcane,401.0,Sugar,Whole Year,271.0,Hectare,21010.0,Tonnes,77.528,Tonnes/Hectare,401.0,77.52767527675277,False
+67657,2001-2002,West Bengal,19,Uttar Dinajpur,311,Sugarcane,401.0,Sugar,Whole Year,21.0,Hectare,1760.0,Tonnes,83.81,Tonnes/Hectare,401.0,83.80952380952381,False
+85452,2002-2003,West Bengal,19,Uttar Dinajpur,311,Sugarcane,401.0,Sugar,Whole Year,362.0,Hectare,23801.0,Tonnes,65.749,Tonnes/Hectare,401.0,65.7486187845304,False
+134476,2005-2006,West Bengal,19,Uttar Dinajpur,311,Sugarcane,401.0,Sugar,Whole Year,6.0,Hectare,678.0,Tonnes,113.0,Tonnes/Hectare,401.0,113.0,True
+150549,2006-2007,West Bengal,19,Uttar Dinajpur,311,Sugarcane,401.0,Sugar,Whole Year,20.0,Hectare,2050.0,Tonnes,102.5,Tonnes/Hectare,401.0,102.5,False
+183284,2008-2009,West Bengal,19,Uttar Dinajpur,311,Sugarcane,401.0,Sugar,Whole Year,460.0,Hectare,48800.0,Tonnes,106.087,Tonnes/Hectare,401.0,106.08695652173913,False
+216791,2010-2011,West Bengal,19,Uttar Dinajpur,311,Sugarcane,401.0,Sugar,Whole Year,966.0,Hectare,95561.0,Tonnes,98.924,Tonnes/Hectare,401.0,98.92443064182194,False
+234919,2011-2012,West Bengal,19,Uttar Dinajpur,311,Sugarcane,401.0,Sugar,Whole Year,966.0,Hectare,112437.0,Tonnes,116.394,Tonnes/Hectare,401.0,116.3944099378882,False
+252146,2012-2013,West Bengal,19,Uttar Dinajpur,311,Sugarcane,401.0,Sugar,Whole Year,958.0,Hectare,100176.0,Tonnes,104.568,Tonnes/Hectare,401.0,104.5678496868476,False
+270763,2013-2014,West Bengal,19,Uttar Dinajpur,311,Sugarcane,401.0,Sugar,Whole Year,13.0,Hectare,1331.0,Tonnes,102.385,Tonnes/Hectare,401.0,102.38461538461539,False
+288786,2014-2015,West Bengal,19,Uttar Dinajpur,311,Sugarcane,401.0,Sugar,Whole Year,425.0,Hectare,45481.0,Tonnes,107.014,Tonnes/Hectare,401.0,107.01411764705882,False
+307259,2015-2016,West Bengal,19,Uttar Dinajpur,311,Sugarcane,401.0,Sugar,Whole Year,624.0,Hectare,58448.0,Tonnes,93.667,Tonnes/Hectare,401.0,93.66666666666667,False
+327060,2016-2017,West Bengal,19,Uttar Dinajpur,311,Sugarcane,401.0,Sugar,Whole Year,829.0,Hectare,69976.0,Tonnes,84.41,Tonnes/Hectare,401.0,84.41013268998793,False
+347616,2017-2018,West Bengal,19,Uttar Dinajpur,311,Sugarcane,401.0,Sugar,Whole Year,1082.0,Hectare,99196.0,Tonnes,91.678,Tonnes/Hectare,401.0,91.67837338262477,False
+368360,2018-2019,West Bengal,19,Uttar Dinajpur,311,Sugarcane,401.0,Sugar,Whole Year,982.0,Hectare,86397.0,Tonnes,87.981,Tonnes/Hectare,401.0,87.98065173116089,False
+390546,2019-2020,West Bengal,19,Uttar Dinajpur,311,Sugarcane,401.0,Sugar,Whole Year,788.0,Hectare,63554.0,Tonnes,80.652,Tonnes/Hectare,401.0,80.65228426395939,False
+412154,2020-2021,West Bengal,19,Uttar Dinajpur,311,Sugarcane,401.0,Sugar,Whole Year,729.0,Hectare,63708.0,Tonnes,87.391,Tonnes/Hectare,401.0,87.39094650205762,False
+433504,2021-2022,West Bengal,19,Uttar Dinajpur,311,Sugarcane,401.0,Sugar,Whole Year,709.0,Hectare,63096.0,Tonnes,88.993,Tonnes/Hectare,401.0,88.99294781382228,False
+455353,2022-2023,West Bengal,19,Uttar Dinajpur,311,Sugarcane,401.0,Sugar,Whole Year,617.0,Hectare,51211.0,Tonnes,83.0,Tonnes/Hectare,401.0,83.0,False
