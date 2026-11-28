@@ -9,3 +9,6 @@ data/raw/
 data/processed/
 models/*.pkl
 models/*.joblib
+
+# Local runtime logs
+*.log
